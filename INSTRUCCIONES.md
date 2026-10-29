@@ -35,6 +35,11 @@ Mínimo 1 h entre vídeos. Lección de @fichalo.app: pasar a 12/día hundió el 
 8. **Instagram Reels (cuenta nueva @politizatehoy, NO @fichalo.app):** por cada vídeo añade a `publicaciones.json` `{"id", "fecha": <misma franja + 15 min>, "estado": "pendiente", "copy"}`. Lo publica GitHub Actions (`publicar.py`, cada 15 min) con la API oficial; solo funciona cuando la variable `PUBLICADOR_ACTIVO` = `si` (ver `CONFIGURAR_INSTAGRAM.md`). Revisa errores o retrasos de más de 1 h y anótalos.
 9. Actualiza `cola.json` (`estado: programado`, `fecha`, `copy`) y añade una línea a `registro.md` con lo programado y cualquier fallo. No inventes: si algo falla, anótalo y avisa a Nicks.
 
+## Marca (no cambiar)
+- Colores: azul marino `#14213D`, fosforito `#C8F53C`, papel `#F3EEE3`, rojo sello `#D7263D`, verde sello `#1F9D55`. Tipos: Fraunces 900 (titulares y logo), Courier Prime (cabecera, notas, sellos), Inter Tight (subtítulos).
+- Logo = el de la foto de perfil (`marca/perfil_v3.png`): círculo azul marino con "Politízate" en blanco y "hoy" en caja fosforito. Cierre de cada vídeo: elemento `logo` + sello "+ SEGUIR" (ver `guiones/slp_002_voto_correo.json`).
+- Cabecera con @politizatehoy, barra de cláusulas y sección final "La letra pequeña" en todos los vídeos.
+
 ## Reglas de contenido (obligatorias)
 - **Neutral:** sin opinión, sin pedir el voto. Mismo número de vídeos por partido y serie cada semana (cuenta en `cola.json` → `partidos`). Orden alfabético cuando salen varios.
 - **Cada dato con fuente oficial o dos medios.** La fuente va en `header.source` y en el primer comentario. Plazos y cómo votar: siempre contra la fuente oficial (Junta Electoral, BOE, INE, Correos).
