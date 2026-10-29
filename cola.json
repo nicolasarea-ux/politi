@@ -1,4 +1,27 @@
-{"videos": [
-  {"id": "slp_002_voto_correo", "serie": "como-votar", "tema": "Voto por correo: cómo pedirlo, plazos (19-N y 26-N) y que ya no puedes votar en persona", "partidos": [], "fuentes": ["https://www.elespanol.com/espana/20261005/puede-votar-pedir-voto-correo-generales-anticipadas/1003744408482_0.html", "https://es.euronews.com/2026/10/06/calendario-elecciones-generales-29n-fechas-clave-voto-correo-campana"], "estado": "listo"},
-  {"id": "slp_001_viudedad", "serie": "lo-que-cambia", "tema": "Pensión de viudedad para parejas no casadas con hijos (RDL 20-10-2026), pendiente de convalidación", "partidos": [], "fuentes": ["https://www.lamoncloa.gob.es/consejodeministros/resumenes/paginas/2026/201026-rueda-prensa-ministros.aspx"], "estado": "sin-voz", "nota": "rehacer voz con Andrew antes de publicar; comprobar si se convalidó el 12-N"}
-]}
+{
+ "videos": [
+  {
+   "id": "slp_002_voto_correo",
+   "serie": "como-votar",
+   "tema": "Voto por correo: cómo pedirlo, plazos (19-N y 26-N) y que ya no puedes votar en persona",
+   "partidos": [],
+   "fuentes": [
+    "https://www.elespanol.com/espana/20261005/puede-votar-pedir-voto-correo-generales-anticipadas/1003744408482_0.html",
+    "https://es.euronews.com/2026/10/06/calendario-elecciones-generales-29n-fechas-clave-voto-correo-campana"
+   ],
+   "estado": "programado",
+   "fecha_reels": "2026-10-29T21:45"
+  },
+  {
+   "id": "slp_001_viudedad",
+   "serie": "lo-que-cambia",
+   "tema": "Pensión de viudedad para parejas no casadas con hijos (RDL 20-10-2026), pendiente de convalidación",
+   "partidos": [],
+   "fuentes": [
+    "https://www.lamoncloa.gob.es/consejodeministros/resumenes/paginas/2026/201026-rueda-prensa-ministros.aspx"
+   ],
+   "estado": "sin-voz",
+   "nota": "rehacer voz con Andrew antes de publicar; comprobar si se convalidó el 12-N"
+  }
+ ]
+}
