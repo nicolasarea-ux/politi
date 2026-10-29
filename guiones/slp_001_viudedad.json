@@ -1,0 +1,237 @@
+{
+ "id": "slp_001_viudedad",
+ "brand": "Politízate Hoy",
+ "voice": "em_alex",
+ "speed": 1.12,
+ "clauses": 2,
+ "header": {
+  "tag": "PENSIONES · JUE 29 OCT",
+  "source": "Fuente: Consejo de Ministros, 20-10-2026"
+ },
+ "caption": "Viudedad sin estar casados: qué cambia y la letra pequeña que nadie te cuenta. #pensiones #viudedad #parejadehecho #seguridadsocial #españa #actualidad",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Tu pareja y tú no estáis casados? Esto te interesa.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Viudedad *sin* casarte",
+       "x": 50,
+       "y": 24,
+       "w": 860
+      },
+      {
+       "id": "rings",
+       "type": "icon",
+       "icon": "rings",
+       "x": 50,
+       "y": 40,
+       "w": 260,
+       "at": 4
+      }
+     ]
+    },
+    {
+     "text": "El Gobierno ha aprobado que las parejas con hijos en común puedan cobrar la pensión de viudedad sin estar casadas ni inscritas.",
+     "hide": [
+      "rings"
+     ],
+     "show": [
+      {
+       "id": "s1",
+       "type": "stamp",
+       "text": "APROBADO",
+       "color": "green",
+       "x": 50,
+       "y": 41,
+       "rot": -8,
+       "at": 2
+      },
+      {
+       "id": "n1",
+       "type": "note",
+       "text": "Real decreto-ley · Consejo de Ministros 20/10",
+       "x": 50,
+       "y": 52,
+       "at": 6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cláusula uno: los requisitos.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "Los *requisitos*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Tener hijos en común,",
+     "show": [
+      {
+       "id": "r1",
+       "type": "card",
+       "icon": "kids",
+       "text": "Hijos en común",
+       "check": true,
+       "x": 50,
+       "y": 33,
+       "w": 820
+      }
+     ]
+    },
+    {
+     "text": "y llevar al menos dos años viviendo juntos, sin interrupciones.",
+     "show": [
+      {
+       "id": "r2",
+       "type": "card",
+       "icon": "house",
+       "text": "2 años de convivencia",
+       "check": true,
+       "x": 50,
+       "y": 42,
+       "w": 820,
+       "at": 3
+      },
+      {
+       "id": "n2",
+       "type": "note",
+       "text": "Ininterrumpida. Sirve el empadronamiento.",
+       "x": 50,
+       "y": 50.5,
+       "at": 7
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Cláusula dos: ¿y si tu pareja ya falleció?",
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "¿Y si *ya* pasó?",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Si en su día la reclamaste y te la denegaron, tendrás un año para volver a pedirla.",
+     "show": [
+      {
+       "id": "d1",
+       "type": "card",
+       "icon": "doc",
+       "text": "Te la denegaron",
+       "x": 50,
+       "y": 34,
+       "w": 820,
+       "at": 7
+      },
+      {
+       "id": "d2",
+       "type": "stamp",
+       "text": "1 AÑO PARA PEDIRLA",
+       "color": "green",
+       "x": 50,
+       "y": 45,
+       "rot": -5,
+       "at": 10
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y ahora, la letra pequeña.",
+     "show": [
+      {
+       "id": "h4",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Es un decreto ley. Si la Diputación Permanente del Congreso no lo convalida en 30|treinta días, decae.",
+     "show": [
+      {
+       "id": "fp",
+       "type": "fineprint",
+       "small": "* Sujeto a convalidación por la Diputación Permanente del Congreso en el plazo de 30 días. Si no se convalida, decae.",
+       "big": "Si no se convalida,\n*decae*",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0
+      },
+      {
+       "id": "s4",
+       "type": "stamp",
+       "text": "PENDIENTE",
+       "color": "red",
+       "x": 50,
+       "y": 53,
+       "rot": 6,
+       "at": 16
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Síguenos y te contamos si sale adelante.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 28,
+       "w": 520
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 48,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

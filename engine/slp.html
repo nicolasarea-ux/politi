@@ -1,0 +1,126 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:F;font-weight:900;src:url(../fonts/fontsource-fraunces-5.1.0/package/files/fraunces-latin-900-normal.woff2)}
+@font-face{font-family:T;font-weight:700;src:url(../fonts/fontsource-courier-prime-5.1.0/package/files/courier-prime-latin-700-normal.woff2)}
+@font-face{font-family:I;font-weight:800;src:url(../fonts/fontsource-inter-tight-5.1.0/package/files/inter-tight-latin-800-normal.woff2)}
+@font-face{font-family:I;font-weight:900;src:url(../fonts/fontsource-inter-tight-5.1.0/package/files/inter-tight-latin-900-normal.woff2)}
+:root{--ink:#14213D;--paper:#F3EEE3;--card:#FFFDF8;--mark:#C8F53C;--red:#D7263D;--green:#1F9D55;--rule:rgba(20,33,61,.06)}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden;background:var(--paper);color:var(--ink)}
+#stage{position:absolute;inset:0;overflow:hidden;
+ background:repeating-linear-gradient(0deg,transparent 0 63px,var(--rule) 63px 65px),
+ radial-gradient(ellipse 80% 60% at 50% 35%,#FAF7F0 0%,rgba(250,247,240,0) 70%),var(--paper)}
+#margin{position:absolute;top:0;bottom:0;left:72px;width:10px;border-left:3px solid rgba(215,38,61,.35);border-right:3px solid rgba(215,38,61,.35)}
+/* cabecera */
+#hdr{position:absolute;top:96px;left:110px;right:70px;display:flex;align-items:center;justify-content:space-between}
+#htag{font:700 25px T;letter-spacing:.5px;border:3px solid var(--ink);padding:6px 14px 4px}
+#hand{font:700 25px T;display:flex;align-items:center;gap:12px}
+#src{position:absolute;top:156px;left:110px;font:700 22px T;opacity:.6}
+#clauses{position:absolute;top:206px;left:110px;right:70px;display:flex;gap:10px;align-items:center}
+.cl{flex:1;height:34px;border:3px solid var(--ink);display:flex;align-items:center;justify-content:center;font:700 20px T;position:relative;overflow:hidden}
+.cl i{position:absolute;inset:0;background:var(--mark);transform-origin:left;transform:scaleX(0)}
+.cl b{position:relative}
+/* elementos */
+.el{position:absolute;transform-origin:50% 50%;will-change:transform,opacity}
+.headline{font:900 104px/1.0 F;text-align:center;letter-spacing:-2px}
+.mk{position:relative;display:inline-block;padding:0 10px;isolation:isolate}
+.mk i{position:absolute;left:0;right:0;bottom:6px;height:58%;background:var(--mark);transform-origin:left;transform:scaleX(0) skewX(-8deg);border-radius:6px 14px 8px 12px;z-index:-1}
+.card{background:var(--card);border:4px solid var(--ink);border-radius:12px;box-shadow:0 14px 0 -4px rgba(20,33,61,.14);display:flex;align-items:center;gap:30px;padding:26px 34px;font:800 54px I;position:relative}
+.chk{margin-left:auto;width:76px;height:76px;border-radius:50%;background:var(--green);display:flex;align-items:center;justify-content:center;transform:scale(0)}
+.stamp{font:700 64px T;letter-spacing:3px;padding:12px 28px 8px;border:7px solid currentColor;outline:3px solid currentColor;outline-offset:5px;white-space:nowrap;background:rgba(255,253,248,.55)}
+.note{font:700 30px T;white-space:nowrap}
+.fine{background:var(--card);border:4px solid var(--ink);border-radius:12px;padding:30px 36px;font:700 27px/1.35 T;position:relative;overflow:visible;min-height:230px}
+.lens{position:absolute;width:600px;height:330px;border-radius:165px;border:14px solid var(--ink);background:var(--card);display:flex;align-items:center;justify-content:center;text-align:center;font:900 62px/1.02 F;letter-spacing:-1px;padding:0 40px;box-shadow:0 18px 0 -6px rgba(20,33,61,.18)}
+.lens:after{content:"";position:absolute;right:-74px;bottom:-56px;width:110px;height:30px;background:var(--ink);border-radius:15px;transform:rotate(38deg)}
+#caps{position:absolute;top:1330px;left:40px;right:40px;text-align:center;font:900 60px/1.25 I;white-space:nowrap}
+#caps span{display:inline-block;margin:0 5px;padding:0 10px 4px;position:relative}
+#caps .now{background:var(--mark);border-radius:6px 14px 8px 12px;transform:rotate(-1deg)}
+#caps .fut{opacity:.22}
+#prog{position:absolute;top:252px;left:110px;right:70px;height:4px;background:rgba(20,33,61,.1)}
+#prog i{position:absolute;left:0;top:0;bottom:0;background:var(--ink)}
+</style></head>
+<body><div id="stage"><div id="margin"></div>
+<div id="hdr"><div id="htag"></div><div id="hand"><span id="handle">@politizatehoy</span><span id="ast"></span></div></div>
+<div id="src"></div><div id="clauses"></div><div id="prog"><i></i></div>
+<div id="els"></div><div id="caps"></div></div>
+<script>
+const INK='#14213D',COL={red:'#D7263D',green:'#1F9D55',ink:'#14213D'};
+const AST=(s,c=INK)=>`<svg width="${s}" height="${s}" viewBox="-50 -50 100 100">${[0,60,120].map(a=>`<rect x="-9" y="-46" width="18" height="92" rx="9" fill="${c}" transform="rotate(${a})"/>`).join('')}</svg>`;
+const ICO={
+envelope:`<svg viewBox="0 0 120 90"><rect x="6" y="6" width="108" height="78" rx="8" fill="#FFFDF8" stroke="${INK}" stroke-width="7"/><path d="M8 12 L60 52 L112 12" fill="none" stroke="${INK}" stroke-width="7" stroke-linejoin="round"/></svg>`,
+calendar:`<svg viewBox="0 0 100 100"><rect x="10" y="18" width="80" height="72" rx="8" fill="none" stroke="${INK}" stroke-width="7"/><path d="M10 40 H90" stroke="${INK}" stroke-width="7"/><path d="M30 8 V26 M70 8 V26" stroke="${INK}" stroke-width="7" stroke-linecap="round"/><rect x="28" y="54" width="16" height="16" fill="${INK}"/></svg>`,
+laptop:`<svg viewBox="0 0 100 100"><rect x="16" y="20" width="68" height="46" rx="5" fill="none" stroke="${INK}" stroke-width="7"/><path d="M6 80 H94" stroke="${INK}" stroke-width="8" stroke-linecap="round"/><path d="M40 43 L48 51 L62 35" fill="none" stroke="${INK}" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/></svg>`,
+person:`<svg viewBox="0 0 100 100"><circle cx="50" cy="28" r="16" fill="none" stroke="${INK}" stroke-width="7"/><path d="M20 92 Q20 56 50 56 Q80 56 80 92" fill="none" stroke="${INK}" stroke-width="7" stroke-linecap="round"/><path d="M14 14 L86 86" stroke="${COL.red}" stroke-width="9" stroke-linecap="round"/></svg>`,
+rings:`<svg viewBox="0 0 160 110"><circle cx="58" cy="60" r="38" fill="none" stroke="${INK}" stroke-width="9"/><circle cx="102" cy="60" r="38" fill="none" stroke="${INK}" stroke-width="9"/><path d="M40 12 L58 22 L76 12" fill="none" stroke="${COL.red}" stroke-width="7" stroke-linecap="round"/><path d="M22 104 L138 6" stroke="${COL.red}" stroke-width="10" stroke-linecap="round"/></svg>`,
+kids:`<svg viewBox="0 0 100 100"><circle cx="32" cy="30" r="13" fill="none" stroke="${INK}" stroke-width="7"/><circle cx="70" cy="38" r="10" fill="none" stroke="${INK}" stroke-width="7"/><path d="M12 88 Q12 52 32 52 Q52 52 52 88" fill="none" stroke="${INK}" stroke-width="7" stroke-linecap="round"/><path d="M54 88 Q54 58 70 58 Q86 58 86 88" fill="none" stroke="${INK}" stroke-width="7" stroke-linecap="round"/></svg>`,
+house:`<svg viewBox="0 0 100 100"><path d="M12 48 L50 14 L88 48" fill="none" stroke="${INK}" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><path d="M22 42 V86 H78 V42" fill="none" stroke="${INK}" stroke-width="7" stroke-linejoin="round"/><rect x="42" y="58" width="16" height="28" fill="${INK}"/></svg>`,
+doc:`<svg viewBox="0 0 100 100"><path d="M20 8 H62 L82 28 V92 H20 Z" fill="none" stroke="${INK}" stroke-width="7" stroke-linejoin="round"/><path d="M32 44 H70 M32 58 H70 M32 72 H56" stroke="${INK}" stroke-width="6" stroke-linecap="round"/><path d="M58 52 L82 76 M82 52 L58 76" stroke="${COL.red}" stroke-width="9" stroke-linecap="round"/></svg>`
+};
+const mk=s=>s.replace(/\n/g,'<br>').replace(/\*(.+?)\*/g,'<span class="mk"><i></i>$1</span>');
+const R={
+headline:e=>`<div class="headline" style="width:${e.w}px">${mk(e.text)}</div>`,
+icon:e=>`<div style="width:${e.w}px">${ICO[e.icon]}</div>`,
+card:e=>`<div class="card" style="width:${e.w}px"><div style="width:96px;flex:none">${ICO[e.icon]}</div><div>${e.text}</div>${e.check?`<div class="chk"><svg width="44" viewBox="0 0 40 40"><path d="M8 21 L17 30 L33 11" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></svg></div>`:''}</div>`,
+stamp:e=>`<div class="stamp" style="color:${COL[e.color||'red']}">${e.text}</div>`,
+note:e=>`<div class="note">→ <span class="ty" data-t="${e.text}">${e.text}</span></div>`,
+fineprint:e=>`<div class="fine" style="width:${e.w}px">${e.small}<div class="lens"><div>${mk(e.big)}</div></div></div>`,
+logo:e=>`<div style="width:${e.w}px;text-align:center"><div style="position:relative;display:inline-block"><div style="position:absolute;inset:18px;background:var(--mark);border-radius:46% 54% 40% 60%"></div><div class="lg" style="position:relative">${AST(220)}</div></div>
+ <div style="font:900 84px/1 F;letter-spacing:-2px;margin-top:20px">${(DATA_BRAND||"Politízate Hoy").replace(" ","<br>")}</div><div style="font:700 28px T;margin-top:14px">* lo que no te cuentan</div></div>`
+};
+let D,lastS=-1;
+const clamp=(x,a=0,b=1)=>Math.min(Math.max(x,a),b);
+const back=p=>{p=clamp(p);const c=1.7;return 1+(c+1)*Math.pow(p-1,3)+c*Math.pow(p-1,2)};
+const outQ=p=>1-Math.pow(1-clamp(p),3);
+let DATA_BRAND='Politízate Hoy';
+function init(d){D=d;DATA_BRAND=d.brand||DATA_BRAND;
+ document.getElementById('htag').textContent=d.header.tag||'';
+ document.getElementById('src').textContent=d.header.source||'';
+ document.getElementById('ast').innerHTML=AST(44);
+ const cb=document.getElementById('clauses');
+ let h='';for(let i=1;i<=d.clauses;i++)h+=`<div class="cl" data-c="${i}"><i></i><b>CLÁUSULA ${i}</b></div>`;
+ h+=`<div class="cl" data-c="-1" style="flex:1.3"><i></i><b>LETRA PEQUEÑA*</b></div>`;cb.innerHTML=h;
+ const box=document.getElementById('els');
+ d.scenes.forEach((s,si)=>s.segments.forEach(g=>g.show.forEach(e=>{
+  const n=document.createElement('div');n.className='el';n.innerHTML=R[e.type](e);n.style.opacity=0;box.appendChild(n);e.n=n;
+  e.hideT=(si===d.scenes.length-1)?d.duration+1:s.t1;s.segments.forEach(g2=>{if(g2.hide.includes(e.id)&&g2.t0>e.t)e.hideT=g2.t0});
+ })));
+ return document.fonts.ready.then(()=>{d.scenes.forEach(s=>s.segments.forEach(g=>g.show.forEach(e=>{const r=e.n.firstElementChild.getBoundingClientRect();e.W=r.width;e.H=r.height})));return 1});
+}
+let stampKick=0;
+function render(t){
+ const sc=D.scenes;let si=sc.findIndex(s=>t<s.t1);if(si<0)si=sc.length-1;const S=sc[si];
+ // cláusulas
+ const order=[];document.querySelectorAll('.cl').forEach(c=>order.push(+c.dataset.c));
+ document.querySelectorAll('.cl').forEach(c=>{const ci=+c.dataset.c;
+  const sIdx=sc.findIndex(s=>s.clause===ci);let f=0;
+  if(sIdx>=0){const s=sc[sIdx];f=clamp((t-s.t0)/(s.t1-s.t0));}
+  c.querySelector('i').style.transform=`scaleX(${f})`;});
+ document.querySelector('#prog i').style.width=clamp(t/D.duration)*100+'%';
+ // asterisco esquina
+ let kick=0;sc.forEach(s=>s.segments.forEach(g=>g.show.forEach(e=>{if(e.type==='stamp'&&t>=e.t&&t<e.t+0.4)kick=Math.max(kick,1-(t-e.t)/0.4)})));
+ document.getElementById('ast').style.transform=`rotate(${t*40}deg) scale(${1+kick*0.5})`;
+ // elementos
+ sc.forEach(s=>s.segments.forEach(g=>g.show.forEach(e=>{
+  const n=e.n;if(t<e.t||t>e.hideT+0.3){n.style.opacity=0;return}
+  const a=t-e.t, out=t>e.hideT?outQ((t-e.hideT)/0.3):0;
+  let sc1=1,dy=0,op=1,rot=e.rot||0;
+  if(e.type==='stamp'){sc1=a<0.16?1.9-0.9*(a/0.16):1+0.04*Math.exp(-(a-0.16)*14)*Math.sin((a-0.16)*60);op=clamp(a/0.08)}
+  else if(e.type==='headline'||e.type==='note'){dy=(1-outQ(a/0.35))*40;op=clamp(a/0.25)}
+  else{sc1=back(a/0.45);op=clamp(a/0.1);rot+=(1-outQ(a/0.5))*-4}
+  dy-=out*70;op*=1-out;
+  const x=1080*e.x/100-e.W/2,y=1920*e.y/100-e.H/2+dy+Math.sin(t*1.8+e.x+e.y)*2;
+  n.style.opacity=op;n.style.transform=`translate(${x}px,${y}px) rotate(${rot}deg) scale(${Math.max(sc1,0)})`;
+  n.querySelectorAll('.mk i').forEach(m=>m.style.transform=`scaleX(${outQ((a-0.3)/0.45)}) skewX(-8deg)`);
+  const ck=n.querySelector('.chk');if(ck)ck.style.transform=`scale(${back((a-0.45)/0.35)})`;
+  const ty=n.querySelector('.ty');if(ty){const s2=ty.dataset.t;ty.textContent=s2.slice(0,Math.floor(clamp(a/0.9)*s2.length))}
+  const ln=n.querySelector('.lens');if(ln){const p=outQ((a-0.9)/0.7);ln.style.left=(e.W-600)/2+(1-p)*700+'px';ln.style.top='-50px';ln.style.opacity=clamp((a-0.9)/0.15);ln.querySelectorAll('.mk i').forEach(m=>m.style.transform=`scaleX(${outQ((a-1.7)/0.45)}) skewX(-8deg)`)}
+  const lg=n.querySelector('.lg');if(lg)lg.style.transform=`rotate(${a*60}deg)`;
+ })));
+ // subtítulos
+ let chunks=[],cur=[];
+ S.segments.forEach(g=>g.words.forEach((w,i)=>{cur.push(w);if(cur.length>=4||cur.map(x=>x.w).join(' ').length>=19||/[,.:;!?]$/.test(w.w)||i===g.words.length-1){chunks.push(cur);cur=[]}}));
+ const ch=chunks.find(c=>t<c[c.length-1].t1+0.05);const cp=document.getElementById('caps');
+ cp.innerHTML=(!ch||t<S.t0)?'':ch.map(w=>`<span class="${t>=w.t0&&t<w.t1?'now':(t<w.t0?'fut':'')}">${w.w}</span>`).join('');
+}
+</script></body></html>

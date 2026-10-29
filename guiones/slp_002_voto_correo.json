@@ -1,0 +1,236 @@
+{
+ "id": "slp_002_voto_correo",
+ "brand": "Politízate Hoy",
+ "voice": "em_alex",
+ "speed": 1.12,
+ "clauses": 2,
+ "header": {
+  "tag": "ELECCIONES 29-N · JUE 29 OCT",
+  "source": "Fuente: LOREG · Correos · calendario electoral 29-N"
+ },
+ "caption": "Votar por correo el 29-N: plazos, cómo pedirlo y la letra pequeña que casi nadie sabe 🗳️ #elecciones #29N #votoporcorreo #eleccionesgenerales #españa #politica",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿No vas a estar el 29|veintinueve de noviembre? Puedes votar por correo.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Votar *por correo*",
+       "x": 50,
+       "y": 24,
+       "w": 860
+      },
+      {
+       "id": "env",
+       "type": "icon",
+       "icon": "envelope",
+       "x": 50,
+       "y": 39,
+       "w": 280,
+       "at": 6
+      }
+     ]
+    },
+    {
+     "text": "Pero ojo con la letra pequeña.",
+     "show": [
+      {
+       "id": "ojo",
+       "type": "stamp",
+       "text": "OJO",
+       "color": "red",
+       "x": 64,
+       "y": 46,
+       "rot": 10,
+       "at": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cláusula uno: cómo pedirlo.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "Cómo *pedirlo*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "En cualquier oficina de Correos, con tu DNI.",
+     "show": [
+      {
+       "id": "c1",
+       "type": "card",
+       "icon": "envelope",
+       "text": "Correos + DNI",
+       "check": true,
+       "x": 50,
+       "y": 33,
+       "w": 820
+      }
+     ]
+    },
+    {
+     "text": "O por internet, con certificado digital.",
+     "show": [
+      {
+       "id": "c2",
+       "type": "card",
+       "icon": "laptop",
+       "text": "Online + certificado",
+       "check": true,
+       "x": 50,
+       "y": 42,
+       "w": 820,
+       "at": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Cláusula dos: los plazos.",
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "Los *plazos*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Puedes pedirlo hasta el jueves 19|diecinueve de noviembre.",
+     "show": [
+      {
+       "id": "p1",
+       "type": "card",
+       "icon": "calendar",
+       "text": "Pedirlo: hasta el 19 NOV",
+       "x": 50,
+       "y": 33,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Y enviarlo hasta el jueves 26.|veintiséis. Sin pagar sello.",
+     "show": [
+      {
+       "id": "p2",
+       "type": "card",
+       "icon": "calendar",
+       "text": "Enviarlo: hasta el 26 NOV",
+       "x": 50,
+       "y": 42,
+       "w": 860
+      },
+      {
+       "id": "p3",
+       "type": "stamp",
+       "text": "SIN SELLO · GRATIS",
+       "color": "green",
+       "x": 50,
+       "y": 51,
+       "rot": -4,
+       "at": 5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña:",
+     "show": [
+      {
+       "id": "h4",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "en cuanto lo pides, el censo te marca, y ya no puedes votar en persona en tu colegio.",
+     "show": [
+      {
+       "id": "fp",
+       "type": "fineprint",
+       "small": "* Al solicitar el voto por correo, el censo electoral hace la anotación correspondiente para que el elector no pueda votar de forma presencial en su mesa.",
+       "big": "Ya no puedes votar\n*en persona*",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Aunque cambies de planes.",
+     "show": [
+      {
+       "id": "s4",
+       "type": "stamp",
+       "text": "SIN MARCHA ATRÁS",
+       "color": "red",
+       "x": 50,
+       "y": 53,
+       "rot": 5,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Guárdalo y síguenos: cada día, la letra pequeña de estas elecciones.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 28,
+       "w": 520
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 48,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
