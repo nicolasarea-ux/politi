@@ -20,6 +20,9 @@ Datos fijos
 
 Mínimo 1 h entre vídeos. Lección de @fichalo.app: pasar a 12/día hundió el alcance y Meta bloqueó la API. Si las visitas medias por vídeo caen más de un 30 % al subir volumen, baja al ritmo anterior y anótalo.
 
+## Pasada diaria: 10:31 (hora a la que Nicks garantiza el ordenador encendido)
+Hay **una sola pasada al día**, a las 10:31. Tiene que dejar hechos y programados TODOS los vídeos de hoy (franjas después de las 10:31), mañana y pasado, incluidas las franjas de mañana antes de las 10:31. Lo que pase después de la pasada se cubre al día siguiente: prioriza lo de las últimas 24 h.
+
 ## Radar de actualidad (lo primero en CADA pasada)
 Nicks quiere que el canal vaya **en tiempo real**: el plan es la base, pero manda lo que esté pasando y tenga gancho en internet.
 1. Busca (WebSearch, modo `extended` para lo de las últimas horas) qué ha pasado desde la última pasada (mira la hora en `registro.md`): "elecciones 29N última hora", "campaña 29N hoy", cada candidato por su nombre (Sánchez, Feijóo, Abascal, Colau, Montero y los territoriales), "encuesta CIS 29N", "debate electoral", "Jordi Wild entrevista", "polémica", "bulo elecciones" (Maldita, Newtral). Abre las noticias.
@@ -29,7 +32,7 @@ Nicks quiere que el canal vaya **en tiempo real**: el plan es la base, pero mand
 5. Citas solo de una fuente que puedas enlazar (la transcripción, el vídeo original o medios que la recojan literal). Si un medio solo lo resume, dilo así ("según X"), nunca entre comillas.
 6. Anota en `registro.md` los temas valorados y qué se hizo con cada uno.
 
-Momentos ya conocidos: **13-N**, Jordi Wild publica en The Wild Project sus entrevistas a Sánchez, Feijóo, Colau y Abascal (60–90 min cada una, con dos verificadores). Ese día y el 14: un vídeo por entrevista ("¿Qué ha dicho X en The Wild Project?") más uno comparando lo que dijo cada uno sobre el mismo tema.
+Momentos ya conocidos: **13-N**, Jordi Wild publica en The Wild Project sus entrevistas a Sánchez, Feijóo, Colau y Abascal (60–90 min cada una, con dos verificadores). Como la pasada es a las 10:31, normalmente saldrán el 14: un vídeo por entrevista ("¿Qué ha dicho X en The Wild Project?") más uno comparando lo que dijo cada uno sobre el mismo tema.
 
 ## Pasos
 1. `git pull`. Lee `cola.json` y `registro.md`. Calcula qué franjas de hoy (las que aún no han pasado), mañana y pasado están vacías.
