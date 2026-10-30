@@ -29,6 +29,14 @@ Hay **una sola pasada al día**, a las 10:31. Tiene que dejar hechos y programad
 - En cada pasada, las franjas de hoy que tengan un atemporal programado se **sustituyen por actualidad** si el radar da temas con gancho ≥ 4. El atemporal sustituido vuelve a `cola.json` como `reserva` (se reutiliza otro día) y se quita de `publicaciones.json`.
 - Un vídeo de actualidad que no llegó a publicarse y tiene más de 24 h se marca `caducado` y no se publica.
 
+**Reparto diario (Nicks, 30-O): 2/3 actualidad, 1/3 atemporal.** Con 3/día: 13:30 actualidad · 19:30 atemporal · 22:00 actualidad (la más fuerte del día). Con 5–6/día se mantiene la proporción (las franjas de mañana y tarde-noche para actualidad, una o dos intermedias para atemporales). Si hay un evento muy grande (p. ej. entrevistas de Jordi Wild, un debate), todas las franjas del día pueden ser de actualidad.
+
+**Qué prepara cada pasada de las 10:31:**
+1. Actualidad de HOY para sus franjas de actualidad (sustituyendo los atemporales de relleno que hubiera).
+2. El atemporal de HOY ya debería estar hecho de antes; si no, se hace.
+3. MAÑANA y PASADO: todas sus franjas con atemporales (los de las franjas de actualidad son relleno de seguridad por si el ordenador está apagado; la pasada de ese día los cambia por noticias y vuelven a `reserva`).
+4. Mantén siempre al menos 6 atemporales en `reserva` listos para reutilizar.
+
 ## Radar de actualidad (lo primero en CADA pasada)
 Nicks quiere que el canal vaya **en tiempo real**: el plan es la base, pero manda lo que esté pasando y tenga gancho en internet.
 1. Busca (WebSearch, modo `extended` para lo de las últimas horas) qué ha pasado desde la última pasada (mira la hora en `registro.md`): "elecciones 29N última hora", "campaña 29N hoy", cada candidato por su nombre (Sánchez, Feijóo, Abascal, Colau, Montero y los territoriales), "encuesta CIS 29N", "debate electoral", "Jordi Wild entrevista", "polémica", "bulo elecciones" (Maldita, Newtral). Abre las noticias.
