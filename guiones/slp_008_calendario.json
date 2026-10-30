@@ -208,5 +208,9 @@
     }
    ]
   }
- ]
+ ],
+ "portada": {
+  "icono": "calendar",
+  "sub": "Las fechas que no te puedes saltar"
+ }
 }

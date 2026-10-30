@@ -3,52 +3,220 @@
  "brand": "Politízate Hoy",
  "tono": "serio",
  "clauses": 2,
- "clauseLabels": ["LA LÍNEA", "TU BILLETE", "OJO"],
- "header": {"tag": "MADRID-ANDALUCÍA · VIE 30 OCT", "source": "Fuentes: Renfe, Ouigo, Iryo, Iberia vía eldiario.es, Infobae · 29-10"},
+ "clauseLabels": [
+  "LA LÍNEA",
+  "TU BILLETE",
+  "OJO"
+ ],
+ "header": {
+  "tag": "MADRID-ANDALUCÍA · VIE 30 OCT",
+  "source": "Fuentes: Renfe, Ouigo, Iryo, Iberia vía eldiario.es, Infobae · 29-10"
+ },
  "caption": "¿Ibas a viajar en tren entre Madrid y Andalucía? Esto es lo que pasa con la línea tras el accidente de Urda y qué hacer con tu billete.\n¿Te ha tocado? Cuéntanos 👇\n\nFuentes: Renfe, Ouigo, Iryo e Iberia (vía eldiario.es e Infobae, 29-10). Comprueba siempre con tu compañía.\n\n#Renfe #AVE #Iryo #Ouigo #trenes #Andalucía",
  "scenes": [
-  {"clause": 0, "segments": [
-   {"text": "¿Ibas a viajar en tren entre Madrid y Andalucía? Esto te interesa.",
-    "show": [
-     {"id": "h1", "type": "headline", "text": "Madrid-Andalucía: *¿y tu tren?*", "x": 50, "y": 24, "w": 900},
-     {"id": "t1", "type": "icon", "icon": "train", "x": 50, "y": 40, "w": 220, "at": 6}
-    ]}
-  ]},
-  {"clause": 1, "segments": [
-   {"text": "Tras el accidente de Urda, la alta velocidad entre Madrid y Andalucía sigue cortada, y no hay fecha para reabrirla.",
-    "show": [
-     {"id": "h2", "type": "headline", "text": "La *línea*", "x": 50, "y": 22, "w": 860},
-     {"id": "c1", "type": "card", "icon": "train", "text": "Alta velocidad cortada", "x": 50, "y": 33, "w": 820, "at": 2},
-     {"id": "c2", "type": "card", "icon": "calendar", "text": "Sin fecha de reapertura", "x": 50, "y": 42, "w": 820, "at": 14}
-    ]},
-   {"text": "Renfe dice que su plan de transporte alternativo no podrá empezar antes del martes tres de noviembre.",
-    "show": [{"id": "c3", "type": "card", "icon": "clock", "text": "Plan de Renfe: desde mar 3-N", "x": 50, "y": 51, "w": 820, "at": 4}]}
-  ]},
-  {"clause": 2, "segments": [
-   {"text": "Si tu billete es de Renfe, puedes cambiarlo o anularlo gratis.",
-    "show": [
-     {"id": "h3", "type": "headline", "text": "Tu *billete*", "x": 50, "y": 22, "w": 860},
-     {"id": "b1", "type": "card", "icon": "doc", "text": "Renfe: cambio o anulación gratis", "x": 50, "y": 33, "w": 860, "at": 3}
-    ]},
-   {"text": "Ouigo ha cancelado sus trenes al menos hasta el lunes dos, y devuelve el dinero. E Iryo también reembolsa los billetes.",
-    "show": [
-     {"id": "b2", "type": "card", "icon": "envelope", "text": "Ouigo: cancelado hasta lun 2-N", "x": 50, "y": 42, "w": 860, "at": 1},
-     {"id": "b3", "type": "card", "icon": "phone", "text": "Iryo: reembolso · 900 001 403", "x": 50, "y": 51, "w": 860, "at": 12}
-    ]}
-  ]},
-  {"clause": -1, "segments": [
-   {"text": "Y un detalle: Iberia ha puesto un precio máximo de noventa y nueve euros a sus vuelos con Andalucía hasta el ocho de noviembre.",
-    "show": [
-     {"id": "h4", "type": "headline", "text": "*Ojo* a esto", "x": 50, "y": 22, "w": 860},
-     {"id": "p1", "type": "card", "icon": "plane", "text": "Iberia: máx. 99 € hasta el 8-N", "x": 50, "y": 34, "w": 860, "at": 2},
-     {"id": "p2", "type": "note", "text": "Clase turista, por trayecto", "x": 50, "y": 41.5, "at": 10}
-    ]},
-   {"text": "Antes de ir a la estación, compruébalo siempre en la web de tu compañía.",
-    "show": [{"id": "p3", "type": "card", "icon": "laptop", "text": "Compruébalo antes de ir", "x": 50, "y": 49, "w": 860, "at": 1}]}
-  ]},
-  {"clause": 0, "segments": [
-   {"text": "Guárdalo y compártelo con quien tenga que viajar.",
-    "show": [{"id": "logo", "type": "logo", "x": 50, "y": 33, "w": 460}]}
-  ]}
- ]
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Ibas a viajar en tren entre Madrid y Andalucía? Esto te interesa.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Madrid-Andalucía: *¿y tu tren?*",
+       "x": 50,
+       "y": 24,
+       "w": 900
+      },
+      {
+       "id": "t1",
+       "type": "icon",
+       "icon": "train",
+       "x": 50,
+       "y": 40,
+       "w": 220,
+       "at": 6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Tras el accidente de Urda, la alta velocidad entre Madrid y Andalucía sigue cortada, y no hay fecha para reabrirla.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "La *línea*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "icon": "train",
+       "text": "Alta velocidad cortada",
+       "x": 50,
+       "y": 33,
+       "w": 820,
+       "at": 2
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "icon": "calendar",
+       "text": "Sin fecha de reapertura",
+       "x": 50,
+       "y": 42,
+       "w": 820,
+       "at": 14
+      }
+     ]
+    },
+    {
+     "text": "Renfe dice que su plan de transporte alternativo no podrá empezar antes del martes tres de noviembre.",
+     "show": [
+      {
+       "id": "c3",
+       "type": "card",
+       "icon": "clock",
+       "text": "Plan de Renfe: desde mar 3-N",
+       "x": 50,
+       "y": 51,
+       "w": 820,
+       "at": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Si tu billete es de Renfe, puedes cambiarlo o anularlo gratis.",
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "Tu *billete*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      },
+      {
+       "id": "b1",
+       "type": "card",
+       "icon": "doc",
+       "text": "Renfe: cambio o anulación gratis",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 3
+      }
+     ]
+    },
+    {
+     "text": "Ouigo ha cancelado sus trenes al menos hasta el lunes dos, y devuelve el dinero. E Iryo también reembolsa los billetes.",
+     "show": [
+      {
+       "id": "b2",
+       "type": "card",
+       "icon": "envelope",
+       "text": "Ouigo: cancelado hasta lun 2-N",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 1
+      },
+      {
+       "id": "b3",
+       "type": "card",
+       "icon": "phone",
+       "text": "Iryo: reembolso · 900 001 403",
+       "x": 50,
+       "y": 51,
+       "w": 860,
+       "at": 12
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y un detalle: Iberia ha puesto un precio máximo de noventa y nueve euros a sus vuelos con Andalucía hasta el ocho de noviembre.",
+     "show": [
+      {
+       "id": "h4",
+       "type": "headline",
+       "text": "*Ojo* a esto",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      },
+      {
+       "id": "p1",
+       "type": "card",
+       "icon": "plane",
+       "text": "Iberia: máx. 99 € hasta el 8-N",
+       "x": 50,
+       "y": 34,
+       "w": 860,
+       "at": 2
+      },
+      {
+       "id": "p2",
+       "type": "note",
+       "text": "Clase turista, por trayecto",
+       "x": 50,
+       "y": 41.5,
+       "at": 10
+      }
+     ]
+    },
+    {
+     "text": "Antes de ir a la estación, compruébalo siempre en la web de tu compañía.",
+     "show": [
+      {
+       "id": "p3",
+       "type": "card",
+       "icon": "laptop",
+       "text": "Compruébalo antes de ir",
+       "x": 50,
+       "y": 49,
+       "w": 860,
+       "at": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Guárdalo y compártelo con quien tenga que viajar.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "sub": "Qué hacer con tu billete"
+ }
 }

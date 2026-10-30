@@ -232,5 +232,9 @@
     }
    ]
   }
- ]
+ ],
+ "portada": {
+  "icono": "envelope",
+  "sub": "Plazos y la letra pequeña"
+ }
 }
