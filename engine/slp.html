@@ -128,4 +128,37 @@ function render(t){
  const ch=chunks.find(c=>t<c[c.length-1].t1+0.05);const cp=document.getElementById('caps');
  cp.innerHTML=(!ch||t<S.t0)?'':ch.map(w=>`<span class="${t>=w.t0&&t<w.t1?'now':(t<w.t0?'fut':'')}">${w.w}</span>`).join('');
 }
-</script></body></html>
+</script>
+<style>
+#cover{position:absolute;inset:0;display:none;background:repeating-linear-gradient(0deg,transparent 0 63px,var(--rule) 63px 65px),var(--paper)}
+#cover .safe{position:absolute;top:250px;bottom:250px;left:60px;right:60px;display:flex;flex-direction:column;align-items:center;justify-content:space-between}
+#cover .top{display:flex;flex-direction:column;align-items:center;gap:34px}
+#cover .ser{font:700 42px T;letter-spacing:3px;border:5px solid var(--ink);padding:12px 28px 8px;background:var(--card);transform:rotate(-2deg)}
+#cover .tit{text-align:center;font:900 156px/0.98 F;letter-spacing:-5px}
+#cover .tit .mk i{transform:scaleX(1) skewX(-8deg)!important}
+#cover .vis{width:470px;height:470px;border-radius:46% 54% 42% 58%;background:var(--mark);display:flex;align-items:center;justify-content:center;border:7px solid var(--ink);box-shadow:0 16px 0 -4px rgba(20,33,61,.18)}
+#cover .vis svg{width:270px;height:270px}
+#cover .vis .big{font:900 230px/1 F;letter-spacing:-8px}
+#cover .sub{font:800 52px/1.15 I;text-align:center;margin-top:-10px}
+#cover .brand{background:var(--ink);border-radius:60px;padding:22px 46px;font:900 64px/1 F;color:#F3EEE3;letter-spacing:-2px}
+#cover .brand b{background:var(--mark);color:var(--ink);padding:0 12px;border-radius:10px 20px 12px 16px;font-weight:900}
+#cover.serio .vis{background:#E9E4D6}
+#cover.serio .tit .mk i{background:#E9E4D6}
+</style>
+<div id="cover"><div class="safe"><div class="top"><div class="ser"></div><div class="tit"></div></div><div class="vis"></div><div class="sub"></div><div class="brand">Politízate <b>hoy</b></div></div></div>
+<script>
+async function renderCover(g){
+ document.getElementById('stage').style.display='none';
+ const c=document.getElementById('cover'); c.style.display='block'; if(g.tono==='serio')c.classList.add('serio');
+ const p=g.portada||{}; const first=g.scenes[0].segments.flatMap(s=>s.show);
+ const head=(first.find(e=>e.type==='headline')||{}).text||'';
+ const ic=p.icono||(first.find(e=>e.type==='icon')||first.find(e=>e.icon)||{}).icon||'doc';
+ c.querySelector('.ser').textContent=p.serie||((g.header||{}).tag||'').split('·')[0].trim();
+ const tt=p.titulo||head; const t=c.querySelector('.tit'); t.innerHTML=mk(tt);
+ const n=tt.replace(/\*/g,'').length; t.style.fontSize=(n>26?122:n>16?140:166)+'px';
+ const v=c.querySelector('.vis'); v.innerHTML=p.grande?`<div class="big">${p.grande}</div>`:(ICO[ic]||'');
+ const sb=c.querySelector('.sub'); sb.textContent=p.sub||''; sb.style.display=p.sub?'block':'none';
+ await document.fonts.ready;
+}
+</script>
+</body></html>

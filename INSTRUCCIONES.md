@@ -71,6 +71,9 @@ Momentos ya conocidos: **13-N**, Jordi Wild publica en The Wild Project sus entr
 - Logo = el de la foto de perfil (`marca/perfil_v3.png`): círculo azul marino con "Politízate" en blanco y "hoy" en caja fosforito. Cierre de cada vídeo: elemento `logo` + sello "+ SEGUIR" (ver `guiones/slp_002_voto_correo.json`).
 - Cabecera con @politizatehoy, barra de cláusulas y sección final "La letra pequeña" en todos los vídeos.
 
+## Portadas (Nicks, 30-O: las de antes eran feas)
+`crear.sh` genera `videos/<id>.jpg` con `engine/cover.js` (diseño fijo: serie arriba, título grande con fosforito, mancha con icono, píldora de marca; todo dentro del recorte 3:4 de la cuadrícula de Instagram). Cada guion lleva `"portada": {"serie", "titulo" (con *marca*), "icono" o "grande" (un número/texto corto en vez de icono), "sub" (5–7 palabras)}`; si falta algo, se saca de la cabecera y del primer titular. Revisa la portada antes de programar: el icono tiene que tener sentido (nada de `doc` tachado o `person` tachado para cosas neutras). Iconos: rings, kids, house, doc, envelope, calendar, laptop, train, clock, phone, plane, question, urna, user.
+
 ## Tragedias y sucesos graves
 Con víctimas (accidentes, atentados, catástrofes): `"tono": "serio"` en el guion (sin música, sin sellos de broma), etiquetas de la barra con `"clauseLabels"` (p. ej. LO QUE SE SABE / LOS AUDIOS / LO QUE NO SE SABE) en vez de cláusulas y letra pequeña, cifras atribuidas y con hora, nada de culpables mientras haya investigación, y nunca imágenes o detalles morbosos.
 

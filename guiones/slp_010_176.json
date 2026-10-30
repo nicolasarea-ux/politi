@@ -215,5 +215,10 @@
     }
    ]
   }
- ]
+ ],
+ "portada": {
+  "grande": "176",
+  "titulo": "¿Por qué *176*?",
+  "sub": "La cifra que decide quién gobierna"
+ }
 }

@@ -219,5 +219,9 @@
     }
    ]
   }
- ]
+ ],
+ "portada": {
+  "icono": "doc",
+  "sub": "Lo que tienes que saber"
+ }
 }
