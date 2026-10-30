@@ -1,0 +1,222 @@
+{
+ "id": "slp_005_quien_abascal",
+ "brand": "Politízate Hoy",
+ "voice": "andrew",
+ "speed": 1.0,
+ "clauses": 2,
+ "header": {
+  "tag": "QUIÉN ES QUIÉN 1/5 · VIE 30 OCT",
+  "source": "Fuente: Euronews (22 oct) · AFP (7 oct)"
+ },
+ "caption": "Quién es quién 1/5: Santiago Abascal en 30 segundos. Trayectoria, propuestas y su objetivo para el 29-N.\n¿Qué candidato quieres que expliquemos después? 👇\n\nFuente: Euronews (22 oct), AFP (7 oct).\n\n#elecciones #29N #eleccionesgenerales #quienesquien #candidatos #politica",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Quién es quién el 29|veintinueve de noviembre. Por orden alfabético, empezamos con Santiago Abascal.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Santiago *Abascal*",
+       "x": 50,
+       "y": 24,
+       "w": 860
+      },
+      {
+       "id": "i1",
+       "type": "icon",
+       "icon": "person",
+       "x": 50,
+       "y": 39,
+       "w": 260,
+       "at": 9
+      },
+      {
+       "id": "s1",
+       "type": "stamp",
+       "text": "VOX",
+       "color": "ink",
+       "x": 50,
+       "y": 50,
+       "rot": 6,
+       "at": 12
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cláusula uno: quién es.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "Quién *es*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Cincuenta años, nacido en Bilbao. Militó en el PP.",
+     "show": [
+      {
+       "id": "c1",
+       "type": "card",
+       "icon": "person",
+       "text": "50 años · Bilbao · ex-PP",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Fundó Vox en 2013|dos_mil_trece y lo preside desde 2014.|dos_mil_catorce.",
+     "show": [
+      {
+       "id": "c2",
+       "type": "card",
+       "icon": "doc",
+       "text": "Preside Vox desde 2014",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Cláusula dos: qué propone.",
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "Qué *propone*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Frenar la inmigración y recentralizar el Estado.",
+     "show": [
+      {
+       "id": "c3",
+       "type": "card",
+       "icon": "house",
+       "text": "Inmigración · recentralizar",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Bajar impuestos y revisar las pensiones.",
+     "show": [
+      {
+       "id": "c4",
+       "type": "card",
+       "icon": "doc",
+       "text": "Impuestos · pensiones",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña:",
+     "show": [
+      {
+       "id": "hlp",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "según Euronews, aspira a rozar el 20|veinte por ciento y a ser decisivo para formar Gobierno.",
+     "show": [
+      {
+       "id": "fp",
+       "type": "fineprint",
+       "small": "* Según Euronews, Vox aspira a acercarse al 20 % de los votos y a condicionar al futuro Gobierno.",
+       "big": "Quiere ser\n*decisivo*",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Mañana, Ada Colau.",
+     "show": [
+      {
+       "id": "slp",
+       "type": "stamp",
+       "text": "2/5 MAÑANA",
+       "color": "ink",
+       "x": 50,
+       "y": 54,
+       "rot": 5,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Síguenos para no perderte ninguno.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 52,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

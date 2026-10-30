@@ -1,0 +1,222 @@
+{
+ "id": "slp_009_quien_feijoo",
+ "brand": "Politízate Hoy",
+ "voice": "andrew",
+ "speed": 1.0,
+ "clauses": 2,
+ "header": {
+  "tag": "QUIÉN ES QUIÉN 3/5 · DOM 1 NOV",
+  "source": "Fuente: Euronews (22 oct) · AFP (7 oct) · Ara (18 oct)"
+ },
+ "caption": "Quién es quién 3/5: Alberto Núñez Feijóo en 30 segundos. Trayectoria, propuestas y qué dice de pactar.\n¿Qué candidato quieres que expliquemos después? 👇\n\nFuente: Euronews (22 oct), AFP (7 oct), Ara (18 oct).\n\n#elecciones #29N #eleccionesgenerales #quienesquien #candidatos #politica",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Quién es quién el 29|veintinueve de noviembre. Por orden alfabético, hoy toca Alberto Núñez Feijóo.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Alberto *Núñez Feijóo*",
+       "x": 50,
+       "y": 24,
+       "w": 860
+      },
+      {
+       "id": "i1",
+       "type": "icon",
+       "icon": "person",
+       "x": 50,
+       "y": 39,
+       "w": 260,
+       "at": 9
+      },
+      {
+       "id": "s1",
+       "type": "stamp",
+       "text": "PP",
+       "color": "ink",
+       "x": 50,
+       "y": 50,
+       "rot": 6,
+       "at": 12
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cláusula uno: quién es.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "Quién *es*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Sesenta y cinco años. Presidió la Xunta de Galicia de 2009|dos_mil_nueve a 2022.|dos_mil_veintidós.",
+     "show": [
+      {
+       "id": "c1",
+       "type": "card",
+       "icon": "person",
+       "text": "65 años · Xunta 2009-2022",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Desde entonces preside el PP, que ganó en 2023|dos_mil_veintitrés sin apoyos para gobernar.",
+     "show": [
+      {
+       "id": "c2",
+       "type": "card",
+       "icon": "doc",
+       "text": "Preside el PP desde 2022",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Cláusula dos: qué propone.",
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "Qué *propone*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Bajar impuestos e impulsar a las empresas.",
+     "show": [
+      {
+       "id": "c3",
+       "type": "card",
+       "icon": "doc",
+       "text": "Rebaja fiscal",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Y una ley antiocupación, con desalojos en cuarenta y ocho horas.",
+     "show": [
+      {
+       "id": "c4",
+       "type": "card",
+       "icon": "house",
+       "text": "Desalojo en 48 h",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña:",
+     "show": [
+      {
+       "id": "hlp",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "según Euronews, no descarta pactar con Vox. Rechaza el cordón sanitario, pero dice que no tendrá un cordón umbilical.",
+     "show": [
+      {
+       "id": "fp",
+       "type": "fineprint",
+       "small": "* Según Euronews, Feijóo rechaza un \"cordón sanitario\" a Vox, pero dice que no mantendrá con él un \"cordón umbilical\".",
+       "big": "¿Pacto con\n*Vox*?",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Mañana, Irene Montero.",
+     "show": [
+      {
+       "id": "slp",
+       "type": "stamp",
+       "text": "4/5 MAÑANA",
+       "color": "ink",
+       "x": 50,
+       "y": 54,
+       "rot": 5,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Síguenos para no perderte ninguno.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 52,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

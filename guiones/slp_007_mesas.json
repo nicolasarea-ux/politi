@@ -1,0 +1,223 @@
+{
+ "id": "slp_007_mesas",
+ "brand": "Politízate Hoy",
+ "voice": "andrew",
+ "speed": 1.0,
+ "clauses": 2,
+ "header": {
+  "tag": "CÓMO VOTAR · SÁB 31 OCT",
+  "source": "Fuente: LOREG (arts. 26-28 y 143) · calendario 29-N"
+ },
+ "caption": "Sorteo de mesas electorales del 29-N: plazos, lo que cobras y lo que pasa si no vas 🗳️\nGuárdalo por si te toca 📌 ¿Te ha tocado alguna vez? 👇\n\nFuente: LOREG (arts. 26-28 y 143), BOE (dieta de 75 €).\n\n#elecciones #29N #eleccionesgenerales #mesaelectoral #comovotar #votar",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Te puede tocar estar en una mesa electoral el 29?|veintinueve? Entre hoy y el miércoles, tu ayuntamiento lo sortea.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "¿Te toca *mesa*?",
+       "x": 50,
+       "y": 24,
+       "w": 860
+      },
+      {
+       "id": "i1",
+       "type": "icon",
+       "icon": "envelope",
+       "x": 50,
+       "y": 39,
+       "w": 260,
+       "at": 10
+      },
+      {
+       "id": "s1",
+       "type": "stamp",
+       "text": "SORTEO",
+       "color": "red",
+       "x": 50,
+       "y": 50,
+       "rot": 7,
+       "at": 12
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cláusula uno: cómo te enteras.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "Cómo te *enteras*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Te lo notifican en los tres días siguientes al sorteo.",
+     "show": [
+      {
+       "id": "c1",
+       "type": "card",
+       "icon": "envelope",
+       "text": "Notificación: 3 días",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Y tienes siete días para alegar si tienes un motivo justificado.",
+     "show": [
+      {
+       "id": "c2",
+       "type": "card",
+       "icon": "doc",
+       "text": "Alegar: 7 días",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Cláusula dos: qué cobras.",
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "Qué *cobras*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Una dieta de 75|setenta_y_cinco euros.",
+     "show": [
+      {
+       "id": "c3",
+       "type": "card",
+       "icon": "doc",
+       "text": "Dieta: 75 €",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0,
+       "check": true
+      }
+     ]
+    },
+    {
+     "text": "Y si trabajabas ese día, permiso pagado, y cinco horas menos de jornada al día siguiente.",
+     "show": [
+      {
+       "id": "c4",
+       "type": "card",
+       "icon": "calendar",
+       "text": "Permiso + 5 h menos",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña:",
+     "show": [
+      {
+       "id": "hlp",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "alegar no te libra automáticamente. Y no ir sin motivo es delito.",
+     "show": [
+      {
+       "id": "fp",
+       "type": "fineprint",
+       "small": "* Art. 143 LOREG: no acudir sin causa justificada se castiga con prisión de tres meses a un año o multa de seis a veinticuatro meses.",
+       "big": "No ir es\n*delito*",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Hasta un año de cárcel, o multa.",
+     "show": [
+      {
+       "id": "slp",
+       "type": "stamp",
+       "text": "OJO",
+       "color": "red",
+       "x": 50,
+       "y": 54,
+       "rot": 5,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Guárdalo y síguenos: cada día, la letra pequeña de estas elecciones.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 52,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

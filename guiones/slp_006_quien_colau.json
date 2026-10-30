@@ -1,0 +1,222 @@
+{
+ "id": "slp_006_quien_colau",
+ "brand": "Politízate Hoy",
+ "voice": "andrew",
+ "speed": 1.0,
+ "clauses": 2,
+ "header": {
+  "tag": "QUIÉN ES QUIÉN 2/5 · SÁB 31 OCT",
+  "source": "Fuente: Euronews (22 oct) · Demócrata (28 oct)"
+ },
+ "caption": "Quién es quién 2/5: Ada Colau en 30 segundos. Trayectoria, propuestas y la letra pequeña de su impuesto a la vivienda.\n¿Qué candidato quieres que expliquemos después? 👇\n\nFuente: Euronews (22 oct), Demócrata (28 oct).\n\n#elecciones #29N #eleccionesgenerales #quienesquien #candidatos #vivienda",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Quién es quién el 29|veintinueve de noviembre. Por orden alfabético, hoy toca Ada Colau.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Ada *Colau*",
+       "x": 50,
+       "y": 24,
+       "w": 860
+      },
+      {
+       "id": "i1",
+       "type": "icon",
+       "icon": "person",
+       "x": 50,
+       "y": 39,
+       "w": 260,
+       "at": 8
+      },
+      {
+       "id": "s1",
+       "type": "stamp",
+       "text": "FRENTE AMPLIO",
+       "color": "ink",
+       "x": 50,
+       "y": 50,
+       "rot": 6,
+       "at": 11
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cláusula uno: quién es.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "Quién *es*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Activista por la vivienda y alcaldesa de Barcelona de 2015|dos_mil_quince a 2023.|dos_mil_veintitrés.",
+     "show": [
+      {
+       "id": "c1",
+       "type": "card",
+       "icon": "person",
+       "text": "Exalcaldesa de Barcelona",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Encabeza Frente Amplio: Sumar, Más Madrid, Izquierda Unida y los Comuns.",
+     "show": [
+      {
+       "id": "c2",
+       "type": "card",
+       "icon": "doc",
+       "text": "Sumar · Más Madrid · IU · Comuns",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Cláusula dos: qué propone.",
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "Qué *propone*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Regular el alquiler y proteger los servicios públicos.",
+     "show": [
+      {
+       "id": "c3",
+       "type": "card",
+       "icon": "house",
+       "text": "Regular el alquiler",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Y un impuesto del 10|diez por ciento sobre el valor de las viviendas acumuladas.",
+     "show": [
+      {
+       "id": "c4",
+       "type": "card",
+       "icon": "doc",
+       "text": "Impuesto del 10 %",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña:",
+     "show": [
+      {
+       "id": "hlp",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "a particulares, solo desde la cuarta vivienda y si superan 800.000|ochocientos_mil euros. A empresas, desde la primera.",
+     "show": [
+      {
+       "id": "fp",
+       "type": "fineprint",
+       "small": "* Propuesta de Frente Amplio (28 oct): empresas desde la primera vivienda; particulares desde la cuarta, si el total supera 800.000 €. Exento el alquiler asequible.",
+       "big": "Desde la\n*cuarta casa*",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Mañana, Alberto Núñez Feijóo.",
+     "show": [
+      {
+       "id": "slp",
+       "type": "stamp",
+       "text": "3/5 MAÑANA",
+       "color": "ink",
+       "x": 50,
+       "y": 54,
+       "rot": 5,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Síguenos para no perderte ninguno.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 52,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,219 @@
+{
+ "id": "slp_010_176",
+ "brand": "Politízate Hoy",
+ "voice": "andrew",
+ "speed": 1.0,
+ "clauses": 2,
+ "header": {
+  "tag": "EXPLICADO · DOM 1 NOV",
+  "source": "Fuente: Constitución Española (arts. 68 y 99)"
+ },
+ "caption": "176: el número que decide quién gobierna, y qué pasa si nadie lo alcanza 🧮\n¿Sabías lo de la segunda votación? 👇\n\nFuente: Constitución Española (arts. 68 y 99).\n\n#elecciones #29N #eleccionesgenerales #investidura #congreso #explicado",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Por qué todo el mundo habla de 176|ciento_setenta_y_seis escaños?",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "¿Por qué *176*?",
+       "x": 50,
+       "y": 24,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Porque es la mitad más uno de los 350|trescientos_cincuenta diputados.",
+     "show": [
+      {
+       "id": "c0",
+       "type": "card",
+       "icon": "person",
+       "text": "350 escaños · mitad + 1",
+       "x": 50,
+       "y": 37,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cláusula uno: la primera votación.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "1.ª *votación*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Para ser presidente a la primera, necesitas 176|ciento_setenta_y_seis votos a favor.",
+     "show": [
+      {
+       "id": "c1",
+       "type": "card",
+       "icon": "person",
+       "text": "176 síes",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0,
+       "check": true
+      }
+     ]
+    },
+    {
+     "text": "Es la mayoría absoluta.",
+     "show": [
+      {
+       "id": "s1",
+       "type": "stamp",
+       "text": "MAYORÍA ABSOLUTA",
+       "color": "ink",
+       "x": 50,
+       "y": 44,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Cláusula dos: la segunda.",
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "2.ª *votación*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Si no, a las cuarenta y ocho horas basta con más síes que noes.",
+     "show": [
+      {
+       "id": "c2",
+       "type": "card",
+       "icon": "doc",
+       "text": "Más síes que noes",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Por eso las abstenciones pueden decidirlo todo.",
+     "show": [
+      {
+       "id": "c3",
+       "type": "card",
+       "icon": "person",
+       "text": "Abstenerse cuenta",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña:",
+     "show": [
+      {
+       "id": "hlp",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "si en dos meses nadie lo consigue, se disuelven las Cortes y se repiten las elecciones.",
+     "show": [
+      {
+       "id": "fp",
+       "type": "fineprint",
+       "small": "* Art. 99.5 de la Constitución: si en dos meses desde la primera votación ningún candidato obtiene la confianza, el Rey disuelve las Cortes y convoca nuevas elecciones.",
+       "big": "Elecciones\n*otra vez*",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Ya pasó en 2016|dos_mil_dieciséis y en 2019.|dos_mil_diecinueve.",
+     "show": [
+      {
+       "id": "slp",
+       "type": "stamp",
+       "text": "REPETICIÓN",
+       "color": "red",
+       "x": 50,
+       "y": 54,
+       "rot": 5,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Guárdalo y síguenos: cada día, la letra pequeña de estas elecciones.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 52,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

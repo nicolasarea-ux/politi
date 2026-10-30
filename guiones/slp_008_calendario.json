@@ -1,0 +1,212 @@
+{
+ "id": "slp_008_calendario",
+ "brand": "Politízate Hoy",
+ "voice": "andrew",
+ "speed": 1.0,
+ "clauses": 2,
+ "header": {
+  "tag": "CALENDARIO · DOM 1 NOV",
+  "source": "Fuente: LOREG (art. 73) · BOE · calendario 29-N"
+ },
+ "caption": "Calendario del 29-N: campaña, reflexión y voto por correo (con una corrección nuestra) 📅\nGuárdalo 📌 ¿Qué fecha no conocías? 👇\n\nFuente: LOREG (art. 73), calendario electoral 29-N.\n\n#elecciones #29N #eleccionesgenerales #calendarioelectoral #votoporcorreo #comovotar",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Faltan cuatro semanas para el 29|veintinueve de noviembre. Estas son las fechas que no puedes olvidar.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Fechas *clave*",
+       "x": 50,
+       "y": 24,
+       "w": 860
+      },
+      {
+       "id": "i1",
+       "type": "icon",
+       "icon": "calendar",
+       "x": 50,
+       "y": 39,
+       "w": 260,
+       "at": 9
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cláusula uno: la campaña.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "La *campaña*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Empieza el viernes 13.|trece.",
+     "show": [
+      {
+       "id": "c1",
+       "type": "card",
+       "icon": "calendar",
+       "text": "Campaña: desde el 13 NOV",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "El sábado 28,|veintiocho, jornada de reflexión. Y el 29|veintinueve se vota de nueve a ocho.",
+     "show": [
+      {
+       "id": "c2",
+       "type": "card",
+       "icon": "calendar",
+       "text": "Reflexión: 28 · Votar: 29",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Cláusula dos: el voto por correo.",
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "Voto por *correo*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Puedes pedirlo hasta el jueves 19.|diecinueve.",
+     "show": [
+      {
+       "id": "c3",
+       "type": "card",
+       "icon": "envelope",
+       "text": "Pedirlo: hasta el 19 NOV",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Y enviarlo, como tarde, el miércoles 25.|veinticinco.",
+     "show": [
+      {
+       "id": "c4",
+       "type": "card",
+       "icon": "envelope",
+       "text": "Enviarlo: hasta el 25 NOV",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña:",
+     "show": [
+      {
+       "id": "hlp",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "en un vídeo anterior dijimos que se podía enviar hasta el 26.|veintiséis. Nos equivocamos: el último día es el 25.|veinticinco.",
+     "show": [
+      {
+       "id": "fp",
+       "type": "fineprint",
+       "small": "* LOREG, art. 73: el voto por correo se envía, como tarde, el cuarto día anterior a la elección. Para el 29-N, el miércoles 25.",
+       "big": "Último día:\n*25 de noviembre*",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Perdón por el error.",
+     "show": [
+      {
+       "id": "slp",
+       "type": "stamp",
+       "text": "CORREGIDO",
+       "color": "green",
+       "x": 50,
+       "y": 54,
+       "rot": 5,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Guárdalo y síguenos: cada día, la letra pequeña de estas elecciones.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 52,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
