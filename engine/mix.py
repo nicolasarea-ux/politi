@@ -87,7 +87,8 @@ def main(vdir):
     voice, _ = sf.read(os.path.join(vdir, "voz.wav"))
     n = len(voice)
     mix = voice / np.abs(voice).max() * 0.85
-    mix = mix + db(music(n / SR + 0.1)[:n], -23)
+    if tl.get("tono") != "serio":
+        mix = mix + db(music(n / SR + 0.1)[:n], -23)
     fx = np.zeros(n + SR)
     for s in tl["scenes"]:
         i = max(int((s["t0"] - 0.1) * SR), 0); w = whoosh(); fx[i:i + len(w)] += 0.5 * w

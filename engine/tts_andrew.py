@@ -71,7 +71,7 @@ def main(vdir, mp3):
         j = back[k, j]; picks.append(j)
     picks = picks[::-1]
     bounds = [(s0, None)] + [sil[p] for p in picks] + [(None, s1)]
-    tl = {"brand": sc["brand"], "header": sc.get("header", {}), "clauses": sc.get("clauses", 0), "scenes": []}
+    tl = {"brand": sc["brand"], "header": sc.get("header", {}), "clauses": sc.get("clauses", 0), "clauseLabels": sc.get("clauseLabels", []), "tono": sc.get("tono", "normal"), "scenes": []}
     scenes = {}
     for idx, (si, g) in enumerate(segs):
         t0 = (bounds[idx][1] if idx else s0) + LEAD

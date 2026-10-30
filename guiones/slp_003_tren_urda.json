@@ -1,0 +1,60 @@
+{
+ "id": "slp_003_tren_urda",
+ "brand": "Politízate Hoy",
+ "tono": "serio",
+ "clauses": 2,
+ "clauseLabels": ["LO QUE SE SABE", "LOS AUDIOS", "LO QUE NO SE SABE"],
+ "header": {"tag": "TOLEDO · VIE 30 OCT", "source": "Fuentes: Junta de CLM, CIAF, eldiario.es, Cuatro · datos del 29-10"},
+ "caption": "Choque de trenes en Urda (Toledo): lo que se sabe, lo que dicen los audios y lo que aún se investiga. Todo nuestro cariño a las víctimas y sus familias.\n\nFuentes: Junta de Castilla-La Mancha, CIAF, eldiario.es y Cuatro (datos del 29-10).\n\n#Urda #Toledo #accidenteferroviario #trenes #actualidad",
+ "scenes": [
+  {"clause": 0, "segments": [
+   {"text": "El miércoles, a las nueve menos siete de la mañana, un AVE y un Iryo chocaron cerca de Urda, en Toledo.",
+    "show": [
+     {"id": "h1", "type": "headline", "text": "Choque de trenes en *Urda*", "x": 50, "y": 24, "w": 880},
+     {"id": "t1", "type": "icon", "icon": "train", "x": 50, "y": 39, "w": 220, "at": 8},
+     {"id": "n1", "type": "note", "text": "Miércoles 28-O · 8:53 · línea Madrid-Andalucía", "x": 50, "y": 50, "at": 12}
+    ]},
+   {"text": "Te cuento lo que se sabe hasta ahora, y lo que no.", "show": []}
+  ]},
+  {"clause": 1, "segments": [
+   {"text": "Según la Junta de Castilla-La Mancha, hay sesenta y nueve fallecidos y más de cien heridos.",
+    "show": [
+     {"id": "h2", "type": "headline", "text": "Lo que se *sabe*", "x": 50, "y": 22, "w": 860},
+     {"id": "c1", "type": "card", "icon": "doc", "text": "69 fallecidos", "x": 50, "y": 33, "w": 820, "at": 7},
+     {"id": "c2", "type": "card", "icon": "doc", "text": "Más de 100 heridos", "x": 50, "y": 42, "w": 820, "at": 11}
+    ]},
+   {"text": "Antes del choque, a las ocho y media, falló el sistema que controla la señalización en ese tramo.",
+    "show": [{"id": "c3", "type": "card", "icon": "clock", "text": "8:30 · falla la señalización", "x": 50, "y": 51, "w": 820, "at": 3}]}
+  ]},
+  {"clause": 2, "segments": [
+   {"text": "En los audios publicados, el centro de control de Adif ordena al maquinista del AVE seguir en marcha normal.",
+    "show": [
+     {"id": "h3", "type": "headline", "text": "Los *audios*", "x": 50, "y": 22, "w": 860},
+     {"id": "q1", "type": "card", "icon": "phone", "text": "«…con marcha normal»", "x": 50, "y": 34, "w": 820, "at": 4},
+     {"id": "q1n", "type": "note", "text": "Centro de control de Adif al AVE", "x": 50, "y": 41.5, "at": 8}
+    ]},
+   {"text": "Mientras, la maquinista del Iryo avisaba de que seguía parada en la vía.",
+    "show": [
+     {"id": "q2", "type": "card", "icon": "train", "text": "«…todavía detenida»", "x": 50, "y": 48, "w": 820, "at": 2},
+     {"id": "q2n", "type": "note", "text": "Maquinista del Iryo", "x": 50, "y": 55.5, "at": 6}
+    ]}
+  ]},
+  {"clause": -1, "segments": [
+   {"text": "Lo que aún no se sabe: por qué se dio esa orden, y si falló algo más.",
+    "show": [
+     {"id": "h4", "type": "headline", "text": "Lo que *no* se sabe", "x": 50, "y": 22, "w": 860},
+     {"id": "u1", "type": "icon", "icon": "question", "x": 50, "y": 36, "w": 200, "at": 3}
+    ]},
+   {"text": "Lo investigan la comisión de accidentes ferroviarios y un juzgado. Y el ministro Óscar Puente dará explicaciones en el Congreso el martes.",
+    "hide": ["u1"],
+    "show": [
+     {"id": "i1", "type": "card", "icon": "doc", "text": "Investigan CIAF y juzgado", "x": 50, "y": 34, "w": 820, "at": 1},
+     {"id": "i2", "type": "card", "icon": "calendar", "text": "Puente, al Congreso: mar 3-N", "x": 50, "y": 43, "w": 820, "at": 12}
+    ]}
+  ]},
+  {"clause": 0, "segments": [
+   {"text": "Te iremos contando lo que se sepa. Todo nuestro cariño a las víctimas y a sus familias.",
+    "show": [{"id": "logo", "type": "logo", "x": 50, "y": 33, "w": 460}]}
+  ]}
+ ]
+}

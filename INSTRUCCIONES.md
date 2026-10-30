@@ -37,6 +37,9 @@ Hay **una sola pasada al día**, a las 10:31. Tiene que dejar hechos y programad
 3. MAÑANA y PASADO: todas sus franjas con atemporales (los de las franjas de actualidad son relleno de seguridad por si el ordenador está apagado; la pasada de ese día los cambia por noticias y vuelven a `reserva`).
 4. Mantén siempre al menos 6 atemporales en `reserva` listos para reutilizar.
 
+## Peticiones de Nicks
+Antes del radar, lee `peticiones.md`. Lo que Nicks pida para un día concreto manda sobre el reparto base y sobre el radar.
+
 ## Radar de actualidad (lo primero en CADA pasada)
 Nicks quiere que el canal vaya **en tiempo real**: el plan es la base, pero manda lo que esté pasando y tenga gancho en internet.
 1. Busca (WebSearch, modo `extended` para lo de las últimas horas) qué ha pasado desde la última pasada (mira la hora en `registro.md`): "elecciones 29N última hora", "campaña 29N hoy", cada candidato por su nombre (Sánchez, Feijóo, Abascal, Colau, Montero y los territoriales), "encuesta CIS 29N", "debate electoral", "Jordi Wild entrevista", "polémica", "bulo elecciones" (Maldita, Newtral). Abre las noticias.
@@ -67,6 +70,9 @@ Momentos ya conocidos: **13-N**, Jordi Wild publica en The Wild Project sus entr
 - Colores: azul marino `#14213D`, fosforito `#C8F53C`, papel `#F3EEE3`, rojo sello `#D7263D`, verde sello `#1F9D55`. Tipos: Fraunces 900 (titulares y logo), Courier Prime (cabecera, notas, sellos), Inter Tight (subtítulos).
 - Logo = el de la foto de perfil (`marca/perfil_v3.png`): círculo azul marino con "Politízate" en blanco y "hoy" en caja fosforito. Cierre de cada vídeo: elemento `logo` + sello "+ SEGUIR" (ver `guiones/slp_002_voto_correo.json`).
 - Cabecera con @politizatehoy, barra de cláusulas y sección final "La letra pequeña" en todos los vídeos.
+
+## Tragedias y sucesos graves
+Con víctimas (accidentes, atentados, catástrofes): `"tono": "serio"` en el guion (sin música, sin sellos de broma), etiquetas de la barra con `"clauseLabels"` (p. ej. LO QUE SE SABE / LOS AUDIOS / LO QUE NO SE SABE) en vez de cláusulas y letra pequeña, cifras atribuidas y con hora, nada de culpables mientras haya investigación, y nunca imágenes o detalles morbosos.
 
 ## Reglas de contenido (obligatorias)
 - **Neutral:** sin opinión, sin pedir el voto. Mismo número de vídeos por partido y serie cada semana (cuenta en `cola.json` → `partidos`). Orden alfabético cuando salen varios.
