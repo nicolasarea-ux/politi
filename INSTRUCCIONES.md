@@ -23,6 +23,12 @@ Mínimo 1 h entre vídeos. Lección de @fichalo.app: pasar a 12/día hundió el 
 ## Pasada diaria: 10:31 (hora a la que Nicks garantiza el ordenador encendido)
 Hay **una sola pasada al día**, a las 10:31. Tiene que dejar hechos y programados TODOS los vídeos de hoy (franjas después de las 10:31), mañana y pasado, incluidas las franjas de mañana antes de las 10:31. Lo que pase después de la pasada se cubre al día siguiente: prioriza lo de las últimas 24 h.
 
+**Regla de frescura (Nicks, 30-O): la actualidad caduca.**
+- Vídeos de **actualidad** (noticias, frases, entrevistas, encuestas): SOLO para las franjas de hoy y, como mucho, la de primera hora de mañana. Nunca programes una noticia para dentro de 2 días.
+- Franjas de **mañana y pasado**: solo vídeos **atemporales** (cómo votar, explicadores como D'Hondt o la investidura, quién es quién, qué propone cada partido sobre un tema). Márcalos en `cola.json` con `"tipo": "atemporal"`.
+- En cada pasada, las franjas de hoy que tengan un atemporal programado se **sustituyen por actualidad** si el radar da temas con gancho ≥ 4. El atemporal sustituido vuelve a `cola.json` como `reserva` (se reutiliza otro día) y se quita de `publicaciones.json`.
+- Un vídeo de actualidad que no llegó a publicarse y tiene más de 24 h se marca `caducado` y no se publica.
+
 ## Radar de actualidad (lo primero en CADA pasada)
 Nicks quiere que el canal vaya **en tiempo real**: el plan es la base, pero manda lo que esté pasando y tenga gancho en internet.
 1. Busca (WebSearch, modo `extended` para lo de las últimas horas) qué ha pasado desde la última pasada (mira la hora en `registro.md`): "elecciones 29N última hora", "campaña 29N hoy", cada candidato por su nombre (Sánchez, Feijóo, Abascal, Colau, Montero y los territoriales), "encuesta CIS 29N", "debate electoral", "Jordi Wild entrevista", "polémica", "bulo elecciones" (Maldita, Newtral). Abre las noticias.
