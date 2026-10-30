@@ -32,7 +32,7 @@
       {
        "id": "c0",
        "type": "card",
-       "icon": "person",
+       "icon": "user",
        "text": "350 escaños · mitad + 1",
        "x": 50,
        "y": 37,
@@ -65,7 +65,7 @@
       {
        "id": "c1",
        "type": "card",
-       "icon": "person",
+       "icon": "user",
        "text": "176 síes",
        "x": 50,
        "y": 33,
@@ -129,7 +129,7 @@
       {
        "id": "c3",
        "type": "card",
-       "icon": "person",
+       "icon": "user",
        "text": "Abstenerse cuenta",
        "x": 50,
        "y": 42,

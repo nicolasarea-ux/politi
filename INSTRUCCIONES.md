@@ -7,7 +7,7 @@ Plan editorial completo: https://claude.ai/artifact/EpGu7vKZV4ok4vE6ARonrp
 Datos fijos
 - Repo público `nicolasarea-ux/politi`, rama `main`. Zona horaria `Europe/Madrid`.
 - URL pública de un vídeo: `https://raw.githubusercontent.com/nicolasarea-ux/politi/main/videos/<id>.mp4`
-- La rutina necesita el ordenador de Nicks (Windows, "nicolaptop") encendido con la app de Claude abierta: la voz se saca de Clipchamp y la subida se hace en TikTok Studio. **Usa su Chrome (extensión Claude in Chrome, `mcp__claude-in-chrome__*`), no el navegador integrado: Nicks no se fía del integrado.** Si Clipchamp o TikTok piden iniciar sesión, para y avisa. Carpeta compartida: `C:\Users\nicol\Downloads`.
+- La rutina necesita el ordenador de Nicks (Windows, "nicolaptop") encendido con la app de Claude abierta: la voz se saca de Clipchamp y la subida se hace en TikTok Studio. **Usa el navegador integrado de la app de Claude (`mcp__remote-devices__Claude_Browser__*`), NO su Chrome: desde el 30-O Chrome se congela con Clipchamp y Nicks pidió cambiar al integrado.** Ahí Clipchamp ya tiene la sesión iniciada. Si Clipchamp o TikTok piden iniciar sesión, para y avisa. Carpeta compartida: `C:\Users\nicol\Downloads`.
 - Si el ordenador no responde: deja los guiones escritos, anótalo en `registro.md` y avisa a Nicks. TikTok Studio permite programar hasta 10 días, así que la rutina siempre deja **hoy, mañana y pasado** cubiertos: un día caído no deja huecos.
 
 ## Ritmo (no subir sin datos)
@@ -55,11 +55,11 @@ Momentos ya conocidos: **13-N**, Jordi Wild publica en The Wild Project sus entr
 1. `git pull`. Lee `cola.json` y `registro.md`. Calcula qué franjas de hoy (las que aún no han pasado), mañana y pasado están vacías.
 2. **Haz el radar de actualidad** (arriba). Para el resto de franjas, usa el calendario del plan. Abre las páginas de las que sacas datos: un fragmento de búsqueda no es una fuente.
 3. **Escribe un guion por franja** en `guiones/<id>.json` (id = `slp_NNN_slug`, NNN correlativo). Mismo formato que `guiones/slp_002_voto_correo.json`. Reglas de contenido abajo.
-4. **Voz de Andrew** (Clipchamp, en Chrome). Un audio por vídeo:
-   1. Abre `https://app.clipchamp.com/` en una pestaña nueva. Abre el proyecto "Video Project 20" de "Tus vídeos" (o "Texto a voz → Pruébalo" si no está). Panel "Texto a voz": Idioma "Español (España)", Voz **"Andrew Multilingual"**.
-   2. Clic en el cuadro de texto, `ctrl+a`, escribe el texto hablado completo: los `text` de todos los segmentos unidos con espacios, usando la parte después de `|` cuando la hay (números en letra). Pulsa "Guardar" y espera unos 10 s.
-   3. `read_network_requests` con `urlPattern: "local-cache"`: el audio nuevo es el GET a `/local-cache/<id>` que no estaba antes. Con `javascript_tool`: `fetch` de esa URL → blob `audio/mpeg` → enlace con `download` y `click()`.
-   4. En `C:\Users\nicol\Downloads` aparece un `.tmp` con el mismo tamaño que el blob (el listado es enorme: búscalo por `mtimeMs` en el fichero guardado). `device_stage_files` y cópialo a `audio/<id>.mp3`.
+4. **Voz de Andrew** (Clipchamp en el navegador integrado). Un audio por vídeo:
+   1. `preview_start` con `https://app.clipchamp.com/` → "Texto a voz → Pruébalo". Idioma "Español (España)"; en el campo Voz (combobox) escribe "Andrew" y elige **"Andrew Multilingual"** (compruébalo: el panel a veces se reajusta y un clic por coordenadas cae en otro campo; usa `find`/refs, no coordenadas).
+   2. Cuadro "Escribe lo que te gustaría decir": clic, `ctrl+a`, escribe el texto hablado completo (los `text` de los segmentos unidos con espacios, parte después de `|`, `_` → espacio). Espera 1 s, `find "Guardar"`, `scroll_to` + clic en el botón, y espera ~14 s.
+   3. `read_network_requests` con `urlPattern: "local-cache"`: el audio nuevo es el último GET `/local-cache/<id>` (sin `_filmstrip`). Clipchamp borra el anterior al guardar uno nuevo: sácalo antes de generar el siguiente.
+   4. `javascript_tool`: `fetch` de esa URL → bytes → base64 y devuélvelo como resultado. El resultado es demasiado grande y se guarda en un fichero de `tool-results`; de ahí extrae el base64 y escribe `audio/<id>.mp3` (no hace falta la carpeta Downloads).
 5. `./crear.sh <id>` → `videos/<id>.mp4` + portada `videos/<id>.jpg` (~2 min por vídeo). Mira `work/<id>/check.png`: textos legibles, nada se sale ni se solapa, cortes de frase bien sincronizados.
 6. `git add -A && git commit && git push`. Comprueba que la URL pública de cada vídeo da 200.
 7. **Programa en TikTok Studio** (Chrome, `https://www.tiktok.com/tiktokstudio/upload`). *Pasos por validar en la primera subida de prueba.* Para cada vídeo: el archivo se sube con `mcp__claude-in-chrome__file_upload` sobre el `input[type=file]` (copia antes el mp4 a `/mnt/user-data/outputs/`); descripción (`copy` de la cola); **activar "Contenido generado por IA"**; programar a la franja; "Programar". Comprueba que aparece en la lista de programados.

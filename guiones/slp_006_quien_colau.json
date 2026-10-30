@@ -27,7 +27,7 @@
       {
        "id": "i1",
        "type": "icon",
-       "icon": "person",
+       "icon": "user",
        "x": 50,
        "y": 39,
        "w": 260,
@@ -69,7 +69,7 @@
       {
        "id": "c1",
        "type": "card",
-       "icon": "person",
+       "icon": "user",
        "text": "Exalcaldesa de Barcelona",
        "x": 50,
        "y": 33,
