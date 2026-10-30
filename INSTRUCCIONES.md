@@ -16,7 +16,7 @@ Datos fijos
 | 30-O → 5-N | 3 | 13:30, 19:30, 22:00 |
 | 6-N → 12-N | 5 | 8:30, 13:30, 19:30, 21:00, 22:30 |
 | 13-N → 29-N | 6 | 8:30, 12:30, 14:30, 19:30, 21:00, 22:30 |
-| Picos: 11-N, 13-N, días de debate, 19-N, 26-N, 29-N | 10 | 8:30, 10:30, 12:30, 14:00, 16:00, 18:00, 19:30, 20:45, 21:45, 23:00 |
+| Picos: 11-N, 13-N, días de debate, 19-N, 25-N, 29-N | 10 | 8:30, 10:30, 12:30, 14:00, 16:00, 18:00, 19:30, 20:45, 21:45, 23:00 |
 
 Mínimo 1 h entre vídeos. Lección de @fichalo.app: pasar a 12/día hundió el alcance y Meta bloqueó la API. Si las visitas medias por vídeo caen más de un 30 % al subir volumen, baja al ritmo anterior y anótalo.
 

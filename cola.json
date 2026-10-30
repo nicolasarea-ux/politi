@@ -9,9 +9,10 @@
     "https://www.elespanol.com/espana/20261005/puede-votar-pedir-voto-correo-generales-anticipadas/1003744408482_0.html",
     "https://es.euronews.com/2026/10/06/calendario-elecciones-generales-29n-fechas-clave-voto-correo-campana"
    ],
-   "estado": "programado",
+   "estado": "retirar",
    "fecha_reels": "2026-10-29T21:45",
-   "errata": "Dice que el voto se envía hasta el 26-N; el último día es el 25-N (LOREG art. 73). Corregido en slp_008_calendario."
+   "errata": "Dice que el voto se envía hasta el 26-N; el último día es el 25-N (LOREG art. 73). Corregido en slp_008_calendario.",
+   "nota": "Publicado el 29-10 con la errata del 26-N. Guion corregido (25-N): rehacer voz y volver a publicar; Nicks borra el Reel viejo."
   },
   {
    "id": "slp_001_viudedad",
