@@ -1,0 +1,225 @@
+{
+ "id": "slp_011_quien_montero",
+ "brand": "Politízate Hoy",
+ "voice": "andrew",
+ "speed": 1.0,
+ "clauses": 2,
+ "header": {
+  "tag": "QUIÉN ES QUIÉN 4/5 · LUN 2 NOV",
+  "source": "Fuente: Ara (12 sep) · Demócrata (20 y 22 oct)"
+ },
+ "caption": "Quién es quién 4/5: Irene Montero en 30 segundos. Trayectoria, propuestas y con quién se presenta.\n¿Qué tema quieres que comparemos entre candidatos? 👇\n\nFuente: Ara (12 sep), Demócrata (20 y 22 oct).\n\n#elecciones #29N #eleccionesgenerales #quienesquien #candidatos #politica",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Quién es quién el 29|veintinueve de noviembre. Por orden alfabético, hoy toca Irene Montero.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Irene *Montero*",
+       "x": 50,
+       "y": 24,
+       "w": 860
+      },
+      {
+       "id": "i1",
+       "type": "icon",
+       "icon": "user",
+       "x": 50,
+       "y": 39,
+       "w": 260,
+       "at": 9
+      },
+      {
+       "id": "s1",
+       "type": "stamp",
+       "text": "PODEMOS",
+       "color": "ink",
+       "x": 50,
+       "y": 50,
+       "rot": 6,
+       "at": 12
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cláusula uno: quién es.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "Quién *es*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Treinta y ocho años. Fue ministra de Igualdad de 2020|dos_mil_veinte a 2023.|dos_mil_veintitrés.",
+     "show": [
+      {
+       "id": "c1",
+       "type": "card",
+       "icon": "user",
+       "text": "38 años · Igualdad 2020-2023",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Hoy es eurodiputada y encabeza la lista de Podemos por Madrid.",
+     "show": [
+      {
+       "id": "c2",
+       "type": "card",
+       "icon": "doc",
+       "text": "Lista de Podemos por Madrid",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Cláusula dos: qué propone.",
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "Qué *propone*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Una jornada laboral de treinta horas a la semana.",
+     "show": [
+      {
+       "id": "c3",
+       "type": "card",
+       "icon": "clock",
+       "text": "Semana de 30 horas",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Y un salario mínimo de mil ochocientos euros al mes.",
+     "show": [
+      {
+       "id": "c4",
+       "type": "card",
+       "icon": "doc",
+       "text": "SMI de 1.800 €",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña:",
+     "show": [
+      {
+       "id": "hlp",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "según Demócrata, Podemos y Frente Amplio no cerraron un pacto global: van por separado en casi todas las provincias, salvo Canarias y la Comunitat Valenciana.",
+     "show": [
+      {
+       "id": "fp",
+       "type": "fineprint",
+       "small": "* Según Demócrata (20 oct), Podemos y Frente Amplio concurren por separado en la mayoría de circunscripciones, salvo Canarias y la Comunitat Valenciana.",
+       "big": "¿Izquierda\n*dividida*?",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Mañana, Pedro Sánchez.",
+     "show": [
+      {
+       "id": "slp",
+       "type": "stamp",
+       "text": "5/5 MAÑANA",
+       "color": "ink",
+       "x": 50,
+       "y": 54,
+       "rot": 5,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Síguenos para no perderte ninguno.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 52,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "sub": "Quién es y qué propone"
+ }
+}

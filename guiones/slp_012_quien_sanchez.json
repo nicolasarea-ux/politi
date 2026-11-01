@@ -1,0 +1,225 @@
+{
+ "id": "slp_012_quien_sanchez",
+ "brand": "Politízate Hoy",
+ "voice": "andrew",
+ "speed": 1.0,
+ "clauses": 2,
+ "header": {
+  "tag": "QUIÉN ES QUIÉN 5/5 · MAR 3 NOV",
+  "source": "Fuente: Euronews (10 oct) · Diario de León (7 oct) · Orain (17 oct)"
+ },
+ "caption": "Quién es quién 5/5: Pedro Sánchez en 30 segundos. Trayectoria, propuestas y la letra pequeña de su plan de vivienda.\n¿Qué candidato te ha sorprendido más de los cinco? 👇\n\nFuente: Euronews (10 oct), Diario de León (7 oct), Orain (17 oct).\n\n#elecciones #29N #eleccionesgenerales #quienesquien #candidatos #vivienda",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Quién es quién el 29|veintinueve de noviembre. Por orden alfabético, cerramos con Pedro Sánchez.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Pedro *Sánchez*",
+       "x": 50,
+       "y": 24,
+       "w": 860
+      },
+      {
+       "id": "i1",
+       "type": "icon",
+       "icon": "user",
+       "x": 50,
+       "y": 39,
+       "w": 260,
+       "at": 9
+      },
+      {
+       "id": "s1",
+       "type": "stamp",
+       "text": "PSOE",
+       "color": "ink",
+       "x": 50,
+       "y": 50,
+       "rot": 6,
+       "at": 12
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cláusula uno: quién es.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "Quién *es*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Cincuenta y cuatro años. Preside el Gobierno desde 2018,|dos_mil_dieciocho, tras una moción de censura.",
+     "show": [
+      {
+       "id": "c1",
+       "type": "card",
+       "icon": "user",
+       "text": "54 años · Presidente desde 2018",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "El PSOE lo proclamó candidato a la reelección el 17|diecisiete de octubre.",
+     "show": [
+      {
+       "id": "c2",
+       "type": "card",
+       "icon": "doc",
+       "text": "Candidato a la reelección",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Cláusula dos: qué propone.",
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "Qué *propone*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Préstamos de hasta cincuenta mil euros al cero por ciento para la primera vivienda.",
+     "show": [
+      {
+       "id": "c3",
+       "type": "card",
+       "icon": "house",
+       "text": "Hasta 50.000 € al 0 %",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Y prórrogas de hasta dos años para inquilinos al corriente de pago.",
+     "show": [
+      {
+       "id": "c4",
+       "type": "card",
+       "icon": "doc",
+       "text": "Alquiler: prórroga de 2 años",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña:",
+     "show": [
+      {
+       "id": "hlp",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "según Euronews, ese préstamo se devuelve al acabar la hipoteca, y la casa queda con un precio máximo de venta para siempre.",
+     "show": [
+      {
+       "id": "fp",
+       "type": "fineprint",
+       "small": "* Según Euronews (10 oct), el préstamo TU CASA se devuelve en 120 cuotas tras la hipoteca y la vivienda queda sujeta a un precio máximo de transmisión permanente.",
+       "big": "¿Y si la\n*vendes*?",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Y con esto, ya conoces a los cinco.",
+     "show": [
+      {
+       "id": "slp",
+       "type": "stamp",
+       "text": "5/5 COMPLETO",
+       "color": "ink",
+       "x": 50,
+       "y": 54,
+       "rot": 5,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Síguenos para no perderte ninguno.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 52,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "sub": "Quién es y qué propone"
+ }
+}
