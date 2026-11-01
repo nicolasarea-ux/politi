@@ -9,12 +9,12 @@
    "publicado_en": "2026-10-29T21:59"
   },
   {
-   "id": "slp_001_viudedad",
-   "fecha": "2026-10-31T22:15",
+   "id": "slp_004_tren_viajeros",
+   "fecha": "2026-10-30T13:45",
    "estado": "publicado",
-   "copy": "Pensión de viudedad sin estar casados: requisitos y el plazo que puede tumbar el decreto ⏳\n¿Conoces a alguien a quien le afecte? 👇\n\nFuente: Consejo de Ministros, 20-10-2026.\n\n#elecciones #29N #eleccionesgenerales #pensiones #viudedad #parejadehecho",
-   "ig_media_id": "17907811605668222",
-   "publicado_en": "2026-10-31T22:45"
+   "copy": "¿Ibas a viajar en tren entre Madrid y Andalucía? Esto es lo que pasa con la línea tras el accidente de Urda y qué hacer con tu billete.\n¿Te ha tocado? Cuéntanos 👇\n\nFuentes: Renfe, Ouigo, Iryo e Iberia (vía eldiario.es e Infobae, 29-10). Comprueba siempre con tu compañía.\n\n#Renfe #AVE #Iryo #Ouigo #trenes #Andalucía",
+   "ig_media_id": "18638619805030753",
+   "publicado_en": "2026-10-30T13:49"
   },
   {
    "id": "slp_005_quien_abascal",
@@ -23,6 +23,14 @@
    "copy": "Quién es quién 1/5: Santiago Abascal en 30 segundos. Trayectoria, propuestas y su objetivo para el 29-N.\n¿Qué candidato quieres que expliquemos después? 👇\n\nFuente: Euronews (22 oct), AFP (7 oct).\n\n#elecciones #29N #eleccionesgenerales #quienesquien #candidatos #politica",
    "ig_media_id": "17897125482681692",
    "publicado_en": "2026-10-30T19:57"
+  },
+  {
+   "id": "slp_003_tren_urda",
+   "fecha": "2026-10-30T22:15",
+   "estado": "publicado",
+   "copy": "Choque de trenes en Urda (Toledo): lo que se sabe, lo que dicen los audios y lo que aún se investiga. Todo nuestro cariño a las víctimas y sus familias.\n\nFuentes: Junta de Castilla-La Mancha, CIAF, eldiario.es y Cuatro (datos del 30-10).\n\n#Urda #Toledo #accidenteferroviario #trenes #actualidad",
+   "ig_media_id": "17963532645218397",
+   "publicado_en": "2026-10-30T22:49"
   },
   {
    "id": "slp_007_mesas",
@@ -41,6 +49,14 @@
    "publicado_en": "2026-10-31T20:15"
   },
   {
+   "id": "slp_001_viudedad",
+   "fecha": "2026-10-31T22:15",
+   "estado": "publicado",
+   "copy": "Pensión de viudedad sin estar casados: requisitos y el plazo que puede tumbar el decreto ⏳\n¿Conoces a alguien a quien le afecte? 👇\n\nFuente: Consejo de Ministros, 20-10-2026.\n\n#elecciones #29N #eleccionesgenerales #pensiones #viudedad #parejadehecho",
+   "ig_media_id": "17907811605668222",
+   "publicado_en": "2026-10-31T22:45"
+  },
+  {
    "id": "slp_008_calendario",
    "fecha": "2026-11-01T13:45",
    "estado": "publicado",
@@ -55,32 +71,28 @@
    "copy": "Quién es quién 3/5: Alberto Núñez Feijóo en 30 segundos. Trayectoria, propuestas y qué dice de pactar.\n¿Qué candidato quieres que expliquemos después? 👇\n\nFuente: Euronews (22 oct), AFP (7 oct), Ara (18 oct).\n\n#elecciones #29N #eleccionesgenerales #quienesquien #candidatos #politica"
   },
   {
-   "id": "slp_004_tren_viajeros",
-   "fecha": "2026-10-30T13:45",
-   "estado": "publicado",
-   "copy": "¿Ibas a viajar en tren entre Madrid y Andalucía? Esto es lo que pasa con la línea tras el accidente de Urda y qué hacer con tu billete.\n¿Te ha tocado? Cuéntanos 👇\n\nFuentes: Renfe, Ouigo, Iryo e Iberia (vía eldiario.es e Infobae, 29-10). Comprueba siempre con tu compañía.\n\n#Renfe #AVE #Iryo #Ouigo #trenes #Andalucía",
-   "ig_media_id": "18638619805030753",
-   "publicado_en": "2026-10-30T13:49"
-  },
-  {
-   "id": "slp_003_tren_urda",
-   "fecha": "2026-10-30T22:15",
-   "estado": "publicado",
-   "copy": "Choque de trenes en Urda (Toledo): lo que se sabe, lo que dicen los audios y lo que aún se investiga. Todo nuestro cariño a las víctimas y sus familias.\n\nFuentes: Junta de Castilla-La Mancha, CIAF, eldiario.es y Cuatro (datos del 30-10).\n\n#Urda #Toledo #accidenteferroviario #trenes #actualidad",
-   "ig_media_id": "17963532645218397",
-   "publicado_en": "2026-10-30T22:49"
-  },
-  {
    "id": "slp_013_tren_novedades",
-   "fecha": "2026-11-01T22:15",
+   "fecha": "2026-11-01T21:00",
    "estado": "pendiente",
    "copy": "Urda, cuatro días después: qué pasa con la investigación, cuándo podría volver el AVE a Andalucía y qué ocurre el martes en el Congreso. Todo nuestro cariño a las víctimas y sus familias.\n\nFuentes: Europa Press vía The Objective (30-10), Demócrata y Diario de Sevilla (31-10), COPE y The Objective (29-10).\n\n#Urda #Toledo #accidenteferroviario #trenes #actualidad"
   },
   {
    "id": "slp_010_176",
-   "fecha": "2026-11-02T13:45",
+   "fecha": "2026-11-01T22:15",
    "estado": "pendiente",
    "copy": "176: el número que decide quién gobierna, y qué pasa si nadie lo alcanza 🧮\n¿Sabías lo de la segunda votación? 👇\n\nFuente: Constitución Española (arts. 68 y 99).\n\n#elecciones #29N #eleccionesgenerales #investidura #congreso #explicado"
+  },
+  {
+   "id": "slp_014_dhondt",
+   "fecha": "2026-11-02T13:45",
+   "estado": "pendiente",
+   "copy": "Por qué un partido con más votos puede sacar menos escaños: la ley D'Hondt explicada en 30 segundos.\n¿Lo sabías o te ha pillado por sorpresa? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 162 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #dhondt #leyelectoral"
+  },
+  {
+   "id": "slp_016_blanco_nulo",
+   "fecha": "2026-11-02T17:15",
+   "estado": "pendiente",
+   "copy": "Votar en blanco, nulo o quedarte en casa NO es lo mismo. Te explicamos la diferencia según la ley.\n¿Sabías que el voto en blanco cuenta para el 3 %? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 96 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #votoenblanco #votonulo"
   },
   {
    "id": "slp_011_quien_montero",
@@ -95,22 +107,10 @@
    "copy": "Voto por correo para el 29-N: hasta cuándo pedirlo, hasta cuándo enviarlo y la letra pequeña 🗳️\n¿Lo vas a pedir? 👇\n\nFuente: LOREG, Correos y calendario electoral del 29-N.\n\n#elecciones #29N #eleccionesgenerales #votoporcorreo #comovotar"
   },
   {
-   "id": "slp_014_dhondt",
-   "fecha": "2026-11-03T13:45",
-   "estado": "pendiente",
-   "copy": "Por qué un partido con más votos puede sacar menos escaños: la ley D'Hondt explicada en 30 segundos.\n¿Lo sabías o te ha pillado por sorpresa? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 162 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #dhondt #leyelectoral"
-  },
-  {
    "id": "slp_012_quien_sanchez",
    "fecha": "2026-11-03T19:45",
    "estado": "pendiente",
    "copy": "Quién es quién 5/5: Pedro Sánchez en 30 segundos. Trayectoria, propuestas y la letra pequeña de su plan de vivienda.\n¿Qué candidato te ha sorprendido más de los cinco? 👇\n\nFuente: Euronews (10 oct), Diario de León (7 oct), Orain (17 oct).\n\n#elecciones #29N #eleccionesgenerales #quienesquien #candidatos #vivienda"
-  },
-  {
-   "id": "slp_016_blanco_nulo",
-   "fecha": "2026-11-03T22:15",
-   "estado": "pendiente",
-   "copy": "Votar en blanco, nulo o quedarte en casa NO es lo mismo. Te explicamos la diferencia según la ley.\n¿Sabías que el voto en blanco cuenta para el 3 %? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 96 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #votoenblanco #votonulo"
   }
  ]
 }
