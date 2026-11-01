@@ -9,11 +9,12 @@
     "https://www.elespanol.com/espana/20261005/puede-votar-pedir-voto-correo-generales-anticipadas/1003744408482_0.html",
     "https://es.euronews.com/2026/10/06/calendario-elecciones-generales-29n-fechas-clave-voto-correo-campana"
    ],
-   "estado": "guion_sin_voz",
-   "fecha_reels": "2026-10-29T21:45",
+   "estado": "programado",
+   "fecha_reels": "2026-11-02T22:15",
    "errata": "Dice que el voto se envía hasta el 26-N; el último día es el 25-N (LOREG art. 73). Corregido en slp_008_calendario.",
-   "nota": "Rehacer voz (guion ya corregido a 25-N) y volver a renderizar; ya publicado una vez el 29-O con la errata",
-   "fecha": "2026-11-02T22:00"
+   "nota": "Voz rehecha el 1-N con plazos corregidos (25-N); reprogramado 2-N 22:00",
+   "fecha": "2026-11-02T22:00",
+   "copy": "Voto por correo para el 29-N: hasta cuándo pedirlo, hasta cuándo enviarlo y la letra pequeña 🗳️\n¿Lo vas a pedir? 👇\n\nFuente: LOREG, Correos y calendario electoral del 29-N.\n\n#elecciones #29N #eleccionesgenerales #votoporcorreo #comovotar"
   },
   {
    "id": "slp_001_viudedad",
@@ -124,9 +125,9 @@
     "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
    ],
    "estado": "programado",
-   "franja_prevista": "2026-11-01T22:00",
    "copy": "176: el número que decide quién gobierna, y qué pasa si nadie lo alcanza 🧮\n¿Sabías lo de la segunda votación? 👇\n\nFuente: Constitución Española (arts. 68 y 99).\n\n#elecciones #29N #eleccionesgenerales #investidura #congreso #explicado",
-   "fecha_reels": "2026-11-01T22:15"
+   "fecha_reels": "2026-11-02T13:45",
+   "fecha": "2026-11-02T13:30"
   },
   {
    "id": "slp_004_tren_viajeros",
@@ -157,46 +158,51 @@
   {
    "id": "slp_011_quien_montero",
    "tipo": "atemporal",
-   "estado": "guion_sin_voz",
+   "estado": "programado",
    "fecha": "2026-11-02T19:30",
    "copy": "Quién es quién 4/5: Irene Montero en 30 segundos. Trayectoria, propuestas y con quién se presenta.\n¿Qué tema quieres que comparemos entre candidatos? 👇\n\nFuente: Ara (12 sep), Demócrata (20 y 22 oct).\n\n#elecciones #29N #eleccionesgenerales #quienesquien #candidatos #politica",
    "partidos": [
     "Podemos"
-   ]
+   ],
+   "fecha_reels": "2026-11-02T19:45"
   },
   {
    "id": "slp_012_quien_sanchez",
    "tipo": "atemporal",
-   "estado": "guion_sin_voz",
+   "estado": "programado",
    "fecha": "2026-11-03T19:30",
    "copy": "Quién es quién 5/5: Pedro Sánchez en 30 segundos. Trayectoria, propuestas y la letra pequeña de su plan de vivienda.\n¿Qué candidato te ha sorprendido más de los cinco? 👇\n\nFuente: Euronews (10 oct), Diario de León (7 oct), Orain (17 oct).\n\n#elecciones #29N #eleccionesgenerales #quienesquien #candidatos #vivienda",
    "partidos": [
     "PSOE"
-   ]
+   ],
+   "fecha_reels": "2026-11-03T19:45"
   },
   {
    "id": "slp_013_tren_novedades",
    "tipo": "actualidad",
-   "estado": "guion_sin_voz",
-   "fecha": "2026-11-02T13:30",
-   "copy": "Urda, cinco días después: qué pasa con la investigación, cuándo podría volver el AVE a Andalucía y qué ocurre el martes en el Congreso. Todo nuestro cariño a las víctimas y sus familias.\n\nFuentes: Europa Press vía The Objective (30-10), Demócrata y Diario de Sevilla (31-10), COPE y The Objective (29-10).\n\n#Urda #Toledo #accidenteferroviario #trenes #actualidad",
-   "partidos": []
+   "estado": "programado",
+   "fecha": "2026-11-01T22:00",
+   "copy": "Urda, cuatro días después: qué pasa con la investigación, cuándo podría volver el AVE a Andalucía y qué ocurre el martes en el Congreso. Todo nuestro cariño a las víctimas y sus familias.\n\nFuentes: Europa Press vía The Objective (30-10), Demócrata y Diario de Sevilla (31-10), COPE y The Objective (29-10).\n\n#Urda #Toledo #accidenteferroviario #trenes #actualidad",
+   "partidos": [],
+   "fecha_reels": "2026-11-01T22:15"
   },
   {
    "id": "slp_014_dhondt",
    "tipo": "atemporal",
-   "estado": "guion_sin_voz",
+   "estado": "programado",
    "fecha": "2026-11-03T13:30",
    "copy": "Por qué un partido con más votos puede sacar menos escaños: la ley D'Hondt explicada en 30 segundos.\n¿Lo sabías o te ha pillado por sorpresa? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 162 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #dhondt #leyelectoral",
-   "partidos": []
+   "partidos": [],
+   "fecha_reels": "2026-11-03T13:45"
   },
   {
    "id": "slp_016_blanco_nulo",
    "tipo": "atemporal",
-   "estado": "guion_sin_voz",
+   "estado": "programado",
    "fecha": "2026-11-03T22:00",
    "copy": "Votar en blanco, nulo o quedarte en casa NO es lo mismo. Te explicamos la diferencia según la ley.\n¿Sabías que el voto en blanco cuenta para el 3 %? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 96 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #votoenblanco #votonulo",
-   "partidos": []
+   "partidos": [],
+   "fecha_reels": "2026-11-03T22:15"
   }
  ]
 }
