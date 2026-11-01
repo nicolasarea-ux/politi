@@ -205,6 +205,21 @@
    "partidos": [],
    "fecha_reels": "2026-11-02T17:15",
    "nota": "Relleno de franja de actualidad del 2-N (peticiones.md): si la pasada del 2-N tiene noticia, pasa a reserva"
+  },
+  {
+   "id": "slp_017_senado",
+   "serie": "como-votar",
+   "tipo": "atemporal",
+   "tema": "Cómo se vota al Senado: hasta 3 cruces, excepciones insulares, Ceuta y Melilla, nulo por exceso",
+   "partidos": [],
+   "fuentes": [
+    "https://maldita.es/malditateexplica/20230723/votos-senado-psoe-sumar-mayoria-progresista/",
+    "https://www.esdiario.com/nacional/261026/201318/votar-senado-pacto-pp-vox-cambian-papeletas-elegir-candidatos_amp.html"
+   ],
+   "estado": "programado",
+   "fecha": "2026-11-03T13:30",
+   "fecha_reels": "2026-11-03T13:45",
+   "copy": "Senado 29-N: cuántos candidatos puedes marcar, si puedes mezclar partidos y cuándo tu voto acaba siendo nulo 🗳️\n¿Sabías que podías mezclar? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 166 (BOE); Maldita.\n\n#elecciones #29N #eleccionesgenerales #senado #comovotar"
   }
  ]
 }

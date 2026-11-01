@@ -1,0 +1,228 @@
+{
+ "id": "slp_017_senado",
+ "brand": "Politízate Hoy",
+ "voice": "andrew",
+ "speed": 1.0,
+ "clauses": 2,
+ "header": {
+  "tag": "CÓMO VOTAR · EL SENADO",
+  "source": "Fuente: LOREG art. 166 (BOE) · Maldita"
+ },
+ "caption": "Senado 29-N: cuántos candidatos puedes marcar, si puedes mezclar partidos y cuándo tu voto acaba siendo nulo 🗳️\n¿Sabías que podías mezclar? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 166 (BOE); Maldita.\n\n#elecciones #29N #eleccionesgenerales #senado #comovotar",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Al Senado no votas a un partido: votas a personas. Y puedes mezclar.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Votar al *Senado*",
+       "x": 50,
+       "y": 24,
+       "w": 860
+      },
+      {
+       "id": "i1",
+       "type": "icon",
+       "icon": "urna",
+       "x": 50,
+       "y": 39,
+       "w": 260,
+       "at": 4
+      },
+      {
+       "id": "s1",
+       "type": "stamp",
+       "text": "PUEDES MEZCLAR",
+       "color": "ink",
+       "x": 50,
+       "y": 50,
+       "rot": 6,
+       "at": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cláusula uno: cuántas cruces.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "Cuántas *cruces*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "En la papeleta del Senado marcas hasta tres candidatos de tu provincia.",
+     "show": [
+      {
+       "id": "c1a",
+       "type": "card",
+       "icon": "doc",
+       "text": "Hasta 3 en tu provincia",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Y pueden ser de partidos distintos.",
+     "show": [
+      {
+       "id": "c1b",
+       "type": "card",
+       "icon": "user",
+       "text": "De partidos distintos: vale",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Cláusula dos: las excepciones.",
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "Las *excepciones*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "En Gran Canaria, Mallorca y Tenerife, hasta dos. En Ceuta y Melilla, también dos.",
+     "show": [
+      {
+       "id": "c2a",
+       "type": "card",
+       "icon": "doc",
+       "text": "Islas mayores, Ceuta y Melilla: 2",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Y en el resto de islas, solo uno.",
+     "show": [
+      {
+       "id": "c2b",
+       "type": "card",
+       "icon": "doc",
+       "text": "Resto de islas: 1",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña:",
+     "show": [
+      {
+       "id": "hlp",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "si marcas más cruces de las permitidas, el voto es nulo. Y salen elegidos los más votados, sean del partido que sean.",
+     "show": [
+      {
+       "id": "fp",
+       "type": "fineprint",
+       "small": "* LOREG art. 166: hasta 3 candidatos en las provincias, 2 en Gran Canaria, Mallorca, Tenerife, Ceuta y Melilla, y 1 en el resto de islas. Se proclaman los candidatos con más votos.",
+       "big": "Una cruz de más:\n*nulo*",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Guárdalo para el 29.|veintinueve.",
+     "show": [
+      {
+       "id": "slp",
+       "type": "stamp",
+       "text": "GUÁRDALO",
+       "color": "ink",
+       "x": 50,
+       "y": 54,
+       "rot": 5,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Síguenos para no perderte ninguno.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 52,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "CÓMO VOTAR",
+  "titulo": "Votar al *Senado*",
+  "icono": "urna",
+  "sub": "Hasta tres cruces y puedes mezclar"
+ }
+}
