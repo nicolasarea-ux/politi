@@ -9,10 +9,11 @@
     "https://www.elespanol.com/espana/20261005/puede-votar-pedir-voto-correo-generales-anticipadas/1003744408482_0.html",
     "https://es.euronews.com/2026/10/06/calendario-elecciones-generales-29n-fechas-clave-voto-correo-campana"
    ],
-   "estado": "retirar",
+   "estado": "guion_sin_voz",
    "fecha_reels": "2026-10-29T21:45",
    "errata": "Dice que el voto se envía hasta el 26-N; el último día es el 25-N (LOREG art. 73). Corregido en slp_008_calendario.",
-   "nota": "Publicado el 29-10 con la errata del 26-N. Guion corregido (25-N): rehacer voz y volver a publicar; Nicks borra el Reel viejo."
+   "nota": "Rehacer voz (guion ya corregido a 25-N) y volver a renderizar; ya publicado una vez el 29-O con la errata",
+   "fecha": "2026-11-02T22:00"
   },
   {
    "id": "slp_001_viudedad",
@@ -172,6 +173,30 @@
    "partidos": [
     "PSOE"
    ]
+  },
+  {
+   "id": "slp_013_tren_novedades",
+   "tipo": "actualidad",
+   "estado": "guion_sin_voz",
+   "fecha": "2026-11-02T13:30",
+   "copy": "Urda, cinco días después: qué pasa con la investigación, cuándo podría volver el AVE a Andalucía y qué ocurre el martes en el Congreso. Todo nuestro cariño a las víctimas y sus familias.\n\nFuentes: Europa Press vía The Objective (30-10), Demócrata y Diario de Sevilla (31-10), COPE y The Objective (29-10).\n\n#Urda #Toledo #accidenteferroviario #trenes #actualidad",
+   "partidos": []
+  },
+  {
+   "id": "slp_014_dhondt",
+   "tipo": "atemporal",
+   "estado": "guion_sin_voz",
+   "fecha": "2026-11-03T13:30",
+   "copy": "Por qué un partido con más votos puede sacar menos escaños: la ley D'Hondt explicada en 30 segundos.\n¿Lo sabías o te ha pillado por sorpresa? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 162 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #dhondt #leyelectoral",
+   "partidos": []
+  },
+  {
+   "id": "slp_016_blanco_nulo",
+   "tipo": "atemporal",
+   "estado": "guion_sin_voz",
+   "fecha": "2026-11-03T22:00",
+   "copy": "Votar en blanco, nulo o quedarte en casa NO es lo mismo. Te explicamos la diferencia según la ley.\n¿Sabías que el voto en blanco cuenta para el 3 %? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 96 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #votoenblanco #votonulo",
+   "partidos": []
   }
  ]
 }

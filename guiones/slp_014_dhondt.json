@@ -1,0 +1,228 @@
+{
+ "id": "slp_014_dhondt",
+ "brand": "Politízate Hoy",
+ "voice": "andrew",
+ "speed": 1.0,
+ "clauses": 2,
+ "header": {
+  "tag": "EXPLICADO · CÓMO SE REPARTEN LOS ESCAÑOS",
+  "source": "Fuente: LOREG arts. 162 y 163 (BOE)"
+ },
+ "caption": "Por qué un partido con más votos puede sacar menos escaños: la ley D'Hondt explicada en 30 segundos.\n¿Lo sabías o te ha pillado por sorpresa? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 162 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #dhondt #leyelectoral",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Por qué un partido con más votos puede sacar menos diputados? La culpa no es solo de D'Hondt.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "La ley *D'Hondt*",
+       "x": 50,
+       "y": 24,
+       "w": 860
+      },
+      {
+       "id": "i1",
+       "type": "icon",
+       "icon": "urna",
+       "x": 50,
+       "y": 39,
+       "w": 260,
+       "at": 6
+      },
+      {
+       "id": "s1",
+       "type": "stamp",
+       "text": "350 ESCAÑOS",
+       "color": "ink",
+       "x": 50,
+       "y": 50,
+       "rot": 6,
+       "at": 9
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cláusula uno: cómo funciona.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "Cómo *funciona*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "En cada provincia, los votos de cada partido se dividen entre uno, dos, tres… hasta el número de escaños.",
+     "show": [
+      {
+       "id": "c1a",
+       "type": "card",
+       "icon": "doc",
+       "text": "Votos ÷ 1, 2, 3…",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Los cocientes más altos se quedan los escaños.",
+     "show": [
+      {
+       "id": "c1b",
+       "type": "card",
+       "icon": "urna",
+       "text": "Los más altos, escaño",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Cláusula dos: la provincia manda.",
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "La *provincia* manda",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Cada provincia tiene al menos dos diputados, y Ceuta y Melilla, uno.",
+     "show": [
+      {
+       "id": "c2a",
+       "type": "card",
+       "icon": "house",
+       "text": "Mínimo 2 por provincia",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Por eso en una provincia pequeña hacen falta muchos más votos por escaño que en Madrid.",
+     "show": [
+      {
+       "id": "c2b",
+       "type": "card",
+       "icon": "question",
+       "text": "Más votos por escaño fuera",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña:",
+     "show": [
+      {
+       "id": "hlp",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "hay un mínimo: en cada provincia, el partido que no llega al tres por ciento de los votos válidos no entra en el reparto.",
+     "show": [
+      {
+       "id": "fp",
+       "type": "fineprint",
+       "small": "* LOREG art. 163.1.a: no se tienen en cuenta las candidaturas que no obtengan al menos el 3 % de los votos válidos emitidos en la circunscripción.",
+       "big": "Mínimo\n*3 %*",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Guárdalo para la noche electoral.",
+     "show": [
+      {
+       "id": "slp",
+       "type": "stamp",
+       "text": "GUÁRDALO",
+       "color": "ink",
+       "x": 50,
+       "y": 54,
+       "rot": 5,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Síguenos para no perderte ninguno.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 52,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "EXPLICADO",
+  "titulo": "La ley *D'Hondt*",
+  "grande": "350",
+  "sub": "Cómo se reparten los escaños"
+ }
+}

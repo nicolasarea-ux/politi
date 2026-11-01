@@ -1,0 +1,200 @@
+{
+ "id": "slp_013_tren_novedades",
+ "brand": "Politízate Hoy",
+ "tono": "serio",
+ "clauses": 2,
+ "clauseLabels": [
+  "LA INVESTIGACIÓN",
+  "LA LÍNEA",
+  "EL MARTES"
+ ],
+ "header": {
+  "tag": "URDA · LUN 2 NOV",
+  "source": "Fuentes: Europa Press vía The Objective (30-10) · Demócrata y Diario de Sevilla (31-10) · COPE (29-10)"
+ },
+ "caption": "Urda, cinco días después: qué pasa con la investigación, cuándo podría volver el AVE a Andalucía y qué ocurre el martes en el Congreso. Todo nuestro cariño a las víctimas y sus familias.\n\nFuentes: Europa Press vía The Objective (30-10), Demócrata y Diario de Sevilla (31-10), COPE y The Objective (29-10).\n\n#Urda #Toledo #accidenteferroviario #trenes #actualidad",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Cinco días después del choque de trenes de Urda, esto es lo nuevo.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Urda: lo *nuevo*",
+       "x": 50,
+       "y": 24,
+       "w": 880
+      },
+      {
+       "id": "t1",
+       "type": "icon",
+       "icon": "train",
+       "x": 50,
+       "y": 39,
+       "w": 220,
+       "at": 3
+      },
+      {
+       "id": "n1",
+       "type": "note",
+       "text": "Choque del 28-O · 69 fallecidos (Junta de CLM)",
+       "x": 50,
+       "y": 50,
+       "at": 5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Según Europa Press, el operario de Adif que dio la orden al AVE se negó a declarar ante la Guardia Civil, siguiendo el protocolo.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "La *investigación*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "icon": "doc",
+       "text": "El operario no declara",
+       "x": 50,
+       "y": 33,
+       "w": 820,
+       "at": 6
+      }
+     ]
+    },
+    {
+     "text": "La causa la investigan por separado la comisión de accidentes ferroviarios y un juzgado de Toledo.",
+     "show": [
+      {
+       "id": "c2",
+       "type": "card",
+       "icon": "doc",
+       "text": "CIAF + juzgado, por separado",
+       "x": 50,
+       "y": 42,
+       "w": 820,
+       "at": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "La alta velocidad entre Madrid y Andalucía sigue cortada. Según el Diario de Sevilla, se trabaja para reabrir el 14|catorce de noviembre, pero no hay fecha oficial.",
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "La *línea*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "icon": "calendar",
+       "text": "¿14-N? Sin confirmar",
+       "x": 50,
+       "y": 33,
+       "w": 820,
+       "at": 8
+      }
+     ]
+    },
+    {
+     "text": "Renfe no vende billetes de alta velocidad en esa línea hasta el 13|trece de diciembre, y su plan alternativo no empieza antes del martes.",
+     "show": [
+      {
+       "id": "c4",
+       "type": "card",
+       "icon": "train",
+       "text": "Plan alternativo: no antes del 3-N",
+       "x": 50,
+       "y": 42,
+       "w": 820,
+       "at": 5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y el martes, el ministro Óscar Puente comparece en la Diputación Permanente del Congreso.",
+     "show": [
+      {
+       "id": "h4",
+       "type": "headline",
+       "text": "El *martes*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      },
+      {
+       "id": "i1",
+       "type": "card",
+       "icon": "calendar",
+       "text": "Puente, al Congreso: mar 3-N",
+       "x": 50,
+       "y": 34,
+       "w": 820,
+       "at": 3
+      }
+     ]
+    },
+    {
+     "text": "Lo pidió él mismo, después de que ERC, Podemos y Sumar reclamaran su comparecencia.",
+     "show": [
+      {
+       "id": "i1n",
+       "type": "note",
+       "text": "A petición propia, según The Objective",
+       "x": 50,
+       "y": 41.5,
+       "at": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Te lo contaremos. Todo nuestro cariño a las víctimas y a sus familias.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "sub": "Investigación, AVE y el martes"
+ }
+}

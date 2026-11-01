@@ -1,0 +1,228 @@
+{
+ "id": "slp_016_blanco_nulo",
+ "brand": "Politízate Hoy",
+ "voice": "andrew",
+ "speed": 1.0,
+ "clauses": 2,
+ "header": {
+  "tag": "EXPLICADO · BLANCO, NULO O ABSTENCIÓN",
+  "source": "Fuente: LOREG arts. 96 y 163 (BOE)"
+ },
+ "caption": "Votar en blanco, nulo o quedarte en casa NO es lo mismo. Te explicamos la diferencia según la ley.\n¿Sabías que el voto en blanco cuenta para el 3 %? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 96 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #votoenblanco #votonulo",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Votar en blanco, nulo o no votar? No es lo mismo, y casi nadie sabe por qué.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Blanco, nulo o *abstención*",
+       "x": 50,
+       "y": 24,
+       "w": 860
+      },
+      {
+       "id": "i1",
+       "type": "icon",
+       "icon": "envelope",
+       "x": 50,
+       "y": 39,
+       "w": 260,
+       "at": 6
+      },
+      {
+       "id": "s1",
+       "type": "stamp",
+       "text": "NO ES LO MISMO",
+       "color": "ink",
+       "x": 50,
+       "y": 50,
+       "rot": 6,
+       "at": 9
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cláusula uno: el voto en blanco.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "Voto en *blanco*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Es un sobre sin papeleta dentro.",
+     "show": [
+      {
+       "id": "c1a",
+       "type": "card",
+       "icon": "envelope",
+       "text": "Sobre vacío = blanco",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Y cuenta como voto válido.",
+     "show": [
+      {
+       "id": "c1b",
+       "type": "card",
+       "icon": "doc",
+       "text": "Cuenta como válido",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Cláusula dos: el voto nulo.",
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "Voto *nulo*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Es nulo si la papeleta está tachada o rota, o si hay dos de partidos distintos en el sobre.",
+     "show": [
+      {
+       "id": "c2a",
+       "type": "card",
+       "icon": "doc",
+       "text": "Tachada o rota = nulo",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "El nulo no cuenta para nada en el reparto.",
+     "show": [
+      {
+       "id": "c2b",
+       "type": "card",
+       "icon": "question",
+       "text": "No cuenta en el reparto",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña:",
+     "show": [
+      {
+       "id": "hlp",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "como el blanco es voto válido, sube el listón del tres por ciento que necesita cada partido para entrar en el reparto. La abstención no cuenta en ningún lado.",
+     "show": [
+      {
+       "id": "fp",
+       "type": "fineprint",
+       "small": "* LOREG art. 96: votos nulos y en blanco. Art. 163: el mínimo del 3 % se calcula sobre los votos válidos, que incluyen los votos en blanco.",
+       "big": "El blanco\n*cuenta*",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Guárdalo para el 29.|veintinueve.",
+     "show": [
+      {
+       "id": "slp",
+       "type": "stamp",
+       "text": "GUÁRDALO",
+       "color": "ink",
+       "x": 50,
+       "y": 54,
+       "rot": 5,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Síguenos para no perderte ninguno.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 52,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "EXPLICADO",
+  "titulo": "Blanco, nulo o *abstención*",
+  "icono": "envelope",
+  "sub": "No es lo mismo"
+ }
+}
