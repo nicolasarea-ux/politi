@@ -1,0 +1,222 @@
+{
+ "id": "slp_019_encuestas_urda",
+ "brand": "Politízate Hoy",
+ "voice": "andrew",
+ "speed": 1.0,
+ "clauses": 2,
+ "header": {
+  "tag": "ENCUESTAS · LUN 2 NOV",
+  "source": "Fuentes: Sigma Dos/El Mundo · SocioMétrica/El Español · Demócrata (2-11) · Ara"
+ },
+ "caption": "Las primeras encuestas tras Urda: qué dicen, qué ha cambiado y por qué no son un resultado 📊\n¿Te fías de las encuestas? 👇\n\nFuentes: Sigma Dos para El Mundo (campo 29-30 oct, 2.505 entrevistas), SocioMétrica para El Español, vía Demócrata (2-11) y El Español (1-11); CIS de octubre, vía Ara.\n\n#elecciones #29N #eleccionesgenerales #encuestas #sondeos",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Primeras encuestas después de Urda: esto es lo que ha cambiado.",
+     "show": [
+      {
+       "id": "e14",
+       "type": "headline",
+       "text": "Encuestas tras *Urda*",
+       "x": 50,
+       "y": 24,
+       "w": 860
+      },
+      {
+       "id": "e15",
+       "type": "icon",
+       "icon": "question",
+       "x": 50,
+       "y": 39,
+       "w": 260,
+       "at": 5
+      },
+      {
+       "id": "e16",
+       "type": "stamp",
+       "text": "27 DÍAS",
+       "color": "ink",
+       "x": 50,
+       "y": 50,
+       "rot": 6,
+       "at": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cláusula uno: Sigma Dos, para El Mundo.",
+     "show": [
+      {
+       "id": "e17",
+       "type": "headline",
+       "text": "Sigma *Dos*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      },
+      {
+       "id": "e18",
+       "type": "note",
+       "text": "2.505 entrevistas · 29-30 oct",
+       "x": 50,
+       "y": 31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "PP, 138.|ciento_treinta_y_ocho. PSOE, 99.|noventa_y_nueve. Vox, 65.|sesenta_y_cinco. El PSOE baja ocho escaños.",
+     "show": [
+      {
+       "id": "e19",
+       "type": "card",
+       "icon": "urna",
+       "text": "PP 138 · PSOE 99 · Vox 65",
+       "x": 50,
+       "y": 37,
+       "w": 860,
+       "at": 0
+      },
+      {
+       "id": "e20",
+       "type": "note",
+       "text": "PSOE: de 107 a 99",
+       "x": 50,
+       "y": 46,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Cláusula dos: SocioMétrica, para El Español.",
+     "show": [
+      {
+       "id": "e21",
+       "type": "headline",
+       "text": "Socio*Métrica*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "PP, 139.|ciento_treinta_y_nueve. PSOE, 106.|ciento_seis. Vox, 64.|sesenta_y_cuatro. Aquí el PSOE baja dos.",
+     "show": [
+      {
+       "id": "e22",
+       "type": "card",
+       "icon": "urna",
+       "text": "PP 139 · PSOE 106 · Vox 64",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      },
+      {
+       "id": "e23",
+       "type": "note",
+       "text": "PSOE: de 108 a 106",
+       "x": 50,
+       "y": 42,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "En las dos, PP y Vox suman 203.|doscientos_tres. La mayoría absoluta está en 176.|ciento_setenta_y_seis.",
+     "show": [
+      {
+       "id": "e24",
+       "type": "card",
+       "icon": "urna",
+       "text": "PP + Vox = 203 · Mayoría: 176",
+       "x": 50,
+       "y": 50,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña:",
+     "show": [
+      {
+       "id": "e25",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "una encuesta es una foto, no un resultado. Y el CIS de octubre, antes del accidente, daba primero al PSOE.",
+     "show": [
+      {
+       "id": "e26",
+       "type": "fineprint",
+       "small": "* PP incluye su alianza con UPN. SocioMétrica acumula entrevistas desde septiembre. Horquillas y márgenes de error en cada estudio.",
+       "big": "Una *foto*,\nno un resultado",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Quedan 27|veintisiete días. Síguenos.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 52,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "ENCUESTAS",
+  "titulo": "Las encuestas tras *Urda*",
+  "grande": "203",
+  "sub": "Qué cambia y qué no"
+ }
+}

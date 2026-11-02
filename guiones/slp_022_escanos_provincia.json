@@ -1,0 +1,228 @@
+{
+ "id": "slp_022_escanos_provincia",
+ "brand": "Politízate Hoy",
+ "voice": "andrew",
+ "speed": 1.0,
+ "clauses": 2,
+ "header": {
+  "tag": "EXPLICADO · ESCAÑOS POR PROVINCIA",
+  "source": "Fuente: LOREG art. 162 · Maldita · Estrella Digital (1-11)"
+ },
+ "caption": "Soria elige 2 diputados y Madrid 38: por qué tu voto no pesa igual según dónde vivas 🗺️\n¿Cuántos elige tu provincia? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 162 (BOE); Maldita; Estrella Digital (1-11).\n\n#elecciones #29N #eleccionesgenerales #congreso #escanos",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Tu voto no pesa igual en todas las provincias. Y no es un bulo: está en la ley.",
+     "show": [
+      {
+       "id": "e52",
+       "type": "headline",
+       "text": "Tu voto no *pesa igual*",
+       "x": 50,
+       "y": 24,
+       "w": 860
+      },
+      {
+       "id": "e53",
+       "type": "icon",
+       "icon": "urna",
+       "x": 50,
+       "y": 39,
+       "w": 260,
+       "at": 5
+      },
+      {
+       "id": "e54",
+       "type": "stamp",
+       "text": "DEPENDE DE DÓNDE",
+       "color": "ink",
+       "x": 50,
+       "y": 50,
+       "rot": 6,
+       "at": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cláusula uno: el suelo.",
+     "show": [
+      {
+       "id": "e55",
+       "type": "headline",
+       "text": "El *suelo*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Cada provincia tiene dos diputados asegurados, tenga la población que tenga. Ceuta y Melilla, uno.",
+     "show": [
+      {
+       "id": "e56",
+       "type": "card",
+       "icon": "urna",
+       "text": "2 por provincia · Ceuta y Melilla: 1",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Los otros 248|doscientos_cuarenta_y_ocho se reparten según la población.",
+     "show": [
+      {
+       "id": "e57",
+       "type": "card",
+       "icon": "urna",
+       "text": "248 según población",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Cláusula dos: el resultado.",
+     "show": [
+      {
+       "id": "e58",
+       "type": "headline",
+       "text": "El *resultado*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "El 29|veintinueve de noviembre, Madrid elige 38,|treinta_y_ocho, Barcelona 32|treinta_y_dos y Soria, solo dos.",
+     "show": [
+      {
+       "id": "e59",
+       "type": "card",
+       "icon": "urna",
+       "text": "Madrid 38 · Barcelona 32 · Soria 2",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "En una provincia pequeña hacen falta menos votos para lograr un escaño.",
+     "show": [
+      {
+       "id": "e60",
+       "type": "card",
+       "icon": "urna",
+       "text": "Menos votos por escaño",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña:",
+     "show": [
+      {
+       "id": "e61",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "el reparto cambia con la población. Esta vez, Madrid gana un escaño y Cádiz pierde uno.",
+     "show": [
+      {
+       "id": "e62",
+       "type": "fineprint",
+       "small": "* LOREG art. 162: 350 diputados. El reparto se fija en cada convocatoria según la población de derecho.",
+       "big": "Madrid *+1*\nCádiz -1",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Compártelo con quien vote en otra provincia.",
+     "show": [
+      {
+       "id": "e63",
+       "type": "stamp",
+       "text": "COMPÁRTELO",
+       "color": "ink",
+       "x": 50,
+       "y": 54,
+       "rot": 5,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Síguenos para no perderte ninguno.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 52,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "EXPLICADO",
+  "titulo": "Tu voto no *pesa igual*",
+  "icono": "urna",
+  "sub": "Soria elige 2 y Madrid 38"
+ }
+}

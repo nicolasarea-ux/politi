@@ -1,0 +1,221 @@
+{
+ "id": "slp_021_dni_votar",
+ "brand": "Politízate Hoy",
+ "voice": "andrew",
+ "speed": 1.0,
+ "clauses": 2,
+ "header": {
+  "tag": "CÓMO VOTAR · QUÉ LLEVAR",
+  "source": "Fuente: LOREG art. 85 · Junta Electoral Central · Demócrata · Xataka Móvil"
+ },
+ "caption": "¿Con qué puedes votar el 29-N? DNI caducado, carnet de conducir y por qué no te fíes del móvil 🪪\n¿Sabías lo del DNI caducado? 👇\n\nFuente: LOREG art. 85; acuerdos de la Junta Electoral Central sobre MiDNI y MiDGT (marzo y abril de 2026), vía Xataka Móvil y El Debate; Demócrata.\n\n#elecciones #29N #eleccionesgenerales #DNI #comovotar",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Tienes el DNI caducado y es el 29|veintinueve. ¿Puedes votar? Sí. Pero ojo con el móvil.",
+     "show": [
+      {
+       "id": "e40",
+       "type": "headline",
+       "text": "¿Con qué se *vota*?",
+       "x": 50,
+       "y": 24,
+       "w": 860
+      },
+      {
+       "id": "e41",
+       "type": "icon",
+       "icon": "user",
+       "x": 50,
+       "y": 39,
+       "w": 260,
+       "at": 5
+      },
+      {
+       "id": "e42",
+       "type": "stamp",
+       "text": "DNI CADUCADO: SÍ",
+       "color": "ink",
+       "x": 50,
+       "y": 50,
+       "rot": 6,
+       "at": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cláusula uno: qué documentos valen.",
+     "show": [
+      {
+       "id": "e43",
+       "type": "headline",
+       "text": "Qué *vale*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "DNI, pasaporte o carnet de conducir, siempre que lleven tu foto.",
+     "show": [
+      {
+       "id": "e44",
+       "type": "card",
+       "icon": "user",
+       "text": "DNI · Pasaporte · Carnet de conducir",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      },
+      {
+       "id": "e45",
+       "type": "note",
+       "text": "Con fotografía · LOREG art. 85",
+       "x": 50,
+       "y": 42,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Y el DNI caducado también sirve, si la mesa puede comprobar que eres tú.",
+     "show": [
+      {
+       "id": "e46",
+       "type": "card",
+       "icon": "user",
+       "text": "Caducado también vale",
+       "x": 50,
+       "y": 50,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Cláusula dos: qué no vale.",
+     "show": [
+      {
+       "id": "e47",
+       "type": "headline",
+       "text": "Qué *no vale*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Fotocopias, no. Y una foto del DNI en el móvil, tampoco. Tiene que ser el original.",
+     "show": [
+      {
+       "id": "e48",
+       "type": "card",
+       "icon": "phone",
+       "text": "Ni fotocopia ni foto en el móvil",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña:",
+     "show": [
+      {
+       "id": "e49",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "este año la Junta Electoral suspendió el uso de las apps MiDNI y MiDGT para votar por dudas de seguridad. Lleva el documento físico.",
+     "show": [
+      {
+       "id": "e50",
+       "type": "fineprint",
+       "small": "* Acuerdos de la JEC de marzo y abril de 2026, adoptados para las andaluzas. Comprueba si hay novedades antes del 29-N.",
+       "big": "Lleva el\n*físico*",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Guárdalo para el 29.|veintinueve.",
+     "show": [
+      {
+       "id": "e51",
+       "type": "stamp",
+       "text": "GUÁRDALO",
+       "color": "ink",
+       "x": 50,
+       "y": 54,
+       "rot": 5,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Síguenos para no perderte ninguno.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 52,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "CÓMO VOTAR",
+  "titulo": "¿Con qué se *vota*?",
+  "grande": "DNI",
+  "sub": "DNI caducado, carnet y móvil"
+ }
+}

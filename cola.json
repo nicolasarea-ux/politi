@@ -190,21 +190,21 @@
    "id": "slp_014_dhondt",
    "tipo": "atemporal",
    "estado": "programado",
-   "fecha": "2026-11-02T13:30",
+   "fecha": "2026-11-03T22:00",
    "copy": "Por qué un partido con más votos puede sacar menos escaños: la ley D'Hondt explicada en 30 segundos.\n¿Lo sabías o te ha pillado por sorpresa? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 162 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #dhondt #leyelectoral",
    "partidos": [],
-   "fecha_reels": "2026-11-02T13:45",
-   "nota": "Relleno de franja de actualidad del 2-N (peticiones.md): si la pasada del 2-N tiene noticia, pasa a reserva"
+   "fecha_reels": "2026-11-03T22:15",
+   "nota": "Sustituido el 2-N por actualidad; reprogramado"
   },
   {
    "id": "slp_016_blanco_nulo",
    "tipo": "atemporal",
    "estado": "programado",
-   "fecha": "2026-11-02T17:00",
+   "fecha": "2026-11-04T13:30",
    "copy": "Votar en blanco, nulo o quedarte en casa NO es lo mismo. Te explicamos la diferencia según la ley.\n¿Sabías que el voto en blanco cuenta para el 3 %? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 96 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #votoenblanco #votonulo",
    "partidos": [],
-   "fecha_reels": "2026-11-02T17:15",
-   "nota": "Relleno de franja de actualidad del 2-N (peticiones.md): si la pasada del 2-N tiene noticia, pasa a reserva"
+   "fecha_reels": "2026-11-04T13:45",
+   "nota": "Sustituido el 2-N por actualidad; reprogramado"
   },
   {
    "id": "slp_017_senado",
@@ -220,6 +220,92 @@
    "fecha": "2026-11-03T13:30",
    "fecha_reels": "2026-11-03T13:45",
    "copy": "Senado 29-N: cuántos candidatos puedes marcar, si puedes mezclar partidos y cuándo tu voto acaba siendo nulo 🗳️\n¿Sabías que podías mezclar? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 166 (BOE); Maldita.\n\n#elecciones #29N #eleccionesgenerales #senado #comovotar"
+  },
+  {
+   "id": "slp_018_puente_cese",
+   "serie": "actualidad",
+   "tipo": "actualidad",
+   "tema": "Con las Cortes disueltas, quién puede cesar a Puente: art. 100 CE y comparecencia del 3-N",
+   "partidos": [],
+   "fuentes": [
+    "https://www.democrata.es/politica/todos-contra-puente-como-izquierda-derecha-coinciden-en-exigir-dimision-ministro-transportes/",
+    "https://www.elplural.com/politica/espana/urda-centra-semana-decisiones-gobierno-explicaciones-puente_802959102",
+    "https://www.elespanol.com/espana/20261101/elecciones-generales-directo-ultima-hora-adelanto-electoral-pedro-sanchez-sondeos-encuestas-voto-correo-espana-2026-partidos/1003744442496_10.html",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+   ],
+   "estado": "programado",
+   "fecha": "2026-11-02T13:30",
+   "fecha_reels": "2026-11-02T13:45"
+  },
+  {
+   "id": "slp_019_encuestas_urda",
+   "serie": "actualidad",
+   "tipo": "actualidad",
+   "tema": "Primeras encuestas tras Urda: Sigma Dos y SocioMétrica",
+   "partidos": [],
+   "fuentes": [
+    "https://www.democrata.es/encuestas/elecciones-generales/encuesta-sigma-dos-urda-psoe-99-escanos-pp-vox/",
+    "https://www.democrata.es/encuestas/elecciones-generales/promedio-electoral-tragedia-urda-psoe-pierde-tres-escanos-media-derecha-sube-204-en-primeras-encuestas/",
+    "https://en.ara.cat/politics/what-do-the-polls-for-the-spanish-elections-of-november-29-say_1_5874100.html"
+   ],
+   "estado": "programado",
+   "fecha": "2026-11-02T17:00",
+   "fecha_reels": "2026-11-02T17:15"
+  },
+  {
+   "id": "slp_020_permiso_votar",
+   "serie": "como-votar",
+   "tipo": "atemporal",
+   "tema": "Permiso retribuido para votar: tramos según jornada",
+   "partidos": [],
+   "fuentes": [
+    "https://www.democrata.es/elecciones-generales-espana/permiso-trabajo-votar-29-noviembre-2026-horas/",
+    "https://www.consejogestores.org/?p=11303"
+   ],
+   "estado": "programado",
+   "fecha": "2026-11-04T19:30",
+   "fecha_reels": "2026-11-04T19:45"
+  },
+  {
+   "id": "slp_022_escanos_provincia",
+   "serie": "explicado",
+   "tipo": "atemporal",
+   "tema": "Por qué el voto no pesa igual: mínimo provincial y reparto de escaños",
+   "partidos": [],
+   "fuentes": [
+    "https://maldita.es/malditateexplica/20230613/eleccion-reparto-diputados-senadores-espana/",
+    "https://www.estrelladigital.es/espana/elecciones-generales-29-noviembre-campana-arranca-13-voto-correo-puede-pedir-1/20261101165854452758.html"
+   ],
+   "estado": "programado",
+   "fecha": "2026-11-04T22:00",
+   "fecha_reels": "2026-11-04T22:15"
+  },
+  {
+   "id": "slp_021_dni_votar",
+   "serie": "como-votar",
+   "tipo": "atemporal",
+   "tema": "Con qué documentos se vota; DNI caducado; apps suspendidas por la JEC",
+   "partidos": [],
+   "fuentes": [
+    "https://www.democrata.es/ca/eleccions-generals-espanya/es-pot-votar-amb-el-dni-caducat-a-les-eleccions-del-29n-aquests-son-els-documents-valids/",
+    "https://www.xatakamovil.com/movil-y-sociedad/marcha-atras-uso-midni-al-ir-a-votar-dni-digital-no-documento-valido-para-elecciones",
+    "https://www.eldebate.com/espana/20260423/junta-electoral-ratifica-dni-digital-no-podra-usar-votar-elecciones-andaluzas_410429.html"
+   ],
+   "estado": "reserva",
+   "nota": "Vídeo hecho, listo para usar"
+  },
+  {
+   "id": "slp_023_reflexion",
+   "serie": "explicado",
+   "tipo": "atemporal",
+   "tema": "Jornada de reflexión: qué se prohíbe, art. 53/144 LOREG",
+   "partidos": [],
+   "fuentes": [
+    "https://www.publico.es/politica/puede-jornada-reflexion.html",
+    "https://www.estrelladigital.es/espana/elecciones-generales-29-noviembre-campana-arranca-13-voto-correo-puede-pedir-1/20261101165854452758.html"
+   ],
+   "estado": "reserva",
+   "nota": "Vídeo hecho, listo para usar"
   }
  ]
 }

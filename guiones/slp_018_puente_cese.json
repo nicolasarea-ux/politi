@@ -1,0 +1,215 @@
+{
+ "id": "slp_018_puente_cese",
+ "brand": "Politízate Hoy",
+ "voice": "andrew",
+ "speed": 1.0,
+ "clauses": 2,
+ "header": {
+  "tag": "URDA · LUN 2 NOV",
+  "source": "Fuentes: Constitución arts. 78, 100 y 113 · Demócrata (30-10) · El Español (1-11) · El Plural (2-11)"
+ },
+ "caption": "Con las Cortes disueltas, ¿quién puede cesar a un ministro? Lo que dice la Constitución y qué pasa mañana en el Congreso. Todo nuestro cariño a las víctimas y sus familias.\n¿Conocías esta regla?\n\nFuentes: Constitución Española (arts. 78, 100 y 113); Demócrata (30-10), El Español (1-11), El Plural (2-11).\n\n#elecciones #29N #eleccionesgenerales #Urda #Congreso #Constitucion",
+ "tono": "serio",
+ "clauseLabels": [
+  "QUIÉN LA PIDE",
+  "QUIÉN DECIDE",
+  "EL CONGRESO"
+ ],
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Varios partidos piden la salida de Óscar Puente por Urda. Pero con las Cortes disueltas, ¿quién puede cesar a un ministro?",
+     "show": [
+      {
+       "id": "e1",
+       "type": "headline",
+       "text": "¿Quién puede *cesarle*?",
+       "x": 50,
+       "y": 24,
+       "w": 860
+      },
+      {
+       "id": "e2",
+       "type": "icon",
+       "icon": "question",
+       "x": 50,
+       "y": 39,
+       "w": 260,
+       "at": 5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "PP, Vox, Frente Amplio y Junts piden su dimisión. El PNV, dimisión o cese.",
+     "show": [
+      {
+       "id": "e3",
+       "type": "headline",
+       "text": "Quién la *pide*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      },
+      {
+       "id": "e4",
+       "type": "card",
+       "icon": "user",
+       "text": "PP · Vox · Frente Amplio · Junts",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 3
+      },
+      {
+       "id": "e5",
+       "type": "card",
+       "icon": "user",
+       "text": "PNV: dimisión o cese",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 8
+      }
+     ]
+    },
+    {
+     "text": "Puente lo descarta.",
+     "show": [
+      {
+       "id": "e6",
+       "type": "note",
+       "text": "Según El Plural (2-N)",
+       "x": 50,
+       "y": 51,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Según la Constitución, a un ministro lo separa el Rey, a propuesta del presidente.",
+     "show": [
+      {
+       "id": "e7",
+       "type": "headline",
+       "text": "Quién *decide*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      },
+      {
+       "id": "e8",
+       "type": "card",
+       "icon": "user",
+       "text": "Rey, a propuesta del presidente",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 3
+      },
+      {
+       "id": "e9",
+       "type": "note",
+       "text": "Constitución, art. 100",
+       "x": 50,
+       "y": 42,
+       "at": 5
+      }
+     ]
+    },
+    {
+     "text": "Es decir, decide Pedro Sánchez, salvo que dimita el propio ministro.",
+     "show": [
+      {
+       "id": "e10",
+       "type": "card",
+       "icon": "user",
+       "text": "La decisión es de Sánchez",
+       "x": 50,
+       "y": 50,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Y el Congreso? La moción de censura va contra todo el Gobierno y no es función de la Diputación Permanente.",
+     "show": [
+      {
+       "id": "e11",
+       "type": "headline",
+       "text": "¿Y el *Congreso*?",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      },
+      {
+       "id": "e12",
+       "type": "fineprint",
+       "small": "* Constitución arts. 78.2 y 113. Con las Cortes disueltas sigue en pie la Diputación Permanente, que puede pedir explicaciones.",
+       "big": "Sin moción\nde *censura*",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Eso sí, Puente comparece mañana a las cinco.",
+     "show": [
+      {
+       "id": "e13",
+       "type": "card",
+       "icon": "calendar",
+       "text": "Mar 3-N · 17:00 · Puente, al Congreso",
+       "x": 50,
+       "y": 59,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Todo nuestro cariño a las víctimas y a sus familias.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "URDA",
+  "titulo": "¿Quién puede *cesar* a un ministro?",
+  "icono": "question",
+  "sub": "Con las Cortes disueltas"
+ }
+}

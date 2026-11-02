@@ -1,0 +1,231 @@
+{
+ "id": "slp_020_permiso_votar",
+ "brand": "Politízate Hoy",
+ "voice": "andrew",
+ "speed": 1.0,
+ "clauses": 2,
+ "header": {
+  "tag": "CÓMO VOTAR · PERMISO EN EL TRABAJO",
+  "source": "Fuente: RD 605/1999 art. 13 · Estatuto de los Trabajadores art. 37.3.d"
+ },
+ "caption": "¿Trabajas el 29-N? Cuántas horas pagadas te corresponden para ir a votar 🕘\nGuárdalo 📌 ¿Trabajas ese domingo? 👇\n\nFuente: Real Decreto 605/1999 (art. 13), Estatuto de los Trabajadores (art. 37.3.d), vía Demócrata y Consejo de Gestores.\n\n#elecciones #29N #eleccionesgenerales #derechoslaborales #comovotar",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Te toca trabajar el 29|veintinueve de noviembre? Puede que te deban horas pagadas para ir a votar.",
+     "show": [
+      {
+       "id": "e27",
+       "type": "headline",
+       "text": "¿Trabajas el *29-N*?",
+       "x": 50,
+       "y": 24,
+       "w": 860
+      },
+      {
+       "id": "e28",
+       "type": "icon",
+       "icon": "clock",
+       "x": 50,
+       "y": 39,
+       "w": 260,
+       "at": 5
+      },
+      {
+       "id": "e29",
+       "type": "stamp",
+       "text": "HORAS PAGADAS",
+       "color": "ink",
+       "x": 50,
+       "y": 50,
+       "rot": 6,
+       "at": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cláusula uno: cuántas horas.",
+     "show": [
+      {
+       "id": "e30",
+       "type": "headline",
+       "text": "Cuántas *horas*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Depende de cuánto coincida tu jornada con el horario de votación, de nueve a ocho.",
+     "show": [
+      {
+       "id": "e31",
+       "type": "note",
+       "text": "Votación: 9:00 a 20:00",
+       "x": 50,
+       "y": 31,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Seis horas o más: cuatro de permiso. De cuatro a seis: tres. De dos a cuatro: dos. Menos de dos: ninguna.",
+     "show": [
+      {
+       "id": "e32",
+       "type": "card",
+       "icon": "clock",
+       "text": "6 h o más → 4 h de permiso",
+       "x": 50,
+       "y": 38,
+       "w": 860,
+       "at": 0
+      },
+      {
+       "id": "e33",
+       "type": "card",
+       "icon": "clock",
+       "text": "4 a 6 h → 3 · 2 a 4 h → 2",
+       "x": 50,
+       "y": 47,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Cláusula dos: no pierdes sueldo.",
+     "show": [
+      {
+       "id": "e34",
+       "type": "headline",
+       "text": "Sin perder *sueldo*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Es un permiso retribuido, pero la empresa decide en qué momento de la jornada lo coges.",
+     "show": [
+      {
+       "id": "e35",
+       "type": "card",
+       "icon": "clock",
+       "text": "Retribuido",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      },
+      {
+       "id": "e36",
+       "type": "card",
+       "icon": "calendar",
+       "text": "El momento lo fija la empresa",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña:",
+     "show": [
+      {
+       "id": "e37",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "si tienes jornada parcial, se reduce en proporción. Y pueden pedirte justificante: lo dan en tu mesa.",
+     "show": [
+      {
+       "id": "e38",
+       "type": "fineprint",
+       "small": "* RD 605/1999 art. 13. Cada comunidad concreta el permiso en su boletín oficial. Consulta el tuyo.",
+       "big": "Pide el\n*justificante*",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Guárdalo para el 29.|veintinueve.",
+     "show": [
+      {
+       "id": "e39",
+       "type": "stamp",
+       "text": "GUÁRDALO",
+       "color": "ink",
+       "x": 50,
+       "y": 54,
+       "rot": 5,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Síguenos para no perderte ninguno.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 52,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "CÓMO VOTAR",
+  "titulo": "¿Trabajas el *29-N*?",
+  "icono": "clock",
+  "sub": "Tus horas pagadas para votar"
+ }
+}

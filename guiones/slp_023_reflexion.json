@@ -1,0 +1,206 @@
+{
+ "id": "slp_023_reflexion",
+ "brand": "Politízate Hoy",
+ "voice": "andrew",
+ "speed": 1.0,
+ "clauses": 2,
+ "header": {
+  "tag": "EXPLICADO · JORNADA DE REFLEXIÓN",
+  "source": "Fuente: LOREG arts. 53, 69 y 144 · Estrella Digital (1-11)"
+ },
+ "caption": "Qué es la jornada de reflexión del 28-N y qué pasa si alguien hace campaña ese día 🤫\n¿Debería seguir existiendo? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 53, 69 y 144 (BOE); Público; Estrella Digital (1-11).\n\n#elecciones #29N #eleccionesgenerales #jornadadereflexion #explicado",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "El 28|veintiocho de noviembre está prohibido pedir el voto. Y saltárselo puede ser delito.",
+     "show": [
+      {
+       "id": "e64",
+       "type": "headline",
+       "text": "Jornada de *reflexión*",
+       "x": 50,
+       "y": 24,
+       "w": 860
+      },
+      {
+       "id": "e65",
+       "type": "icon",
+       "icon": "calendar",
+       "x": 50,
+       "y": 39,
+       "w": 260,
+       "at": 5
+      },
+      {
+       "id": "e66",
+       "type": "stamp",
+       "text": "28-N",
+       "color": "ink",
+       "x": 50,
+       "y": 50,
+       "rot": 6,
+       "at": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cláusula uno: qué se prohíbe.",
+     "show": [
+      {
+       "id": "e67",
+       "type": "headline",
+       "text": "Qué se *prohíbe*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Desde que acaba la campaña hasta que se vota no se puede difundir propaganda electoral ni hacer actos de campaña.",
+     "show": [
+      {
+       "id": "e68",
+       "type": "card",
+       "icon": "doc",
+       "text": "Sin propaganda ni actos",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      },
+      {
+       "id": "e69",
+       "type": "note",
+       "text": "LOREG art. 53",
+       "x": 50,
+       "y": 42,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Cláusula dos: qué sí se puede.",
+     "show": [
+      {
+       "id": "e70",
+       "type": "headline",
+       "text": "Qué *sí*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Informar de cómo votar, de dónde están las mesas o de los horarios, sin contenido político.",
+     "show": [
+      {
+       "id": "e71",
+       "type": "card",
+       "icon": "urna",
+       "text": "Sí: información práctica",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña:",
+     "show": [
+      {
+       "id": "e72",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "la ley no define qué es propaganda, así que cada caso lo valora la Junta Electoral. Y el castigo puede llegar a un año de prisión o multa.",
+     "show": [
+      {
+       "id": "e73",
+       "type": "fineprint",
+       "small": "* LOREG art. 144: prisión de 3 meses a 1 año o multa de 6 a 24 meses. Art. 69: tampoco se publican encuestas los 5 días previos.",
+       "big": "¿Qué es\n*propaganda*?",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Guárdalo para el 28.|veintiocho.",
+     "show": [
+      {
+       "id": "e74",
+       "type": "stamp",
+       "text": "GUÁRDALO",
+       "color": "ink",
+       "x": 50,
+       "y": 54,
+       "rot": 5,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Síguenos para no perderte ninguno.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 52,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "EXPLICADO",
+  "titulo": "Jornada de *reflexión*",
+  "icono": "calendar",
+  "sub": "Qué se prohíbe el 28-N"
+ }
+}
