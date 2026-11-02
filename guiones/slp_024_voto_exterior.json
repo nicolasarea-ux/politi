@@ -1,0 +1,213 @@
+{
+ "id": "slp_024_voto_exterior",
+ "brand": "Politízate Hoy",
+ "voice": "andrew",
+ "speed": 1.0,
+ "clauses": 2,
+ "header": {
+  "tag": "CÓMO VOTAR · DESDE EL EXTRANJERO",
+  "source": "Fuente: Ministerio de Exteriores (consulados, 29-N)"
+ },
+ "caption": "¿Vives fuera de España? Cómo votar el 29-N: ya no hay que pedirlo, pero hay fechas que no perdonan ✈️\nEtiqueta a quien viva fuera 👇\n\nFuente: Ministerio de Asuntos Exteriores, webs consulares (Elecciones a Cortes Generales, 29-11-2026).\n\n#elecciones #29N #eleccionesgenerales #votoexterior #CERA",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Vives fuera de España? Para votar el 29|veintinueve ya no tienes que pedirlo. Pero las fechas aprietan.",
+     "show": [
+      {
+       "id": "e101",
+       "type": "headline",
+       "text": "Votar desde *fuera*",
+       "x": 50,
+       "y": 24,
+       "w": 860
+      },
+      {
+       "id": "e102",
+       "type": "icon",
+       "icon": "plane",
+       "x": 50,
+       "y": 39,
+       "w": 260,
+       "at": 5
+      },
+      {
+       "id": "e103",
+       "type": "stamp",
+       "text": "SIN SOLICITUD",
+       "color": "ink",
+       "x": 50,
+       "y": 50,
+       "rot": 6,
+       "at": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cláusula uno: la documentación.",
+     "show": [
+      {
+       "id": "e104",
+       "type": "headline",
+       "text": "Te llega a *casa*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Si estás inscrito como residente en el extranjero, los papeles te llegan por correo.",
+     "show": [
+      {
+       "id": "e105",
+       "type": "card",
+       "icon": "envelope",
+       "text": "Sin solicitud previa",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Las papeletas, en un segundo envío o para descargar.",
+     "show": [
+      {
+       "id": "e106",
+       "type": "card",
+       "icon": "envelope",
+       "text": "Papeletas: segundo envío o descarga",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Cláusula dos: dos formas de votar.",
+     "show": [
+      {
+       "id": "e107",
+       "type": "headline",
+       "text": "Dos *formas*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Por correo a tu consulado, como tarde el 24|veinticuatro de noviembre.",
+     "show": [
+      {
+       "id": "e108",
+       "type": "card",
+       "icon": "envelope",
+       "text": "Por correo: hasta el 24-N",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "O en la urna del consulado, del 21|veintiuno al 26.|veintiséis.",
+     "show": [
+      {
+       "id": "e109",
+       "type": "card",
+       "icon": "urna",
+       "text": "En urna: del 21 al 26-N",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña:",
+     "show": [
+      {
+       "id": "e110",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "si envías el voto antes de que las candidaturas sean definitivas, no vale. Y si solo estás fuera de viaje, tu vía es otra: el voto por correo en Correos.",
+     "show": [
+      {
+       "id": "e111",
+       "type": "fineprint",
+       "small": "* Datos de las webs consulares. Consulta en tu consulado horario y dirección. El plazo para residentes temporales acabó el 31-10.",
+       "big": "No lo\n*adelantes*",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Pásaselo a quien viva fuera y síguenos.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 52,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "CÓMO VOTAR",
+  "titulo": "Votar desde *fuera*",
+  "icono": "plane",
+  "sub": "Sin solicitud, con fechas clave"
+ }
+}

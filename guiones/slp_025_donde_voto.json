@@ -1,0 +1,223 @@
+{
+ "id": "slp_025_donde_voto",
+ "brand": "Politízate Hoy",
+ "voice": "andrew",
+ "speed": 1.0,
+ "clauses": 2,
+ "header": {
+  "tag": "CÓMO VOTAR · DÓNDE TE TOCA",
+  "source": "Fuente: Oficina del Censo Electoral (INE) · Demócrata · Maldita"
+ },
+ "caption": "¿No sabes dónde te toca votar? Cómo mirarlo en dos minutos y qué pasa si no te llega la tarjeta censal 📍\n¿Te ha llegado ya la tuya? 👇\n\nFuente: Oficina del Censo Electoral (INE); Demócrata; Maldita.\n\n#elecciones #29N #eleccionesgenerales #censoelectoral #comovotar",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿No te ha llegado la tarjeta censal? Tranquilo: no la necesitas para votar.",
+     "show": [
+      {
+       "id": "e112",
+       "type": "headline",
+       "text": "¿Dónde te *toca*?",
+       "x": 50,
+       "y": 24,
+       "w": 860
+      },
+      {
+       "id": "e113",
+       "type": "icon",
+       "icon": "question",
+       "x": 50,
+       "y": 39,
+       "w": 260,
+       "at": 5
+      },
+      {
+       "id": "e114",
+       "type": "stamp",
+       "text": "NO ES OBLIGATORIA",
+       "color": "ink",
+       "x": 50,
+       "y": 50,
+       "rot": 6,
+       "at": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cláusula uno: cómo saberlo.",
+     "show": [
+      {
+       "id": "e115",
+       "type": "headline",
+       "text": "Cómo *saberlo*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Entra en la sede electrónica del INE, donde está el servicio del censo electoral.",
+     "show": [
+      {
+       "id": "e116",
+       "type": "card",
+       "icon": "laptop",
+       "text": "Sede electrónica del INE",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Y si tienes problemas, pregunta en tu ayuntamiento.",
+     "show": [
+      {
+       "id": "e117",
+       "type": "card",
+       "icon": "house",
+       "text": "O en tu ayuntamiento",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Cláusula dos: qué es la tarjeta.",
+     "show": [
+      {
+       "id": "e118",
+       "type": "headline",
+       "text": "La *tarjeta*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Es solo informativa: te dice tu sección, tu mesa y tu colegio. Lo que te da derecho a votar es estar en el censo e identificarte.",
+     "show": [
+      {
+       "id": "e119",
+       "type": "card",
+       "icon": "envelope",
+       "text": "Solo informativa",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      },
+      {
+       "id": "e120",
+       "type": "card",
+       "icon": "user",
+       "text": "Censo + identificarte",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña:",
+     "show": [
+      {
+       "id": "e121",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "solo puedes votar en tu mesa. Salvo excepciones de la ley, no vale ir a la de al lado.",
+     "show": [
+      {
+       "id": "e122",
+       "type": "fineprint",
+       "small": "* Comprueba que la consulta se refiere a las generales del 29-N. La tarjeta no sustituye al DNI, pasaporte o carnet de conducir.",
+       "big": "Solo en\n*tu mesa*",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Míralo antes del 29.|veintinueve.",
+     "show": [
+      {
+       "id": "e123",
+       "type": "stamp",
+       "text": "MÍRALO YA",
+       "color": "ink",
+       "x": 50,
+       "y": 54,
+       "rot": 5,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Síguenos para no perderte ninguno.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 52,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "CÓMO VOTAR",
+  "titulo": "¿Dónde te *toca* votar?",
+  "icono": "question",
+  "sub": "Sin tarjeta censal también votas"
+ }
+}

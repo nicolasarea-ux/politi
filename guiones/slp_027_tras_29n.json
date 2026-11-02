@@ -1,0 +1,221 @@
+{
+ "id": "slp_027_tras_29n",
+ "brand": "Politízate Hoy",
+ "voice": "andrew",
+ "speed": 1.0,
+ "clauses": 2,
+ "header": {
+  "tag": "EXPLICADO · DESPUÉS DEL 29-N",
+  "source": "Fuente: Constitución arts. 99 y 101 · Congreso · Estrella Digital (1-11)"
+ },
+ "caption": "Votamos el 29-N, ¿y luego qué? Lo que pasa hasta que hay presidente, paso a paso 🏛️\n¿Quién crees que debería proponer candidato? 👇\n\nFuente: Constitución Española (arts. 99 y 101); Congreso de los Diputados; Estrella Digital (1-11).\n\n#elecciones #29N #eleccionesgenerales #investidura #congreso",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "El 29|veintinueve votamos. Pero esa noche nadie se convierte en presidente.",
+     "show": [
+      {
+       "id": "e136",
+       "type": "headline",
+       "text": "¿Y después del *29-N*?",
+       "x": 50,
+       "y": 24,
+       "w": 860
+      },
+      {
+       "id": "e137",
+       "type": "icon",
+       "icon": "calendar",
+       "x": 50,
+       "y": 39,
+       "w": 260,
+       "at": 5
+      },
+      {
+       "id": "e138",
+       "type": "stamp",
+       "text": "NO HAY PRESIDENTE",
+       "color": "ink",
+       "x": 50,
+       "y": 50,
+       "rot": 6,
+       "at": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cláusula uno: el Gobierno sigue.",
+     "show": [
+      {
+       "id": "e139",
+       "type": "headline",
+       "text": "El Gobierno *sigue*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Tras las elecciones, el Gobierno cesa, pero continúa en funciones hasta que haya uno nuevo.",
+     "show": [
+      {
+       "id": "e140",
+       "type": "card",
+       "icon": "clock",
+       "text": "En funciones",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      },
+      {
+       "id": "e141",
+       "type": "note",
+       "text": "Constitución, art. 101",
+       "x": 50,
+       "y": 42,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Cláusula dos: las fechas.",
+     "show": [
+      {
+       "id": "e142",
+       "type": "headline",
+       "text": "Las *fechas*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "El 23|veintitrés de diciembre se constituyen el Congreso y el Senado.",
+     "show": [
+      {
+       "id": "e143",
+       "type": "card",
+       "icon": "calendar",
+       "text": "23-D: nuevas Cortes",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Después, el Rey consulta a los grupos y propone un candidato a la investidura.",
+     "show": [
+      {
+       "id": "e144",
+       "type": "card",
+       "icon": "user",
+       "text": "El Rey propone candidato",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña:",
+     "show": [
+      {
+       "id": "e145",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "el Rey propone, pero no decide. Y si en dos meses desde la primera votación nadie sale elegido, volvemos a las urnas.",
+     "show": [
+      {
+       "id": "e146",
+       "type": "fineprint",
+       "small": "* Constitución art. 99. La cuenta de dos meses arranca con la primera votación de investidura, no con el 29-N.",
+       "big": "Dos *meses*\nde reloj",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Guárdalo.",
+     "show": [
+      {
+       "id": "e147",
+       "type": "stamp",
+       "text": "GUÁRDALO",
+       "color": "ink",
+       "x": 50,
+       "y": 54,
+       "rot": 5,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Síguenos para no perderte ninguno.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 52,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "EXPLICADO",
+  "titulo": "¿Y después del *29-N*?",
+  "icono": "calendar",
+  "sub": "Qué pasa hasta que hay presidente"
+ }
+}

@@ -1,0 +1,216 @@
+{
+ "id": "slp_026_barrera_3",
+ "brand": "Politízate Hoy",
+ "voice": "andrew",
+ "speed": 1.0,
+ "clauses": 2,
+ "header": {
+  "tag": "EXPLICADO · LA BARRERA DEL 3 %",
+  "source": "Fuente: LOREG art. 163 · Maldita"
+ },
+ "caption": "326.045 votos y ningún escaño: qué es la barrera del 3 % y si de verdad fue la culpable 🧮\n¿Lo sabías? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 163 (BOE); Maldita.\n\n#elecciones #29N #eleccionesgenerales #leyelectoral #explicado",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Más de 326.000|trescientos_veintiséis_mil votos y ningún diputado. Le pasó a un partido en 2019.|dos_mil_diecinueve. ¿Fue por la barrera del 3|tres %?|por_ciento?",
+     "show": [
+      {
+       "id": "e124",
+       "type": "headline",
+       "text": "La barrera del *3 %*",
+       "x": 50,
+       "y": 24,
+       "w": 860
+      },
+      {
+       "id": "e125",
+       "type": "icon",
+       "icon": "urna",
+       "x": 50,
+       "y": 39,
+       "w": 260,
+       "at": 5
+      },
+      {
+       "id": "e126",
+       "type": "stamp",
+       "text": "0 ESCAÑOS",
+       "color": "ink",
+       "x": 50,
+       "y": 50,
+       "rot": 6,
+       "at": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cláusula uno: cómo funciona.",
+     "show": [
+      {
+       "id": "e127",
+       "type": "headline",
+       "text": "Cómo *funciona*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Para entrar en el reparto necesitas el tres por ciento de los votos válidos. Pero en cada provincia, no en toda España.",
+     "show": [
+      {
+       "id": "e128",
+       "type": "card",
+       "icon": "urna",
+       "text": "3 % por provincia",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      },
+      {
+       "id": "e129",
+       "type": "note",
+       "text": "LOREG art. 163",
+       "x": 50,
+       "y": 42,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Cláusula dos: el ejemplo.",
+     "show": [
+      {
+       "id": "e130",
+       "type": "headline",
+       "text": "El *ejemplo*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Pacma, en abril de 2019.|dos_mil_diecinueve. Sacó el 1,25|uno_con_veinticinco por ciento en toda España, y su mejor provincia, Málaga, no llegó al dos.",
+     "show": [
+      {
+       "id": "e131",
+       "type": "card",
+       "icon": "urna",
+       "text": "326.045 votos · 1,25 %",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      },
+      {
+       "id": "e132",
+       "type": "card",
+       "icon": "urna",
+       "text": "Mejor provincia: 1,85 %",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña:",
+     "show": [
+      {
+       "id": "e133",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "según Maldita, quitar la barrera no le habría dado ni un escaño. Lo que pesa de verdad es el tamaño de cada provincia.",
+     "show": [
+      {
+       "id": "e134",
+       "type": "fineprint",
+       "small": "* Maldita, análisis de 2019. Con pocos escaños en juego, hace falta mucho más del 3 % para conseguir uno.",
+       "big": "El 3 %\n*no basta*",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Compártelo.",
+     "show": [
+      {
+       "id": "e135",
+       "type": "stamp",
+       "text": "COMPÁRTELO",
+       "color": "ink",
+       "x": 50,
+       "y": 54,
+       "rot": 5,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Síguenos para no perderte ninguno.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 52,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "EXPLICADO",
+  "titulo": "La barrera del *3 %*",
+  "grande": "3 %",
+  "sub": "Y un caso real con 0 escaños"
+ }
+}

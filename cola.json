@@ -306,6 +306,55 @@
    ],
    "estado": "reserva",
    "nota": "Vídeo hecho, listo para usar"
+  },
+  {
+   "id": "slp_024_voto_exterior",
+   "serie": "como-votar",
+   "tipo": "atemporal",
+   "tema": "Votar desde el extranjero: sin solicitud, 24-N correo, 21-26-N urna",
+   "partidos": [],
+   "fuentes": [
+    "https://www.exteriores.gob.es/Consulados/andorra/es/Comunicacion/Noticias/Paginas/Articulos/Elecciones-a-las-Cortes-Generales-de-29-de-noviembre-de-2026.aspx"
+   ],
+   "estado": "reserva",
+   "nota": "Usar antes del 21-N; plazos caducan"
+  },
+  {
+   "id": "slp_025_donde_voto",
+   "serie": "como-votar",
+   "tipo": "atemporal",
+   "tema": "Dónde te toca votar y tarjeta censal",
+   "partidos": [],
+   "fuentes": [
+    "https://www.democrata.es/elecciones-generales-espana/donde-votar-29n-consultar-colegio-mesa-electoral/"
+   ],
+   "estado": "reserva",
+   "nota": "Vídeo hecho, listo para usar"
+  },
+  {
+   "id": "slp_026_barrera_3",
+   "serie": "explicado",
+   "tipo": "atemporal",
+   "tema": "Barrera del 3 % por provincia; caso Pacma 2019",
+   "partidos": [],
+   "fuentes": [
+    "https://maldita.es/malditateexplica/20190429/por-que-no-consigue-escano-pacma-os-lo-explicamos-no-hubiera-obtenido-diputados-cambiando-el-tamano-de-los-distritos-ni-quitando-el-limite-del-3-solo-con-una-unica-circunscripcion/"
+   ],
+   "estado": "reserva",
+   "nota": "Vídeo hecho, listo para usar"
+  },
+  {
+   "id": "slp_027_tras_29n",
+   "serie": "explicado",
+   "tipo": "atemporal",
+   "tema": "Qué pasa tras el 29-N: funciones, 23-D, propuesta del Rey, dos meses",
+   "partidos": [],
+   "fuentes": [
+    "https://www.congreso.es/en/cem/sesiones-de-investidura",
+    "https://www.estrelladigital.es/espana/elecciones-generales-29-noviembre-campana-arranca-13-voto-correo-puede-pedir-1/20261101165854452758.html"
+   ],
+   "estado": "reserva",
+   "nota": "Vídeo hecho, listo para usar"
   }
  ]
 }
