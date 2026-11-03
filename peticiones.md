@@ -13,3 +13,6 @@ La rutina lee este archivo ANTES del radar y lo que diga aquí manda sobre el re
 ## Serie de bulos (Nicks, 3-N noche, aprobado)
 - "Si gobierna la derecha… ¿verdad o bulo?" en 3 partes (3 bulos cada una, verificados por Maldita/Newtral/EFE Verifica; solo afirmaciones concretas falsas o recortadas, nunca juzgar si un partido es o no franquista). Parte 1 = slp_037 (4-N 19:45). Partes 2 y 3: 5-N y 6-N.
 - Después, la misma serie "Si gobierna la izquierda…" en 3 partes (7-N, 8-N, 9-N), mismo formato, para mantener la neutralidad.
+
+## 4-N (Nicks, 3-N noche)
+- PRIMERO en la pasada de las 10:31: vídeo de reacciones a la dimisión de Óscar Puente (slp_041_puente_reacciones): partidos en orden alfabético, frases literales con 2 fuentes, quién le sustituye si ya se sabe, formato animado con flashes, ≤ 40 s. Publícalo en cuanto esté (~10:50). Ojo: el Reel slp_036 (21:23 del 3-N) decía que no dimitía; si Nicks no lo ha borrado, recuérdaselo.
