@@ -79,6 +79,16 @@ Momentos ya conocidos: **13-N**, Jordi Wild publica en The Wild Project sus entr
 **Portadas (desde 3-N):** el círculo lleva un DATO, no un icono genérico. Pon siempre `portada.grande` con la cifra, fecha o palabra clave del vídeo (p. ej. "203", "69", "28-N", "4 h", "×3", "DNI"; máx. ~6 caracteres). En "Quién es quién" (icono user) salen solas las iniciales del título (PS, AF…). Icono solo si de verdad no hay dato. `sub` corto (≤ 32 caracteres): ahora se ve a 76 px. Nada de fotos de políticos (derechos de imagen).
 Series "Quién es quién": prioriza candidatos principales (Sánchez, Feijóo, Abascal, Díaz); los secundarios rinden mucho menos (Colau 41 views vs Feijóo 307).
 
+## Formato animado (Nicks, 3-N: "subida de calidad")
+Desde el 3-N, **al menos la mitad de los vídeos** se hacen en formato animado (`"formato": "animado"` en guion y cola), y todos los que tengan algo que se pueda dibujar:
+- `via`: esquema de vía con dos trenes, señal, reloj y choque; `keys` con `{"s": escena relativa, "g": segmento, "f": fracción}` y estado (`a`, `b` = posición 0–1, `sig` off/red/green, `clk`, `speed`, `boom`, `lab`). Ejemplo: `guiones/slp_033_urda_minuto.json`.
+- `hemi`: hemiciclo de 350 puntos que se llena (`fill` [{n, c}], `line` 176, contador). `grid`: tabla que aparece celda a celda y marca ganadores (`win`), p. ej. cocientes D'Hondt (ejemplo: `guiones/slp_014_dhondt.json`).
+- Cifras que cuentan: en `card` escribe `{69}`. `card` sin `icon` = tarjeta centrada solo con texto.
+- Algo nuevo en pantalla cada 2–3 s; la cámara ya hace zoom lento sola. Duración objetivo 35–45 s.
+- **Portada animada:** `portada.escena` = el mismo elemento (`via` con `estado`, `hemi`…) en lugar del círculo; `portada.tam` fija el tamaño del título si se parte mal. Revisa siempre la portada recortada 3:4.
+- Tono serio en tragedias: sin `boom` en portada, sin sellos.
+Mide: compara views y tiempo de visionado animado vs. normal en `registro.md` cada 3 días.
+
 ## Tragedias y sucesos graves
 Con víctimas (accidentes, atentados, catástrofes): `"tono": "serio"` en el guion (sin música, sin sellos de broma), etiquetas de la barra con `"clauseLabels"` (p. ej. LO QUE SE SABE / LOS AUDIOS / LO QUE NO SE SABE) en vez de cláusulas y letra pequeña, cifras atribuidas y con hora, nada de culpables mientras haya investigación, y nunca imágenes o detalles morbosos.
 

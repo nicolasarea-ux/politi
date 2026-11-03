@@ -323,8 +323,23 @@
  ],
  "portada": {
   "serie": "URDA",
-  "titulo": "Urda, *minuto a minuto*",
-  "grande": "8:53",
-  "sub": "Señal, orden y choque"
+  "titulo": "*Urda*,\nminuto a minuto",
+  "sub": "Señal, orden y choque",
+  "escena": {
+   "type": "via",
+   "w": 980,
+   "a": "IRYO",
+   "b": "AVE",
+   "dest": "Urda",
+   "sig": 0.86,
+   "sigLabel": "E242",
+   "estado": {
+    "a": 0.62,
+    "b": 0.22,
+    "sig": "red",
+    "clk": "8:53"
+   }
+  },
+  "tam": 118
  }
 }

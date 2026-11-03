@@ -9,6 +9,6 @@ const fs = require('fs'), path = require('path');
   await p.goto('file://' + path.join(__dirname, 'slp.html'));
   await p.evaluate(async g => { await document.fonts.ready; await renderCover(g); }, g);
   await p.waitForTimeout(150);
-  await p.screenshot({ path: out, type: 'jpeg', quality: 92 });
+  await p.screenshot({ path: out, type: 'jpeg', quality: 96 });
   await b.close();
 })();

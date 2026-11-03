@@ -128,7 +128,7 @@
   },
   {
    "id": "slp_012_quien_sanchez",
-   "fecha": "2026-11-03T19:45",
+   "fecha": "2026-11-04T19:45",
    "estado": "pendiente",
    "copy": "Quién es quién 5/5: Pedro Sánchez en 30 segundos. Trayectoria, propuestas y la letra pequeña de su plan de vivienda.\n¿Qué candidato te ha sorprendido más de los cinco? 👇\n\nFuente: Euronews (10 oct), Diario de León (7 oct), Orain (17 oct).\n\n#elecciones #29N #eleccionesgenerales #quienesquien #candidatos #vivienda"
   },
@@ -143,12 +143,6 @@
    "fecha": "2026-11-04T13:45",
    "estado": "pendiente",
    "copy": "Votar en blanco, nulo o quedarte en casa NO es lo mismo. Te explicamos la diferencia según la ley.\n¿Sabías que el voto en blanco cuenta para el 3 %? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 96 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #votoenblanco #votonulo"
-  },
-  {
-   "id": "slp_020_permiso_votar",
-   "fecha": "2026-11-04T19:45",
-   "estado": "pendiente",
-   "copy": "¿Trabajas el 29-N? Cuántas horas pagadas te corresponden para ir a votar 🕘\nGuárdalo 📌 ¿Trabajas ese domingo? 👇\n\nFuente: Real Decreto 605/1999 (art. 13), Estatuto de los Trabajadores (art. 37.3.d), vía Demócrata y Consejo de Gestores.\n\n#elecciones #29N #eleccionesgenerales #derechoslaborales #comovotar"
   },
   {
    "id": "slp_022_escanos_provincia",
@@ -169,10 +163,16 @@
    "copy": "¿No sabes dónde te toca votar? Cómo mirarlo en dos minutos y qué pasa si no te llega la tarjeta censal 📍\n¿Te ha llegado ya la tuya? 👇\n\nFuente: Oficina del Censo Electoral (INE); Demócrata; Maldita.\n\n#elecciones #29N #eleccionesgenerales #censoelectoral #comovotar"
   },
   {
-   "id": "slp_017_senado",
+   "id": "slp_033_urda_minuto",
+   "fecha": "2026-11-03T19:45",
+   "estado": "pendiente",
+   "copy": "Urda, minuto a minuto: la señal que falla, la orden de seguir y el choque. Lo que dicen el primer informe técnico y los audios, sin adelantar culpables.\n¿Qué pregunta le harías tú al ministro? 👇\n\nFuentes: primera nota de la AITAT (vía Vozpópuli, 29-10), audios publicados por eldiario.es y Cuatro, Junta de Castilla-La Mancha.\n\n#Urda #Toledo #trenes #Adif #actualidad"
+  },
+  {
+   "id": "slp_014_dhondt",
    "fecha": "2026-11-05T22:15",
    "estado": "pendiente",
-   "copy": "Senado 29-N: cuántos candidatos puedes marcar, si puedes mezclar partidos y cuándo tu voto acaba siendo nulo 🗳️\n¿Sabías que podías mezclar? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 166 (BOE); Maldita.\n\n#elecciones #29N #eleccionesgenerales #senado #comovotar"
+   "copy": "Por qué un partido con más votos puede sacar menos escaños: la ley D'Hondt explicada en 30 segundos.\n¿Lo sabías o te ha pillado por sorpresa? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 162 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #dhondt #leyelectoral"
   }
  ]
 }

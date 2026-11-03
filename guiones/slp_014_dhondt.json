@@ -264,8 +264,18 @@
  "portada": {
   "serie": "EXPLICADO",
   "titulo": "La ley *D'Hondt*",
-  "grande": "350",
-  "sub": "Cómo se reparten los escaños"
+  "sub": "Cómo se reparten los escaños",
+  "escena": {
+   "type": "hemi",
+   "w": 860,
+   "fill": [
+    {
+     "n": 350,
+     "c": "ink"
+    }
+   ],
+   "fillDur": 0.1
+  }
  },
  "formato": "animado"
 }

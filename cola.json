@@ -170,12 +170,12 @@
    "id": "slp_012_quien_sanchez",
    "tipo": "atemporal",
    "estado": "programado",
-   "fecha": "2026-11-03T19:30",
+   "fecha": "2026-11-04T19:30",
    "copy": "Quién es quién 5/5: Pedro Sánchez en 30 segundos. Trayectoria, propuestas y la letra pequeña de su plan de vivienda.\n¿Qué candidato te ha sorprendido más de los cinco? 👇\n\nFuente: Euronews (10 oct), Diario de León (7 oct), Orain (17 oct).\n\n#elecciones #29N #eleccionesgenerales #quienesquien #candidatos #vivienda",
    "partidos": [
     "PSOE"
    ],
-   "fecha_reels": "2026-11-03T19:45"
+   "fecha_reels": "2026-11-04T19:45"
   },
   {
    "id": "slp_013_tren_novedades",
@@ -189,11 +189,13 @@
   {
    "id": "slp_014_dhondt",
    "tipo": "atemporal",
-   "estado": "reserva",
+   "estado": "programado",
    "copy": "Por qué un partido con más votos puede sacar menos escaños: la ley D'Hondt explicada en 30 segundos.\n¿Lo sabías o te ha pillado por sorpresa? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 162 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #dhondt #leyelectoral",
    "partidos": [],
-   "fecha_reels": "2026-11-03T22:15",
-   "nota": "Vídeo hecho, listo para usar"
+   "fecha_reels": "2026-11-05T22:15",
+   "nota": "Vídeo hecho, listo para usar",
+   "fecha": "2026-11-05T22:00",
+   "formato": "animado"
   },
   {
    "id": "slp_016_blanco_nulo",
@@ -215,10 +217,8 @@
     "https://maldita.es/malditateexplica/20230723/votos-senado-psoe-sumar-mayoria-progresista/",
     "https://www.esdiario.com/nacional/261026/201318/votar-senado-pacto-pp-vox-cambian-papeletas-elegir-candidatos_amp.html"
    ],
-   "estado": "programado",
-   "fecha_reels": "2026-11-03T13:45",
-   "copy": "Senado 29-N: cuántos candidatos puedes marcar, si puedes mezclar partidos y cuándo tu voto acaba siendo nulo 🗳️\n¿Sabías que podías mezclar? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 166 (BOE); Maldita.\n\n#elecciones #29N #eleccionesgenerales #senado #comovotar",
-   "fecha": "2026-11-05T22:00"
+   "estado": "reserva",
+   "copy": "Senado 29-N: cuántos candidatos puedes marcar, si puedes mezclar partidos y cuándo tu voto acaba siendo nulo 🗳️\n¿Sabías que podías mezclar? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 166 (BOE); Maldita.\n\n#elecciones #29N #eleccionesgenerales #senado #comovotar"
   },
   {
    "id": "slp_018_puente_cese",
@@ -261,9 +261,7 @@
     "https://www.democrata.es/elecciones-generales-espana/permiso-trabajo-votar-29-noviembre-2026-horas/",
     "https://www.consejogestores.org/?p=11303"
    ],
-   "estado": "programado",
-   "fecha": "2026-11-04T19:30",
-   "fecha_reels": "2026-11-04T19:45"
+   "estado": "reserva"
   },
   {
    "id": "slp_022_escanos_provincia",
@@ -432,6 +430,16 @@
    ],
    "estado": "reserva",
    "copy": "Quién cuenta de verdad tu voto el 29-N, qué hace Indra y cuándo llega el resultado oficial 🗳️\n¿Sabías que se cuenta a mano? 👇\n\nFuente: Maldita.es, sobre el escrutinio electoral y el papel de Indra.\n\n#elecciones #29N #eleccionesgenerales #recuento #comovotar"
+  },
+  {
+   "id": "slp_033_urda_minuto",
+   "tipo": "actualidad",
+   "formato": "animado",
+   "estado": "programado",
+   "fecha": "2026-11-03T19:30",
+   "fecha_reels": "2026-11-03T19:45",
+   "copy": "Urda, minuto a minuto: la señal que falla, la orden de seguir y el choque. Lo que dicen el primer informe técnico y los audios, sin adelantar culpables.\n¿Qué pregunta le harías tú al ministro? 👇\n\nFuentes: primera nota de la AITAT (vía Vozpópuli, 29-10), audios publicados por eldiario.es y Cuatro, Junta de Castilla-La Mancha.\n\n#Urda #Toledo #trenes #Adif #actualidad",
+   "partidos": []
   }
  ]
 }
