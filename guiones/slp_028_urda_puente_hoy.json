@@ -1,0 +1,215 @@
+{
+ "id": "slp_028_urda_puente_hoy",
+ "brand": "Politízate Hoy",
+ "voice": "andrew",
+ "speed": 1.0,
+ "clauses": 2,
+ "header": {
+  "tag": "URDA · MAR 3 NOV",
+  "source": "Fuentes: AITAT vía Euronews (30-10) · Demócrata (3-11) · Estrella Digital (3-11) · Diario de Pontevedra (3-11)"
+ },
+ "caption": "Urda: lo que se sabe antes de que Puente hable hoy en el Congreso, las ayudas anunciadas y quién pide su salida. Todo nuestro cariño a las víctimas y sus familias.\n\nFuentes: AITAT vía Euronews (30-10); Demócrata, Estrella Digital y Diario de Pontevedra (3-11).\n\n#elecciones #29N #eleccionesgenerales #Urda #Congreso",
+ "tono": "serio",
+ "clauseLabels": [
+  "LO QUE SE SABE",
+  "LAS AYUDAS",
+  "EL CONGRESO"
+ ],
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Hoy, a las cinco, Óscar Puente da explicaciones en el Congreso por Urda. Esto es lo que hay antes de que hable.",
+     "show": [
+      {
+       "id": "e1",
+       "type": "headline",
+       "text": "Urda: *hoy, a las 17:00*",
+       "x": 50,
+       "y": 24,
+       "w": 860
+      },
+      {
+       "id": "e2",
+       "type": "icon",
+       "icon": "clock",
+       "x": 50,
+       "y": 39,
+       "w": 260,
+       "at": 5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Según la primera nota de los investigadores, la señalización falló a las 8:31|ocho_y_treinta_y_uno y el choque fue a las 8:53.|ocho_y_cincuenta_y_tres.",
+     "show": [
+      {
+       "id": "e3",
+       "type": "headline",
+       "text": "Lo que se *sabe*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      },
+      {
+       "id": "e4",
+       "type": "card",
+       "icon": "clock",
+       "text": "8:31 · falla la señalización",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 3
+      },
+      {
+       "id": "e5",
+       "type": "card",
+       "icon": "train",
+       "text": "8:53 · el choque",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 8
+      }
+     ]
+    },
+    {
+     "text": "Es preliminar: dicen que aún es pronto para establecer las causas. Puente apunta a una orden del centro de control de Adif.",
+     "show": [
+      {
+       "id": "e6",
+       "type": "note",
+       "text": "Preliminar · Adif: hipótesis de Puente",
+       "x": 50,
+       "y": 51,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Las ayudas. Sánchez anunció que duplicarán el seguro obligatorio de viajeros, con anticipos de indemnización.",
+     "show": [
+      {
+       "id": "e7",
+       "type": "headline",
+       "text": "Las *ayudas*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      },
+      {
+       "id": "e8",
+       "type": "card",
+       "icon": "doc",
+       "text": "Doble del seguro obligatorio",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 3
+      },
+      {
+       "id": "e9",
+       "type": "card",
+       "icon": "doc",
+       "text": "Anticipos de indemnización",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 7
+      }
+     ]
+    },
+    {
+     "text": "El decreto va hoy al Consejo de Ministros.",
+     "show": [
+      {
+       "id": "e10",
+       "type": "note",
+       "text": "Anuncio de Sánchez (2-N). Falta ver el decreto",
+       "x": 50,
+       "y": 51,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Y el Congreso? Frente Amplio, Junts, PNV, Podemos, PP y Vox piden su salida.",
+     "show": [
+      {
+       "id": "e11",
+       "type": "headline",
+       "text": "¿Y el *Congreso*?",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      },
+      {
+       "id": "e12",
+       "type": "fineprint",
+       "small": "* Orden alfabético. Vox ha presentado una querella en el Supremo: presentarla no implica que se admita.",
+       "big": "Piden\nsu *salida*",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Él descarta dimitir.",
+     "show": [
+      {
+       "id": "e13",
+       "type": "card",
+       "icon": "user",
+       "text": "Puente descarta dimitir",
+       "x": 50,
+       "y": 59,
+       "w": 860,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Todo nuestro cariño a las víctimas y a sus familias.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "URDA",
+  "titulo": "Puente, *hoy* en el Congreso",
+  "icono": "clock",
+  "sub": "Lo que se sabe antes de las 17:00"
+ }
+}

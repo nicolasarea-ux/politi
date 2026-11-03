@@ -189,12 +189,11 @@
   {
    "id": "slp_014_dhondt",
    "tipo": "atemporal",
-   "estado": "programado",
-   "fecha": "2026-11-03T22:00",
+   "estado": "reserva",
    "copy": "Por qué un partido con más votos puede sacar menos escaños: la ley D'Hondt explicada en 30 segundos.\n¿Lo sabías o te ha pillado por sorpresa? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 162 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #dhondt #leyelectoral",
    "partidos": [],
    "fecha_reels": "2026-11-03T22:15",
-   "nota": "Sustituido el 2-N por actualidad; reprogramado"
+   "nota": "Vídeo hecho, listo para usar"
   },
   {
    "id": "slp_016_blanco_nulo",
@@ -217,9 +216,9 @@
     "https://www.esdiario.com/nacional/261026/201318/votar-senado-pacto-pp-vox-cambian-papeletas-elegir-candidatos_amp.html"
    ],
    "estado": "programado",
-   "fecha": "2026-11-03T13:30",
    "fecha_reels": "2026-11-03T13:45",
-   "copy": "Senado 29-N: cuántos candidatos puedes marcar, si puedes mezclar partidos y cuándo tu voto acaba siendo nulo 🗳️\n¿Sabías que podías mezclar? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 166 (BOE); Maldita.\n\n#elecciones #29N #eleccionesgenerales #senado #comovotar"
+   "copy": "Senado 29-N: cuántos candidatos puedes marcar, si puedes mezclar partidos y cuándo tu voto acaba siendo nulo 🗳️\n¿Sabías que podías mezclar? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 166 (BOE); Maldita.\n\n#elecciones #29N #eleccionesgenerales #senado #comovotar",
+   "fecha": "2026-11-05T22:00"
   },
   {
    "id": "slp_018_puente_cese",
@@ -316,8 +315,9 @@
    "fuentes": [
     "https://www.exteriores.gob.es/Consulados/andorra/es/Comunicacion/Noticias/Paginas/Articulos/Elecciones-a-las-Cortes-Generales-de-29-de-noviembre-de-2026.aspx"
    ],
-   "estado": "reserva",
-   "nota": "Usar antes del 21-N; plazos caducan"
+   "estado": "programado",
+   "fecha": "2026-11-05T13:30",
+   "copy": "¿Vives fuera de España? Cómo votar el 29-N: ya no hay que pedirlo, pero hay fechas que no perdonan ✈️\nEtiqueta a quien viva fuera 👇\n\nFuente: Ministerio de Asuntos Exteriores, webs consulares (Elecciones a Cortes Generales, 29-11-2026).\n\n#elecciones #29N #eleccionesgenerales #votoexterior #CERA"
   },
   {
    "id": "slp_025_donde_voto",
@@ -328,8 +328,9 @@
    "fuentes": [
     "https://www.democrata.es/elecciones-generales-espana/donde-votar-29n-consultar-colegio-mesa-electoral/"
    ],
-   "estado": "reserva",
-   "nota": "Vídeo hecho, listo para usar"
+   "estado": "programado",
+   "fecha": "2026-11-05T19:30",
+   "copy": "¿No sabes dónde te toca votar? Cómo mirarlo en dos minutos y qué pasa si no te llega la tarjeta censal 📍\n¿Te ha llegado ya la tuya? 👇\n\nFuente: Oficina del Censo Electoral (INE); Demócrata; Maldita.\n\n#elecciones #29N #eleccionesgenerales #censoelectoral #comovotar"
   },
   {
    "id": "slp_026_barrera_3",
@@ -355,6 +356,55 @@
    ],
    "estado": "reserva",
    "nota": "Vídeo hecho, listo para usar"
+  },
+  {
+   "id": "slp_028_urda_puente_hoy",
+   "serie": "actualidad",
+   "tipo": "actualidad",
+   "tema": "Urda: lo que se sabe antes de la comparecencia de Puente, ayudas y peticiones de salida",
+   "partidos": [],
+   "fuentes": [
+    "https://es.euronews.com/2026/10/30/primer-informe-urda-apunta-cadena-fallos",
+    "https://www.democrata.es/politica/congreso-y-senado/oscar-puente-comparece-este-martes-en-el-congreso-por-el-accidente-ferroviario-de-urda/",
+    "https://www.estrelladigital.es/espana/oscar-puente-comparece-congreso-descartar-dimision-tragedia-toledo/20261103081631452810.html",
+    "https://www.diariodepontevedra.es/articulo/espana/directo-oscar-puente-comparece-martes-congreso-rendir-cuentas-accidente-urda/202611030935291475249.html"
+   ],
+   "estado": "programado",
+   "fecha": "2026-11-03T13:30",
+   "copy": "Urda: lo que se sabe antes de que Puente hable hoy en el Congreso, las ayudas anunciadas y quién pide su salida. Todo nuestro cariño a las víctimas y sus familias.\n\nFuentes: AITAT vía Euronews (30-10); Demócrata, Estrella Digital y Diario de Pontevedra (3-11).\n\n#elecciones #29N #eleccionesgenerales #Urda #Congreso"
+  },
+  {
+   "id": "slp_029_wild_13n",
+   "serie": "actualidad",
+   "tipo": "actualidad",
+   "tema": "Jordi Wild: orden y reglas de las entrevistas del 13-N",
+   "partidos": [
+    "Frente Amplio",
+    "PP",
+    "PSOE",
+    "Vox"
+   ],
+   "fuentes": [
+    "https://www.esdiario.com/chismografo/tendencias/261102/201873/jordi-wild-desvela-sobre-entrevistas-candidatos-29n-dia-saldran-orden-publicacion.html",
+    "https://okdiario.com/cool/jordi-wild-entrevistara-cuatro-candidatos-presidencia-sin-preguntas-pactadas-dos-verificadores-plato-fecha-formato-todo-lo-que-sabe-entrevistas-del-29n-20631696"
+   ],
+   "estado": "programado",
+   "fecha": "2026-11-03T22:00",
+   "copy": "Jordi Wild ya ha dicho cuándo salen las entrevistas a los candidatos y en qué orden. Y hay letra pequeña 🎙️\n¿Cuál vas a ver primero? 👇\n\nFuentes: ESdiario (2-11), OKdiario.\n\n#elecciones #29N #eleccionesgenerales #JordiWild #TheWildProject"
+  },
+  {
+   "id": "slp_030_veda_encuestas",
+   "serie": "explicado",
+   "tipo": "atemporal",
+   "tema": "Veda de encuestas: por qué no se publican sondeos desde el 24-N",
+   "partidos": [],
+   "fuentes": [
+    "https://www.elindependiente.com/espana/2023/05/22/por-que-no-se-publican-encuestas-en-la-ultima-semana-electoral/amp/",
+    "https://www.legalitas.com/actualidad/cinco-dias-antes-las-elecciones-generales-retuitear-un-sondeo-electoral-puede-ser-delito",
+    "https://maldita.es/desinfo/20261029/bulos-desinformaciones-elecciones-29-noviembre-2026/"
+   ],
+   "estado": "reserva",
+   "nota": "Vídeo hecho, listo para usar antes del 24-N"
   }
  ]
 }

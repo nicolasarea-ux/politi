@@ -121,10 +121,10 @@
    "publicado_en": "2026-11-02T22:25"
   },
   {
-   "id": "slp_017_senado",
+   "id": "slp_028_urda_puente_hoy",
    "fecha": "2026-11-03T13:45",
    "estado": "pendiente",
-   "copy": "Senado 29-N: cuántos candidatos puedes marcar, si puedes mezclar partidos y cuándo tu voto acaba siendo nulo 🗳️\n¿Sabías que podías mezclar? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 166 (BOE); Maldita.\n\n#elecciones #29N #eleccionesgenerales #senado #comovotar"
+   "copy": "Urda: lo que se sabe antes de que Puente hable hoy en el Congreso, las ayudas anunciadas y quién pide su salida. Todo nuestro cariño a las víctimas y sus familias.\n\nFuentes: AITAT vía Euronews (30-10); Demócrata, Estrella Digital y Diario de Pontevedra (3-11).\n\n#elecciones #29N #eleccionesgenerales #Urda #Congreso"
   },
   {
    "id": "slp_012_quien_sanchez",
@@ -133,10 +133,10 @@
    "copy": "Quién es quién 5/5: Pedro Sánchez en 30 segundos. Trayectoria, propuestas y la letra pequeña de su plan de vivienda.\n¿Qué candidato te ha sorprendido más de los cinco? 👇\n\nFuente: Euronews (10 oct), Diario de León (7 oct), Orain (17 oct).\n\n#elecciones #29N #eleccionesgenerales #quienesquien #candidatos #vivienda"
   },
   {
-   "id": "slp_014_dhondt",
+   "id": "slp_029_wild_13n",
    "fecha": "2026-11-03T22:15",
    "estado": "pendiente",
-   "copy": "Por qué un partido con más votos puede sacar menos escaños: la ley D'Hondt explicada en 30 segundos.\n¿Lo sabías o te ha pillado por sorpresa? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 162 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #dhondt #leyelectoral"
+   "copy": "Jordi Wild ya ha dicho cuándo salen las entrevistas a los candidatos y en qué orden. Y hay letra pequeña 🎙️\n¿Cuál vas a ver primero? 👇\n\nFuentes: ESdiario (2-11), OKdiario.\n\n#elecciones #29N #eleccionesgenerales #JordiWild #TheWildProject"
   },
   {
    "id": "slp_016_blanco_nulo",
@@ -155,6 +155,24 @@
    "fecha": "2026-11-04T22:15",
    "estado": "pendiente",
    "copy": "Soria elige 2 diputados y Madrid 38: por qué tu voto no pesa igual según dónde vivas 🗺️\n¿Cuántos elige tu provincia? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 162 (BOE); Maldita; Estrella Digital (1-11).\n\n#elecciones #29N #eleccionesgenerales #congreso #escanos"
+  },
+  {
+   "id": "slp_024_voto_exterior",
+   "fecha": "2026-11-05T13:45",
+   "estado": "pendiente",
+   "copy": "¿Vives fuera de España? Cómo votar el 29-N: ya no hay que pedirlo, pero hay fechas que no perdonan ✈️\nEtiqueta a quien viva fuera 👇\n\nFuente: Ministerio de Asuntos Exteriores, webs consulares (Elecciones a Cortes Generales, 29-11-2026).\n\n#elecciones #29N #eleccionesgenerales #votoexterior #CERA"
+  },
+  {
+   "id": "slp_025_donde_voto",
+   "fecha": "2026-11-05T19:45",
+   "estado": "pendiente",
+   "copy": "¿No sabes dónde te toca votar? Cómo mirarlo en dos minutos y qué pasa si no te llega la tarjeta censal 📍\n¿Te ha llegado ya la tuya? 👇\n\nFuente: Oficina del Censo Electoral (INE); Demócrata; Maldita.\n\n#elecciones #29N #eleccionesgenerales #censoelectoral #comovotar"
+  },
+  {
+   "id": "slp_017_senado",
+   "fecha": "2026-11-05T22:15",
+   "estado": "pendiente",
+   "copy": "Senado 29-N: cuántos candidatos puedes marcar, si puedes mezclar partidos y cuándo tu voto acaba siendo nulo 🗳️\n¿Sabías que podías mezclar? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 166 (BOE); Maldita.\n\n#elecciones #29N #eleccionesgenerales #senado #comovotar"
   }
  ]
 }

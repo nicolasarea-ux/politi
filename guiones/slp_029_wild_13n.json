@@ -1,0 +1,254 @@
+{
+ "id": "slp_029_wild_13n",
+ "brand": "Politízate Hoy",
+ "voice": "andrew",
+ "speed": 1.0,
+ "clauses": 2,
+ "header": {
+  "tag": "THE WILD PROJECT · MAR 3 NOV",
+  "source": "Fuentes: ESdiario (2-11) · OKdiario"
+ },
+ "caption": "Jordi Wild ya ha dicho cuándo salen las entrevistas a los candidatos y en qué orden. Y hay letra pequeña 🎙️\n¿Cuál vas a ver primero? 👇\n\nFuentes: ESdiario (2-11), OKdiario.\n\n#elecciones #29N #eleccionesgenerales #JordiWild #TheWildProject",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "El 13|trece de noviembre, Jordi Wild publica cuatro entrevistas a candidatos en un solo día. Y ya sabemos el orden.",
+     "show": [
+      {
+       "id": "e1",
+       "type": "headline",
+       "text": "Wild: *cuatro entrevistas*",
+       "x": 50,
+       "y": 24,
+       "w": 860
+      },
+      {
+       "id": "e2",
+       "type": "icon",
+       "icon": "calendar",
+       "x": 50,
+       "y": 39,
+       "w": 260,
+       "at": 6
+      },
+      {
+       "id": "e3",
+       "type": "stamp",
+       "text": "13-N",
+       "color": "ink",
+       "x": 50,
+       "y": 50,
+       "rot": 6,
+       "at": 10
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cláusula uno: el orden.",
+     "show": [
+      {
+       "id": "e4",
+       "type": "headline",
+       "text": "El *orden*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Primero, Frente Amplio. Luego, Vox. Después, el PP. Y cierra Pedro Sánchez, con una hora entre cada una.",
+     "show": [
+      {
+       "id": "e5",
+       "type": "card",
+       "icon": "user",
+       "text": "1 · Frente Amplio",
+       "x": 50,
+       "y": 32,
+       "w": 860,
+       "at": 0
+      },
+      {
+       "id": "e6",
+       "type": "card",
+       "icon": "user",
+       "text": "2 · Vox",
+       "x": 50,
+       "y": 40,
+       "w": 860,
+       "at": 2
+      },
+      {
+       "id": "e7",
+       "type": "card",
+       "icon": "user",
+       "text": "3 · PP",
+       "x": 50,
+       "y": 48,
+       "w": 860,
+       "at": 4
+      },
+      {
+       "id": "e8",
+       "type": "card",
+       "icon": "user",
+       "text": "4 · PSOE, Pedro Sánchez",
+       "x": 50,
+       "y": 56,
+       "w": 860,
+       "at": 6
+      }
+     ]
+    },
+    {
+     "text": "Dice Wild: es el que más morbo va a tener.",
+     "show": [
+      {
+       "id": "e9",
+       "type": "note",
+       "text": "\"Es el que más morbo va a tener\" (ESdiario)",
+       "x": 50,
+       "y": 65,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Cláusula dos: las reglas.",
+     "show": [
+      {
+       "id": "e10",
+       "type": "headline",
+       "text": "Las *reglas*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Sin preguntas por adelantado, dos verificadores en plató y publicadas íntegras, de 50|cincuenta a 90|noventa minutos.",
+     "show": [
+      {
+       "id": "e11",
+       "type": "card",
+       "icon": "question",
+       "text": "Sin preguntas previas",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      },
+      {
+       "id": "e12",
+       "type": "card",
+       "icon": "doc",
+       "text": "Dos verificadores",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 3
+      },
+      {
+       "id": "e13",
+       "type": "card",
+       "icon": "clock",
+       "text": "Íntegras · 50-90 min",
+       "x": 50,
+       "y": 51,
+       "w": 860,
+       "at": 6
+      },
+      {
+       "id": "e14",
+       "type": "note",
+       "text": "Según OKdiario",
+       "x": 50,
+       "y": 60,
+       "at": 6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña:",
+     "show": [
+      {
+       "id": "e15",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Wild dice que aún no las ha grabado. Y Podemos no está entre las cuatro anunciadas.",
+     "show": [
+      {
+       "id": "e16",
+       "type": "fineprint",
+       "small": "* Wild, recogido por ESdiario (2-N): \"En breve grabaré las entrevistas\". Días de grabación aún sin cerrar, según OKdiario.",
+       "big": "Aún sin\n*grabar*",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Ese día arranca la campaña. Síguenos y te contamos qué dijo cada uno.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 52,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "THE WILD PROJECT",
+  "titulo": "Wild: el orden del *13-N*",
+  "icono": "calendar",
+  "sub": "Cuatro candidatos en un día"
+ }
+}

@@ -1,0 +1,202 @@
+{
+ "id": "slp_030_veda_encuestas",
+ "brand": "Politízate Hoy",
+ "voice": "andrew",
+ "speed": 1.0,
+ "clauses": 2,
+ "header": {
+  "tag": "EXPLICADO · LA VEDA DE ENCUESTAS",
+  "source": "Fuente: LOREG art. 69.7 · Maldita (29-10)"
+ },
+ "caption": "Por qué dejarás de ver encuestas nuevas en los medios antes del 29-N, y cómo no tragarte una falsa 📊\n¿Te has cruzado con alguna rara? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 69.7; El Independiente; Maldita.\n\n#elecciones #29N #eleccionesgenerales #encuestas #explicado",
+ "tipo": "atemporal",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Desde el 24|veinticuatro de noviembre, ningún medio podrá publicarte una encuesta nueva. Y no es casualidad.",
+     "show": [
+      {
+       "id": "e1",
+       "type": "headline",
+       "text": "La veda de *encuestas*",
+       "x": 50,
+       "y": 24,
+       "w": 860
+      },
+      {
+       "id": "e2",
+       "type": "icon",
+       "icon": "calendar",
+       "x": 50,
+       "y": 39,
+       "w": 260,
+       "at": 6
+      },
+      {
+       "id": "e3",
+       "type": "stamp",
+       "text": "DESDE EL 24-N",
+       "color": "ink",
+       "x": 50,
+       "y": 50,
+       "rot": 6,
+       "at": 9
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cláusula uno: la ley.",
+     "show": [
+      {
+       "id": "e4",
+       "type": "headline",
+       "text": "La *ley*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Durante los cinco días anteriores a votar, está prohibido publicar sondeos electorales en cualquier medio.",
+     "show": [
+      {
+       "id": "e5",
+       "type": "card",
+       "icon": "doc",
+       "text": "5 días sin publicar sondeos",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      },
+      {
+       "id": "e6",
+       "type": "note",
+       "text": "LOREG, art. 69.7",
+       "x": 50,
+       "y": 42,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Cláusula dos: lo que sí se puede.",
+     "show": [
+      {
+       "id": "e7",
+       "type": "headline",
+       "text": "Lo que *sí*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Se prohíbe publicarlas, no hacerlas. Y puedes seguir consultando las publicadas antes.",
+     "show": [
+      {
+       "id": "e8",
+       "type": "card",
+       "icon": "question",
+       "text": "Hacerlas: sí",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0
+      },
+      {
+       "id": "e9",
+       "type": "card",
+       "icon": "question",
+       "text": "Ver las anteriores: sí",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña:",
+     "show": [
+      {
+       "id": "e10",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "en redes circulan encuestas antiguas, sin fuente o hechas con IA. Si no dice quién la hizo y cuándo, desconfía.",
+     "show": [
+      {
+       "id": "e11",
+       "type": "fineprint",
+       "small": "* Maldita (29-10) ha detectado en TikTok encuestas antiguas presentadas como nuevas, sin fuente o generadas con IA.",
+       "big": "Sin fuente,\n*desconfía*",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Síguenos para no perderte ninguno.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 52,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "EXPLICADO",
+  "titulo": "La veda de *encuestas*",
+  "icono": "calendar",
+  "sub": "Por qué desaparecen desde el 24-N"
+ }
+}
