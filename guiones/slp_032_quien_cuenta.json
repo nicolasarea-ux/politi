@@ -1,0 +1,193 @@
+{
+ "id": "slp_032_quien_cuenta",
+ "brand": "Politízate Hoy",
+ "voice": "andrew",
+ "speed": 1.0,
+ "clauses": 2,
+ "header": {
+  "tag": "EXPLICADO · QUIÉN CUENTA TU VOTO",
+  "source": "Fuente: Maldita (escrutinio electoral e Indra)"
+ },
+ "caption": "Quién cuenta de verdad tu voto el 29-N, qué hace Indra y cuándo llega el resultado oficial 🗳️\n¿Sabías que se cuenta a mano? 👇\n\nFuente: Maldita.es, sobre el escrutinio electoral y el papel de Indra.\n\n#elecciones #29N #eleccionesgenerales #recuento #comovotar",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Quién cuenta tu voto el 29?|veintinueve? Ni Indra ni el Gobierno. Lo cuentan personas elegidas por sorteo.",
+     "show": [
+      {
+       "type": "headline",
+       "text": "¿Quién cuenta *tu voto*?",
+       "x": 50,
+       "y": 24,
+       "w": 860,
+       "id": "e1"
+      },
+      {
+       "type": "icon",
+       "icon": "urna",
+       "x": 50,
+       "y": 39,
+       "w": 260,
+       "at": 3,
+       "id": "e2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cláusula uno: la noche electoral. A las ocho cierran las urnas, y los miembros de cada mesa cuentan las papeletas, con representantes de los partidos delante.",
+     "show": [
+      {
+       "type": "headline",
+       "text": "La *noche*",
+       "x": 50,
+       "y": 22,
+       "w": 860,
+       "id": "e3"
+      },
+      {
+       "type": "card",
+       "icon": "user",
+       "text": "Cuentan los miembros de mesa",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 5,
+       "id": "e4"
+      },
+      {
+       "type": "card",
+       "icon": "user",
+       "text": "Delante, interventores y apoderados",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 8,
+       "id": "e5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Cláusula dos: lo que ves en la tele es provisional. Los datos van a Interior. Indra ayuda a transmitirlos, pero no cuenta ni un voto.",
+     "show": [
+      {
+       "type": "headline",
+       "text": "Lo *provisional*",
+       "x": 50,
+       "y": 22,
+       "w": 860,
+       "id": "e6"
+      },
+      {
+       "type": "card",
+       "icon": "laptop",
+       "text": "Los datos van a Interior",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 5,
+       "id": "e7"
+      },
+      {
+       "type": "card",
+       "icon": "laptop",
+       "text": "Indra transmite, no cuenta",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 7,
+       "id": "e8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña: el resultado oficial llega después. Unos cinco días más tarde, la Junta Electoral Provincial revisa las actas y suma el voto desde el extranjero.",
+     "show": [
+      {
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 860,
+       "id": "e9"
+      },
+      {
+       "type": "fineprint",
+       "small": "* Según Maldita. Los datos de las Juntas son los que se publican en el BOE.",
+       "big": "Lo oficial,\n*5 días después*",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0,
+       "id": "e10"
+      }
+     ]
+    },
+    {
+     "text": "Y puede cambiar: en 2023|dos_mil_veintitrés se movió un escaño.",
+     "show": [
+      {
+       "type": "stamp",
+       "text": "2023: UN ESCAÑO",
+       "color": "ink",
+       "x": 50,
+       "y": 56,
+       "rot": 5,
+       "at": 0,
+       "id": "e11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Síguenos para no perderte ninguno.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 52,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "EXPLICADO",
+  "titulo": "¿Quién cuenta *tu voto*?",
+  "icono": "urna",
+  "sub": "Ni Indra ni el Gobierno"
+ }
+}

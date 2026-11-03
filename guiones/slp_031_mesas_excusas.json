@@ -1,0 +1,198 @@
+{
+ "id": "slp_031_mesas_excusas",
+ "brand": "Politízate Hoy",
+ "voice": "andrew",
+ "speed": 1.0,
+ "clauses": 2,
+ "header": {
+  "tag": "MESAS · LAS EXCUSAS",
+  "source": "Fuente: Instrucción 6/2011 JEC, vía Telecinco y El Independiente"
+ },
+ "caption": "Te ha tocado mesa: las excusas que te libran, las que dependen de la Junta y el plazo que no puedes dejar pasar 🗳️\n¿A ti te ha llegado la carta? 👇\n\nFuente: Instrucción 6/2011 de la Junta Electoral Central, vía Telecinco (1-11) y El Independiente (9-10).\n\n#elecciones #29N #eleccionesgenerales #mesaelectoral #comovotar",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Te ha tocado mesa electoral? Tienes siete días para alegar, y no todas las excusas valen.",
+     "show": [
+      {
+       "type": "headline",
+       "text": "¿Te ha tocado *mesa*?",
+       "x": 50,
+       "y": 24,
+       "w": 860,
+       "id": "e1"
+      },
+      {
+       "type": "icon",
+       "icon": "envelope",
+       "x": 50,
+       "y": 39,
+       "w": 260,
+       "at": 3,
+       "id": "e2"
+      },
+      {
+       "type": "stamp",
+       "text": "7 DÍAS PARA ALEGAR",
+       "color": "ink",
+       "x": 50,
+       "y": 51,
+       "rot": 5,
+       "at": 5,
+       "id": "e3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cláusula uno: las que se aceptan. Tener entre 65|sesenta_y_cinco y 70|setenta años, baja médica, embarazo desde el sexto mes, o haber estado en una mesa tres veces en diez años.",
+     "show": [
+      {
+       "type": "headline",
+       "text": "Las que *valen*",
+       "x": 50,
+       "y": 22,
+       "w": 860,
+       "id": "e4"
+      },
+      {
+       "type": "card",
+       "icon": "user",
+       "text": "De 65 a 70 años · baja médica",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 3,
+       "id": "e5"
+      },
+      {
+       "type": "card",
+       "icon": "user",
+       "text": "Embarazo desde el 6.º mes",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 7,
+       "id": "e6"
+      },
+      {
+       "type": "card",
+       "icon": "calendar",
+       "text": "3 veces en mesa en 10 años",
+       "x": 50,
+       "y": 51,
+       "w": 860,
+       "at": 10,
+       "id": "e7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Cláusula dos: las que dependen de la Junta. Una boda que no se pueda aplazar, o un viaje reservado antes del 5|cinco de octubre.",
+     "show": [
+      {
+       "type": "headline",
+       "text": "Caso a *caso*",
+       "x": 50,
+       "y": 22,
+       "w": 860,
+       "id": "e8"
+      },
+      {
+       "type": "card",
+       "icon": "calendar",
+       "text": "Boda que no se pueda aplazar",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 3,
+       "id": "e9"
+      },
+      {
+       "type": "card",
+       "icon": "plane",
+       "text": "Viaje reservado antes del 5-O",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 6,
+       "id": "e10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña: los días cuentan desde que te notifican. Se pide a la Junta Electoral de Zona, y presentar la excusa no te libra: decide ella.",
+     "show": [
+      {
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 860,
+       "id": "e11"
+      },
+      {
+       "type": "fineprint",
+       "small": "* Instrucción 6/2011 JEC. Lo de las tres veces solo vale si la mesa se puede completar. Causas posteriores: hasta 72 h antes.",
+       "big": "*7 días*\npara alegar",
+       "x": 50,
+       "y": 39,
+       "w": 880,
+       "at": 0,
+       "id": "e12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Mándaselo a quien le haya llegado la carta, y síguenos.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 33,
+       "w": 460
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 52,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "MESAS",
+  "titulo": "Excusas que *sí valen*",
+  "icono": "envelope",
+  "sub": "Si te ha tocado mesa"
+ }
+}
