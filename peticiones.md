@@ -9,3 +9,7 @@ La rutina lee este archivo ANTES del radar y lo que diga aquí manda sobre el re
 
 ## 3-N (Nicks, 12:30)
 - Hoy 6 Reels: Puente antes (13:45), Jesús de Miguel: qué dice la ley (16:45), odio en redes / amenazas a Owono (18:15), Urda animado (19:45), comparecencia de Puente (~22:00, cuando Nicks llegue a casa a las 21:30 y encienda el portátil), Jordi Wild (23:00).
+
+## Serie de bulos (Nicks, 3-N noche, aprobado)
+- "Si gobierna la derecha… ¿verdad o bulo?" en 3 partes (3 bulos cada una, verificados por Maldita/Newtral/EFE Verifica; solo afirmaciones concretas falsas o recortadas, nunca juzgar si un partido es o no franquista). Parte 1 = slp_037 (4-N 19:45). Partes 2 y 3: 5-N y 6-N.
+- Después, la misma serie "Si gobierna la izquierda…" en 3 partes (7-N, 8-N, 9-N), mismo formato, para mantener la neutralidad.
