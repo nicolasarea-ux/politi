@@ -74,6 +74,10 @@ Momentos ya conocidos: **13-N**, Jordi Wild publica en The Wild Project sus entr
 ## Portadas (Nicks, 30-O: las de antes eran feas)
 `crear.sh` genera `videos/<id>.jpg` con `engine/cover.js` (diseño fijo: serie arriba, título grande con fosforito, mancha con icono, píldora de marca; todo dentro del recorte 3:4 de la cuadrícula de Instagram). Cada guion lleva `"portada": {"serie", "titulo" (con *marca*), "icono" o "grande" (un número/texto corto en vez de icono), "sub" (5–7 palabras)}`; si falta algo, se saca de la cabecera y del primer titular. Revisa la portada antes de programar: el icono tiene que tener sentido (nada de `doc` tachado o `person` tachado para cosas neutras). Iconos: rings, kids, house, doc, envelope, calendar, laptop, train, clock, phone, plane, question, urna, user.
 
+
+**Portadas (desde 3-N):** el círculo lleva un DATO, no un icono genérico. Pon siempre `portada.grande` con la cifra, fecha o palabra clave del vídeo (p. ej. "203", "69", "28-N", "4 h", "×3", "DNI"; máx. ~6 caracteres). En "Quién es quién" (icono user) salen solas las iniciales del título (PS, AF…). Icono solo si de verdad no hay dato. `sub` corto (≤ 32 caracteres): ahora se ve a 76 px. Nada de fotos de políticos (derechos de imagen).
+Series "Quién es quién": prioriza candidatos principales (Sánchez, Feijóo, Abascal, Díaz); los secundarios rinden mucho menos (Colau 41 views vs Feijóo 307).
+
 ## Tragedias y sucesos graves
 Con víctimas (accidentes, atentados, catástrofes): `"tono": "serio"` en el guion (sin música, sin sellos de broma), etiquetas de la barra con `"clauseLabels"` (p. ej. LO QUE SE SABE / LOS AUDIOS / LO QUE NO SE SABE) en vez de cláusulas y letra pequeña, cifras atribuidas y con hora, nada de culpables mientras haya investigación, y nunca imágenes o detalles morbosos.
 

@@ -222,7 +222,7 @@
  "portada": {
   "serie": "EXPLICADO",
   "titulo": "Blanco, nulo o *abstención*",
-  "icono": "envelope",
-  "sub": "No es lo mismo"
+  "sub": "No es lo mismo",
+  "grande": "≠"
  }
 }

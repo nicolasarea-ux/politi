@@ -207,7 +207,7 @@
  "portada": {
   "serie": "CÓMO VOTAR",
   "titulo": "Votar desde *fuera*",
-  "icono": "plane",
-  "sub": "Sin solicitud, con fechas clave"
+  "sub": "Fecha límite si vives fuera",
+  "grande": "24-N"
  }
 }

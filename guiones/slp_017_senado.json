@@ -222,7 +222,7 @@
  "portada": {
   "serie": "CÓMO VOTAR",
   "titulo": "Votar al *Senado*",
-  "icono": "urna",
-  "sub": "Hasta tres cruces y puedes mezclar"
+  "sub": "Hasta tres cruces, y mezclando",
+  "grande": "×3"
  }
 }

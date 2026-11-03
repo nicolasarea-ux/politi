@@ -225,7 +225,7 @@
  "portada": {
   "serie": "CÓMO VOTAR",
   "titulo": "¿Trabajas el *29-N*?",
-  "icono": "clock",
-  "sub": "Tus horas pagadas para votar"
+  "sub": "Horas pagadas para votar",
+  "grande": "4 h"
  }
 }
