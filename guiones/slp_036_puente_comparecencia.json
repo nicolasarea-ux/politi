@@ -1,0 +1,399 @@
+{
+ "id": "slp_036_puente_comparecencia",
+ "brand": "Politízate Hoy",
+ "tono": "serio",
+ "formato": "animado",
+ "clauses": 2,
+ "clauseLabels": [
+  "SU VERSIÓN",
+  "LAS MEDIDAS",
+  "¿DIMITE?"
+ ],
+ "header": {
+  "tag": "CONGRESO · MAR 3 NOV",
+  "source": "Fuentes: Diario de Pontevedra · Infobae · Público · Herqles (3-11)"
+ },
+ "caption": "Óscar Puente ha dado hoy en el Congreso su versión de Urda, con horas: la orden de «marcha normal», el Iryo que no arrancó y el choque. Más las medidas que anuncia y quién pide su dimisión.\n¿Te han convencido sus explicaciones? 👇\n\nFuentes: directos de Diario de Pontevedra, Infobae y Público, y crónica de Herqles (3-11). Versión del ministro: la investigación técnica sigue abierta.\n\n#Urda #ÓscarPuente #Congreso #trenes #actualidad",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Óscar Puente ha dado hoy su versión de Urda en el Congreso. Y le ha puesto hora a todo.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Lo que dijo *Puente*",
+       "x": 50,
+       "y": 23,
+       "w": 900
+      },
+      {
+       "id": "via",
+       "type": "via",
+       "keep": 1,
+       "w": 980,
+       "x": 50,
+       "y": 47,
+       "a": "IRYO",
+       "b": "AVE",
+       "dest": "Urda",
+       "sig": 0.86,
+       "sigLabel": "LZB",
+       "at": 6,
+       "keys": [
+        {
+         "s": 0,
+         "g": 0,
+         "f": 0.0,
+         "a": 0.2,
+         "b": -0.4,
+         "sig": "green",
+         "speed": 1,
+         "boom": false,
+         "clk": "8:2…",
+         "lab": "Su versión, minuto a minuto"
+        },
+        {
+         "s": 0,
+         "g": 0,
+         "f": 1.0,
+         "a": 0.4,
+         "b": -0.4,
+         "sig": "green",
+         "speed": 1,
+         "boom": false,
+         "clk": "8:2…",
+         "lab": "Su versión, minuto a minuto"
+        },
+        {
+         "s": 1,
+         "g": 0,
+         "f": 0.0,
+         "a": 0.4,
+         "b": -0.4,
+         "sig": "off",
+         "speed": 1,
+         "boom": false,
+         "clk": "8:30",
+         "lab": "Falla el sistema LZB"
+        },
+        {
+         "s": 1,
+         "g": 0,
+         "f": 1.0,
+         "a": 0.55,
+         "b": -0.4,
+         "sig": "off",
+         "speed": 1,
+         "boom": false,
+         "clk": "8:30",
+         "lab": "El control pasa a Atocha"
+        },
+        {
+         "s": 1,
+         "g": 1,
+         "f": 0.0,
+         "a": 0.62,
+         "b": -0.3,
+         "sig": "off",
+         "speed": 1,
+         "boom": false,
+         "clk": "8:36",
+         "lab": "Orden al AVE: «marcha normal»"
+        },
+        {
+         "s": 1,
+         "g": 1,
+         "f": 1.0,
+         "a": 0.62,
+         "b": -0.05,
+         "sig": "off",
+         "speed": 1,
+         "boom": false,
+         "clk": "8:36",
+         "lab": "Orden al AVE: «marcha normal»"
+        },
+        {
+         "s": 1,
+         "g": 2,
+         "f": 0.0,
+         "a": 0.62,
+         "b": 0.0,
+         "sig": "off",
+         "speed": 1,
+         "boom": false,
+         "clk": "8:41",
+         "lab": "El Iryo puede seguir… y no lo hace"
+        },
+        {
+         "s": 1,
+         "g": 2,
+         "f": 0.55,
+         "a": 0.62,
+         "b": 0.12,
+         "sig": "off",
+         "speed": 1,
+         "boom": false,
+         "clk": "8:48",
+         "lab": "El Iryo avisa: está parado"
+        },
+        {
+         "s": 1,
+         "g": 3,
+         "f": 0.0,
+         "a": 0.62,
+         "b": 0.2,
+         "sig": "off",
+         "speed": 1,
+         "boom": false,
+         "clk": "8:53",
+         "lab": "8:53"
+        },
+        {
+         "s": 1,
+         "g": 3,
+         "f": 0.45,
+         "a": 0.63,
+         "b": 0.33,
+         "sig": "off",
+         "speed": 0,
+         "boom": true,
+         "clk": "8:53",
+         "lab": "Choque por alcance"
+        },
+        {
+         "s": 1,
+         "g": 3,
+         "f": 1.0,
+         "a": 0.63,
+         "b": 0.33,
+         "sig": "off",
+         "speed": 0,
+         "boom": true,
+         "clk": "8:53",
+         "lab": "Choque por alcance"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Según el ministro, a las ocho y media falla el sistema de señales, y el control pasa al centro de Atocha.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "Su *versión*",
+       "x": 50,
+       "y": 23,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "A las ocho y treinta y seis, el centro ordena al AVE circular en marcha normal, no a la vista.",
+     "show": [
+      {
+       "id": "f2",
+       "type": "flash",
+       "text": "«no a la vista»",
+       "bg": "ink",
+       "size": 96,
+       "x": 50,
+       "y": 65,
+       "at": 14,
+       "dur": 1.6
+      }
+     ]
+    },
+    {
+     "text": "Dice que el Iryo tenía permiso para seguir desde las ocho y cuarenta y uno, pero no lo hizo, por motivos que, según él, se desconocen.",
+     "show": [
+      {
+       "id": "n2",
+       "type": "note",
+       "text": "Puente: «por motivos que desconocemos»",
+       "x": 50,
+       "y": 64,
+       "at": 17
+      }
+     ]
+    },
+    {
+     "text": "Y a las nueve menos siete, el AVE le alcanza, después de recorrer veinticinco kilómetros.",
+     "show": [
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "{25} km recorridos",
+       "x": 50,
+       "y": 65,
+       "w": 560,
+       "at": 9
+      }
+     ],
+     "hide": [
+      "n2"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Las medidas: un segundo controlador cuando falle el sistema, menos trenes en la línea Madrid-Sevilla, y un plan de renovación de setecientos ochenta millones.",
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "Las *medidas*",
+       "x": 50,
+       "y": 23,
+       "w": 860
+      },
+      {
+       "id": "m1",
+       "type": "card",
+       "icon": "user",
+       "text": "2.º controlador",
+       "x": 50,
+       "y": 34,
+       "w": 820,
+       "at": 3
+      },
+      {
+       "id": "m2",
+       "type": "card",
+       "icon": "train",
+       "text": "Menos trenes Madrid-Sevilla",
+       "x": 50,
+       "y": 43,
+       "w": 820,
+       "at": 10
+      },
+      {
+       "id": "m3",
+       "type": "card",
+       "icon": "doc",
+       "text": "Plan de {780} millones",
+       "x": 50,
+       "y": 52,
+       "w": 820,
+       "at": 18
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Y dimitir? No.",
+     "show": [
+      {
+       "id": "h4",
+       "type": "headline",
+       "text": "¿*Dimite*?",
+       "x": 50,
+       "y": 23,
+       "w": 860
+      },
+      {
+       "id": "f4",
+       "type": "flash",
+       "text": "NO",
+       "bg": "red",
+       "size": 220,
+       "x": 50,
+       "y": 40,
+       "at": 2,
+       "dur": 1.3
+      }
+     ]
+    },
+    {
+     "text": "La mayoría de grupos le pidió que se fuera. El PSOE le defendió por estar donde tenía que estar.",
+     "show": [
+      {
+       "id": "c4",
+       "type": "card",
+       "icon": "question",
+       "text": "Mayoría: «que dimita»",
+       "x": 50,
+       "y": 36,
+       "w": 820,
+       "at": 0
+      },
+      {
+       "id": "c4b",
+       "type": "card",
+       "icon": "user",
+       "text": "PSOE: le defiende",
+       "x": 50,
+       "y": 45,
+       "w": 820,
+       "at": 10
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Es la versión del ministro: la investigación técnica sigue abierta. Todo nuestro cariño a las víctimas.",
+     "show": [
+      {
+       "id": "n5",
+       "type": "note",
+       "text": "Investigación de la AITAT: abierta",
+       "x": 50,
+       "y": 26,
+       "at": 3
+      },
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 42,
+       "w": 380,
+       "at": 9
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "CONGRESO",
+  "titulo": "Lo que dijo *Puente*",
+  "badge": "MINUTO A MINUTO",
+  "escena": {
+   "type": "via",
+   "w": 880,
+   "a": "IRYO",
+   "b": "AVE",
+   "dest": "Urda",
+   "sig": 0.86,
+   "sigLabel": "LZB",
+   "estado": {
+    "a": 0.62,
+    "b": 0.18,
+    "sig": "off",
+    "clk": "8:36",
+    "lab": "«marcha normal»"
+   }
+  },
+  "sub": "Su versión, hora a hora"
+ }
+}

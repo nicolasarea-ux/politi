@@ -95,8 +95,8 @@ def main(vdir):
         for g in s["segments"]:
             for e in g["show"]:
                 i = int(e["t"] * SR)
-                p = {"stamp": thump, "note": ticks}.get(e["type"], pop)()
-                gain = {"stamp": 0.9, "note": 0.35}.get(e["type"], 0.45)
+                p = {"stamp": thump, "flash": thump, "note": ticks}.get(e["type"], pop)()
+                gain = {"stamp": 0.9, "flash": 0.8, "note": 0.35}.get(e["type"], 0.45)
                 fx[i:i + len(p)] += gain * p[:len(fx) - i]
     mix = mix + db(fx[:n], -9)
     mix = mix / np.abs(mix).max() * 0.95
