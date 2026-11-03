@@ -1,0 +1,330 @@
+{
+ "id": "slp_033_urda_minuto",
+ "brand": "Politízate Hoy",
+ "tono": "serio",
+ "formato": "animado",
+ "clauses": 2,
+ "clauseLabels": [
+  "8:31",
+  "LA ORDEN",
+  "8:53"
+ ],
+ "header": {
+  "tag": "URDA · MAR 3 NOV",
+  "source": "Fuentes: AITAT · audios en eldiario.es y Cuatro · Junta de CLM"
+ },
+ "caption": "Urda, minuto a minuto: la señal que falla, la orden de seguir y el choque. Lo que dicen el primer informe técnico y los audios, sin adelantar culpables.\n¿Qué pregunta le harías tú al ministro? 👇\n\nFuentes: primera nota de la AITAT (vía Vozpópuli, 29-10), audios publicados por eldiario.es y Cuatro, Junta de Castilla-La Mancha.\n\n#Urda #Toledo #trenes #Adif #actualidad",
+ "scenes": [
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Veintiocho de octubre, ocho y treinta y uno de la mañana. Falla el sistema que controla las señales.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Urda, *minuto a minuto*",
+       "x": 50,
+       "y": 23,
+       "w": 900
+      },
+      {
+       "id": "via",
+       "type": "via",
+       "keep": 2,
+       "w": 980,
+       "x": 50,
+       "y": 47,
+       "a": "IRYO",
+       "b": "AVE",
+       "dest": "Urda",
+       "sig": 0.86,
+       "sigLabel": "E242",
+       "at": 3,
+       "keys": [
+        {
+         "a": 0.15,
+         "b": -0.4,
+         "sig": "off",
+         "speed": 1,
+         "boom": false,
+         "clk": "8:31",
+         "lab": "Falla el sistema de señales",
+         "s": 0,
+         "g": 0,
+         "f": 0.0
+        },
+        {
+         "a": 0.4,
+         "b": -0.4,
+         "sig": "off",
+         "speed": 1,
+         "boom": false,
+         "clk": "8:31",
+         "lab": "Falla el sistema de señales",
+         "s": 0,
+         "g": 1,
+         "f": 0.0
+        },
+        {
+         "a": 0.62,
+         "b": -0.4,
+         "sig": "red",
+         "speed": 0,
+         "boom": false,
+         "clk": "8:31",
+         "lab": "El Iryo para ante la señal",
+         "s": 0,
+         "g": 1,
+         "f": 0.7
+        },
+        {
+         "a": 0.62,
+         "b": -0.4,
+         "sig": "red",
+         "speed": 0,
+         "boom": false,
+         "clk": "8:31",
+         "lab": "El Iryo para ante la señal",
+         "s": 1,
+         "g": 0,
+         "f": 0.0
+        },
+        {
+         "a": 0.62,
+         "b": 0.02,
+         "sig": "red",
+         "speed": 1,
+         "boom": false,
+         "clk": "8:31",
+         "lab": "Detrás, por la misma vía: el AVE",
+         "s": 1,
+         "g": 0,
+         "f": 0.35
+        },
+        {
+         "a": 0.62,
+         "b": 0.08,
+         "sig": "red",
+         "speed": 1,
+         "boom": false,
+         "clk": "8:31",
+         "lab": "Adif al AVE: «…con marcha normal»",
+         "s": 1,
+         "g": 0,
+         "f": 0.75
+        },
+        {
+         "a": 0.62,
+         "b": 0.16,
+         "sig": "red",
+         "speed": 1,
+         "boom": false,
+         "clk": "8:31",
+         "lab": "Adif al AVE: «…con marcha normal»",
+         "s": 1,
+         "g": 1,
+         "f": 1.0
+        },
+        {
+         "a": 0.62,
+         "b": 0.18,
+         "sig": "red",
+         "speed": 1,
+         "boom": false,
+         "clk": "8:53",
+         "lab": "8:53",
+         "s": 2,
+         "g": 0,
+         "f": 0.0
+        },
+        {
+         "a": 0.63,
+         "b": 0.33,
+         "sig": "red",
+         "speed": 0,
+         "boom": true,
+         "clk": "8:53",
+         "lab": "Choque por alcance",
+         "s": 2,
+         "g": 0,
+         "f": 0.25
+        },
+        {
+         "a": 0.63,
+         "b": 0.33,
+         "sig": "red",
+         "speed": 0,
+         "boom": true,
+         "clk": "8:53",
+         "lab": "Choque por alcance",
+         "s": 2,
+         "g": 1,
+         "f": 1.0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "text": "Un Iryo se detiene ante una señal, a la entrada de la estación de Urda.",
+     "show": []
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Detrás, por la misma vía, viene un AVE. En los audios publicados, el centro de control de Adif le ordena seguir en marcha normal.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "La *orden*",
+       "x": 50,
+       "y": 23,
+       "w": 860
+      }
+     ]
+    },
+    {
+     "text": "Mientras, la maquinista del Iryo avisa de que sigue parada.",
+     "show": [
+      {
+       "id": "n2",
+       "type": "note",
+       "text": "Maquinista del Iryo: «…todavía detenida»",
+       "x": 50,
+       "y": 63.5,
+       "at": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "A las nueve menos siete, el AVE alcanza al Iryo, a entre ciento sesenta y doscientos kilómetros por hora, según el primer informe técnico.",
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "El *choque*",
+       "x": 50,
+       "y": 23,
+       "w": 860
+      },
+      {
+       "id": "n3",
+       "type": "note",
+       "text": "160–200 km/h · estimación de la AITAT",
+       "x": 50,
+       "y": 63.5,
+       "at": 14
+      }
+     ]
+    },
+    {
+     "text": "La Junta de Castilla-La Mancha cifra en sesenta y nueve los fallecidos.",
+     "hide": [
+      "via",
+      "n3"
+     ],
+     "show": [
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "{69} fallecidos",
+       "x": 50,
+       "y": 40,
+       "w": 640,
+       "at": 2
+      },
+      {
+       "id": "c1n",
+       "type": "note",
+       "text": "Según la Junta de Castilla-La Mancha",
+       "x": 50,
+       "y": 48,
+       "at": 6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Lo que falta por saber: por qué se dio esa orden. Lo investigan la autoridad de accidentes y un juzgado.",
+     "show": [
+      {
+       "id": "h4",
+       "type": "headline",
+       "text": "Lo que *falta*",
+       "x": 50,
+       "y": 23,
+       "w": 860
+      },
+      {
+       "id": "q4",
+       "type": "icon",
+       "icon": "question",
+       "x": 50,
+       "y": 39,
+       "w": 220,
+       "at": 2
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "icon": "doc",
+       "text": "AITAT y juzgado",
+       "x": 50,
+       "y": 52,
+       "w": 860,
+       "at": 12
+      }
+     ]
+    },
+    {
+     "text": "Y hoy, Óscar Puente da explicaciones en el Congreso. Todo nuestro cariño a las víctimas y a sus familias.",
+     "hide": [
+      "q4",
+      "c4"
+     ],
+     "show": [
+      {
+       "id": "c5",
+       "type": "card",
+       "icon": "calendar",
+       "text": "Puente, hoy en el Congreso",
+       "x": 50,
+       "y": 36,
+       "w": 860,
+       "at": 0
+      },
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 51,
+       "w": 360,
+       "at": 8
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "URDA",
+  "titulo": "Urda, *minuto a minuto*",
+  "grande": "8:53",
+  "sub": "Señal, orden y choque"
+ }
+}

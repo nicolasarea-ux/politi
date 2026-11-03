@@ -5,7 +5,7 @@
  "speed": 1.0,
  "clauses": 2,
  "header": {
-  "tag": "EXPLICADO · CÓMO SE REPARTEN LOS ESCAÑOS",
+  "tag": "EXPLICADO · LEY D'HONDT",
   "source": "Fuente: LOREG arts. 162 y 163 (BOE)"
  },
  "caption": "Por qué un partido con más votos puede sacar menos escaños: la ley D'Hondt explicada en 30 segundos.\n¿Lo sabías o te ha pillado por sorpresa? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 162 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #dhondt #leyelectoral",
@@ -25,23 +25,19 @@
        "w": 860
       },
       {
-       "id": "i1",
-       "type": "icon",
-       "icon": "urna",
+       "id": "hm",
+       "type": "hemi",
        "x": 50,
-       "y": 39,
-       "w": 260,
-       "at": 6
-      },
-      {
-       "id": "s1",
-       "type": "stamp",
-       "text": "350 ESCAÑOS",
-       "color": "ink",
-       "x": 50,
-       "y": 50,
-       "rot": 6,
-       "at": 9
+       "y": 44,
+       "w": 900,
+       "at": 5,
+       "fillDur": 2.4,
+       "fill": [
+        {
+         "n": 350,
+         "c": "ink"
+        }
+       ]
       }
      ]
     }
@@ -67,13 +63,59 @@
      "text": "En cada provincia, los votos de cada partido se dividen entre uno, dos, tres… hasta el número de escaños.",
      "show": [
       {
-       "id": "c1a",
-       "type": "card",
-       "icon": "doc",
-       "text": "Votos ÷ 1, 2, 3…",
+       "id": "gx",
+       "type": "grid",
+       "keep": 0,
        "x": 50,
-       "y": 33,
-       "w": 860,
+       "y": 44,
+       "w": 940,
+       "at": 2,
+       "step": 0.13,
+       "wait": 4.6,
+       "winStep": 0.6,
+       "cols": [
+        "÷1",
+        "÷2",
+        "÷3"
+       ],
+       "rows": [
+        {
+         "label": "Partido A",
+         "vals": [
+          "60.000",
+          "30.000",
+          "20.000"
+         ]
+        },
+        {
+         "label": "Partido B",
+         "vals": [
+          "45.000",
+          "22.500",
+          "15.000"
+         ]
+        },
+        {
+         "label": "Partido C",
+         "vals": [
+          "20.000",
+          "10.000",
+          "6.667"
+         ]
+        }
+       ],
+       "win": [
+        "0-0",
+        "1-0",
+        "0-1"
+       ]
+      },
+      {
+       "id": "gxn",
+       "type": "note",
+       "text": "Ejemplo: 3 escaños en juego",
+       "x": 50,
+       "y": 32,
        "at": 0
       }
      ]
@@ -83,13 +125,13 @@
      "show": [
       {
        "id": "c1b",
-       "type": "card",
-       "icon": "urna",
-       "text": "Los más altos, escaño",
+       "type": "stamp",
+       "text": "A: 2 · B: 1 · C: 0",
+       "color": "ink",
        "x": 50,
-       "y": 42,
-       "w": 860,
-       "at": 0
+       "y": 60,
+       "rot": -3,
+       "at": 4
       }
      ]
     }
@@ -224,5 +266,6 @@
   "titulo": "La ley *D'Hondt*",
   "grande": "350",
   "sub": "Cómo se reparten los escaños"
- }
+ },
+ "formato": "animado"
 }

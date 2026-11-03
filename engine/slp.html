@@ -37,8 +37,16 @@ html,body{width:1080px;height:1920px;overflow:hidden;background:var(--paper);col
 #caps span{display:inline-block;margin:0 5px;padding:0 10px 4px;position:relative}
 #caps .now{background:var(--mark);border-radius:6px 14px 8px 12px;transform:rotate(-1deg)}
 #caps .fut{opacity:.22}
+#els{position:absolute;inset:0}
 #prog{position:absolute;top:252px;left:110px;right:70px;height:4px;background:rgba(20,33,61,.1)}
 #prog i{position:absolute;left:0;top:0;bottom:0;background:var(--ink)}
+.via text,.hemi text,.grid{font-family:I;font-weight:800}
+.grid{display:grid;gap:12px;font:800 46px I}
+.grid .c{background:var(--card);border:4px solid var(--ink);border-radius:10px;padding:14px 10px;text-align:center;opacity:0;position:relative}
+.grid .h{font:700 30px T;text-align:center;align-self:end;opacity:.75}
+.grid .l{font:900 40px F;align-self:center;white-space:nowrap}
+.grid .c.on{background:var(--mark)}
+.grid .c .n{position:absolute;top:-22px;right:-14px;width:44px;height:44px;border-radius:50%;background:var(--ink);color:var(--paper);font:900 26px/44px I;text-align:center;transform:scale(0)}
 </style></head>
 <body><div id="stage"><div id="margin"></div>
 <div id="hdr"><div id="htag"></div><div id="hand"><span id="handle">@politizatehoy</span><span id="ast"></span></div></div>
@@ -68,12 +76,64 @@ const mk=s=>s.replace(/\n/g,'<br>').replace(/\*(.+?)\*/g,'<span class="mk"><i></
 const R={
 headline:e=>`<div class="headline" style="width:${e.w}px">${mk(e.text)}</div>`,
 icon:e=>`<div style="width:${e.w}px">${ICO[e.icon]}</div>`,
-card:e=>`<div class="card" style="width:${e.w}px"><div style="width:96px;flex:none">${ICO[e.icon]}</div><div>${e.text}</div>${e.check?`<div class="chk"><svg width="44" viewBox="0 0 40 40"><path d="M8 21 L17 30 L33 11" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></svg></div>`:''}</div>`,
+card:e=>`<div class="card" style="width:${e.w}px">${e.icon?`<div style="width:96px;flex:none">${ICO[e.icon]}</div>`:""}<div style="${e.icon?"":"width:100%;text-align:center"}">${fmtCnt(e.text)}</div>${e.check?`<div class="chk"><svg width="44" viewBox="0 0 40 40"><path d="M8 21 L17 30 L33 11" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></svg></div>`:''}</div>`,
 stamp:e=>`<div class="stamp" style="color:${COL[e.color||'red']}">${e.text}</div>`,
 note:e=>`<div class="note">→ <span class="ty" data-t="${e.text}">${e.text}</span></div>`,
 fineprint:e=>`<div class="fine" style="width:${e.w}px">${e.small}<div class="lens"><div>${mk(e.big)}</div></div></div>`,
 logo:e=>`<div style="width:${e.w}px;text-align:center"><div style="display:inline-block;background:var(--ink);border-radius:50%;width:${e.w}px;height:${e.w}px;display:flex;align-items:center;justify-content:center"><div style="font:900 ${e.w*0.165}px/1.05 F;color:#F3EEE3;letter-spacing:-3px;text-align:center">Politízate<br><span class="mk2" style="display:inline-block;background:var(--mark);color:var(--ink);padding:0 ${e.w*0.025}px;border-radius:12px 24px 14px 20px">hoy</span></div></div><div style="font:700 28px T;margin-top:18px">* lo que no te cuentan</div></div>`
 };
+
+// ---------- piezas animadas (3-N) ----------
+const lerp=(a,b,p)=>a+(b-a)*p, ease=p=>{p=clamp(p);return p<.5?4*p*p*p:1-Math.pow(-2*p+2,3)/2};
+function keyAt(keys,p){let i=0;while(i<keys.length-1&&p>keys[i+1].p)i++;const A=keys[i],B=keys[Math.min(i+1,keys.length-1)];
+ const q=B===A?0:ease((p-A.p)/(B.p-A.p));const o={};for(const k in A){o[k]=(typeof A[k]==='number'&&typeof B[k]==='number')?lerp(A[k],B[k],q):(q<1?A[k]:B[k])}return o}
+const TRAIN=(lab,fill)=>`<g><rect x="-150" y="-34" width="300" height="68" rx="34" fill="${fill}" stroke="${INK}" stroke-width="6"/><rect x="-110" y="-16" width="40" height="22" rx="5" fill="#FFFDF8" stroke="${INK}" stroke-width="4"/><rect x="-50" y="-16" width="40" height="22" rx="5" fill="#FFFDF8" stroke="${INK}" stroke-width="4"/><rect x="10" y="-16" width="40" height="22" rx="5" fill="#FFFDF8" stroke="${INK}" stroke-width="4"/><text x="100" y="12" text-anchor="middle" font-size="30" fill="${INK}">${lab}</text></g>`;
+R.via=e=>{const W=e.w||980;let sl='';for(let x=-40;x<W+80;x+=46)sl+=`<rect x="${x}" y="226" width="14" height="52" fill="${INK}" opacity=".25"/>`;
+ return `<div class="via" style="width:${W}px"><svg width="${W}" height="470" viewBox="0 0 ${W} 470" style="overflow:visible">
+ <g class="sl">${sl}</g><path d="M-60 238 H${W+60} M-60 266 H${W+60}" stroke="${INK}" stroke-width="6"/>
+ <text x="${W-6}" y="330" text-anchor="end" font-size="30" fill="${INK}">${e.dest||''} →</text>
+ <g class="sig" transform="translate(${W*(e.sig??0.82)},120)"><path d="M0 40 V118" stroke="${INK}" stroke-width="8"/><rect x="-30" y="-46" width="60" height="96" rx="16" fill="${INK}"/><circle class="lt" cx="0" cy="-16" r="17" fill="#555"/><circle class="lt2" cx="0" cy="22" r="17" fill="#555"/><text x="44" y="-6" font-size="26" fill="${INK}">${e.sigLabel||''}</text></g>
+ <g class="tA">${TRAIN(e.a||'IRYO','#E9E4D6')}</g><g class="tB">${TRAIN(e.b||'AVE','#FFFDF8')}</g>
+ <g class="boom" opacity="0"><path d="${[...Array(16)].map((_,i)=>{const r=i%2?46:110,a=i*Math.PI/8;return (i?'L':'M')+(r*Math.cos(a)).toFixed(1)+' '+(r*Math.sin(a)).toFixed(1)}).join(' ')}Z" fill="${COL.red}" stroke="${INK}" stroke-width="6"/></g>
+ <g class="clk" transform="translate(70,40)"><rect x="-6" y="-44" width="220" height="80" rx="14" fill="${INK}"/><text class="ct" x="104" y="16" text-anchor="middle" font-size="54" fill="#F3EEE3">8:30</text></g>
+ <text class="lab" x="${W/2}" y="420" text-anchor="middle" font-size="40" fill="${INK}"></text></svg></div>`};
+const A={};
+A.via=(e,n,a,life)=>{const W=e.w||980,p=e.keys[0].g!==undefined?(e.t+a):clamp(a/Math.max(life-0.3,0.5)),k=keyAt(e.keys,p);
+ const y=252, xA=k.a*W, xB=k.b*W;
+ n.querySelector('.tA').setAttribute('transform',`translate(${xA},${y})`);
+ const shake=k.boom?Math.sin(a*70)*4*Math.exp(-(p-k.boomP||0)*6):0;
+ n.querySelector('.tB').setAttribute('transform',`translate(${xB+shake},${y}) rotate(${k.boom?-3:0})`);
+ n.querySelector('.sl').setAttribute('transform',`translate(${-((a*(k.speed||0)*300)%46)},0)`);
+ const L1=n.querySelector('.lt'),L2=n.querySelector('.lt2');L1.setAttribute('fill',k.sig==='red'?COL.red:'#555');L2.setAttribute('fill',k.sig==='green'?COL.green:(k.sig==='off'?'#555':'#555'));
+ if(k.sig==='off'){const bl=(Math.floor(a*3)%2)?.25:1;L1.setAttribute('opacity',bl);L2.setAttribute('opacity',bl)}else{L1.setAttribute('opacity',1);L2.setAttribute('opacity',1)}
+ n.querySelector('.ct').textContent=k.clk||'';
+ const b=n.querySelector('.boom');b.setAttribute('opacity',k.boom?1:0);b.setAttribute('transform',`translate(${(xA+xB)/2},${y}) scale(${k.boom?1+0.15*Math.sin(a*12):0}) rotate(${a*30})`);
+ n.querySelector('.lab').textContent=k.lab||'';
+};
+// hemiciclo: 350 puntos, ordenados de izquierda a derecha
+function hemiPts(N,W){const rows=12,R1=W*0.47,R0=W*0.17,pts=[];const radii=[...Array(rows)].map((_,i)=>R0+(R1-R0)*i/(rows-1));
+ const tot=radii.reduce((x,r)=>x+r,0);let left=N;radii.forEach((r,i)=>{let n=i===rows-1?left:Math.round(N*r/tot);left-=n;for(let j=0;j<n;j++){const a=Math.PI*(1-j/(n-1));pts.push({x:W/2+r*Math.cos(a),y:W*0.5-r*Math.sin(a),a})}});
+ return pts.sort((p,q)=>q.a-p.a)}
+R.hemi=e=>{const W=e.w||900,P=hemiPts(e.n||350,W);
+ return `<div class="hemi" style="width:${W}px"><svg width="${W}" height="${W*0.5+170}" viewBox="0 0 ${W} ${W*0.5+170}" style="overflow:visible">${P.map(q=>`<circle cx="${q.x.toFixed(1)}" cy="${q.y.toFixed(1)}" r="${W*0.0125}" fill="#D9D3C4"/>`).join('')}
+ <g class="mj" opacity="0"><path d="M${W/2} -16 V${W*0.5+8}" stroke="${COL.red}" stroke-width="7" stroke-dasharray="16 12"/><rect x="${W/2-86}" y="-86" width="172" height="62" rx="12" fill="${COL.red}"/><text x="${W/2}" y="-42" text-anchor="middle" font-size="40" fill="#fff">${e.line||176}</text></g>
+ <text class="cnt" x="${W/2}" y="${W*0.5+6}" text-anchor="middle" font-size="120" font-family="F" font-weight="900" fill="${INK}">0</text>
+ <text x="${W/2}" y="${W*0.5+70}" text-anchor="middle" font-size="36" fill="${INK}">${e.unit||'escaños'}</text></svg></div>`};
+A.hemi=(e,n,a,life)=>{const C=n.__c||(n.__c=[...n.querySelectorAll('circle')]);const fd=e.fillDur||2.2;
+ const groups=e.fill||[{n:C.length,c:INK}];let tot=groups.reduce((x,g)=>x+g.n,0);const k=Math.floor(clamp((a-0.3)/fd)*tot);
+ let i=0;groups.forEach(g=>{for(let j=0;j<g.n;j++,i++){if(!C[i])continue;C[i].setAttribute('fill',i<k?(COL[g.c]||g.c):'#D9D3C4');C[i].setAttribute('r',(e.w||900)*0.0125*(i<k&&i>k-8?1.35:1))}});
+ n.querySelector('.cnt').textContent=e.count===false?'':Math.min(k,tot);
+ if(e.line){const q=clamp((a-0.3-fd)/0.4);const m=n.querySelector('.mj');m.setAttribute('opacity',q);}
+};
+// tabla de cocientes (D'Hondt)
+R.grid=e=>{const cols=e.cols.length;let h=`<div class="grid" style="width:${e.w||940}px;grid-template-columns:230px repeat(${cols},1fr)"><div></div>`+e.cols.map(c=>`<div class="h">${c}</div>`).join('');
+ e.rows.forEach((r,ri)=>{h+=`<div class="l">${r.label}</div>`+r.vals.map((v,ci)=>`<div class="c" data-k="${ri}-${ci}">${v}<div class="n"></div></div>`).join('')});return h+'</div>'};
+A.grid=(e,n,a,life)=>{const cells=[...n.querySelectorAll('.c')];const step=e.step||0.12;
+ cells.forEach((c,i)=>{const q=clamp((a-i*step)/0.25);c.style.opacity=q;c.style.transform=`scale(${back(q)})`});
+ const t0=cells.length*step+(e.wait||0.6);(e.win||[]).forEach((k,j)=>{const c=n.querySelector(`[data-k="${k}"]`);if(!c)return;const q=a-(t0+j*(e.winStep||0.45));
+  c.classList.toggle('on',q>0);const nb=c.querySelector('.n');nb.textContent=j+1;nb.style.transform=`scale(${back(q/0.3)})`})};
+const fmtCnt=s=>s.replace(/\{(\d+)\}/g,'<span class="cu" data-to="$1">$1</span>');
+
 let D,lastS=-1;
 const clamp=(x,a=0,b=1)=>Math.min(Math.max(x,a),b);
 const back=p=>{p=clamp(p);const c=1.7;return 1+(c+1)*Math.pow(p-1,3)+c*Math.pow(p-1,2)};
@@ -89,7 +149,8 @@ function init(d){D=d;DATA_BRAND=d.brand||DATA_BRAND;
  const box=document.getElementById('els');
  d.scenes.forEach((s,si)=>s.segments.forEach(g=>g.show.forEach(e=>{
   const n=document.createElement('div');n.className='el';n.innerHTML=R[e.type](e);n.style.opacity=0;box.appendChild(n);e.n=n;
-  e.hideT=(si===d.scenes.length-1)?d.duration+1:s.t1;s.segments.forEach(g2=>{if(g2.hide.includes(e.id)&&g2.t0>e.t)e.hideT=g2.t0});
+  e.si=si;if(e.keys&&e.keys[0].g!==undefined)e.keys.forEach(k=>{const S2=d.scenes[Math.min(si+(k.s||0),d.scenes.length-1)],G=S2.segments[Math.min(k.g,S2.segments.length-1)];k.p=G.t0+(k.f||0)*(G.t1-G.t0)});
+  e.hideT=(si===d.scenes.length-1)?d.duration+1:(e.keep?(d.scenes[Math.min(si+e.keep,d.scenes.length-1)].t1):s.t1);d.scenes.forEach(s3=>s3.segments.forEach(g2=>{if(g2.hide.includes(e.id)&&g2.t0>e.t&&g2.t0<e.hideT)e.hideT=g2.t0}));
  })));
  return document.fonts.ready.then(()=>{d.scenes.forEach(s=>s.segments.forEach(g=>g.show.forEach(e=>{const r=e.n.firstElementChild.getBoundingClientRect();e.W=r.width;e.H=r.height})));return 1});
 }
@@ -121,8 +182,11 @@ function render(t){
   const ck=n.querySelector('.chk');if(ck)ck.style.transform=`scale(${back((a-0.45)/0.35)})`;
   const ty=n.querySelector('.ty');if(ty){const s2=ty.dataset.t;ty.textContent=s2.slice(0,Math.floor(clamp(a/0.9)*s2.length))}
   const ln=n.querySelector('.lens');if(ln){const p=outQ((a-0.9)/0.7);ln.style.left=(e.W-600)/2+(1-p)*700+'px';ln.style.top='-50px';ln.style.opacity=clamp((a-0.9)/0.15);ln.querySelectorAll('.mk i').forEach(m=>m.style.transform=`scaleX(${outQ((a-1.7)/0.45)}) skewX(-8deg)`)}
+  n.querySelectorAll('.cu').forEach(c=>{const to=+c.dataset.to;c.textContent=Math.round(to*outQ((a-0.15)/0.9))});
+  if(A[e.type])A[e.type](e,n,a,e.hideT-e.t);
   const lg=n.querySelector('.lg');if(lg)lg.style.transform=`rotate(${a*60}deg)`;
  })));
+ { const k=clamp((t-S.t0)/Math.max(S.t1-S.t0,0.1)); const z=1+0.045*ease(k)+kick*0.015; const box=document.getElementById('els'); box.style.transformOrigin='50% 38%'; box.style.transform=`scale(${z}) translateY(${-10*ease(k)}px)`; }
  // subtítulos
  let chunks=[],cur=[];
  S.segments.forEach(g=>g.words.forEach((w,i)=>{cur.push(w);if(cur.length>=4||cur.map(x=>x.w).join(' ').length>=19||/[,.:;!?]$/.test(w.w)||i===g.words.length-1){chunks.push(cur);cur=[]}}));
