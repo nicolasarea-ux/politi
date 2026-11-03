@@ -209,7 +209,7 @@
  "portada": {
   "serie": "URDA",
   "titulo": "Puente, *hoy* en el Congreso",
-  "icono": "clock",
-  "sub": "Lo que se sabe antes de las 17:00"
+  "grande": "17:00",
+  "sub": "Lo que se sabe antes de hablar"
  }
 }

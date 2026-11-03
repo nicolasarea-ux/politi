@@ -196,7 +196,7 @@
  "portada": {
   "serie": "EXPLICADO",
   "titulo": "La veda de *encuestas*",
-  "icono": "calendar",
-  "sub": "Por qué desaparecen desde el 24-N"
+  "grande": "24-N",
+  "sub": "Por qué dejan de publicarse"
  }
 }
