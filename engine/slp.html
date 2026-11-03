@@ -138,6 +138,36 @@ A.grid=(e,n,a,life)=>{const cells=[...n.querySelectorAll('.c')];const step=e.ste
  cells.forEach((c,i)=>{const q=clamp((a-i*step)/0.25);c.style.opacity=q;c.style.transform=`scale(${back(q)})`});
  const t0=cells.length*step+(e.wait||0.6);(e.win||[]).forEach((k,j)=>{const c=n.querySelector(`[data-k="${k}"]`);if(!c)return;const q=a-(t0+j*(e.winStep||0.45));
   c.classList.toggle('on',q>0);const nb=c.querySelector('.n');nb.textContent=j+1;nb.style.transform=`scale(${back(q/0.3)})`})};
+
+// ---------- mascota "Urni" (urna con ojos) ----------
+R.urni=e=>{const W=e.w||360;return `<div class="urni" style="width:${W}px"><svg width="${W}" height="${W*1.15}" viewBox="0 0 200 230" style="overflow:visible">
+ <g class="body"><rect x="40" y="10" width="120" height="70" rx="6" class="pap" fill="#FFFDF8" stroke="${INK}" stroke-width="7" transform="rotate(-6 100 45)"/>
+ <path d="M70 34 H125 M70 50 H112" stroke="${INK}" stroke-width="6" stroke-linecap="round" transform="rotate(-6 100 45)"/>
+ <rect x="20" y="62" width="160" height="150" rx="22" fill="${e.color||'#C8F53C'}" stroke="${INK}" stroke-width="8"/>
+ <rect x="62" y="58" width="76" height="12" rx="6" fill="${INK}"/>
+ <g class="eyes"><g class="eL"><ellipse cx="72" cy="122" rx="20" ry="24" fill="#fff" stroke="${INK}" stroke-width="6"/><circle class="pl" cx="72" cy="124" r="9" fill="${INK}"/></g>
+ <g class="eR"><ellipse cx="128" cy="122" rx="20" ry="24" fill="#fff" stroke="${INK}" stroke-width="6"/><circle class="pr" cx="128" cy="124" r="9" fill="${INK}"/></g></g>
+ <path class="brL" d="M54 92 Q72 84 88 92" fill="none" stroke="${INK}" stroke-width="7" stroke-linecap="round"/><path class="brR" d="M112 92 Q128 84 146 92" fill="none" stroke="${INK}" stroke-width="7" stroke-linecap="round"/>
+ <ellipse class="mouth" cx="100" cy="178" rx="20" ry="6" fill="${INK}"/>
+ <path class="armL" d="M22 140 Q0 150 -6 128" fill="none" stroke="${INK}" stroke-width="8" stroke-linecap="round"/><path class="armR" d="M178 140 Q200 150 206 128" fill="none" stroke="${INK}" stroke-width="8" stroke-linecap="round"/>
+ </g>${e.say?`<g class="bub"><rect x="120" y="-70" width="260" height="76" rx="22" fill="#fff" stroke="${INK}" stroke-width="6"/><path d="M150 4 L140 30 L176 6" fill="#fff" stroke="${INK}" stroke-width="6" stroke-linejoin="round"/><text x="250" y="-20" text-anchor="middle" font-size="34" font-family="I" font-weight="900" fill="${INK}">${e.say}</text></g>`:''}</svg></div>`};
+A.urni=(e,n,a,life)=>{const t=e.t+a;let talking=false;D&&D.scenes.forEach(S=>S.segments.forEach(g=>g.words.forEach(w=>{if(t>=w.t0&&t<w.t1)talking=true})));
+ const mood=(e.moods||[]).reduce((m,k)=>a>=k.at?k.m:m,e.mood||'neutral');
+ const mo=n.querySelector('.mouth');const open=talking?6+12*Math.abs(Math.sin(t*16)):5;
+ if(mood==='sorpresa'){mo.setAttribute('rx',13);mo.setAttribute('ry',talking?open+4:16)}else if(mood==='feliz'){mo.setAttribute('rx',24);mo.setAttribute('ry',talking?open:10)}else{mo.setAttribute('rx',20);mo.setAttribute('ry',open)}
+ const by={neutral:0,sorpresa:-12,duda:0,serio:6,feliz:-4}[mood]||0, tilt=mood==='duda'?10:mood==='serio'?-8:0;
+ n.querySelector('.brL').setAttribute('transform',`translate(0 ${by}) rotate(${-tilt} 72 90)`);n.querySelector('.brR').setAttribute('transform',`translate(0 ${by+(mood==='duda'?-8:0)}) rotate(${tilt} 128 90)`);
+ const blink=(t%3.7)<0.12?0.1:1;n.querySelectorAll('.eL,.eR').forEach(g=>g.setAttribute('transform',`translate(0 ${122*(1-blink)}) scale(1 ${blink})`));
+ const lx=Math.sin(t*0.9)*5,ly=Math.cos(t*1.3)*3;n.querySelector('.pl').setAttribute('transform',`translate(${lx} ${ly})`);n.querySelector('.pr').setAttribute('transform',`translate(${lx} ${ly})`);
+ const bob=Math.sin(t*(talking?9:3))*(talking?4:2);n.querySelector('.body').setAttribute('transform',`translate(0 ${bob}) rotate(${Math.sin(t*2)*2} 100 200)`);
+ n.querySelector('.armL').setAttribute('transform',`rotate(${Math.sin(t*5)*(talking?18:6)} 22 140)`);n.querySelector('.armR').setAttribute('transform',`rotate(${-Math.sin(t*5+1)*(talking?18:6)} 178 140)`);
+ const bb=n.querySelector('.bub');if(bb){const q=back(clamp((a-0.3)/0.35));bb.setAttribute('transform',`translate(250 -32) scale(${q}) translate(-250 32)`)}
+};
+// encuesta / ¿verdad o bulo? : barras que se llenan y revelación
+R.poll=e=>`<div class="poll" style="width:${e.w||880}px">${e.opts.map((o,i)=>`<div class="po" style="margin:0 0 22px;position:relative;height:110px;border:6px solid var(--ink);border-radius:20px;background:#FFFDF8;overflow:hidden"><i style="position:absolute;left:0;top:0;bottom:0;width:0;background:${o.c?COL[o.c]||o.c:(i?'#E9E4D6':'var(--mark)')}"></i><b style="position:absolute;left:30px;top:50%;transform:translateY(-50%);font:900 58px F">${o.t}</b><span class="pv" style="position:absolute;right:30px;top:50%;transform:translateY(-50%);font:900 54px I">0%</span></div>`).join('')}</div>`;
+A.poll=(e,n,a)=>{const rows=[...n.querySelectorAll('.po')];rows.forEach((r,i)=>{const v=e.opts[i].v,q=outQ((a-0.3-i*0.2)/(e.fill||1.4));r.querySelector('i').style.width=v*q+'%';r.querySelector('.pv').textContent=e.hide&&a<(e.reveal||99)?'?':Math.round(v*q)+'%';
+ const win=e.win===i&&a>=(e.reveal||0);r.style.transform=win?`scale(${1+0.04*Math.exp(-(a-(e.reveal||0))*5)})`:'';r.style.borderColor=win?COL.green:'var(--ink)';r.style.borderWidth=win?'10px':'6px'})};
+
 const fmtCnt=s=>s.replace(/\{(\d+)\}/g,'<span class="cu" data-to="$1">$1</span>');
 
 let D,lastS=-1;

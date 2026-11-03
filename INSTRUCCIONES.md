@@ -89,6 +89,22 @@ Desde el 3-N, **al menos la mitad de los vídeos** se hacen en formato animado (
 - Tono serio en tragedias: sin `boom` en portada, sin sellos.
 Mide: compara views y tiempo de visionado animado vs. normal en `registro.md` cada 3 días.
 
+## 4 formatos en prueba (Nicks, 3-N noche: "más dopamina", 0 seguidores → retención y seguir)
+Cada día, **un vídeo de cada formato** (los otros huecos, formato normal animado). Anota en `cola.json` `"formato"` con el nombre y compara cada 3 días views, tiempo medio y seguidores ganados por formato en `registro.md`; el que gane gana franjas.
+1. **`minuto`** — reconstrucción o explicador con esquema animado (`via`, `hemi`, `grid`, mapas). Ej.: slp_033, slp_036.
+2. **`bulo`** — "¿Verdad o bulo?": frase viral en pantalla (cita literal + quién la dijo), `urni` con `mood` "duda", `poll` VERDAD/BULO con `hide: true` (muestra "?") y "¿Tú qué crees? Comenta antes de que te lo diga", 2 s de espera, `reveal` + `flash` "VERDAD"/"BULO"/"ENGAÑOSO" y los datos con fuente oficial. Solo afirmaciones verificables y de cualquier partido (rota partidos).
+3. **`top3`** — "3 cosas que…": `flash` gigante "3", "2", "1" (bg mark/ink/red), cada punto con `card`+`sticker` y una cifra que cuenta `{n}`; el mejor al final ("el 1 casi nadie lo sabe"). Cierre: "¿Cuál pondrías tú en el 1?".
+4. **`urni`** — la mascota Urni (urna con ojos, `type: "urni"`, `moods` [{at, m: neutral/sorpresa/duda/serio/feliz}], `say` = bocadillo corto) explica un tema como si tuvieras 14 años, con `sticker` emoji (🤯 🧐 ⚠️ ✅ 🗳️) y cambios de cara cada frase. Nunca para tragedias.
+
+**Reglas de retención (todos los formatos):**
+- Fotograma 0 = gancho: titular + un `flash` o pregunta grande en el primer segundo. Nada de logo al principio.
+- Algo nuevo en pantalla cada ≤ 2 s (tarjeta, flash, sticker, cambio de cara, contador). La cámara ya da un golpe en cada elemento.
+- Bucle abierto en la primera frase ("y lo último es lo que más cuesta creer").
+- 30–40 s máximo. Si el guion pasa de 95 palabras, recorta.
+- **Seguidores:** termina con una razón concreta para seguir ("Mañana: lo que propone cada partido sobre el alquiler. Síguenos para no perdértelo") y numera series ("Parte 1/3"). En el copy, una pregunta que se responda en una palabra.
+
+**Portadas v2 (3-N):** fondo azul marino por defecto (no parecen un fotograma), título en papel con fosforito, círculo con dato o `portada.escena` en tarjeta, y `portada.badge` (sello rojo: "MINUTO A MINUTO", "¿BULO?", "TOP 3", "EN 30 S"). `portada.estilo: "clasico"` vuelve al papel.
+
 ## Tragedias y sucesos graves
 Con víctimas (accidentes, atentados, catástrofes): `"tono": "serio"` en el guion (sin música, sin sellos de broma), etiquetas de la barra con `"clauseLabels"` (p. ej. LO QUE SE SABE / LOS AUDIOS / LO QUE NO SE SABE) en vez de cláusulas y letra pequeña, cifras atribuidas y con hora, nada de culpables mientras haya investigación, y nunca imágenes o detalles morbosos.
 
