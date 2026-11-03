@@ -388,7 +388,8 @@
    ],
    "estado": "programado",
    "fecha": "2026-11-03T22:00",
-   "copy": "Jordi Wild ya ha dicho cuándo salen las entrevistas a los candidatos y en qué orden. Y hay letra pequeña 🎙️\n¿Cuál vas a ver primero? 👇\n\nFuentes: ESdiario (2-11), OKdiario.\n\n#elecciones #29N #eleccionesgenerales #JordiWild #TheWildProject"
+   "copy": "Jordi Wild ya ha dicho cuándo salen las entrevistas a los candidatos y en qué orden. Y hay letra pequeña 🎙️\n¿Cuál vas a ver primero? 👇\n\nFuentes: ESdiario (2-11), OKdiario.\n\n#elecciones #29N #eleccionesgenerales #JordiWild #TheWildProject",
+   "fecha_reels": "2026-11-03T23:00"
   },
   {
    "id": "slp_030_veda_encuestas",
@@ -439,6 +440,26 @@
    "fecha": "2026-11-03T19:30",
    "fecha_reels": "2026-11-03T19:45",
    "copy": "Urda, minuto a minuto: la señal que falla, la orden de seguir y el choque. Lo que dicen el primer informe técnico y los audios, sin adelantar culpables.\n¿Qué pregunta le harías tú al ministro? 👇\n\nFuentes: primera nota de la AITAT (vía Vozpópuli, 29-10), audios publicados por eldiario.es y Cuatro, Junta de Castilla-La Mancha.\n\n#Urda #Toledo #trenes #Adif #actualidad",
+   "partidos": []
+  },
+  {
+   "id": "slp_034_de_miguel_ley",
+   "tipo": "actualidad",
+   "formato": "animado",
+   "estado": "programado",
+   "fecha": "2026-11-03T16:45",
+   "fecha_reels": "2026-11-03T16:45",
+   "copy": "La muerte de Jesús de Miguel tras el choque con el portero del Andorra: qué dice el acta, qué prevé el Código Penal y por qué una expulsión no es una condena. Todo nuestro cariño a su familia y al CD Tenerife.\n¿Crees que el fútbol debería cambiar alguna norma? 👇\n\nFuentes: comunicado del CD Tenerife (3-11), acta arbitral vía OKdiario, Vozpópuli y 442 (3-11), Código Penal art. 142 (BOE).\n\n#JesúsdeMiguel #CDTenerife #fútbol #CódigoPenal #actualidad",
+   "partidos": []
+  },
+  {
+   "id": "slp_035_redes_delito",
+   "tipo": "actualidad",
+   "formato": "animado",
+   "estado": "programado",
+   "fecha": "2026-11-03T18:15",
+   "fecha_reels": "2026-11-03T18:15",
+   "copy": "Tras la muerte de Jesús de Miguel, el portero del Andorra ha cerrado sus redes por los insultos y las amenazas. Lo que dice el Código Penal de amenazar, insultar o atacar con racismo en redes.\n¿Se debería perseguir más el odio en redes? 👇\n\nFuentes: El Debate, OKdiario y El Distrito (3-11); Código Penal arts. 169, 208-209, 215 y 510 (BOE).\n\n#redessociales #CódigoPenal #delitosdeodio #fútbol #actualidad",
    "partidos": []
   }
  ]

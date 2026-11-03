@@ -1,0 +1,228 @@
+{
+ "id": "slp_035_redes_delito",
+ "brand": "Politízate Hoy",
+ "tono": "serio",
+ "formato": "animado",
+ "clauses": 2,
+ "clauseLabels": [
+  "AMENAZAS",
+  "INSULTOS",
+  "RACISMO"
+ ],
+ "header": {
+  "tag": "REDES · MAR 3 NOV",
+  "source": "Fuentes: El Debate · OKdiario · El Distrito · CP arts. 169, 209, 510"
+ },
+ "caption": "Tras la muerte de Jesús de Miguel, el portero del Andorra ha cerrado sus redes por los insultos y las amenazas. Lo que dice el Código Penal de amenazar, insultar o atacar con racismo en redes.\n¿Se debería perseguir más el odio en redes? 👇\n\nFuentes: El Debate, OKdiario y El Distrito (3-11); Código Penal arts. 169, 208-209, 215 y 510 (BOE).\n\n#redessociales #CódigoPenal #delitosdeodio #fútbol #actualidad",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Tras la muerte de Jesús de Miguel, el portero del Andorra, Jesús Owono, ha cerrado sus redes por la ola de insultos y amenazas.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Odio en redes: *¿delito?*",
+       "x": 50,
+       "y": 23,
+       "w": 900
+      },
+      {
+       "id": "p1",
+       "type": "icon",
+       "icon": "phone",
+       "x": 50,
+       "y": 40,
+       "w": 220,
+       "at": 4
+      },
+      {
+       "id": "n1",
+       "type": "note",
+       "text": "Cierra Instagram y X (El Debate, 3-N)",
+       "x": 50,
+       "y": 51,
+       "at": 12
+      }
+     ]
+    },
+    {
+     "text": "Y escribir eso desde el móvil también puede ser delito.",
+     "show": [
+      {
+       "id": "s1",
+       "type": "stamp",
+       "text": "TAMBIÉN ES DELITO",
+       "color": "red",
+       "x": 50,
+       "y": 59,
+       "rot": -4,
+       "at": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Amenazar de muerte a alguien, aunque sea por redes, puede costar de seis meses a dos años de cárcel. Lo dice el artículo ciento sesenta y nueve.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "Las *amenazas*",
+       "x": 50,
+       "y": 23,
+       "w": 860
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "icon": "phone",
+       "text": "{6} meses – {2} años",
+       "x": 50,
+       "y": 36,
+       "w": 800,
+       "at": 9
+      },
+      {
+       "id": "n2",
+       "type": "note",
+       "text": "Código Penal, art. 169",
+       "x": 50,
+       "y": 44,
+       "at": 22
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Llamar asesino a alguien en público puede ser una injuria grave, castigada con multa.",
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "Los *insultos*",
+       "x": 50,
+       "y": 23,
+       "w": 860
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "icon": "ley",
+       "text": "Injuria grave: multa",
+       "x": 50,
+       "y": 36,
+       "w": 800,
+       "at": 7
+      }
+     ]
+    },
+    {
+     "text": "Pero solo se persigue si denuncia el afectado.",
+     "show": [
+      {
+       "id": "c3b",
+       "type": "card",
+       "icon": "user",
+       "text": "Solo si él denuncia",
+       "x": 50,
+       "y": 45,
+       "w": 800,
+       "at": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y si los mensajes son racistas, el artículo quinientos diez prevé hasta dos años de cárcel, y más pena si se difunde por internet.",
+     "show": [
+      {
+       "id": "h4",
+       "type": "headline",
+       "text": "El *racismo*",
+       "x": 50,
+       "y": 23,
+       "w": 860
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "icon": "ley",
+       "text": "Hasta {2} años · art. 510",
+       "x": 50,
+       "y": 36,
+       "w": 820,
+       "at": 9
+      },
+      {
+       "id": "c4b",
+       "type": "card",
+       "icon": "laptop",
+       "text": "Por internet: más pena",
+       "x": 50,
+       "y": 45,
+       "w": 820,
+       "at": 18
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "El Andorra dice que en ningún momento hubo mala intención. Si hay responsabilidad, la deciden los jueces, no las redes.",
+     "show": [
+      {
+       "id": "q5",
+       "type": "note",
+       "text": "Andorra: «en ningún momento hubo mala intención»",
+       "x": 50,
+       "y": 26,
+       "at": 4
+      },
+      {
+       "id": "s5",
+       "type": "stamp",
+       "text": "JUECES, NO REDES",
+       "color": "ink",
+       "x": 50,
+       "y": 36,
+       "rot": -3,
+       "at": 14
+      },
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 51,
+       "w": 340,
+       "at": 16
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "EXPLICADO",
+  "titulo": "Odio en redes: *¿delito?*",
+  "grande": "169",
+  "sub": "Amenazas, insultos y racismo"
+ }
+}

@@ -1,0 +1,245 @@
+{
+ "id": "slp_034_de_miguel_ley",
+ "brand": "Politízate Hoy",
+ "tono": "serio",
+ "formato": "animado",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL ACTA",
+  "LA LEY",
+  "LO QUE NO SE SABE"
+ ],
+ "header": {
+  "tag": "TENERIFE · MAR 3 NOV",
+  "source": "Fuentes: CD Tenerife · OKdiario · Vozpópuli · 442 · CP art. 142"
+ },
+ "caption": "La muerte de Jesús de Miguel tras el choque con el portero del Andorra: qué dice el acta, qué prevé el Código Penal y por qué una expulsión no es una condena. Todo nuestro cariño a su familia y al CD Tenerife.\n¿Crees que el fútbol debería cambiar alguna norma? 👇\n\nFuentes: comunicado del CD Tenerife (3-11), acta arbitral vía OKdiario, Vozpópuli y 442 (3-11), Código Penal art. 142 (BOE).\n\n#JesúsdeMiguel #CDTenerife #fútbol #CódigoPenal #actualidad",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "En el Tenerife-Andorra de Segunda, el portero Jesús Owono sale de su área y choca con el delantero Jesús de Miguel.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Jesús de Miguel: *qué dice la ley*",
+       "x": 50,
+       "y": 23,
+       "w": 920
+      },
+      {
+       "id": "b1",
+       "type": "icon",
+       "icon": "balon",
+       "x": 50,
+       "y": 41,
+       "w": 230,
+       "at": 5
+      }
+     ]
+    },
+    {
+     "text": "Esta mañana, el Tenerife ha confirmado su muerte. Tenía treinta años.",
+     "hide": [
+      "b1"
+     ],
+     "show": [
+      {
+       "id": "c0",
+       "type": "card",
+       "text": "Fallece a los {30} años",
+       "x": 50,
+       "y": 40,
+       "w": 700,
+       "at": 3
+      },
+      {
+       "id": "n0",
+       "type": "note",
+       "text": "Comunicado del CD Tenerife, 3-N",
+       "x": 50,
+       "y": 48,
+       "at": 5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "El árbitro lo expulsó. En el acta escribió: impactar bruscamente con su pierna en alto, con uso de fuerza excesiva.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "El *acta*",
+       "x": 50,
+       "y": 23,
+       "w": 860
+      },
+      {
+       "id": "r2",
+       "type": "icon",
+       "icon": "roja",
+       "x": 50,
+       "y": 37,
+       "w": 200,
+       "at": 1
+      },
+      {
+       "id": "q2",
+       "type": "card",
+       "icon": "doc",
+       "text": "«…pierna en alto…»",
+       "x": 50,
+       "y": 50,
+       "w": 780,
+       "at": 7
+      },
+      {
+       "id": "q2n",
+       "type": "note",
+       "text": "«…uso de fuerza excesiva»",
+       "x": 50,
+       "y": 57.5,
+       "at": 13
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "¿Y la ley? Si un juez viera imprudencia grave, el artículo ciento cuarenta y dos del Código Penal prevé de uno a cuatro años de cárcel.",
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "La *ley*",
+       "x": 50,
+       "y": 23,
+       "w": 860
+      },
+      {
+       "id": "l3",
+       "type": "icon",
+       "icon": "ley",
+       "x": 50,
+       "y": 36,
+       "w": 200,
+       "at": 2
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "icon": "ley",
+       "text": "Grave: {1}–{4} años",
+       "x": 50,
+       "y": 48,
+       "w": 780,
+       "at": 9
+      }
+     ]
+    },
+    {
+     "text": "Si fuera imprudencia menos grave, una multa.",
+     "show": [
+      {
+       "id": "c3b",
+       "type": "card",
+       "icon": "ley",
+       "text": "Menos grave: multa",
+       "x": 50,
+       "y": 57,
+       "w": 780,
+       "at": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Pero ojo: por ahora no se ha informado de ninguna investigación judicial, y una expulsión no te convierte en culpable.",
+     "show": [
+      {
+       "id": "h4",
+       "type": "headline",
+       "text": "Lo que *no* se sabe",
+       "x": 50,
+       "y": 23,
+       "w": 860
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "icon": "question",
+       "text": "Sin investigación anunciada",
+       "x": 50,
+       "y": 36,
+       "w": 860,
+       "at": 4
+      },
+      {
+       "id": "c4b",
+       "type": "card",
+       "icon": "roja",
+       "text": "Expulsión ≠ condena",
+       "x": 50,
+       "y": 45,
+       "w": 860,
+       "at": 12
+      }
+     ]
+    },
+    {
+     "text": "Lo deportivo va aparte: la Federación puede sancionarle con varios partidos.",
+     "show": [
+      {
+       "id": "c4c",
+       "type": "card",
+       "icon": "balon",
+       "text": "Federación: sanción aparte",
+       "x": 50,
+       "y": 54,
+       "w": 860,
+       "at": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Todo nuestro cariño a la familia de Jesús de Miguel y al Tenerife.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 35,
+       "w": 420
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "EXPLICADO",
+  "titulo": "Jesús de Miguel: *qué dice la ley*",
+  "grande": "142",
+  "sub": "Lo penal y lo deportivo",
+  "tam": 118
+ }
+}
