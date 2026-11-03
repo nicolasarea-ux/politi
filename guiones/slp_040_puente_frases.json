@@ -1,0 +1,222 @@
+{
+ "id": "slp_040_puente_frases",
+ "brand": "Politízate Hoy",
+ "formato": "top3",
+ "clauses": 2,
+ "clauseLabels": [
+  "FRASE 3",
+  "FRASE 2",
+  "FRASE 1"
+ ],
+ "header": {
+  "tag": "TOP 3 · MAR 3 NOV",
+  "source": "Fuentes: Vozpópuli · El Español · Público · Infobae"
+ },
+ "caption": "Las 3 frases con las que Óscar Puente se despidió del Ministerio de Transportes, literales y en orden. La número 1 es la que más se está compartiendo.\n¿Cuál te quedas? 1, 2 o 3 👇\n\nFuentes: Vozpópuli, El Español, Público e Infobae (3-11).\n\n#ÓscarPuente #Congreso #elecciones #29N #frases",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Las tres frases con las que Óscar Puente se ha despedido del ministerio. La última es la que más se está compartiendo.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Puente se va: *3 frases*",
+       "x": 50,
+       "y": 23,
+       "w": 920
+      },
+      {
+       "id": "u1",
+       "type": "urni",
+       "x": 50,
+       "y": 42,
+       "w": 300,
+       "at": 4,
+       "say": "Top 3",
+       "moods": [
+        {
+         "at": 0,
+         "m": "serio"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Tres. A Pedro Sánchez, le dio las gracias por su confianza sin límite.",
+     "show": [
+      {
+       "id": "f2",
+       "type": "flash",
+       "text": "3",
+       "bg": "mark",
+       "size": 240,
+       "x": 50,
+       "y": 32,
+       "dur": 1.0
+      },
+      {
+       "id": "q2",
+       "type": "card",
+       "icon": "user",
+       "text": "«Confianza sin límite»",
+       "x": 50,
+       "y": 44,
+       "w": 860,
+       "at": 3
+      },
+      {
+       "id": "n2",
+       "type": "note",
+       "text": "A Pedro Sánchez · Vozpópuli",
+       "x": 50,
+       "y": 52,
+       "at": 6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Dos. La decisión sobre mi futuro la tomé en los primeros minutos.",
+     "show": [
+      {
+       "id": "f3",
+       "type": "flash",
+       "text": "2",
+       "bg": "ink",
+       "size": 240,
+       "x": 50,
+       "y": 32,
+       "dur": 1.0
+      },
+      {
+       "id": "q3",
+       "type": "card",
+       "icon": "clock",
+       "text": "«…la tomé en los primeros minutos»",
+       "x": 50,
+       "y": 44,
+       "w": 940,
+       "at": 2
+      },
+      {
+       "id": "n3",
+       "type": "note",
+       "text": "El día del accidente · El Español",
+       "x": 50,
+       "y": 52,
+       "at": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y uno. Es una cuestión de dignidad política, coherencia y empatía con las víctimas.",
+     "show": [
+      {
+       "id": "f4",
+       "type": "flash",
+       "text": "1",
+       "bg": "red",
+       "size": 240,
+       "x": 50,
+       "y": 32,
+       "dur": 1.0
+      },
+      {
+       "id": "q4",
+       "type": "card",
+       "icon": "user",
+       "text": "«Dignidad política, coherencia y empatía»",
+       "x": 50,
+       "y": 45,
+       "w": 980,
+       "at": 3
+      },
+      {
+       "id": "n4",
+       "type": "note",
+       "text": "Público · Vozpópuli",
+       "x": 50,
+       "y": 53,
+       "at": 9
+      }
+     ]
+    },
+    {
+     "text": "Y renunció también a ir en las listas del 29.|veintinueve.",
+     "show": [
+      {
+       "id": "st4",
+       "type": "stamp",
+       "text": "FUERA DE LAS LISTAS",
+       "color": "red",
+       "x": 50,
+       "y": 61,
+       "rot": -4,
+       "at": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Con cuál te quedas? Comenta uno, dos o tres. Y síguenos.",
+     "show": [
+      {
+       "id": "u5",
+       "type": "urni",
+       "x": 50,
+       "y": 33,
+       "w": 300,
+       "say": "¿1, 2 o 3?",
+       "moods": [
+        {
+         "at": 0,
+         "m": "duda"
+        }
+       ]
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 53,
+       "rot": -4,
+       "at": 8
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "TOP 3",
+  "titulo": "Puente se va: *3 frases*",
+  "badge": "LITERALES",
+  "grande": "3",
+  "sub": "La 1 es la que más se comparte",
+  "tam": 120
+ }
+}

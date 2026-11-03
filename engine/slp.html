@@ -165,7 +165,7 @@ A.urni=(e,n,a,life)=>{const t=e.t+a;let talking=false;D&&D.scenes.forEach(S=>S.s
 };
 // encuesta / ¿verdad o bulo? : barras que se llenan y revelación
 R.poll=e=>`<div class="poll" style="width:${e.w||880}px">${e.opts.map((o,i)=>`<div class="po" style="margin:0 0 22px;position:relative;height:110px;border:6px solid var(--ink);border-radius:20px;background:#FFFDF8;overflow:hidden"><i style="position:absolute;left:0;top:0;bottom:0;width:0;background:${o.c?COL[o.c]||o.c:(i?'#E9E4D6':'var(--mark)')}"></i><b style="position:absolute;left:30px;top:50%;transform:translateY(-50%);font:900 58px F">${o.t}</b><span class="pv" style="position:absolute;right:30px;top:50%;transform:translateY(-50%);font:900 54px I">0%</span></div>`).join('')}</div>`;
-A.poll=(e,n,a)=>{const rows=[...n.querySelectorAll('.po')];rows.forEach((r,i)=>{const v=e.opts[i].v,q=outQ((a-0.3-i*0.2)/(e.fill||1.4));r.querySelector('i').style.width=v*q+'%';r.querySelector('.pv').textContent=e.hide&&a<(e.reveal||99)?'?':Math.round(v*q)+'%';
+A.poll=(e,n,a)=>{const rows=[...n.querySelectorAll('.po')];rows.forEach((r,i)=>{const v=e.opts[i].v,q=outQ((a-0.3-i*0.2)/(e.fill||1.4));if(e.noPct){const rv=a>=(e.reveal||0),wq=outQ((a-(e.reveal||0))/0.5);r.querySelector('i').style.width=(rv&&e.win===i?100*wq:8)+'%';r.querySelector('.pv').textContent=rv?(e.win===i?'✓':'✗'):'?';}else{r.querySelector('i').style.width=v*q+'%';r.querySelector('.pv').textContent=e.hide&&a<(e.reveal||99)?'?':Math.round(v*q)+'%';}
  const win=e.win===i&&a>=(e.reveal||0);r.style.transform=win?`scale(${1+0.04*Math.exp(-(a-(e.reveal||0))*5)})`:'';r.style.borderColor=win?COL.green:'var(--ink)';r.style.borderWidth=win?'10px':'6px'})};
 
 const fmtCnt=s=>s.replace(/\{(\d+)\}/g,'<span class="cu" data-to="$1">$1</span>');
@@ -260,6 +260,7 @@ function render(t){
 #cover.v2 .brand{background:#F3EEE3;color:var(--ink)}
 #cover.v2 .vis{border-color:#F3EEE3;box-shadow:0 0 0 14px rgba(200,245,60,.18),0 30px 60px rgba(0,0,0,.35)}
 #cover.v2 .vis.esc{background:#F3EEE3;border:8px solid #F3EEE3;border-radius:34px;transform:rotate(-2deg);padding:16px 20px;width:940px;height:auto;overflow:hidden;box-shadow:0 30px 60px rgba(0,0,0,.4)}
+#cover.v2 .vis.esc.free{background:none;border:0;box-shadow:none;transform:none;overflow:visible;padding:60px 0 0}
 #cover.v2.serio .vis{background:#E9E4D6}
 #cover.v2.serio .tit .mk i{background:#F3EEE3}
 #cover .badge{position:absolute;font:700 46px T;letter-spacing:2px;background:var(--red);color:#fff;padding:14px 26px 10px;border:5px solid #fff;transform:rotate(7deg);box-shadow:0 12px 0 -2px rgba(0,0,0,.25);white-space:nowrap}
@@ -285,13 +286,13 @@ async function renderCover(g){
   gr=(w.length>1?w[0][0]+w[w.length-1][0]:(w[0]||'').slice(0,2)).toUpperCase();
  }
  const v=c.querySelector('.vis');
- if(p.escena){const e=Object.assign({t:0},p.escena);v.classList.add('esc');v.innerHTML=R[e.type](e);
+ if(p.escena){const e=Object.assign({t:0},p.escena);v.classList.add('esc');if(e.type==='urni')v.classList.add('free');v.innerHTML=R[e.type](e);
   if(e.type==='via'){e.keys=[Object.assign({p:0,speed:0,boom:false,lab:''},e.estado||{})];}
   if(A[e.type])A[e.type](e,v,99,100);}
  else {
  v.innerHTML=gr?`<div class="big">${gr}</div>`:(ICO[ic]||'');
  if(gr){const L=[...gr].length; v.querySelector('.big').style.fontSize=(L===1?360:L<=2?250:L<=3?210:L<=4?170:L<=6?120:96)+'px';} }
- if(p.badge){const bd=document.createElement('div');bd.className='badge';bd.textContent=p.badge;c.querySelector('.safe').appendChild(bd);const r=v.getBoundingClientRect(),q=c.querySelector('.safe').getBoundingClientRect();bd.style.left=Math.min(r.right-q.left-bd.offsetWidth+50,q.width-bd.offsetWidth+10)+'px';bd.style.top=(r.top-q.top-30)+'px';}
+ if(p.badge){const bd=document.createElement('div');bd.className='badge';bd.textContent=p.badge;c.querySelector('.safe').appendChild(bd);const r=v.getBoundingClientRect(),q=c.querySelector('.safe').getBoundingClientRect();bd.style.left=Math.min(r.right-q.left-bd.offsetWidth+50,q.width-bd.offsetWidth+10)+'px';bd.style.top=(r.top-q.top-30)+'px';if(v.classList.contains('free')){bd.style.left=(r.left-q.left-10)+'px';bd.style.top=(r.bottom-q.top-120)+'px';bd.style.transform='rotate(-8deg)';}}
  const sb=c.querySelector('.sub'); sb.textContent=p.sub||''; sb.style.display=p.sub?'block':'none';
  await document.fonts.ready;
 }

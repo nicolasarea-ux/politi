@@ -1,0 +1,251 @@
+{
+ "id": "slp_039_puente_y_ahora",
+ "brand": "Politízate Hoy",
+ "formato": "top3",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL MINISTERIO",
+  "LA LISTA",
+  "LA LETRA PEQUEÑA"
+ ],
+ "header": {
+  "tag": "EXPLICADO · MAR 3 NOV",
+  "source": "Fuentes: CE art. 100 · LOREG art. 48 · Demócrata · El Español"
+ },
+ "caption": "Puente ha dimitido a 26 días de las elecciones. ¿Quién lleva ahora Transportes? ¿Y quién ocupa su puesto en la lista de Valladolid si ya está proclamada? Te lo explicamos con la ley en la mano.\n¿Sabías lo de la lista? Sí o no 👇\n\nFuentes: Constitución (arts. 100 y 101), Ley electoral LOREG (art. 48), Demócrata (3-11); El Español y Capital sobre la dimisión ofrecida antes.\n\n#ÓscarPuente #elecciones #29N #explicado #Gobierno",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Puente ha dimitido. ¿Y ahora quién lleva el ministerio? ¿Y su puesto en la lista? Dos cosas que casi nadie sabe.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "¿Y *ahora* qué?",
+       "x": 50,
+       "y": 23,
+       "w": 900
+      },
+      {
+       "id": "u1",
+       "type": "urni",
+       "x": 50,
+       "y": 42,
+       "w": 300,
+       "at": 3,
+       "say": "¿Y ahora?",
+       "moods": [
+        {
+         "at": 0,
+         "m": "duda"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Uno: el Gobierno no está en funciones hasta después del 29.|veintinueve.",
+     "show": [
+      {
+       "id": "f2",
+       "type": "flash",
+       "text": "1",
+       "bg": "mark",
+       "size": 220,
+       "x": 50,
+       "y": 26,
+       "dur": 0.9
+      },
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "El *ministerio*",
+       "x": 50,
+       "y": 23,
+       "w": 860,
+       "at": 1
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "icon": "calendar",
+       "text": "Gobierno en funciones: tras el 29-N",
+       "x": 50,
+       "y": 35,
+       "w": 920,
+       "at": 4
+      }
+     ]
+    },
+    {
+     "text": "Así que Sánchez puede proponer al Rey un ministro nuevo, aunque queden 26|veintiséis días.",
+     "show": [
+      {
+       "id": "c2b",
+       "type": "card",
+       "icon": "user",
+       "text": "Ministro nuevo: lo propone Sánchez",
+       "x": 50,
+       "y": 44,
+       "w": 920,
+       "at": 2
+      },
+      {
+       "id": "f2b",
+       "type": "flash",
+       "text": "26 DÍAS",
+       "bg": "ink",
+       "size": 120,
+       "x": 50,
+       "y": 56,
+       "at": 10,
+       "dur": 1.3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Dos: las listas ya están proclamadas, y el PSOE no puede poner a quien quiera.",
+     "show": [
+      {
+       "id": "f3",
+       "type": "flash",
+       "text": "2",
+       "bg": "mark",
+       "size": 220,
+       "x": 50,
+       "y": 26,
+       "dur": 0.9
+      },
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "La *lista*",
+       "x": 50,
+       "y": 23,
+       "w": 860,
+       "at": 1
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "icon": "urna",
+       "text": "Listas ya proclamadas",
+       "x": 50,
+       "y": 35,
+       "w": 860,
+       "at": 3
+      }
+     ]
+    },
+    {
+     "text": "Según la ley electoral, su hueco lo cubre el siguiente de la lista.",
+     "show": [
+      {
+       "id": "c3b",
+       "type": "card",
+       "icon": "doc",
+       "text": "Sube el n.º 2 · LOREG art. 48",
+       "x": 50,
+       "y": 44,
+       "w": 860,
+       "at": 2
+      },
+      {
+       "id": "s3",
+       "type": "sticker",
+       "text": "⬆️",
+       "x": 82,
+       "y": 53,
+       "at": 6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña: según su entorno, Puente ya había ofrecido dimitir, y Sánchez lo rechazó.",
+     "show": [
+      {
+       "id": "h4",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 23,
+       "w": 860
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "icon": "phone",
+       "text": "Ya la había ofrecido",
+       "x": 50,
+       "y": 35,
+       "w": 860,
+       "at": 6
+      },
+      {
+       "id": "st4",
+       "type": "stamp",
+       "text": "SÁNCHEZ DIJO NO",
+       "color": "red",
+       "x": 50,
+       "y": 46,
+       "rot": -4,
+       "at": 13
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Mañana, lo que dicen todos los partidos. Síguenos.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 30,
+       "w": 400
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 49,
+       "rot": -4,
+       "at": 3
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "EXPLICADO",
+  "titulo": "Puente se va: *¿y ahora qué?*",
+  "badge": "2 CLAVES",
+  "grande": "26",
+  "sub": "días para elegir ministro",
+  "tam": 118
+ }
+}

@@ -1,0 +1,370 @@
+{
+ "id": "slp_037_bulos_derecha_1",
+ "brand": "Politízate Hoy",
+ "formato": "bulo",
+ "clauses": 2,
+ "clauseLabels": [
+  "BULO 1",
+  "BULO 2",
+  "BULO 3"
+ ],
+ "header": {
+  "tag": "¿VERDAD O BULO? · 1/3",
+  "source": "Fuente: verificaciones de Maldita.es (27-5, 6-10 y 26-10-2026)"
+ },
+ "caption": "Si gobierna la derecha… ¿qué es verdad y qué es bulo? Parte 1/3: tres cosas que circulan sobre Abascal y Feijóo y que son falsas o montajes. Después vienen los bulos sobre la izquierda.\n¿Te había llegado alguno? Responde con el número 👇\n\nFuentes: Maldita.es — captura falsa sobre los jubilados (27-5-2026), captura falsa sobre pensiones e Imserso (act. 6-10-2026), vídeo manipulado de Feijóo (26-10-2026).\n\n#elecciones #29N #bulos #desinformación #verificación",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Si gobierna la derecha, ¿se acaban las pensiones? Esto circula por redes.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Si gobierna *la derecha*…",
+       "x": 50,
+       "y": 22,
+       "w": 900
+      },
+      {
+       "id": "u1",
+       "type": "urni",
+       "x": 50,
+       "y": 42,
+       "w": 340,
+       "at": 4,
+       "say": "¿En serio?",
+       "moods": [
+        {
+         "at": 0,
+         "m": "duda"
+        },
+        {
+         "at": 2.2,
+         "m": "sorpresa"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "text": "Tres cosas. ¿Verdad o bulo? Comenta antes de que te lo diga.",
+     "show": [
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "¿VERDAD O BULO?",
+       "bg": "mark",
+       "size": 100,
+       "x": 50,
+       "y": 61,
+       "at": 2,
+       "dur": 1.8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Uno: que Abascal dijo que los jubilados no sirven para nada.",
+     "show": [
+      {
+       "id": "q1",
+       "type": "card",
+       "icon": "phone",
+       "text": "«Los jubilados no sirven para nada»",
+       "x": 50,
+       "y": 24,
+       "w": 940,
+       "at": 0
+      },
+      {
+       "id": "p1",
+       "type": "poll",
+       "noPct": true,
+       "x": 50,
+       "y": 41,
+       "w": 820,
+       "at": 4,
+       "opts": [
+        {
+         "t": "VERDAD",
+         "v": 0
+        },
+        {
+         "t": "BULO",
+         "v": 0,
+         "c": "red"
+        }
+       ],
+       "win": 1,
+       "reveal": 2.6
+      },
+      {
+       "id": "u2",
+       "type": "urni",
+       "x": 82,
+       "y": 57,
+       "w": 200,
+       "at": 0,
+       "moods": [
+        {
+         "at": 0,
+         "m": "duda"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "text": "Falso: es la captura de un medio que no existe.",
+     "show": [
+      {
+       "id": "f2",
+       "type": "flash",
+       "text": "BULO",
+       "bg": "red",
+       "size": 170,
+       "x": 40,
+       "y": 58,
+       "at": 0,
+       "dur": 1.2
+      },
+      {
+       "id": "s2",
+       "type": "sticker",
+       "text": "🤥",
+       "x": 18,
+       "y": 33,
+       "at": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Dos: que va a recortar las pensiones y cancelar el Imserso.",
+     "show": [
+      {
+       "id": "q2",
+       "type": "card",
+       "icon": "plane",
+       "text": "«Adiós pensiones e Imserso»",
+       "x": 50,
+       "y": 24,
+       "w": 900,
+       "at": 0
+      },
+      {
+       "id": "p2",
+       "type": "poll",
+       "noPct": true,
+       "x": 50,
+       "y": 41,
+       "w": 820,
+       "at": 3,
+       "opts": [
+        {
+         "t": "VERDAD",
+         "v": 0
+        },
+        {
+         "t": "BULO",
+         "v": 0,
+         "c": "red"
+        }
+       ],
+       "win": 1,
+       "reveal": 2.4
+      },
+      {
+       "id": "u3",
+       "type": "urni",
+       "x": 82,
+       "y": 57,
+       "w": 200,
+       "at": 0,
+       "moods": [
+        {
+         "at": 0,
+         "m": "serio"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "text": "Otra captura falsa, con una foto del Congreso donde no habló de eso.",
+     "show": [
+      {
+       "id": "f3",
+       "type": "flash",
+       "text": "BULO",
+       "bg": "red",
+       "size": 170,
+       "x": 40,
+       "y": 58,
+       "at": 0,
+       "dur": 1.2
+      },
+      {
+       "id": "s3",
+       "type": "sticker",
+       "text": "📸",
+       "x": 18,
+       "y": 33,
+       "at": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y tres: el vídeo de Feijóo liándose con un trabalenguas.",
+     "show": [
+      {
+       "id": "q3",
+       "type": "card",
+       "icon": "laptop",
+       "text": "Feijóo y el trabalenguas",
+       "x": 50,
+       "y": 24,
+       "w": 880,
+       "at": 0
+      },
+      {
+       "id": "p3",
+       "type": "poll",
+       "noPct": true,
+       "x": 50,
+       "y": 41,
+       "w": 820,
+       "at": 3,
+       "opts": [
+        {
+         "t": "REAL",
+         "v": 0
+        },
+        {
+         "t": "MONTAJE",
+         "v": 0,
+         "c": "red"
+        }
+       ],
+       "win": 1,
+       "reveal": 2.2
+      },
+      {
+       "id": "u4",
+       "type": "urni",
+       "x": 82,
+       "y": 57,
+       "w": 200,
+       "at": 0,
+       "moods": [
+        {
+         "at": 0,
+         "m": "duda"
+        },
+        {
+         "at": 3,
+         "m": "feliz"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "text": "Es un montaje de humor de El Intermedio, de 2022.|dos_mil_veintidós.",
+     "show": [
+      {
+       "id": "f4",
+       "type": "flash",
+       "text": "MONTAJE",
+       "bg": "red",
+       "size": 140,
+       "x": 40,
+       "y": 58,
+       "at": 0,
+       "dur": 1.3
+      },
+      {
+       "id": "s4",
+       "type": "sticker",
+       "text": "🎬",
+       "x": 18,
+       "y": 33,
+       "at": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Lo verificó Maldita. Mañana, la parte dos. Y luego, los bulos sobre la izquierda. Síguenos.",
+     "show": [
+      {
+       "id": "n5",
+       "type": "note",
+       "text": "Fuente: Maldita.es",
+       "x": 50,
+       "y": 22,
+       "at": 0
+      },
+      {
+       "id": "u5",
+       "type": "urni",
+       "x": 50,
+       "y": 37,
+       "w": 300,
+       "at": 0,
+       "say": "¡Parte 2!",
+       "moods": [
+        {
+         "at": 0,
+         "m": "feliz"
+        }
+       ]
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 56,
+       "rot": -4,
+       "at": 7
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "¿VERDAD O BULO? · 1/3",
+  "titulo": "Si gobierna *la derecha*…",
+  "badge": "3 BULOS",
+  "sub": "Lo que circula y es falso",
+  "escena": {
+   "type": "urni",
+   "w": 400,
+   "say": "¿Bulo?",
+   "mood": "sorpresa"
+  }
+ }
+}

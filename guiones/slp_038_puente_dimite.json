@@ -1,0 +1,224 @@
+{
+ "id": "slp_038_puente_dimite",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL ANUNCIO",
+  "SUS RAZONES",
+  "Y ADEMÁS"
+ ],
+ "header": {
+  "tag": "ÚLTIMA HORA · MAR 3 NOV",
+  "source": "Fuentes: Vozpópuli · ElNacional · El Español · Público"
+ },
+ "caption": "Óscar Puente dimite como ministro de Transportes al final de su comparecencia por Urda, horas después de que Moncloa asegurara que no lo haría. Y renuncia a ir en las listas del 29-N.\n¿Lo esperabas? Sí o no 👇\n\nFuentes: directos y crónicas de Vozpópuli, ElNacional, El Español y Público (3-11). The Objective y Deia para la postura de Moncloa por la tarde.\n\n#ÓscarPuente #Urda #elecciones #29N #últimahora",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Última hora: Óscar Puente dimite.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "*Puente* dimite",
+       "x": 50,
+       "y": 23,
+       "w": 900
+      },
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "DIMITE",
+       "bg": "red",
+       "size": 190,
+       "x": 50,
+       "y": 40,
+       "at": 3,
+       "dur": 1.4
+      }
+     ]
+    },
+    {
+     "text": "Y eso que esta tarde Moncloa aseguraba que no lo haría.",
+     "show": [
+      {
+       "id": "c0",
+       "type": "card",
+       "icon": "phone",
+       "text": "Moncloa: «no dimitirá»",
+       "x": 50,
+       "y": 40,
+       "w": 820,
+       "at": 1
+      },
+      {
+       "id": "s0",
+       "type": "stamp",
+       "text": "HORAS DESPUÉS…",
+       "color": "red",
+       "x": 50,
+       "y": 50,
+       "rot": -5,
+       "at": 7
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Lo anunció al final de su comparecencia en el Congreso por Urda. Una dimisión irrevocable.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "El *anuncio*",
+       "x": 50,
+       "y": 23,
+       "w": 860
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "icon": "clock",
+       "text": "Al final de la comparecencia",
+       "x": 50,
+       "y": 35,
+       "w": 860,
+       "at": 2
+      },
+      {
+       "id": "f2",
+       "type": "flash",
+       "text": "IRREVOCABLE",
+       "bg": "ink",
+       "size": 110,
+       "x": 50,
+       "y": 48,
+       "at": 13,
+       "dur": 1.6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Sus palabras: un ministro de Transportes no puede seguir con dos accidentes de gravedad en menos de un año.",
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "Sus *razones*",
+       "x": 50,
+       "y": 23,
+       "w": 860
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "icon": "train",
+       "text": "{2} accidentes en menos de {1} año",
+       "x": 50,
+       "y": 35,
+       "w": 900,
+       "at": 9
+      },
+      {
+       "id": "n2",
+       "type": "note",
+       "text": "Urda (69 muertos) y Adamuz (46), según la prensa",
+       "x": 50,
+       "y": 43,
+       "at": 13
+      }
+     ]
+    },
+    {
+     "text": "Y añadió: es una cuestión de dignidad política y de empatía.",
+     "show": [
+      {
+       "id": "q2",
+       "type": "card",
+       "icon": "user",
+       "text": "«Dignidad política y empatía»",
+       "x": 50,
+       "y": 52,
+       "w": 900,
+       "at": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña: tampoco irá de número uno del PSOE por Valladolid el 29.|veintinueve.",
+     "show": [
+      {
+       "id": "h4",
+       "type": "headline",
+       "text": "Y *además*",
+       "x": 50,
+       "y": 23,
+       "w": 860
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "icon": "urna",
+       "text": "Fuera de la lista por Valladolid",
+       "x": 50,
+       "y": 36,
+       "w": 900,
+       "at": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Esta noche te contamos qué pasa ahora con el ministerio. Síguenos.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 30,
+       "w": 400
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 49,
+       "rot": -4,
+       "at": 5
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "ÚLTIMA HORA",
+  "titulo": "*Puente* dimite",
+  "badge": "ÚLTIMA HORA",
+  "grande": "2",
+  "sub": "accidentes en menos de un año"
+ }
+}

@@ -204,7 +204,7 @@
    "fecha": "2026-11-04T13:30",
    "copy": "Votar en blanco, nulo o quedarte en casa NO es lo mismo. Te explicamos la diferencia según la ley.\n¿Sabías que el voto en blanco cuenta para el 3 %? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 96 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #votoenblanco #votonulo",
    "partidos": [],
-   "fecha_reels": "2026-11-04T13:45",
+   "fecha_reels": "2026-11-04T17:00",
    "nota": "Sustituido el 2-N por actualidad; reprogramado"
   },
   {
@@ -389,7 +389,7 @@
    "estado": "programado",
    "fecha": "2026-11-03T22:00",
    "copy": "Jordi Wild ya ha dicho cuándo salen las entrevistas a los candidatos y en qué orden. Y hay letra pequeña 🎙️\n¿Cuál vas a ver primero? 👇\n\nFuentes: ESdiario (2-11), OKdiario.\n\n#elecciones #29N #eleccionesgenerales #JordiWild #TheWildProject",
-   "fecha_reels": "2026-11-03T23:00"
+   "fecha_reels": "2026-11-04T13:45"
   },
   {
    "id": "slp_030_veda_encuestas",
@@ -470,6 +470,16 @@
    "fecha": "2026-11-03T21:20",
    "fecha_reels": "2026-11-03T21:20",
    "copy": "Óscar Puente ha dado hoy en el Congreso su versión de Urda, con horas: la orden de «marcha normal», el Iryo que no arrancó y el choque. Más las medidas que anuncia y quién pide su dimisión.\n¿Te han convencido sus explicaciones? 👇\n\nFuentes: directos de Diario de Pontevedra, Infobae y Público, y crónica de Herqles (3-11). Versión del ministro: la investigación técnica sigue abierta.\n\n#Urda #ÓscarPuente #Congreso #trenes #actualidad",
+   "partidos": []
+  },
+  {
+   "id": "slp_038_puente_dimite",
+   "tipo": "actualidad",
+   "formato": "minuto",
+   "estado": "programado",
+   "fecha": "2026-11-03T21:40",
+   "fecha_reels": "2026-11-03T21:40",
+   "copy": "Óscar Puente dimite como ministro de Transportes al final de su comparecencia por Urda, horas después de que Moncloa asegurara que no lo haría. Y renuncia a ir en las listas del 29-N.\n¿Lo esperabas? Sí o no 👇\n\nFuentes: directos y crónicas de Vozpópuli, ElNacional, El Español y Público (3-11). The Objective y Deia para la postura de Moncloa por la tarde.\n\n#ÓscarPuente #Urda #elecciones #29N #últimahora",
    "partidos": []
   }
  ]
