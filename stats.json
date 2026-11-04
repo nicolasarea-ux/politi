@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 0,
-  "media_count": 24,
+  "media_count": 25,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "?",
+   "ig": "18139344883645988",
+   "fecha": "2026-11-04T11:17:22+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfUVEJxFHbD/",
+   "titulo": "Puente se va y empieza otra pelea: qué han dicho Frente Ampl",
+   "views": 3,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
   {
    "id": "slp_040_puente_frases",
    "ig": "18144512494720528",
@@ -14,13 +30,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfS_8Gpndyn/",
    "titulo": "Las 3 frases con las que Óscar Puente se despidió del Minist",
-   "views": 119,
+   "views": 120,
    "reach": 108,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 7384,
-   "ig_reels_video_view_total_time": 790118
+   "ig_reels_avg_watch_time": 7327,
+   "ig_reels_video_view_total_time": 791389
   },
   {
    "id": "slp_039_puente_y_ahora",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfS6OF3lE8L/",
    "titulo": "Puente ha dimitido a 26 días de las elecciones. ¿Quién lleva",
-   "views": 160,
-   "reach": 136,
+   "views": 162,
+   "reach": 138,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 11686,
-   "ig_reels_video_view_total_time": 1600982
+   "ig_reels_avg_watch_time": 11698,
+   "ig_reels_video_view_total_time": 1637728
   },
   {
    "id": "slp_038_puente_dimite",
@@ -126,13 +142,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfSUqVVkrdI/",
    "titulo": "La muerte de Jesús de Miguel tras el choque con el portero d",
-   "views": 203,
-   "reach": 175,
+   "views": 204,
+   "reach": 176,
    "saved": 0,
    "shares": 1,
    "total_interactions": 6,
-   "ig_reels_avg_watch_time": 8599,
-   "ig_reels_video_view_total_time": 1565144
+   "ig_reels_avg_watch_time": 8556,
+   "ig_reels_video_view_total_time": 1565779
   },
   {
    "id": "slp_028_urda_puente_hoy",
@@ -142,13 +158,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfSCH3IDX1t/",
    "titulo": "Urda: lo que se sabe antes de que Puente hable hoy en el Con",
-   "views": 74,
-   "reach": 63,
+   "views": 77,
+   "reach": 66,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 7014,
-   "ig_reels_video_view_total_time": 448907
+   "ig_reels_avg_watch_time": 6842,
+   "ig_reels_video_view_total_time": 458461
   },
   {
    "id": "slp_002_voto_correo",
