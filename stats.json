@@ -2,18 +2,18 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 2,
-  "media_count": 29,
+  "media_count": 30,
   "id": "29046307255021601"
  },
  "reels": [
   {
-   "id": "slp_012_quien_sanchez",
-   "ig": "17912147130592589",
-   "fecha": "2026-11-04T20:45:39+0000",
+   "id": "slp_043_puente_papeleta",
+   "ig": "18110269886211240",
+   "fecha": "2026-11-04T21:35:09+0000",
    "likes": 0,
    "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfVWFM4FS8l/",
-   "titulo": "Quién es quién 5/5: Pedro Sánchez en 30 segundos. Trayectori",
+   "url": "https://www.instagram.com/reel/DfVbxsBjUtC/",
+   "titulo": "Puente ha dimitido, pero en Valladolid su nombre seguirá el ",
    "views": 0,
    "reach": 0,
    "saved": 0,
@@ -23,6 +23,22 @@
    "ig_reels_video_view_total_time": 0
   },
   {
+   "id": "slp_012_quien_sanchez",
+   "ig": "17912147130592589",
+   "fecha": "2026-11-04T20:45:39+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfVWFM4FS8l/",
+   "titulo": "Quién es quién 5/5: Pedro Sánchez en 30 segundos. Trayectori",
+   "views": 15,
+   "reach": 4,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 2766,
+   "ig_reels_video_view_total_time": 11065
+  },
+  {
    "id": "slp_037_bulos_derecha_1",
    "ig": "17912830872572723",
    "fecha": "2026-11-04T18:55:42+0000",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfVJgGLlSNL/",
    "titulo": "Si gobierna la derecha… ¿qué es verdad y qué es bulo? Parte ",
-   "views": 49,
-   "reach": 27,
+   "views": 120,
+   "reach": 75,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 8014,
-   "ig_reels_video_view_total_time": 216398
+   "ig_reels_avg_watch_time": 7289,
+   "ig_reels_video_view_total_time": 554034
   },
   {
    "id": "slp_029_wild_13n",
@@ -62,13 +78,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfUg45TEf4d/",
    "titulo": "Un solo ministro con la economía y los trenes, a 25 días de ",
-   "views": 81,
-   "reach": 69,
+   "views": 87,
+   "reach": 77,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 8143,
-   "ig_reels_video_view_total_time": 561906
+   "ig_reels_avg_watch_time": 8006,
+   "ig_reels_video_view_total_time": 624492
   },
   {
    "id": "?",
