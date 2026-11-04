@@ -17,7 +17,7 @@ SR, LEAD, TAIL = 24000, 0.15, 0.6
 
 
 def load(path):
-    raw = subprocess.run(["ffmpeg", "-v", "error", "-i", path, "-ac", "1", "-ar", str(SR), "-f", "f32le", "-"],
+    raw = subprocess.run(["ffmpeg", "-v", "error", "-i", path, "-af", f"atempo={os.environ.get('TEMPO', '1.1')}", "-ac", "1", "-ar", str(SR), "-f", "f32le", "-"],
                          capture_output=True, check=True).stdout
     return np.frombuffer(raw, np.float32).copy()
 

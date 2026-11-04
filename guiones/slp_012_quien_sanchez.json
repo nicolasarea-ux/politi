@@ -8,7 +8,7 @@
   "tag": "QUIÉN ES QUIÉN 5/5 · MAR 3 NOV",
   "source": "Fuente: Euronews (10 oct) · Diario de León (7 oct) · Orain (17 oct)"
  },
- "caption": "Quién es quién 5/5: Pedro Sánchez en 30 segundos. Trayectoria, propuestas y la letra pequeña de su plan de vivienda.\n¿Qué candidato te ha sorprendido más de los cinco? 👇\n\nFuente: Euronews (10 oct), Diario de León (7 oct), Orain (17 oct).\n\n#elecciones #29N #eleccionesgenerales #quienesquien #candidatos #vivienda",
+ "caption": "Quién es quién 5/5: Pedro Sánchez en 30 segundos. Trayectoria, propuestas y la letra pequeña de su plan de vivienda.\n¿Qué candidato te ha sorprendido más de los cinco? 👇\n\nFuente: Euronews (10 oct), Diario de León (7 oct), Orain (17 oct).\nFotos: Vlada Republike Slovenije from Ljubljana, Slovenia (Public domain, Wikimedia Commons)\n\n#elecciones #29N #eleccionesgenerales #quienesquien #candidatos #vivienda",
  "scenes": [
   {
    "clause": 0,
@@ -25,23 +25,25 @@
        "w": 860
       },
       {
-       "id": "i1",
-       "type": "icon",
-       "icon": "user",
-       "x": 50,
-       "y": 39,
-       "w": 260,
-       "at": 9
-      },
-      {
        "id": "s1",
        "type": "stamp",
        "text": "PSOE",
        "color": "ink",
        "x": 50,
-       "y": 50,
+       "y": 66,
        "rot": 6,
        "at": 12
+      },
+      {
+       "id": "k0",
+       "type": "cara",
+       "foto": "sanchez",
+       "h": 600,
+       "w": 600,
+       "x": 50,
+       "y": 47,
+       "at": 0,
+       "label": "Pedro Sánchez"
       }
      ]
     }
@@ -220,6 +222,16 @@
   }
  ],
  "portada": {
-  "sub": "Quién es y qué propone"
+  "sub": "Quién es y qué propone",
+  "mini": {
+   "texto": "¿Qué propone",
+   "rojo": "SÁNCHEZ?",
+   "cara": "sanchez",
+   "emoji": "🧐",
+   "emojiX": 790,
+   "emojiY": 1010,
+   "flechaX": 80,
+   "flechaY": 980
+  }
  }
 }

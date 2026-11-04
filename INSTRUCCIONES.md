@@ -105,6 +105,15 @@ Cada día, **un vídeo de cada formato** (los otros huecos, formato normal anima
 
 **Portadas v2 (3-N):** fondo azul marino por defecto (no parecen un fotograma), título en papel con fosforito, círculo con dato o `portada.escena` en tarjeta, y `portada.badge` (sello rojo: "MINUTO A MINUTO", "¿BULO?", "TOP 3", "EN 30 S"). `portada.estilo: "clasico"` vuelve al papel.
 
+## Datos del 4-N (stats.json) y cambios obligatorios
+`stats.json` se actualiza solo en cada pasada del publicador (views, alcance, `ig_reels_avg_watch_time` en ms, compartidos, guardados). Léelo en cada pasada y anota en `registro.md` los 3 mejores y peores por tiempo medio visto.
+Diagnóstico 4-N: todos los Reels se quedan en ~100–130 de alcance (grupo de prueba) y el tiempo medio visto es 5–10 s en vídeos de 35–50 s. Lo que más retiene: caras conocidas y noticia caliente. Lo que peor: arranques lentos (Urda minuto a minuto: 4 s).
+- **Duración 20–30 s, máximo 70 palabras.** La voz va un 10 % más rápida (TEMPO=1.1 en `tts_andrew.py`, ya por defecto).
+- **Segundo 0:** el primer elemento aparece con `at: 0` y es lo más fuerte (cara, `flash`, cifra). La primera frase es el conflicto o la pregunta, nunca contexto.
+- **Caras:** `fotos/<nombre>_rec.png` (recortadas, licencia libre; créditos en `fotos/creditos.json`). Elemento `{"type":"cara","foto":"sanchez","h":600,"label":"Pedro Sánchez"}`. Si usas una cara, añade al copy la línea `Fotos: <autor> (<licencia>, Wikimedia Commons)`. Para añadir caras nuevas: Commons (CC0, CC BY, CC BY-SA, dominio público o La Moncloa con atribución) vía el navegador integrado, recorte con `rembg` (modelo u2net_human_seg). Nunca fotos de agencia (EFE, Europa Press…).
+- **Portadas A/B:** alterna `portada.mini` (estilo miniatura: `texto` 2 líneas, `rojo` = palabra gancho en caja roja, `cara` o Urni con `mood`, `emoji`, flecha) con la v2 azul. Anota en `cola.json` `"portada_estilo": "mini"|"v2"` y compara cada 3 días.
+- TikTok multiplicaría el alcance: si Nicks crea la cuenta, prioridad máxima automatizarla.
+
 ## Tragedias y sucesos graves
 Con víctimas (accidentes, atentados, catástrofes): `"tono": "serio"` en el guion (sin música, sin sellos de broma), etiquetas de la barra con `"clauseLabels"` (p. ej. LO QUE SE SABE / LOS AUDIOS / LO QUE NO SE SABE) en vez de cláusulas y letra pequeña, cifras atribuidas y con hora, nada de culpables mientras haya investigación, y nunca imágenes o detalles morbosos.
 

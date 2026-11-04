@@ -223,6 +223,17 @@
   "serie": "EXPLICADO",
   "titulo": "Tu voto no *pesa igual*",
   "sub": "Soria elige 2 y Madrid 38",
-  "grande": "2–38"
+  "grande": "2–38",
+  "mini": {
+   "texto": "Tu voto no\npesa",
+   "rojo": "IGUAL",
+   "mood": "duda",
+   "say": "¿Cómo?",
+   "emoji": "⚖️",
+   "emojiX": 800,
+   "emojiY": 980,
+   "flechaX": 70,
+   "flechaY": 1000
+  }
  }
 }

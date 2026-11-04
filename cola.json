@@ -14,7 +14,8 @@
    "errata": "Dice que el voto se envía hasta el 26-N; el último día es el 25-N (LOREG art. 73). Corregido en slp_008_calendario.",
    "nota": "Voz rehecha el 1-N con plazos corregidos (25-N); reprogramado 2-N 22:00",
    "fecha": "2026-11-02T22:00",
-   "copy": "Voto por correo para el 29-N: hasta cuándo pedirlo, hasta cuándo enviarlo y la letra pequeña 🗳️\n¿Lo vas a pedir? 👇\n\nFuente: LOREG, Correos y calendario electoral del 29-N.\n\n#elecciones #29N #eleccionesgenerales #votoporcorreo #comovotar"
+   "copy": "Voto por correo para el 29-N: hasta cuándo pedirlo, hasta cuándo enviarlo y la letra pequeña 🗳️\n¿Lo vas a pedir? 👇\n\nFuente: LOREG, Correos y calendario electoral del 29-N.\n\n#elecciones #29N #eleccionesgenerales #votoporcorreo #comovotar",
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_001_viudedad",
@@ -29,7 +30,8 @@
    "tipo": "atemporal",
    "franja_prevista": "2026-10-31T22:00",
    "copy": "Pensión de viudedad sin estar casados: requisitos y el plazo que puede tumbar el decreto ⏳\n¿Conoces a alguien a quien le afecte? 👇\n\nFuente: Consejo de Ministros, 20-10-2026.\n\n#elecciones #29N #eleccionesgenerales #pensiones #viudedad #parejadehecho",
-   "fecha_reels": "2026-10-31T22:15"
+   "fecha_reels": "2026-10-31T22:15",
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_005_quien_abascal",
@@ -46,7 +48,8 @@
    "estado": "programado",
    "franja_prevista": "2026-10-30T19:30",
    "copy": "Quién es quién 1/5: Santiago Abascal en 30 segundos. Trayectoria, propuestas y su objetivo para el 29-N.\n¿Qué candidato quieres que expliquemos después? 👇\n\nFuente: Euronews (22 oct), AFP (7 oct).\n\n#elecciones #29N #eleccionesgenerales #quienesquien #candidatos #politica",
-   "fecha_reels": "2026-10-30T19:45"
+   "fecha_reels": "2026-10-30T19:45",
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_007_mesas",
@@ -62,7 +65,8 @@
    "estado": "programado",
    "franja_prevista": "2026-10-31T13:30",
    "copy": "Sorteo de mesas electorales del 29-N: plazos, lo que cobras y lo que pasa si no vas 🗳️\nGuárdalo por si te toca 📌 ¿Te ha tocado alguna vez? 👇\n\nFuente: LOREG (arts. 26-28 y 143), BOE (dieta de 75 €).\n\n#elecciones #29N #eleccionesgenerales #mesaelectoral #comovotar #votar",
-   "fecha_reels": "2026-10-31T13:45"
+   "fecha_reels": "2026-10-31T13:45",
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_006_quien_colau",
@@ -79,7 +83,8 @@
    "estado": "programado",
    "franja_prevista": "2026-10-31T19:30",
    "copy": "Quién es quién 2/5: Ada Colau en 30 segundos. Trayectoria, propuestas y la letra pequeña de su impuesto a la vivienda.\n¿Qué candidato quieres que expliquemos después? 👇\n\nFuente: Euronews (22 oct), Demócrata (28 oct).\n\n#elecciones #29N #eleccionesgenerales #quienesquien #candidatos #vivienda",
-   "fecha_reels": "2026-10-31T19:45"
+   "fecha_reels": "2026-10-31T19:45",
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_008_calendario",
@@ -95,7 +100,8 @@
    "estado": "programado",
    "franja_prevista": "2026-11-01T13:30",
    "copy": "Calendario del 29-N: campaña, reflexión y voto por correo (con una corrección nuestra) 📅\nGuárdalo 📌 ¿Qué fecha no conocías? 👇\n\nFuente: LOREG (art. 73), calendario electoral 29-N.\n\n#elecciones #29N #eleccionesgenerales #calendarioelectoral #votoporcorreo #comovotar",
-   "fecha_reels": "2026-11-01T13:45"
+   "fecha_reels": "2026-11-01T13:45",
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_009_quien_feijoo",
@@ -113,7 +119,8 @@
    "estado": "programado",
    "franja_prevista": "2026-11-01T19:30",
    "copy": "Quién es quién 3/5: Alberto Núñez Feijóo en 30 segundos. Trayectoria, propuestas y qué dice de pactar.\n¿Qué candidato quieres que expliquemos después? 👇\n\nFuente: Euronews (22 oct), AFP (7 oct), Ara (18 oct).\n\n#elecciones #29N #eleccionesgenerales #quienesquien #candidatos #politica",
-   "fecha_reels": "2026-11-01T19:45"
+   "fecha_reels": "2026-11-01T19:45",
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_010_176",
@@ -127,7 +134,8 @@
    "estado": "programado",
    "copy": "176: el número que decide quién gobierna, y qué pasa si nadie lo alcanza 🧮\n¿Sabías lo de la segunda votación? 👇\n\nFuente: Constitución Española (arts. 68 y 99).\n\n#elecciones #29N #eleccionesgenerales #investidura #congreso #explicado",
    "fecha_reels": "2026-11-01T22:15",
-   "fecha": "2026-11-01T22:00"
+   "fecha": "2026-11-01T22:00",
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_004_tren_viajeros",
@@ -140,7 +148,8 @@
    ],
    "estado": "programado",
    "fecha_reels": "2026-10-30T13:45",
-   "copy": "¿Ibas a viajar en tren entre Madrid y Andalucía? Esto es lo que pasa con la línea tras el accidente de Urda y qué hacer con tu billete.\n¿Te ha tocado? Cuéntanos 👇\n\nFuentes: Renfe, Ouigo, Iryo e Iberia (vía eldiario.es e Infobae, 29-10). Comprueba siempre con tu compañía.\n\n#Renfe #AVE #Iryo #Ouigo #trenes #Andalucía"
+   "copy": "¿Ibas a viajar en tren entre Madrid y Andalucía? Esto es lo que pasa con la línea tras el accidente de Urda y qué hacer con tu billete.\n¿Te ha tocado? Cuéntanos 👇\n\nFuentes: Renfe, Ouigo, Iryo e Iberia (vía eldiario.es e Infobae, 29-10). Comprueba siempre con tu compañía.\n\n#Renfe #AVE #Iryo #Ouigo #trenes #Andalucía",
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_003_tren_urda",
@@ -153,7 +162,8 @@
    ],
    "estado": "programado",
    "fecha_reels": "2026-10-30T22:15",
-   "copy": "Choque de trenes en Urda (Toledo): lo que se sabe, lo que dicen los audios y lo que aún se investiga. Todo nuestro cariño a las víctimas y sus familias.\n\nFuentes: Junta de Castilla-La Mancha, CIAF, eldiario.es y Cuatro (datos del 30-10).\n\n#Urda #Toledo #accidenteferroviario #trenes #actualidad"
+   "copy": "Choque de trenes en Urda (Toledo): lo que se sabe, lo que dicen los audios y lo que aún se investiga. Todo nuestro cariño a las víctimas y sus familias.\n\nFuentes: Junta de Castilla-La Mancha, CIAF, eldiario.es y Cuatro (datos del 30-10).\n\n#Urda #Toledo #accidenteferroviario #trenes #actualidad",
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_011_quien_montero",
@@ -164,7 +174,8 @@
    "partidos": [
     "Podemos"
    ],
-   "fecha_reels": "2026-11-02T19:45"
+   "fecha_reels": "2026-11-02T19:45",
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_012_quien_sanchez",
@@ -175,7 +186,8 @@
    "partidos": [
     "PSOE"
    ],
-   "fecha_reels": "2026-11-04T21:00"
+   "fecha_reels": "2026-11-04T21:00",
+   "portada_estilo": "mini"
   },
   {
    "id": "slp_013_tren_novedades",
@@ -184,7 +196,8 @@
    "fecha": "2026-11-01T21:00",
    "copy": "Urda, cuatro días después: qué pasa con la investigación, cuándo podría volver el AVE a Andalucía y qué ocurre el martes en el Congreso. Todo nuestro cariño a las víctimas y sus familias.\n\nFuentes: Europa Press vía The Objective (30-10), Demócrata y Diario de Sevilla (31-10), COPE y The Objective (29-10).\n\n#Urda #Toledo #accidenteferroviario #trenes #actualidad",
    "partidos": [],
-   "fecha_reels": "2026-11-01T21:00"
+   "fecha_reels": "2026-11-01T21:00",
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_014_dhondt",
@@ -195,7 +208,8 @@
    "fecha_reels": "2026-11-05T22:15",
    "nota": "Vídeo hecho, listo para usar",
    "fecha": "2026-11-05T22:00",
-   "formato": "animado"
+   "formato": "animado",
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_016_blanco_nulo",
@@ -205,7 +219,8 @@
    "copy": "Votar en blanco, nulo o quedarte en casa NO es lo mismo. Te explicamos la diferencia según la ley.\n¿Sabías que el voto en blanco cuenta para el 3 %? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 96 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #votoenblanco #votonulo",
    "partidos": [],
    "fecha_reels": "2026-11-04T17:00",
-   "nota": "Sustituido el 2-N por actualidad; reprogramado"
+   "nota": "Sustituido el 2-N por actualidad; reprogramado",
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_017_senado",
@@ -234,7 +249,8 @@
    ],
    "estado": "programado",
    "fecha": "2026-11-02T13:30",
-   "fecha_reels": "2026-11-02T13:45"
+   "fecha_reels": "2026-11-02T13:45",
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_019_encuestas_urda",
@@ -249,7 +265,8 @@
    ],
    "estado": "programado",
    "fecha": "2026-11-02T17:00",
-   "fecha_reels": "2026-11-02T17:15"
+   "fecha_reels": "2026-11-02T17:15",
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_020_permiso_votar",
@@ -275,7 +292,8 @@
    ],
    "estado": "programado",
    "fecha": "2026-11-04T22:00",
-   "fecha_reels": "2026-11-04T22:15"
+   "fecha_reels": "2026-11-04T22:15",
+   "portada_estilo": "mini"
   },
   {
    "id": "slp_021_dni_votar",
@@ -315,7 +333,8 @@
    ],
    "estado": "programado",
    "fecha": "2026-11-05T13:30",
-   "copy": "¿Vives fuera de España? Cómo votar el 29-N: ya no hay que pedirlo, pero hay fechas que no perdonan ✈️\nEtiqueta a quien viva fuera 👇\n\nFuente: Ministerio de Asuntos Exteriores, webs consulares (Elecciones a Cortes Generales, 29-11-2026).\n\n#elecciones #29N #eleccionesgenerales #votoexterior #CERA"
+   "copy": "¿Vives fuera de España? Cómo votar el 29-N: ya no hay que pedirlo, pero hay fechas que no perdonan ✈️\nEtiqueta a quien viva fuera 👇\n\nFuente: Ministerio de Asuntos Exteriores, webs consulares (Elecciones a Cortes Generales, 29-11-2026).\n\n#elecciones #29N #eleccionesgenerales #votoexterior #CERA",
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_025_donde_voto",
@@ -328,7 +347,8 @@
    ],
    "estado": "programado",
    "fecha": "2026-11-05T19:30",
-   "copy": "¿No sabes dónde te toca votar? Cómo mirarlo en dos minutos y qué pasa si no te llega la tarjeta censal 📍\n¿Te ha llegado ya la tuya? 👇\n\nFuente: Oficina del Censo Electoral (INE); Demócrata; Maldita.\n\n#elecciones #29N #eleccionesgenerales #censoelectoral #comovotar"
+   "copy": "¿No sabes dónde te toca votar? Cómo mirarlo en dos minutos y qué pasa si no te llega la tarjeta censal 📍\n¿Te ha llegado ya la tuya? 👇\n\nFuente: Oficina del Censo Electoral (INE); Demócrata; Maldita.\n\n#elecciones #29N #eleccionesgenerales #censoelectoral #comovotar",
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_026_barrera_3",
@@ -369,7 +389,8 @@
    ],
    "estado": "programado",
    "fecha": "2026-11-03T13:30",
-   "copy": "Urda: lo que se sabe antes de que Puente hable hoy en el Congreso, las ayudas anunciadas y quién pide su salida. Todo nuestro cariño a las víctimas y sus familias.\n\nFuentes: AITAT vía Euronews (30-10); Demócrata, Estrella Digital y Diario de Pontevedra (3-11).\n\n#elecciones #29N #eleccionesgenerales #Urda #Congreso"
+   "copy": "Urda: lo que se sabe antes de que Puente hable hoy en el Congreso, las ayudas anunciadas y quién pide su salida. Todo nuestro cariño a las víctimas y sus familias.\n\nFuentes: AITAT vía Euronews (30-10); Demócrata, Estrella Digital y Diario de Pontevedra (3-11).\n\n#elecciones #29N #eleccionesgenerales #Urda #Congreso",
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_029_wild_13n",
@@ -389,7 +410,8 @@
    "estado": "programado",
    "fecha": "2026-11-03T22:00",
    "copy": "Jordi Wild ya ha dicho cuándo salen las entrevistas a los candidatos y en qué orden. Y hay letra pequeña 🎙️\n¿Cuál vas a ver primero? 👇\n\nFuentes: ESdiario (2-11), OKdiario.\n\n#elecciones #29N #eleccionesgenerales #JordiWild #TheWildProject",
-   "fecha_reels": "2026-11-04T13:45"
+   "fecha_reels": "2026-11-04T13:45",
+   "portada_estilo": "mini"
   },
   {
    "id": "slp_030_veda_encuestas",
@@ -440,7 +462,8 @@
    "fecha": "2026-11-03T19:30",
    "fecha_reels": "2026-11-03T19:45",
    "copy": "Urda, minuto a minuto: la señal que falla, la orden de seguir y el choque. Lo que dicen el primer informe técnico y los audios, sin adelantar culpables.\n¿Qué pregunta le harías tú al ministro? 👇\n\nFuentes: primera nota de la AITAT (vía Vozpópuli, 29-10), audios publicados por eldiario.es y Cuatro, Junta de Castilla-La Mancha.\n\n#Urda #Toledo #trenes #Adif #actualidad",
-   "partidos": []
+   "partidos": [],
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_034_de_miguel_ley",
@@ -450,7 +473,8 @@
    "fecha": "2026-11-03T16:45",
    "fecha_reels": "2026-11-03T16:45",
    "copy": "La muerte de Jesús de Miguel tras el choque con el portero del Andorra: qué dice el acta, qué prevé el Código Penal y por qué una expulsión no es una condena. Todo nuestro cariño a su familia y al CD Tenerife.\n¿Crees que el fútbol debería cambiar alguna norma? 👇\n\nFuentes: comunicado del CD Tenerife (3-11), acta arbitral vía OKdiario, Vozpópuli y 442 (3-11), Código Penal art. 142 (BOE).\n\n#JesúsdeMiguel #CDTenerife #fútbol #CódigoPenal #actualidad",
-   "partidos": []
+   "partidos": [],
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_035_redes_delito",
@@ -460,7 +484,8 @@
    "fecha": "2026-11-03T18:15",
    "fecha_reels": "2026-11-03T18:15",
    "copy": "Tras la muerte de Jesús de Miguel, el portero del Andorra ha cerrado sus redes por los insultos y las amenazas. Lo que dice el Código Penal de amenazar, insultar o atacar con racismo en redes.\n¿Se debería perseguir más el odio en redes? 👇\n\nFuentes: El Debate, OKdiario y El Distrito (3-11); Código Penal arts. 169, 208-209, 215 y 510 (BOE).\n\n#redessociales #CódigoPenal #delitosdeodio #fútbol #actualidad",
-   "partidos": []
+   "partidos": [],
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_036_puente_comparecencia",
@@ -470,7 +495,8 @@
    "fecha": "2026-11-03T21:20",
    "fecha_reels": "2026-11-03T21:20",
    "copy": "Óscar Puente ha dado hoy en el Congreso su versión de Urda, con horas: la orden de «marcha normal», el Iryo que no arrancó y el choque. Más las medidas que anuncia y quién pide su dimisión.\n¿Te han convencido sus explicaciones? 👇\n\nFuentes: directos de Diario de Pontevedra, Infobae y Público, y crónica de Herqles (3-11). Versión del ministro: la investigación técnica sigue abierta.\n\n#Urda #ÓscarPuente #Congreso #trenes #actualidad",
-   "partidos": []
+   "partidos": [],
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_038_puente_dimite",
@@ -480,7 +506,8 @@
    "fecha": "2026-11-03T21:40",
    "fecha_reels": "2026-11-03T21:40",
    "copy": "Óscar Puente dimite como ministro de Transportes al final de su comparecencia por Urda, horas después de que Moncloa asegurara que no lo haría. Y renuncia a ir en las listas del 29-N.\n¿Lo esperabas? Sí o no 👇\n\nFuentes: directos y crónicas de Vozpópuli, ElNacional, El Español y Público (3-11). The Objective y Deia para la postura de Moncloa por la tarde.\n\n#ÓscarPuente #Urda #elecciones #29N #últimahora",
-   "partidos": []
+   "partidos": [],
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_039_puente_y_ahora",
@@ -490,7 +517,8 @@
    "fecha": "2026-11-03T22:35",
    "fecha_reels": "2026-11-03T22:35",
    "copy": "Puente ha dimitido a 26 días de las elecciones. ¿Quién lleva ahora Transportes? ¿Y quién ocupa su puesto en la lista de Valladolid si ya está proclamada? Te lo explicamos con la ley en la mano.\n¿Sabías lo de la lista? Sí o no 👇\n\nFuentes: Constitución (arts. 100 y 101), Ley electoral LOREG (art. 48), Demócrata (3-11); El Español y Capital sobre la dimisión ofrecida antes.\n\n#ÓscarPuente #elecciones #29N #explicado #Gobierno",
-   "partidos": []
+   "partidos": [],
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_040_puente_frases",
@@ -500,7 +528,8 @@
    "fecha": "2026-11-03T23:30",
    "fecha_reels": "2026-11-03T23:30",
    "copy": "Las 3 frases con las que Óscar Puente se despidió del Ministerio de Transportes, literales y en orden. La número 1 es la que más se está compartiendo.\n¿Cuál te quedas? 1, 2 o 3 👇\n\nFuentes: Vozpópuli, El Español, Público e Infobae (3-11).\n\n#ÓscarPuente #Congreso #elecciones #29N #frases",
-   "partidos": []
+   "partidos": [],
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_037_bulos_derecha_1",
@@ -514,7 +543,8 @@
    "partidos": [
     "PP",
     "Vox"
-   ]
+   ],
+   "portada_estilo": "mini"
   }
  ]
 }

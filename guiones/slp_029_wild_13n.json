@@ -249,6 +249,17 @@
   "serie": "THE WILD PROJECT",
   "titulo": "Wild: el orden de las *entrevistas*",
   "grande": "13-N",
-  "sub": "Cuatro candidatos en un día"
+  "sub": "Cuatro candidatos en un día",
+  "mini": {
+   "texto": "Jordi Wild:\n4 candidatos",
+   "rojo": "¿QUÉ ORDEN?",
+   "mood": "sorpresa",
+   "say": "¡4 en 1 día!",
+   "emoji": "🎙️",
+   "emojiX": 800,
+   "emojiY": 980,
+   "flechaX": 70,
+   "flechaY": 1000
+  }
  }
 }

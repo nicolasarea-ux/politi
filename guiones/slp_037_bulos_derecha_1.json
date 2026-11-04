@@ -12,7 +12,7 @@
   "tag": "¿VERDAD O BULO? · 1/3",
   "source": "Fuente: verificaciones de Maldita.es (27-5, 6-10 y 26-10-2026)"
  },
- "caption": "Si gobierna la derecha… ¿qué es verdad y qué es bulo? Parte 1/3: tres cosas que circulan sobre Abascal y Feijóo y que son falsas o montajes. Después vienen los bulos sobre la izquierda.\n¿Te había llegado alguno? Responde con el número 👇\n\nFuentes: Maldita.es — captura falsa sobre los jubilados (27-5-2026), captura falsa sobre pensiones e Imserso (act. 6-10-2026), vídeo manipulado de Feijóo (26-10-2026).\n\n#elecciones #29N #bulos #desinformación #verificación",
+ "caption": "Si gobierna la derecha… ¿qué es verdad y qué es bulo? Parte 1/3: tres cosas que circulan sobre Abascal y Feijóo y que son falsas o montajes. Después vienen los bulos sobre la izquierda.\n¿Te había llegado alguno? Responde con el número 👇\n\nFuentes: Maldita.es — captura falsa sobre los jubilados (27-5-2026), captura falsa sobre pensiones e Imserso (act. 6-10-2026), vídeo manipulado de Feijóo (26-10-2026).\nFotos: Vox España (CC0, Wikimedia Commons); European People's Party (CC BY 2.0, Wikimedia Commons)\n\n#elecciones #29N #bulos #desinformación #verificación",
  "scenes": [
   {
    "clause": 0,
@@ -108,8 +108,8 @@
       {
        "id": "u2",
        "type": "urni",
-       "x": 82,
-       "y": 57,
+       "x": 84,
+       "y": 60,
        "w": 200,
        "at": 0,
        "moods": [
@@ -118,6 +118,16 @@
          "m": "duda"
         }
        ]
+      },
+      {
+       "id": "k1",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 380,
+       "w": 420,
+       "x": 22,
+       "y": 55,
+       "at": 3
       }
      ]
     },
@@ -188,8 +198,8 @@
       {
        "id": "u3",
        "type": "urni",
-       "x": 82,
-       "y": 57,
+       "x": 84,
+       "y": 60,
        "w": 200,
        "at": 0,
        "moods": [
@@ -198,6 +208,16 @@
          "m": "serio"
         }
        ]
+      },
+      {
+       "id": "k2",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 380,
+       "w": 420,
+       "x": 22,
+       "y": 55,
+       "at": 3
       }
      ]
     },
@@ -268,8 +288,8 @@
       {
        "id": "u4",
        "type": "urni",
-       "x": 82,
-       "y": 57,
+       "x": 84,
+       "y": 60,
        "w": 200,
        "at": 0,
        "moods": [
@@ -282,6 +302,16 @@
          "m": "feliz"
         }
        ]
+      },
+      {
+       "id": "k3",
+       "type": "cara",
+       "foto": "feijoo",
+       "h": 380,
+       "w": 420,
+       "x": 22,
+       "y": 55,
+       "at": 3
       }
      ]
     },
@@ -365,6 +395,16 @@
    "w": 400,
    "say": "¿Bulo?",
    "mood": "sorpresa"
+  },
+  "mini": {
+   "texto": "Si gobierna\nla derecha…",
+   "rojo": "¿BULO?",
+   "cara": "abascal",
+   "emoji": "🤥",
+   "emojiX": 790,
+   "emojiY": 820,
+   "flechaX": 60,
+   "flechaY": 800
   }
  }
 }
