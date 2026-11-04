@@ -28,7 +28,23 @@ def call(method, path, **params):
         raise RuntimeError(f"HTTP {e.code}: {e.read().decode(errors='replace')[:250]}") from None
 
 
+def ya_publicado(reel):
+    """Evita duplicados: si un Reel con el mismo texto ya está en la cuenta (p. ej. se publicó pero falló el guardado), no se repite."""
+    try:
+        txt = (reel.get("copy") or "")[:80]
+        for m in call("GET", f"{USER}/media", fields="id,caption", limit=15).get("data", []):
+            if txt and (m.get("caption") or "")[:80] == txt:
+                return m["id"]
+    except Exception:
+        pass
+    return None
+
+
 def publicar(reel):
+    dup = ya_publicado(reel)
+    if dup:
+        print("Ya estaba publicado:", reel["id"], dup)
+        return dup
     extra = {}
     portada = REPO_RAW + reel["id"] + ".jpg"
     try:  # portada de marca si existe (videos/<id>.jpg); si no, el segundo 1 del vídeo
