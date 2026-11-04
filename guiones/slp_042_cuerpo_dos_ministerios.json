@@ -1,0 +1,242 @@
+{
+ "id": "slp_042_cuerpo_dos_ministerios",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 1,
+ "clauseLabels": [
+  "EL RELEVO",
+  "HASTA CUÁNDO"
+ ],
+ "header": {
+  "tag": "MIÉ 4 NOV · ACTUALIDAD",
+  "source": "Fuentes: Público · The Objective · El Plural · Press Digital (4-11-2026)"
+ },
+ "caption": "Un solo ministro con la economía y los trenes, a 25 días de votar. Qué ha decidido Sánchez y hasta cuándo dura 🚆\n¿Un ministro con dos ministerios: sí o no? 👇\n\nFuentes: Público, The Objective, El Plural y Press Digital (4-11-2026); Demócrata/Europa Press (116 fallecidos).\nFotos: Pool Moncloa/Fernando Calvo (La Moncloa, Wikimedia Commons)\n\n#CarlosCuerpo #Transportes #elecciones #29N #eleccionesgenerales",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "A veinticinco días de votar, un solo ministro lleva la economía y los trenes.",
+     "show": [
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "2 EN 1",
+       "bg": "red",
+       "size": 200,
+       "x": 50,
+       "y": 30,
+       "at": 0,
+       "dur": 1.3
+      },
+      {
+       "id": "k0",
+       "type": "cara",
+       "foto": "cuerpo",
+       "h": 560,
+       "w": 560,
+       "x": 50,
+       "y": 46,
+       "at": 3,
+       "label": "Carlos Cuerpo"
+      },
+      {
+       "id": "e0",
+       "type": "sticker",
+       "text": "🚆",
+       "x": 82,
+       "y": 36,
+       "at": 6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Carlos Cuerpo, vicepresidente primero y ministro de Economía, suma Transportes.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Economía *+ Transportes*",
+       "x": 50,
+       "y": 22,
+       "w": 900
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "Vicepresidente 1.º y ministro de Economía",
+       "x": 50,
+       "y": 34,
+       "w": 900,
+       "at": 1,
+       "icon": "user"
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "Ahora, también Transportes",
+       "x": 50,
+       "y": 43,
+       "w": 900,
+       "at": 8,
+       "icon": "train"
+      }
+     ]
+    },
+    {
+     "text": "Sánchez dice que tiene una enorme capacidad de gestión.",
+     "show": [
+      {
+       "id": "n1",
+       "type": "note",
+       "text": "«Enorme capacidad de gestión» · The Objective",
+       "x": 50,
+       "y": 52,
+       "at": 1
+      },
+      {
+       "id": "u1",
+       "type": "urni",
+       "x": 82,
+       "y": 62,
+       "w": 200,
+       "at": 0,
+       "moods": [
+        {
+         "at": 0,
+         "m": "sorpresa"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Pero es transitorio: hasta que haya nuevo Gobierno tras el 29.|veintinueve.",
+     "show": [
+      {
+       "id": "f2",
+       "type": "flash",
+       "text": "TRANSITORIO",
+       "bg": "mark",
+       "size": 110,
+       "x": 50,
+       "y": 30,
+       "at": 0,
+       "dur": 1.1
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "Hasta el nuevo Gobierno tras el 29-N",
+       "x": 50,
+       "y": 38,
+       "w": 900,
+       "at": 3,
+       "icon": "calendar"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "La letra pequeña: hereda el ministerio de dos accidentes con ciento dieciséis muertos.",
+     "show": [
+      {
+       "id": "hlp",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 900
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "text": "Adamuz y Urda: {116} fallecidos",
+       "x": 50,
+       "y": 36,
+       "w": 900,
+       "at": 4,
+       "icon": "doc"
+      },
+      {
+       "id": "n2",
+       "type": "note",
+       "text": "Europa Press vía Demócrata",
+       "x": 50,
+       "y": 45,
+       "at": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Un ministro con dos ministerios: sí o no? Comenta. Y síguenos.",
+     "show": [
+      {
+       "id": "u5",
+       "type": "urni",
+       "x": 50,
+       "y": 36,
+       "w": 300,
+       "at": 0,
+       "moods": [
+        {
+         "at": 0,
+         "m": "duda"
+        }
+       ],
+       "say": "¿Sí o no?"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 56,
+       "rot": -4,
+       "at": 9
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "ACTUALIDAD",
+  "titulo": "Un ministro, *dos ministerios*",
+  "badge": "HASTA EL 29-N",
+  "grande": "2 EN 1",
+  "sub": "Cuerpo suma Transportes",
+  "tam": 110,
+  "mini": {
+   "texto": "Un ministro,\ndos carteras",
+   "rojo": "¿HASTA CUÁNDO?",
+   "cara": "cuerpo",
+   "emoji": "🚆",
+   "emojiX": 790,
+   "emojiY": 820,
+   "flechaX": 60,
+   "flechaY": 800
+  }
+ }
+}

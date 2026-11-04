@@ -1,0 +1,302 @@
+{
+ "id": "slp_041_puente_reacciones",
+ "brand": "Politízate Hoy",
+ "formato": "top3",
+ "clauses": 3,
+ "clauseLabels": [
+  "FRENTE AMPLIO",
+  "PP",
+  "PSOE",
+  "VOX"
+ ],
+ "header": {
+  "tag": "MIÉ 4 NOV · POR ORDEN ALFABÉTICO",
+  "source": "Fuentes: elDiario.es · Demócrata · Infobae/EFE · The Objective · OKdiario"
+ },
+ "caption": "Puente se va y empieza otra pelea: qué han dicho Frente Amplio, PP, PSOE y Vox, literal y por orden alfabético.\n¿Quién se ha pasado? Responde con un partido 👇\n\nFuentes: elDiario.es (Colau, Sánchez), Demócrata (Colau, Sánchez, Abascal), Infobae/EFE y The Objective (Feijóo), OKdiario (Abascal), Público y The Objective (Cuerpo). 4-11-2026.\nFotos: European People's Party (CC BY 2.0, Wikimedia Commons); Vlada Republike Slovenije (dominio público, Wikimedia Commons); Vox España (CC0, Wikimedia Commons)\n\n#ÓscarPuente #elecciones #29N #eleccionesgenerales #política",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Puente se ha ido, y la pelea acaba de empezar. Cuatro partidos, cuatro frases.",
+     "show": [
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "4 FRASES",
+       "bg": "mark",
+       "size": 180,
+       "x": 50,
+       "y": 30,
+       "at": 0,
+       "dur": 1.6
+      },
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Puente se va: *la pelea*",
+       "x": 50,
+       "y": 22,
+       "w": 900
+      },
+      {
+       "id": "k0",
+       "type": "cara",
+       "foto": "puente",
+       "h": 520,
+       "w": 560,
+       "x": 50,
+       "y": 46,
+       "at": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Colau: un paso adelante para recuperar la confianza en el tren.",
+     "show": [
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "FRENTE AMPLIO",
+       "bg": "mark",
+       "size": 100,
+       "x": 50,
+       "y": 30,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "q1",
+       "type": "card",
+       "text": "«Un paso adelante para recuperar la confianza en el tren»",
+       "x": 50,
+       "y": 40,
+       "w": 900,
+       "at": 2,
+       "icon": "train"
+      },
+      {
+       "id": "n1",
+       "type": "note",
+       "text": "Ada Colau · elDiario.es, Demócrata",
+       "x": 50,
+       "y": 52,
+       "at": 5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Feijóo: un teatrillo y una forma indigna de irse.",
+     "show": [
+      {
+       "id": "f2",
+       "type": "flash",
+       "text": "PP",
+       "bg": "ink",
+       "size": 170,
+       "x": 50,
+       "y": 30,
+       "at": 0,
+       "dur": 0.8
+      },
+      {
+       "id": "k2",
+       "type": "cara",
+       "foto": "feijoo",
+       "h": 480,
+       "w": 560,
+       "x": 50,
+       "y": 48,
+       "at": 2,
+       "label": "Feijóo"
+      },
+      {
+       "id": "q2",
+       "type": "card",
+       "text": "«Teatrillo» · «forma indigna de irse»",
+       "x": 50,
+       "y": 33,
+       "w": 880,
+       "at": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 3,
+   "segments": [
+    {
+     "text": "Sánchez: políticos como él dignifican a nuestro país.",
+     "show": [
+      {
+       "id": "f3",
+       "type": "flash",
+       "text": "PSOE",
+       "bg": "red",
+       "size": 170,
+       "x": 50,
+       "y": 30,
+       "at": 0,
+       "dur": 0.8
+      },
+      {
+       "id": "k3",
+       "type": "cara",
+       "foto": "sanchez",
+       "h": 480,
+       "w": 560,
+       "x": 50,
+       "y": 48,
+       "at": 2,
+       "label": "Sánchez"
+      },
+      {
+       "id": "q3",
+       "type": "card",
+       "text": "«Políticos como él dignifican a nuestro país»",
+       "x": 50,
+       "y": 33,
+       "w": 900,
+       "at": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 4,
+   "segments": [
+    {
+     "text": "Abascal: Sánchez siempre se esconde detrás de sus esbirros.",
+     "show": [
+      {
+       "id": "f4",
+       "type": "flash",
+       "text": "VOX",
+       "bg": "ink",
+       "size": 170,
+       "x": 50,
+       "y": 30,
+       "at": 0,
+       "dur": 0.8
+      },
+      {
+       "id": "k4",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 480,
+       "w": 560,
+       "x": 50,
+       "y": 48,
+       "at": 2,
+       "label": "Abascal"
+      },
+      {
+       "id": "q4",
+       "type": "card",
+       "text": "«Sánchez siempre se esconde detrás de sus esbirros»",
+       "x": 50,
+       "y": 33,
+       "w": 900,
+       "at": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y la letra pequeña: le sustituye Carlos Cuerpo, solo de forma transitoria.",
+     "show": [
+      {
+       "id": "hlp",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 900
+      },
+      {
+       "id": "k5",
+       "type": "cara",
+       "foto": "cuerpo",
+       "h": 480,
+       "w": 560,
+       "x": 50,
+       "y": 46,
+       "at": 5,
+       "label": "Carlos Cuerpo"
+      },
+      {
+       "id": "s5",
+       "type": "stamp",
+       "text": "TRANSITORIO",
+       "color": "red",
+       "x": 50,
+       "y": 66,
+       "rot": -4,
+       "at": 10
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Quién se ha pasado? Comenta. Y síguenos: esta noche, por qué Puente sigue en la papeleta.",
+     "show": [
+      {
+       "id": "u6",
+       "type": "urni",
+       "x": 50,
+       "y": 36,
+       "w": 300,
+       "at": 0,
+       "moods": [
+        {
+         "at": 0,
+         "m": "duda"
+        }
+       ],
+       "say": "¿Quién?"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 56,
+       "rot": -4,
+       "at": 10
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "REACCIONES",
+  "titulo": "Puente se va: *la pelea*",
+  "badge": "LITERAL",
+  "grande": "4",
+  "sub": "Cuatro partidos, cuatro frases",
+  "tam": 120
+ }
+}

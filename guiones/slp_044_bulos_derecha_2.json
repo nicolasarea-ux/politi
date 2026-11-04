@@ -1,0 +1,389 @@
+{
+ "id": "slp_044_bulos_derecha_2",
+ "brand": "Politízate Hoy",
+ "formato": "bulo",
+ "clauses": 2,
+ "clauseLabels": [
+  "BULO 1",
+  "BULO 2",
+  "BULO 3"
+ ],
+ "header": {
+  "tag": "¿VERDAD O BULO? · 2/3",
+  "source": "Fuente: verificaciones de Maldita.es (mar., 22-10 y 27-10-2026)"
+ },
+ "caption": "Si gobierna la derecha… ¿qué es verdad y qué es bulo? Parte 2/3: la captura de los voluntarios, la canción de Sabina y el senador del PP.\n¿Te llegó alguno? Responde con el número 👇\n\nFuentes: Maldita.es — captura falsa de El País (23-3-2026), Sabina y Abascal (22-10-2026), vídeo del senador del PP (27-10-2026).\nFotos: Vox España (CC0, Wikimedia Commons)\n\n#elecciones #29N #bulos #desinformación #verificación",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Si gobierna la derecha, parte dos. Tres cosas que circulan. ¿Verdad o bulo?",
+     "show": [
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "¿VERDAD O BULO?",
+       "bg": "mark",
+       "size": 96,
+       "x": 50,
+       "y": 30,
+       "at": 0,
+       "dur": 1.4
+      },
+      {
+       "id": "h0",
+       "type": "headline",
+       "text": "Si gobierna *la derecha*…",
+       "x": 50,
+       "y": 22,
+       "w": 900
+      },
+      {
+       "id": "u0",
+       "type": "urni",
+       "x": 50,
+       "y": 46,
+       "w": 300,
+       "at": 4,
+       "moods": [
+        {
+         "at": 0,
+         "m": "duda"
+        }
+       ],
+       "say": "¿Tú qué crees?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Uno: Abascal enviará voluntarios a combatir con Israel. Lo dice una captura de El País.",
+     "show": [
+      {
+       "id": "q0",
+       "type": "card",
+       "text": "«Voluntarios» a combatir con Israel",
+       "x": 50,
+       "y": 24,
+       "w": 900,
+       "at": 0,
+       "icon": "phone"
+      },
+      {
+       "id": "p0",
+       "type": "poll",
+       "noPct": true,
+       "x": 50,
+       "y": 41,
+       "w": 820,
+       "at": 5,
+       "opts": [
+        {
+         "t": "VERDAD",
+         "v": 0
+        },
+        {
+         "t": "BULO",
+         "v": 0,
+         "c": "red"
+        }
+       ],
+       "win": 1,
+       "reveal": 2
+      },
+      {
+       "id": "u1",
+       "type": "urni",
+       "x": 84,
+       "y": 60,
+       "w": 200,
+       "at": 0,
+       "moods": [
+        {
+         "at": 0,
+         "m": "duda"
+        },
+        {
+         "at": 3,
+         "m": "sorpresa"
+        }
+       ]
+      },
+      {
+       "id": "k0",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 380,
+       "w": 420,
+       "x": 22,
+       "y": 55,
+       "at": 5
+      }
+     ]
+    },
+    {
+     "text": "Captura falsa. Prisa lo confirmó.",
+     "show": [
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "BULO",
+       "bg": "red",
+       "size": 150,
+       "x": 40,
+       "y": 58,
+       "at": 0,
+       "dur": 1.2
+      },
+      {
+       "id": "s1",
+       "type": "sticker",
+       "text": "📸",
+       "x": 84,
+       "y": 33,
+       "at": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Dos: Sabina cantando con Abascal contra el PSOE.",
+     "show": [
+      {
+       "id": "q1",
+       "type": "card",
+       "text": "Sabina canta con Abascal",
+       "x": 50,
+       "y": 24,
+       "w": 900,
+       "at": 0,
+       "icon": "question"
+      },
+      {
+       "id": "p1",
+       "type": "poll",
+       "noPct": true,
+       "x": 50,
+       "y": 41,
+       "w": 820,
+       "at": 5,
+       "opts": [
+        {
+         "t": "VERDAD",
+         "v": 0
+        },
+        {
+         "t": "BULO",
+         "v": 0,
+         "c": "red"
+        }
+       ],
+       "win": 1,
+       "reveal": 2
+      },
+      {
+       "id": "u2",
+       "type": "urni",
+       "x": 84,
+       "y": 60,
+       "w": 200,
+       "at": 0,
+       "moods": [
+        {
+         "at": 0,
+         "m": "duda"
+        },
+        {
+         "at": 3,
+         "m": "sorpresa"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "text": "Falso. El teatro dice que Sabina nunca ha estado allí.",
+     "show": [
+      {
+       "id": "f2",
+       "type": "flash",
+       "text": "BULO",
+       "bg": "red",
+       "size": 150,
+       "x": 40,
+       "y": 58,
+       "at": 0,
+       "dur": 1.2
+      },
+      {
+       "id": "s2",
+       "type": "sticker",
+       "text": "🎤",
+       "x": 84,
+       "y": 33,
+       "at": 5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Tres: un senador del PP pidiendo votar a Sánchez.",
+     "show": [
+      {
+       "id": "q2",
+       "type": "card",
+       "text": "Senador del PP: «votar a Sánchez»",
+       "x": 50,
+       "y": 24,
+       "w": 900,
+       "at": 0,
+       "icon": "laptop"
+      },
+      {
+       "id": "p2",
+       "type": "poll",
+       "noPct": true,
+       "x": 50,
+       "y": 41,
+       "w": 820,
+       "at": 5,
+       "opts": [
+        {
+         "t": "VERDAD",
+         "v": 0
+        },
+        {
+         "t": "ENGAÑOSO",
+         "v": 0,
+         "c": "red"
+        }
+       ],
+       "win": 1,
+       "reveal": 2
+      },
+      {
+       "id": "u3",
+       "type": "urni",
+       "x": 84,
+       "y": 60,
+       "w": 200,
+       "at": 0,
+       "moods": [
+        {
+         "at": 0,
+         "m": "duda"
+        },
+        {
+         "at": 3,
+         "m": "sorpresa"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "text": "El vídeo es real, pero de 2019,|dos_mil_diecinueve, y se corrige al momento.",
+     "show": [
+      {
+       "id": "f3",
+       "type": "flash",
+       "text": "ENGAÑOSO",
+       "bg": "ink",
+       "size": 96,
+       "x": 50,
+       "y": 58,
+       "at": 0,
+       "dur": 1.2
+      },
+      {
+       "id": "s3",
+       "type": "sticker",
+       "text": "🕰️",
+       "x": 84,
+       "y": 33,
+       "at": 5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Mañana, la parte tres. Después, los bulos sobre la izquierda. Síguenos.",
+     "show": [
+      {
+       "id": "n5",
+       "type": "note",
+       "text": "Fuente: Maldita.es",
+       "x": 50,
+       "y": 22,
+       "at": 0
+      },
+      {
+       "id": "u5",
+       "type": "urni",
+       "x": 50,
+       "y": 37,
+       "w": 300,
+       "at": 0,
+       "moods": [
+        {
+         "at": 0,
+         "m": "feliz"
+        }
+       ],
+       "say": "¡Síguenos!"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 56,
+       "rot": -4,
+       "at": 10
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "¿VERDAD O BULO? · 2/3",
+  "titulo": "Si gobierna *la derecha*…",
+  "badge": "3 BULOS",
+  "sub": "Sabina, Israel y un senador",
+  "escena": {
+   "type": "urni",
+   "w": 400,
+   "say": "¿Bulo?",
+   "mood": "sorpresa"
+  },
+  "mini": {
+   "texto": "Sabina con\nAbascal…",
+   "rojo": "¿BULO?",
+   "cara": "abascal",
+   "emoji": "🎤",
+   "emojiX": 790,
+   "emojiY": 820,
+   "flechaX": 60,
+   "flechaY": 800
+  }
+ }
+}

@@ -1,0 +1,237 @@
+{
+ "id": "slp_043_puente_papeleta",
+ "brand": "Politízate Hoy",
+ "formato": "urni",
+ "clauses": 1,
+ "clauseLabels": [
+  "LA PAPELETA",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "MIÉ 4 NOV · QUÉ CAMBIA PARA TI",
+  "source": "Fuentes: EFE/Infobae · elDiario.es · LOREG art. 48 (4-11-2026)"
+ },
+ "caption": "Puente ha dimitido, pero en Valladolid su nombre seguirá el primero. Te explicamos por qué y a quién votas de verdad 🗳️\n¿Lo sabías? Sí o no 👇\n\nFuentes: EFE vía Infobae (3-11-2026), elDiario.es (4-11-2026), LOREG art. 48 (BOE).\nFotos: Pool Moncloa/José Manuel Álvarez (La Moncloa, Wikimedia Commons)\n\n#ÓscarPuente #Valladolid #elecciones #29N #eleccionesgenerales",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Puente ha dimitido, pero en Valladolid su nombre seguirá el primero.",
+     "show": [
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "¿CÓMO?",
+       "bg": "red",
+       "size": 180,
+       "x": 50,
+       "y": 30,
+       "at": 0,
+       "dur": 1.1
+      },
+      {
+       "id": "k0",
+       "type": "cara",
+       "foto": "puente",
+       "h": 500,
+       "w": 560,
+       "x": 50,
+       "y": 47,
+       "at": 3
+      },
+      {
+       "id": "e0",
+       "type": "sticker",
+       "text": "🗳️",
+       "x": 84,
+       "y": 34,
+       "at": 6
+      },
+      {
+       "id": "u0",
+       "type": "urni",
+       "x": 18,
+       "y": 62,
+       "w": 200,
+       "at": 3,
+       "moods": [
+        {
+         "at": 0,
+         "m": "sorpresa"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Las listas salieron en el BOE el día que dimitió, y ya no se pueden retocar.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "La *papeleta*",
+       "x": 50,
+       "y": 22,
+       "w": 900
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "BOE: 3 de noviembre",
+       "x": 50,
+       "y": 33,
+       "w": 900,
+       "at": 1,
+       "icon": "doc"
+      },
+      {
+       "id": "u1",
+       "type": "urni",
+       "x": 50,
+       "y": 52,
+       "w": 240,
+       "at": 5,
+       "moods": [
+        {
+         "at": 0,
+         "m": "serio"
+        }
+       ],
+       "say": "¡Ya no!"
+      }
+     ]
+    },
+    {
+     "text": "Y las papeletas no se reimprimen.",
+     "show": [
+      {
+       "id": "s1",
+       "type": "stamp",
+       "text": "NO SE REIMPRIMEN",
+       "color": "red",
+       "x": 50,
+       "y": 44,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Si votas esa lista, votas al PSOE: su puesto lo cubre la siguiente, Ana Redondo.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "Tu *voto*",
+       "x": 50,
+       "y": 22,
+       "w": 900
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "Cuenta para el PSOE",
+       "x": 50,
+       "y": 33,
+       "w": 900,
+       "at": 2,
+       "icon": "urna"
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "Primer puesto: Ana Redondo",
+       "x": 50,
+       "y": 42,
+       "w": 900,
+       "at": 8,
+       "icon": "user"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "La letra pequeña: lo marca el artículo cuarenta y ocho de la ley electoral.",
+     "show": [
+      {
+       "id": "hlp",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 900
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "text": "Ley electoral, art. {48}",
+       "x": 50,
+       "y": 36,
+       "w": 900,
+       "at": 4,
+       "icon": "doc"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Lo sabías? Comenta sí o no. Mañana, más bulos. Síguenos.",
+     "show": [
+      {
+       "id": "u5",
+       "type": "urni",
+       "x": 50,
+       "y": 36,
+       "w": 300,
+       "at": 0,
+       "moods": [
+        {
+         "at": 0,
+         "m": "feliz"
+        }
+       ],
+       "say": "¿Lo sabías?"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 56,
+       "rot": -4,
+       "at": 8
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "QUÉ CAMBIA PARA TI",
+  "titulo": "Dimitió, pero *sigue en la papeleta*",
+  "badge": "VALLADOLID",
+  "grande": "Nº 1",
+  "sub": "A quién votas de verdad",
+  "tam": 100
+ }
+}
