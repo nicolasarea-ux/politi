@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 1,
-  "media_count": 26,
+  "media_count": 27,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_029_wild_13n",
+   "ig": "18120057686002036",
+   "fecha": "2026-11-04T16:03:06+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfU1x5yAvCq/",
+   "titulo": "Jordi Wild ya ha dicho cuándo salen las entrevistas a los ca",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
   {
    "id": "slp_042_cuerpo_dos_ministerios",
    "ig": "18375944398215326",
@@ -14,13 +30,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfUg45TEf4d/",
    "titulo": "Un solo ministro con la economía y los trenes, a 25 días de ",
-   "views": 13,
-   "reach": 11,
+   "views": 23,
+   "reach": 16,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 9416,
-   "ig_reels_video_view_total_time": 113003
+   "ig_reels_avg_watch_time": 9669,
+   "ig_reels_video_view_total_time": 154717
   },
   {
    "id": "?",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfUVEJxFHbD/",
    "titulo": "Puente se va y empieza otra pelea: qué han dicho Frente Ampl",
-   "views": 128,
-   "reach": 116,
+   "views": 131,
+   "reach": 118,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 9355,
-   "ig_reels_video_view_total_time": 1094585
+   "ig_reels_avg_watch_time": 9260,
+   "ig_reels_video_view_total_time": 1102023
   },
   {
    "id": "slp_040_puente_frases",
@@ -159,12 +175,12 @@
    "url": "https://www.instagram.com/reel/DfSUqVVkrdI/",
    "titulo": "La muerte de Jesús de Miguel tras el choque con el portero d",
    "views": 208,
-   "reach": 177,
+   "reach": 178,
    "saved": 0,
    "shares": 1,
    "total_interactions": 6,
-   "ig_reels_avg_watch_time": 8759,
-   "ig_reels_video_view_total_time": 1611679
+   "ig_reels_avg_watch_time": 8780,
+   "ig_reels_video_view_total_time": 1633093
   },
   {
    "id": "slp_028_urda_puente_hoy",
