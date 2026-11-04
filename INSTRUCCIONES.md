@@ -83,6 +83,7 @@ Series "Quién es quién": prioriza candidatos principales (Sánchez, Feijóo, A
 Desde el 3-N, **al menos la mitad de los vídeos** se hacen en formato animado (`"formato": "animado"` en guion y cola), y todos los que tengan algo que se pueda dibujar:
 - `via`: esquema de vía con dos trenes, señal, reloj y choque; `keys` con `{"s": escena relativa, "g": segmento, "f": fracción}` y estado (`a`, `b` = posición 0–1, `sig` off/red/green, `clk`, `speed`, `boom`, `lab`). Ejemplo: `guiones/slp_033_urda_minuto.json`.
 - `hemi`: hemiciclo de 350 puntos que se llena (`fill` [{n, c}], `line` 176, contador). `grid`: tabla que aparece celda a celda y marca ganadores (`win`), p. ej. cocientes D'Hondt (ejemplo: `guiones/slp_014_dhondt.json`).
+- En `show`, `at` es el índice de la palabra del segmento (entero), no segundos.
 - Cifras que cuentan: en `card` escribe `{69}`. `card` sin `icon` = tarjeta centrada solo con texto.
 - Algo nuevo en pantalla cada 2–3 s; la cámara ya hace zoom lento sola. Duración objetivo 35–45 s.
 - **Portada animada:** `portada.escena` = el mismo elemento (`via` con `estado`, `hemi`…) en lugar del círculo; `portada.tam` fija el tamaño del título si se parte mal. Revisa siempre la portada recortada 3:4.
