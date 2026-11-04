@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 2,
-  "media_count": 28,
+  "media_count": 29,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_012_quien_sanchez",
+   "ig": "17912147130592589",
+   "fecha": "2026-11-04T20:45:39+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfVWFM4FS8l/",
+   "titulo": "Quién es quién 5/5: Pedro Sánchez en 30 segundos. Trayectori",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
   {
    "id": "slp_037_bulos_derecha_1",
    "ig": "17912830872572723",
@@ -14,13 +30,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfVJgGLlSNL/",
    "titulo": "Si gobierna la derecha… ¿qué es verdad y qué es bulo? Parte ",
-   "views": 17,
-   "reach": 2,
+   "views": 49,
+   "reach": 27,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 1753,
-   "ig_reels_video_view_total_time": 3506
+   "ig_reels_avg_watch_time": 8014,
+   "ig_reels_video_view_total_time": 216398
   },
   {
    "id": "slp_029_wild_13n",
@@ -46,13 +62,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfUg45TEf4d/",
    "titulo": "Un solo ministro con la economía y los trenes, a 25 días de ",
-   "views": 68,
-   "reach": 57,
+   "views": 81,
+   "reach": 69,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 8515,
-   "ig_reels_video_view_total_time": 502412
+   "ig_reels_avg_watch_time": 8143,
+   "ig_reels_video_view_total_time": 561906
   },
   {
    "id": "?",
@@ -78,13 +94,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfS_8Gpndyn/",
    "titulo": "Las 3 frases con las que Óscar Puente se despidió del Minist",
-   "views": 122,
+   "views": 123,
    "reach": 109,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 7241,
-   "ig_reels_video_view_total_time": 803802
+   "ig_reels_avg_watch_time": 7431,
+   "ig_reels_video_view_total_time": 832301
   },
   {
    "id": "slp_039_puente_y_ahora",
@@ -94,13 +110,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfS6OF3lE8L/",
    "titulo": "Puente ha dimitido a 26 días de las elecciones. ¿Quién lleva",
-   "views": 163,
-   "reach": 140,
+   "views": 165,
+   "reach": 141,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 11557,
-   "ig_reels_video_view_total_time": 1641139
+   "ig_reels_avg_watch_time": 11727,
+   "ig_reels_video_view_total_time": 1677013
   },
   {
    "id": "slp_038_puente_dimite",
