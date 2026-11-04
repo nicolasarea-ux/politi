@@ -22,11 +22,17 @@ jobs:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
         run: python3 publicar.py
+      - name: Estadísticas (cada hora en punto y al lanzarlo a mano)
+        if: ${{ github.event_name == 'workflow_dispatch' || startsWith(github.event.schedule, '*/15') }}
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: python3 estadisticas.py || true
       - name: Guardar estado
         run: |
           git config user.name "politizatehoy-bot"
           git config user.email "politizatehoy-bot@users.noreply.github.com"
-          git add publicaciones.json
+          git add publicaciones.json stats.json 2>/dev/null || git add publicaciones.json
           git diff --cached --quiet || (git commit -m "Reels publicados" && git pull --rebase && git push)
 
   renovar-token:
