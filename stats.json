@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 2,
-  "media_count": 27,
+  "media_count": 28,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_037_bulos_derecha_1",
+   "ig": "17912830872572723",
+   "fecha": "2026-11-04T18:55:42+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfVJgGLlSNL/",
+   "titulo": "Si gobierna la derecha… ¿qué es verdad y qué es bulo? Parte ",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
   {
    "id": "slp_029_wild_13n",
    "ig": "18120057686002036",
@@ -19,8 +35,8 @@
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 10695,
-   "ig_reels_video_view_total_time": 1090917
+   "ig_reels_avg_watch_time": 10979,
+   "ig_reels_video_view_total_time": 1130895
   },
   {
    "id": "slp_042_cuerpo_dos_ministerios",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfUg45TEf4d/",
    "titulo": "Un solo ministro con la economía y los trenes, a 25 días de ",
-   "views": 42,
-   "reach": 33,
+   "views": 59,
+   "reach": 44,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 10446,
-   "ig_reels_video_view_total_time": 344747
+   "ig_reels_avg_watch_time": 8733,
+   "ig_reels_video_view_total_time": 384287
   },
   {
    "id": "?",
