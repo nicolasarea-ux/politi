@@ -232,6 +232,16 @@
   "badge": "VALLADOLID",
   "grande": "Nº 1",
   "sub": "A quién votas de verdad",
-  "tam": 100
+  "tam": 100,
+  "mini": {
+   "texto": "Dimitió, pero",
+   "rojo": "SIGUE EN LA PAPELETA",
+   "cara": "puente",
+   "emoji": "🗳️",
+   "emojiX": 800,
+   "emojiY": 1000,
+   "flechaX": 70,
+   "flechaY": 1000
+  }
  }
 }

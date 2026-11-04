@@ -369,6 +369,16 @@
   "titulo": "Si gobierna *la derecha*…",
   "badge": "ÚLTIMA PARTE",
   "grande": "3/3",
-  "sub": "Notas, pensiones e IRPF"
+  "sub": "Notas, pensiones e IRPF",
+  "mini": {
+   "texto": "Si gobierna\nla derecha…",
+   "rojo": "¿BULO? 3/3",
+   "cara": "abascal",
+   "emoji": "🤥",
+   "emojiX": 800,
+   "emojiY": 1000,
+   "flechaX": 70,
+   "flechaY": 1000
+  }
  }
 }

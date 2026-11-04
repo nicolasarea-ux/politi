@@ -218,6 +218,16 @@
   "serie": "CÓMO VOTAR",
   "titulo": "¿Dónde te *toca* votar?",
   "icono": "question",
-  "sub": "Sin tarjeta censal también votas"
+  "sub": "Sin tarjeta censal también votas",
+  "mini": {
+   "texto": "¿Dónde te\ntoca votar?",
+   "rojo": "SIN TARJETA",
+   "mood": "duda",
+   "emoji": "📍",
+   "emojiX": 800,
+   "emojiY": 1000,
+   "flechaX": 70,
+   "flechaY": 1000
+  }
  }
 }

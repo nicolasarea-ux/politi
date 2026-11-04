@@ -226,6 +226,16 @@
   "serie": "CÓMO VOTAR",
   "titulo": "¿Trabajas el *29-N*?",
   "sub": "Horas pagadas para votar",
-  "grande": "4 h"
+  "grande": "4 h",
+  "mini": {
+   "texto": "¿Trabajas\nel 29-N?",
+   "rojo": "HORAS PAGADAS",
+   "mood": "sorpresa",
+   "emoji": "💸",
+   "emojiX": 800,
+   "emojiY": 1000,
+   "flechaX": 70,
+   "flechaY": 1000
+  }
  }
 }

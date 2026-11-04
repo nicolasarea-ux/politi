@@ -275,6 +275,16 @@
     }
    ],
    "fillDur": 0.1
+  },
+  "mini": {
+   "texto": "La ley",
+   "rojo": "D'HONDT",
+   "mood": "duda",
+   "emoji": "🧮",
+   "emojiX": 800,
+   "emojiY": 1000,
+   "flechaX": 70,
+   "flechaY": 1000
   }
  },
  "formato": "animado"

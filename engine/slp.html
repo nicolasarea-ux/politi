@@ -288,7 +288,11 @@ function render(t){
 
 async function renderCover3(g){
  document.getElementById('stage').style.display='none';
- const c=document.getElementById('cover3');c.style.display='block';const p=g.portada||{},m=p.mini||{};
+ const c=document.getElementById('cover3');c.style.display='block';const p=g.portada||{};let m=p.mini;
+ if(!m){const tt=(p.titulo||'').replace(/\n/g,' ');const mk=(tt.match(/\*(.+?)\*/)||[])[1];const base=tt.replace(/\*(.+?)\*/,'').replace(/\s+/g,' ').replace(/[:,]\s*$/,'').trim();
+  const low=(tt+' '+(p.serie||'')).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+  const caras={sanchez:'sanchez',feijoo:'feijoo',abascal:'abascal',yolanda:'diaz',puente:'puente'};let cara=null;for(const k in caras)if(low.includes(k)){cara=caras[k];break}
+  const atEnd=mk&&/\*[^*]+\*[\s?!.…]*$/.test(tt);m={texto:atEnd?base:tt.replace(/\*/g,''),rojo:atEnd?mk.toUpperCase():(p.badge||p.grande||''),cara,mood:g.tono==='serio'?'serio':'sorpresa',emoji:g.tono==='serio'?'':'🤯',emojiX:800,emojiY:1000,flechaX:70,flechaY:1000,flecha:g.tono!=='serio'};}
  const tg=c.querySelector('.tag');tg.textContent=p.serie||((g.header||{}).tag||'').split('·')[0].trim();if(!tg.textContent)tg.style.display='none';
  const tx=c.querySelector('.txt');tx.innerHTML=(m.texto||'').replace(/\n/g,'<br>')+(m.rojo?`<br><b>${m.rojo}</b>`:'');const nL=(m.texto||'').length+(m.rojo||'').length;tx.style.fontSize=(m.tam||(nL>30?138:nL>20?156:178))+'px';
  const f=c.querySelector('.face');

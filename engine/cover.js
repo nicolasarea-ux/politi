@@ -7,7 +7,7 @@ const fs = require('fs'), path = require('path');
   const b = await chromium.launch();
   const p = await b.newPage({ viewport: { width: 1080, height: 1920 } });
   await p.goto('file://' + path.join(__dirname, 'slp.html'));
-  await p.evaluate(async g => { await document.fonts.ready; if((g.portada||{}).mini) await renderCover3(g); else await renderCover(g); }, g);
+  await p.evaluate(async g => { await document.fonts.ready; if((g.portada||{}).estilo!=='v2' && ((g.portada||{}).mini || !(g.portada||{}).escena)) await renderCover3(g); else await renderCover(g); }, g);
   await p.waitForTimeout(150);
   await p.screenshot({ path: out, type: 'jpeg', quality: 96 });
   await b.close();
