@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 0,
-  "media_count": 25,
+  "media_count": 26,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_042_cuerpo_dos_ministerios",
+   "ig": "18375944398215326",
+   "fecha": "2026-11-04T13:00:36+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfUg45TEf4d/",
+   "titulo": "Un solo ministro con la economía y los trenes, a 25 días de ",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
   {
    "id": "?",
    "ig": "18139344883645988",
@@ -14,13 +30,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfUVEJxFHbD/",
    "titulo": "Puente se va y empieza otra pelea: qué han dicho Frente Ampl",
-   "views": 3,
-   "reach": 0,
+   "views": 66,
+   "reach": 33,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 0,
-   "ig_reels_video_view_total_time": 0
+   "ig_reels_avg_watch_time": 12370,
+   "ig_reels_video_view_total_time": 395855
   },
   {
    "id": "slp_040_puente_frases",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfS_8Gpndyn/",
    "titulo": "Las 3 frases con las que Óscar Puente se despidió del Minist",
-   "views": 120,
-   "reach": 108,
+   "views": 122,
+   "reach": 109,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 7327,
-   "ig_reels_video_view_total_time": 791389
+   "ig_reels_avg_watch_time": 7272,
+   "ig_reels_video_view_total_time": 792754
   },
   {
    "id": "slp_039_puente_y_ahora",
@@ -47,7 +63,7 @@
    "url": "https://www.instagram.com/reel/DfS6OF3lE8L/",
    "titulo": "Puente ha dimitido a 26 días de las elecciones. ¿Quién lleva",
    "views": 162,
-   "reach": 138,
+   "reach": 139,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
