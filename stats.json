@@ -1,7 +1,7 @@
 {
  "cuenta": {
   "username": "politizatehoy",
-  "followers_count": 1,
+  "followers_count": 2,
   "media_count": 27,
   "id": "29046307255021601"
  },
@@ -10,17 +10,17 @@
    "id": "slp_029_wild_13n",
    "ig": "18120057686002036",
    "fecha": "2026-11-04T16:03:06+0000",
-   "likes": 0,
+   "likes": 1,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfU1x5yAvCq/",
    "titulo": "Jordi Wild ya ha dicho cuándo salen las entrevistas a los ca",
-   "views": 0,
-   "reach": 0,
+   "views": 76,
+   "reach": 27,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 0,
-   "ig_reels_avg_watch_time": 0,
-   "ig_reels_video_view_total_time": 0
+   "total_interactions": 1,
+   "ig_reels_avg_watch_time": 5856,
+   "ig_reels_video_view_total_time": 163971
   },
   {
    "id": "slp_042_cuerpo_dos_ministerios",
@@ -30,13 +30,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfUg45TEf4d/",
    "titulo": "Un solo ministro con la economía y los trenes, a 25 días de ",
-   "views": 23,
-   "reach": 16,
+   "views": 40,
+   "reach": 30,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 9669,
-   "ig_reels_video_view_total_time": 154717
+   "ig_reels_avg_watch_time": 10802,
+   "ig_reels_video_view_total_time": 334891
   },
   {
    "id": "?",
