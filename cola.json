@@ -642,7 +642,7 @@
    "id": "slp_047_milei_cumbre",
    "tipo": "actualidad",
    "formato": "minuto",
-   "estado": "programado",
+   "estado": "descartado",
    "fecha": "2026-11-05T22:15",
    "fecha_reels": "2026-11-05T22:15",
    "copy": "Milei en la Cumbre Iberoamericana de Madrid: su frase sobre el socialismo, la cita de Madariaga y el saludo a Sánchez.\n¿Quién ha ganado el cruce? Responde con un nombre 👇\n\nFuentes: El Español, La Noticia 1, The Diplomat in Spain y El Plural (5-11-2026). Discurso de Milei: los medios lo recogen con variantes; solo se usa la parte coincidente.\nFotos: Vlada Republike Slovenije (dominio público, Wikimedia Commons)\n\n#Milei #CumbreIberoamericana #elecciones #29N #eleccionesgenerales",
@@ -650,7 +650,8 @@
     "PSOE",
     "Vox"
    ],
-   "portada_estilo": "mini"
+   "portada_estilo": "mini",
+   "nota": "sustituido por slp_050 (petición de Nicks: Sánchez y Milei con el saludo)"
   },
   {
    "id": "slp_048_smi_2027",
@@ -676,6 +677,19 @@
    ],
    "portada_estilo": "mini",
    "serie": "bulos 1/3 izquierda"
+  },
+  {
+   "id": "slp_050_sanchez_milei",
+   "tipo": "actualidad",
+   "formato": "minuto",
+   "portada_estilo": "mini",
+   "estado": "programado",
+   "fecha": "2026-11-05T12:15",
+   "fecha_reels": "2026-11-05T12:15",
+   "copy": "Primer cara a cara entre Pedro Sánchez y Javier Milei tras los insultos de octubre: un saludo corto y sin palabras en la Cumbre Iberoamericana de Madrid. Y lo que dijo Milei después.\n¿Quién ha ganado el cara a cara? 👇\n\nFuentes: Europa Press (vía Infobae), Infobae, El Español y The Diplomat (5-11). Saludo recreado en animación.\nFotos: Vlada Republike Slovenije (dominio público) y Gobierno de Argentina (CC BY 4.0), Wikimedia Commons.\n\n#Milei #PedroSánchez #CumbreIberoamericana #elecciones #29N",
+   "partidos": [
+    "PSOE"
+   ]
   }
  ]
 }

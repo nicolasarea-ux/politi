@@ -287,12 +287,6 @@
    "copy": "Siete millones en lectores para votar con el móvil… y la Junta Electoral aún no lo permite 📱\n¿Llevarás el DNI físico? Sí o no 👇\n\nFuentes: El Español (4 y 5-11-2026), Noticias Ciudadanas (4-11-2026), Acuerdo 94/2026 de la Junta Electoral Central. Situación a las 11:00 del 5-11.\n\n#elecciones #29N #eleccionesgenerales #MiDNI #votar"
   },
   {
-   "id": "slp_047_milei_cumbre",
-   "fecha": "2026-11-05T22:15",
-   "estado": "pendiente",
-   "copy": "Milei en la Cumbre Iberoamericana de Madrid: su frase sobre el socialismo, la cita de Madariaga y el saludo a Sánchez.\n¿Quién ha ganado el cruce? Responde con un nombre 👇\n\nFuentes: El Español, La Noticia 1, The Diplomat in Spain y El Plural (5-11-2026). Discurso de Milei: los medios lo recogen con variantes; solo se usa la parte coincidente.\nFotos: Vlada Republike Slovenije (dominio público, Wikimedia Commons)\n\n#Milei #CumbreIberoamericana #elecciones #29N #eleccionesgenerales"
-  },
-  {
    "id": "slp_048_smi_2027",
    "fecha": "2026-11-06T08:45",
    "estado": "pendiente",
@@ -309,6 +303,12 @@
    "fecha": "2026-11-07T22:45",
    "estado": "pendiente",
    "copy": "Votar en blanco, nulo o quedarte en casa NO es lo mismo. Te explicamos la diferencia según la ley.\n¿Sabías que el voto en blanco cuenta para el 3 %? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 96 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #votoenblanco #votonulo"
+  },
+  {
+   "id": "slp_050_sanchez_milei",
+   "fecha": "2026-11-05T12:15",
+   "estado": "pendiente",
+   "copy": "Primer cara a cara entre Pedro Sánchez y Javier Milei tras los insultos de octubre: un saludo corto y sin palabras en la Cumbre Iberoamericana de Madrid. Y lo que dijo Milei después.\n¿Quién ha ganado el cara a cara? 👇\n\nFuentes: Europa Press (vía Infobae), Infobae, El Español y The Diplomat (5-11). Saludo recreado en animación.\nFotos: Vlada Republike Slovenije (dominio público) y Gobierno de Argentina (CC BY 4.0), Wikimedia Commons.\n\n#Milei #PedroSánchez #CumbreIberoamericana #elecciones #29N"
   }
  ]
 }
