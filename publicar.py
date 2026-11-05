@@ -83,7 +83,7 @@ def main():
         if r.get("estado") != "pendiente":
             continue
         t = datetime.fromisoformat(r["fecha"]).replace(tzinfo=TZ)
-        if t > ahora:
+        if t > ahora + timedelta(minutes=30):  # GitHub lanza el cron ~1 vez por hora: se adelanta hasta 30 min para no llegar 1 h tarde
             continue
         if any(x.get("publicado_en") and ahora - datetime.fromisoformat(x["publicado_en"]).replace(tzinfo=TZ) < timedelta(minutes=45) for x in data["reels"]) or cambios >= 1:  # como mucho 1 Reel por pasada: si hubo un parón, no salen todos de golpe
             break
