@@ -2,41 +2,57 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 2,
-  "media_count": 31,
+  "media_count": 32,
   "id": "29046307255021601"
  },
  "reels": [
   {
-   "id": "slp_050_sanchez_milei",
-   "ig": "17966918715218968",
-   "fecha": "2026-11-05T11:37:43+0000",
-   "likes": 1,
+   "id": "slp_046_dni_movil",
+   "ig": "17903541396379169",
+   "fecha": "2026-11-05T12:56:26+0000",
+   "likes": 0,
    "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfW8NP4gg-z/",
-   "titulo": "Primer cara a cara entre Pedro Sánchez y Javier Milei tras l",
+   "url": "https://www.instagram.com/reel/DfXFNndiP3w/",
+   "titulo": "Siete millones en lectores para votar con el móvil… y la Jun",
    "views": 0,
    "reach": 0,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 1,
+   "total_interactions": 0,
    "ig_reels_avg_watch_time": 0,
    "ig_reels_video_view_total_time": 0
+  },
+  {
+   "id": "slp_050_sanchez_milei",
+   "ig": "17966918715218968",
+   "fecha": "2026-11-05T11:37:43+0000",
+   "likes": 2,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfW8NP4gg-z/",
+   "titulo": "Primer cara a cara entre Pedro Sánchez y Javier Milei tras l",
+   "views": 150,
+   "reach": 119,
+   "saved": 0,
+   "shares": 1,
+   "total_interactions": 3,
+   "ig_reels_avg_watch_time": 8955,
+   "ig_reels_video_view_total_time": 1074673
   },
   {
    "id": "slp_043_puente_papeleta",
    "ig": "18110269886211240",
    "fecha": "2026-11-04T21:35:09+0000",
-   "likes": 0,
+   "likes": 1,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfVbxsBjUtC/",
    "titulo": "Puente ha dimitido, pero en Valladolid su nombre seguirá el ",
    "views": 127,
-   "reach": 107,
+   "reach": 108,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 0,
-   "ig_reels_avg_watch_time": 7377,
-   "ig_reels_video_view_total_time": 804099
+   "total_interactions": 1,
+   "ig_reels_avg_watch_time": 7284,
+   "ig_reels_video_view_total_time": 808600
   },
   {
    "id": "slp_012_quien_sanchez",
@@ -67,8 +83,8 @@
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 6831,
-   "ig_reels_video_view_total_time": 799341
+   "ig_reels_avg_watch_time": 6784,
+   "ig_reels_video_view_total_time": 800601
   },
   {
    "id": "slp_029_wild_13n",
