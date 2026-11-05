@@ -1,0 +1,248 @@
+{
+ "id": "slp_051_uco_abalos",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL REGISTRO",
+  "LOS DETENIDOS",
+  "LO QUE NO SE SABE"
+ ],
+ "header": {
+  "tag": "ÚLTIMA HORA · JUE 5 NOV",
+  "source": "Fuentes: Público · ElNacional · Cordópolis · Valencia Plaza (5-11)"
+ },
+ "caption": "La UCO registra la casa de José Luis Ábalos en Valencia en una nueva pieza secreta del caso Koldo: seis detenidos, registros en Córdoba, Madrid y Sevilla y agentes en Adif. Lo que se sabe y lo que no.\n¿Crees que habrá más detenciones? 👇\n\nFuentes: Público, ElNacional, Cordópolis y Valencia Plaza (5-11). Detenido no significa culpable.\nFoto: La Moncloa - Gobierno de España (Wikimedia Commons).\n\n#Ábalos #UCO #casoKoldo #elecciones #29N",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "La UCO ha registrado hoy la casa de Ábalos. Y hay seis detenidos.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "La UCO, en casa de *Ábalos*",
+       "x": 50,
+       "y": 21,
+       "w": 940
+      },
+      {
+       "id": "k1",
+       "type": "cara",
+       "foto": "abalos",
+       "h": 560,
+       "w": 560,
+       "x": 50,
+       "y": 46,
+       "label": "José Luis Ábalos"
+      },
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "6 DETENIDOS",
+       "bg": "red",
+       "size": 120,
+       "x": 50,
+       "y": 66,
+       "at": 9,
+       "dur": 1.6
+      },
+      {
+       "id": "s1",
+       "type": "sticker",
+       "text": "🚨",
+       "size": 150,
+       "x": 82,
+       "y": 33,
+       "at": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Su casa en Valencia, y también registros en Córdoba, Madrid y Sevilla. Y agentes en Adif.",
+     "hide": [
+      "k1",
+      "s1"
+     ],
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "El *registro*",
+       "x": 50,
+       "y": 21,
+       "w": 860
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "icon": "house",
+       "text": "Valencia: su casa",
+       "x": 50,
+       "y": 33,
+       "w": 820,
+       "at": 0
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "icon": "doc",
+       "text": "Córdoba · Madrid · Sevilla",
+       "x": 50,
+       "y": 42,
+       "w": 820,
+       "at": 4
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "icon": "train",
+       "text": "Adif: se llevan información",
+       "x": 50,
+       "y": 51,
+       "w": 820,
+       "at": 10
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Uno de los detenidos es Cristian Corvillo, que fue chófer de Sánchez en las primarias de 2017.|dos_mil_diecisiete.",
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "Los *detenidos*",
+       "x": 50,
+       "y": 21,
+       "w": 860
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "icon": "user",
+       "text": "Cristian Corvillo",
+       "x": 50,
+       "y": 34,
+       "w": 780,
+       "at": 4
+      },
+      {
+       "id": "n4",
+       "type": "note",
+       "text": "Chófer de Sánchez en las primarias de 2017",
+       "x": 50,
+       "y": 42,
+       "at": 9
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "La pieza es secreta: no se sabe de qué se acusa a cada uno. Y detenido no significa culpable.",
+     "show": [
+      {
+       "id": "h4",
+       "type": "headline",
+       "text": "Lo que *no* se sabe",
+       "x": 50,
+       "y": 21,
+       "w": 860
+      },
+      {
+       "id": "st4",
+       "type": "stamp",
+       "text": "PIEZA SECRETA",
+       "color": "red",
+       "x": 50,
+       "y": 34,
+       "rot": -4,
+       "at": 2
+      },
+      {
+       "id": "c5",
+       "type": "card",
+       "icon": "question",
+       "text": "Detenido ≠ culpable",
+       "x": 50,
+       "y": 46,
+       "w": 780,
+       "at": 14
+      }
+     ]
+    },
+    {
+     "text": "Ábalos ya cumple 24|veinticuatro años por las mascarillas.",
+     "show": [
+      {
+       "id": "c6",
+       "type": "card",
+       "text": "Condena: {24} años",
+       "x": 50,
+       "y": 55,
+       "w": 640,
+       "at": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Te lo seguimos contando. Síguenos.",
+     "show": [
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 30,
+       "w": 380
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 48,
+       "rot": -4,
+       "at": 2
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "CASO KOLDO",
+  "titulo": "La UCO, en casa de *Ábalos*",
+  "mini": {
+   "texto": "La UCO, en\ncasa de Ábalos",
+   "rojo": "6 DETENIDOS",
+   "cara": "abalos",
+   "emoji": "🚨",
+   "emojiX": 800,
+   "emojiY": 1000,
+   "flechaX": 70,
+   "flechaY": 1000,
+   "tam": 140
+  }
+ }
+}
