@@ -1,0 +1,231 @@
+{
+ "id": "slp_047_milei_cumbre",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "LA CITA",
+  "EL SALUDO",
+  "LA RESPUESTA"
+ ],
+ "header": {
+  "tag": "JUE 5 NOV · ¿QUÉ HA DICHO?",
+  "source": "Fuentes: El Español · La Noticia 1 · The Diplomat · El Plural (5-11-2026)"
+ },
+ "caption": "Milei en la Cumbre Iberoamericana de Madrid: su frase sobre el socialismo, la cita de Madariaga y el saludo a Sánchez.\n¿Quién ha ganado el cruce? Responde con un nombre 👇\n\nFuentes: El Español, La Noticia 1, The Diplomat in Spain y El Plural (5-11-2026). Discurso de Milei: los medios lo recogen con variantes; solo se usa la parte coincidente.\nFotos: Vlada Republike Slovenije (dominio público, Wikimedia Commons)\n\n#Milei #CumbreIberoamericana #elecciones #29N #eleccionesgenerales",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Milei, en plena cumbre de Madrid: el socialismo es fascista en política.",
+     "show": [
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "¿FASCISTA?",
+       "bg": "red",
+       "size": 140,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 1.2
+      },
+      {
+       "id": "h0",
+       "type": "headline",
+       "text": "Milei: *«fascista en política»*",
+       "x": 50,
+       "y": 22,
+       "w": 920
+      },
+      {
+       "id": "u0",
+       "type": "urni",
+       "x": 50,
+       "y": 48,
+       "w": 280,
+       "at": 4,
+       "moods": [
+        {
+         "at": 0,
+         "m": "sorpresa"
+        }
+       ],
+       "say": "¿Cómo?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Citó a Salvador de Madariaga. Pero, según El Español, Madariaga hablaba del comunismo.",
+     "show": [
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "Cita de Salvador de Madariaga",
+       "x": 50,
+       "y": 26,
+       "w": 900,
+       "at": 0,
+       "icon": "doc"
+      },
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "ERA «COMUNISMO»",
+       "bg": "ink",
+       "size": 90,
+       "x": 50,
+       "y": 42,
+       "at": 7,
+       "dur": 1.4
+      },
+      {
+       "id": "n1",
+       "type": "note",
+       "text": "Según El Español",
+       "x": 50,
+       "y": 54,
+       "at": 8
+      },
+      {
+       "id": "s1",
+       "type": "sticker",
+       "text": "🧐",
+       "x": 84,
+       "y": 36,
+       "at": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "No nombró a Sánchez. Era su primer cara a cara desde lo de impresentable dictador, y el saludo fue breve y frío.",
+     "show": [
+      {
+       "id": "k2",
+       "type": "cara",
+       "foto": "sanchez",
+       "h": 460,
+       "w": 520,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "label": "Pedro Sánchez"
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "«Impresentable dictador»",
+       "x": 50,
+       "y": 25,
+       "w": 860,
+       "at": 6,
+       "icon": "question"
+      },
+      {
+       "id": "s2",
+       "type": "sticker",
+       "text": "🥶",
+       "x": 84,
+       "y": 34,
+       "at": 14
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Sánchez habló de diálogo frente a imposición. Y la noche antes, Milei vio a Abascal.",
+     "show": [
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "«Diálogo frente a imposición»",
+       "x": 50,
+       "y": 26,
+       "w": 900,
+       "at": 0,
+       "icon": "user"
+      },
+      {
+       "id": "k3",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 400,
+       "w": 440,
+       "x": 50,
+       "y": 47,
+       "at": 9,
+       "label": "Santiago Abascal"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Cruce ganado por quién? Comenta. Síguenos.",
+     "show": [
+      {
+       "id": "uF",
+       "type": "urni",
+       "x": 50,
+       "y": 36,
+       "w": 300,
+       "at": 0,
+       "moods": [
+        {
+         "at": 0,
+         "m": "feliz"
+        }
+       ],
+       "say": "¿Quién gana?"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 56,
+       "rot": -4,
+       "at": 5
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "¿QUÉ HA DICHO?",
+  "titulo": "Milei: «*fascista* en política»",
+  "badge": "CUMBRE",
+  "grande": "¿?",
+  "sub": "Y la cita que no cuadra",
+  "mini": {
+   "texto": "Milei cita a\nMadariaga",
+   "rojo": "¿BIEN?",
+   "mood": "sorpresa",
+   "emoji": "🧐",
+   "emojiX": 790,
+   "emojiY": 820,
+   "flechaX": 60,
+   "flechaY": 800
+  }
+ }
+}

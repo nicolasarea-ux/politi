@@ -205,20 +205,22 @@
    "estado": "programado",
    "copy": "Por qué un partido con más votos puede sacar menos escaños: la ley D'Hondt explicada en 30 segundos.\n¿Lo sabías o te ha pillado por sorpresa? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 162 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #dhondt #leyelectoral",
    "partidos": [],
-   "fecha_reels": "2026-11-05T22:15",
+   "fecha_reels": "2026-11-07T21:15",
    "nota": "Vídeo hecho, listo para usar",
-   "fecha": "2026-11-05T22:00",
+   "fecha": "2026-11-07T21:15",
    "formato": "animado",
    "portada_estilo": "v2"
   },
   {
    "id": "slp_016_blanco_nulo",
    "tipo": "atemporal",
-   "estado": "reserva",
+   "estado": "programado",
    "copy": "Votar en blanco, nulo o quedarte en casa NO es lo mismo. Te explicamos la diferencia según la ley.\n¿Sabías que el voto en blanco cuenta para el 3 %? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 96 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #votoenblanco #votonulo",
    "partidos": [],
    "nota": "Sustituido el 2-N por actualidad; reprogramado",
-   "portada_estilo": "v2"
+   "portada_estilo": "v2",
+   "fecha": "2026-11-07T22:45",
+   "fecha_reels": "2026-11-07T22:45"
   },
   {
    "id": "slp_017_senado",
@@ -333,9 +335,10 @@
     "https://www.exteriores.gob.es/Consulados/andorra/es/Comunicacion/Noticias/Paginas/Articulos/Elecciones-a-las-Cortes-Generales-de-29-de-noviembre-de-2026.aspx"
    ],
    "estado": "programado",
-   "fecha": "2026-11-05T13:30",
+   "fecha": "2026-11-07T13:45",
    "copy": "¿Vives fuera de España? Cómo votar el 29-N: ya no hay que pedirlo, pero hay fechas que no perdonan ✈️\nEtiqueta a quien viva fuera 👇\n\nFuente: Ministerio de Asuntos Exteriores, webs consulares (Elecciones a Cortes Generales, 29-11-2026).\n\n#elecciones #29N #eleccionesgenerales #votoexterior #CERA",
-   "portada_estilo": "v2"
+   "portada_estilo": "v2",
+   "fecha_reels": "2026-11-07T13:45"
   },
   {
    "id": "slp_025_donde_voto",
@@ -442,8 +445,8 @@
    "estado": "programado",
    "nota": "Usar cuanto antes: útil mientras corren los 7 días tras las notificaciones (hasta ~14-N)",
    "copy": "Te ha tocado mesa: las excusas que te libran, las que dependen de la Junta y el plazo que no puedes dejar pasar 🗳️\n¿A ti te ha llegado la carta? 👇\n\nFuente: Instrucción 6/2011 de la Junta Electoral Central, vía Telecinco (1-11) y El Independiente (9-10).\n\n#elecciones #29N #eleccionesgenerales #mesaelectoral #comovotar",
-   "fecha": "2026-11-06T08:45",
-   "fecha_reels": "2026-11-06T08:45"
+   "fecha": "2026-11-07T08:45",
+   "fecha_reels": "2026-11-07T08:45"
   },
   {
    "id": "slp_032_quien_cuenta",
@@ -620,6 +623,59 @@
    ],
    "portada_estilo": "v2",
    "serie": "bulos 3/3 derecha"
+  },
+  {
+   "id": "slp_046_dni_movil",
+   "tipo": "actualidad",
+   "formato": "urni",
+   "estado": "programado",
+   "fecha": "2026-11-05T13:45",
+   "fecha_reels": "2026-11-05T13:45",
+   "copy": "Siete millones en lectores para votar con el móvil… y la Junta Electoral aún no lo permite 📱\n¿Llevarás el DNI físico? Sí o no 👇\n\nFuentes: El Español (4 y 5-11-2026), Noticias Ciudadanas (4-11-2026), Acuerdo 94/2026 de la Junta Electoral Central. Situación a las 11:00 del 5-11.\n\n#elecciones #29N #eleccionesgenerales #MiDNI #votar",
+   "partidos": [
+    "PP",
+    "PSOE"
+   ],
+   "portada_estilo": "mini"
+  },
+  {
+   "id": "slp_047_milei_cumbre",
+   "tipo": "actualidad",
+   "formato": "minuto",
+   "estado": "programado",
+   "fecha": "2026-11-05T22:15",
+   "fecha_reels": "2026-11-05T22:15",
+   "copy": "Milei en la Cumbre Iberoamericana de Madrid: su frase sobre el socialismo, la cita de Madariaga y el saludo a Sánchez.\n¿Quién ha ganado el cruce? Responde con un nombre 👇\n\nFuentes: El Español, La Noticia 1, The Diplomat in Spain y El Plural (5-11-2026). Discurso de Milei: los medios lo recogen con variantes; solo se usa la parte coincidente.\nFotos: Vlada Republike Slovenije (dominio público, Wikimedia Commons)\n\n#Milei #CumbreIberoamericana #elecciones #29N #eleccionesgenerales",
+   "partidos": [
+    "PSOE",
+    "Vox"
+   ],
+   "portada_estilo": "mini"
+  },
+  {
+   "id": "slp_048_smi_2027",
+   "tipo": "actualidad",
+   "formato": "top3",
+   "estado": "programado",
+   "fecha": "2026-11-06T08:45",
+   "fecha_reels": "2026-11-06T08:45",
+   "copy": "Salario mínimo 2027: lo que propone Trabajo, lo que pedían los demás y lo que falta para que sea real 💶\n¿Poco, justo o mucho? Responde con una palabra 👇\n\nFuentes: EFE vía Infobae, infoLibre y El Español/Invertia (5-11-2026). Es un proyecto de real decreto, no está aprobado.\n\n#SMI #salariominimo #elecciones #29N #eleccionesgenerales",
+   "partidos": [],
+   "portada_estilo": "mini"
+  },
+  {
+   "id": "slp_049_bulos_izquierda_1",
+   "tipo": "atemporal",
+   "formato": "bulo",
+   "estado": "programado",
+   "fecha": "2026-11-07T19:45",
+   "fecha_reels": "2026-11-07T19:45",
+   "copy": "Si gobierna la izquierda… ¿qué es verdad y qué es bulo? Parte 1/3: el vídeo de las «paguitas», las manifestaciones por Sánchez y los 160 escaños.\n¿Te llegó alguno? Responde con el número 👇\n\nFuentes: Maldita.es — vídeo de la mujer ante el Parlamento de Marruecos (4-11-2026), manifestaciones (14-10-2026), encuestas en TikTok (16-10-2026).\nFotos: Vlada Republike Slovenije (dominio público, Wikimedia Commons)\n\n#elecciones #29N #bulos #desinformación #verificación",
+   "partidos": [
+    "PSOE"
+   ],
+   "portada_estilo": "mini",
+   "serie": "bulos 1/3 izquierda"
   }
  ]
 }

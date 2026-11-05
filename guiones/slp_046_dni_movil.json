@@ -1,0 +1,251 @@
+{
+ "id": "slp_046_dni_movil",
+ "brand": "Politízate Hoy",
+ "formato": "urni",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL CONTRATO",
+  "LA JUNTA",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "JUE 5 NOV · QUÉ CAMBIA PARA TI",
+  "source": "Fuentes: El Español (4 y 5-11) · Noticias Ciudadanas · Acuerdo JEC 94/2026"
+ },
+ "caption": "Siete millones en lectores para votar con el móvil… y la Junta Electoral aún no lo permite 📱\n¿Llevarás el DNI físico? Sí o no 👇\n\nFuentes: El Español (4 y 5-11-2026), Noticias Ciudadanas (4-11-2026), Acuerdo 94/2026 de la Junta Electoral Central. Situación a las 11:00 del 5-11.\n\n#elecciones #29N #eleccionesgenerales #MiDNI #votar",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Votar con el móvil el veintinueve N? Ahora mismo, no.",
+     "show": [
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "📱 ¿VOTAR?",
+       "bg": "red",
+       "size": 130,
+       "x": 50,
+       "y": 42,
+       "at": 0,
+       "dur": 1.2
+      },
+      {
+       "id": "h0",
+       "type": "headline",
+       "text": "¿Votar con *el móvil*?",
+       "x": 50,
+       "y": 22,
+       "w": 900
+      },
+      {
+       "id": "u0",
+       "type": "urni",
+       "x": 50,
+       "y": 46,
+       "w": 300,
+       "at": 5,
+       "moods": [
+        {
+         "at": 0,
+         "m": "duda"
+        },
+        {
+         "at": 6,
+         "m": "serio"
+        }
+       ],
+       "say": "Ahora mismo, no"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Según El Español, Interior ha alquilado 61.603|sesenta_y_un_mil_seiscientos_tres lectores QR por siete millones, con contrato de emergencia.",
+     "show": [
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "61.603 lectores QR",
+       "x": 50,
+       "y": 26,
+       "w": 900,
+       "at": 0,
+       "icon": "phone"
+      },
+      {
+       "id": "s1",
+       "type": "sticker",
+       "text": "🤯",
+       "x": 84,
+       "y": 36,
+       "at": 6
+      },
+      {
+       "id": "c1b",
+       "type": "card",
+       "text": "7 millones · emergencia",
+       "x": 50,
+       "y": 42,
+       "w": 880,
+       "at": 9,
+       "icon": "doc"
+      },
+      {
+       "id": "u1",
+       "type": "urni",
+       "x": 18,
+       "y": 62,
+       "w": 200,
+       "at": 0,
+       "moods": [
+        {
+         "at": 0,
+         "m": "sorpresa"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Pero la Junta Electoral suspendió ese DNI en marzo, y sigue sin levantarlo.",
+     "show": [
+      {
+       "id": "f2",
+       "type": "flash",
+       "text": "SUSPENDIDO",
+       "bg": "ink",
+       "size": 110,
+       "x": 50,
+       "y": 30,
+       "at": 0,
+       "dur": 1.2
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "MiDNI suspendido desde marzo",
+       "x": 50,
+       "y": 42,
+       "w": 920,
+       "at": 3,
+       "icon": "doc"
+      },
+      {
+       "id": "u2",
+       "type": "urni",
+       "x": 84,
+       "y": 60,
+       "w": 200,
+       "at": 3,
+       "moods": [
+        {
+         "at": 0,
+         "m": "serio"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "El PP dice que no hay emergencia. Interior, que el lector funciona sin cobertura.",
+     "show": [
+      {
+       "id": "hlp",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 22,
+       "w": 900
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "PP: «No se trata de una emergencia»",
+       "x": 50,
+       "y": 34,
+       "w": 940,
+       "at": 0
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "text": "Interior: vale «incluso con mala o nula cobertura»",
+       "x": 50,
+       "y": 46,
+       "w": 940,
+       "at": 7
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Tú lleva el DNI físico. Si la Junta decide, te lo contamos. Síguenos.",
+     "show": [
+      {
+       "id": "uF",
+       "type": "urni",
+       "x": 50,
+       "y": 36,
+       "w": 300,
+       "at": 0,
+       "moods": [
+        {
+         "at": 0,
+         "m": "feliz"
+        }
+       ],
+       "say": "¡DNI físico!"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 56,
+       "rot": -4,
+       "at": 8
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "QUÉ CAMBIA PARA TI",
+  "titulo": "¿Votar con *el móvil*?",
+  "badge": "29-N",
+  "grande": "7 M€",
+  "sub": "La Junta aún no lo permite",
+  "mini": {
+   "texto": "¿Votar con\nel móvil?",
+   "rojo": "AÚN NO",
+   "mood": "duda",
+   "emoji": "📱",
+   "emojiX": 790,
+   "emojiY": 820,
+   "flechaX": 60,
+   "flechaY": 800
+  }
+ }
+}
