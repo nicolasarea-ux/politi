@@ -1,0 +1,225 @@
+{
+ "id": "slp_053_trump_senado",
+ "brand": "Politízate Hoy",
+ "formato": "persona",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL VUELCO",
+  "¿Y AHORA?",
+  "SU RESPUESTA"
+ ],
+ "header": {
+  "tag": "EE. UU. · VIE 6 NOV",
+  "source": "Fuentes: AP vía PBS · CNBC · Variety (3/4-11)"
+ },
+ "caption": "Trump pierde el Senado: los demócratas recuperan el control en las elecciones de mitad de mandato, también la Cámara según las proyecciones. ¿Qué puede hacer ahora?\n¿Ha perdido Trump su poder? Sí o no 👇\n\nFuentes: AP (vía PBS NewsHour), CNBC y Variety (3 y 4-11).\nFotos: Daniel Torok (Public domain, Wikimedia Commons)\n\n#Trump #EEUU #midterms #Senado #internacional",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Trump pierde el Senado de Estados Unidos. Y la Cámara, según las proyecciones.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Trump *pierde*",
+       "x": 50,
+       "y": 21,
+       "w": 920
+      },
+      {
+       "id": "k1",
+       "type": "cara",
+       "foto": "trump",
+       "h": 560,
+       "w": 560,
+       "x": 50,
+       "y": 46,
+       "at": 0,
+       "label": "Donald Trump"
+      },
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "PIERDE EL SENADO",
+       "bg": "red",
+       "size": 100,
+       "x": 50,
+       "y": 66,
+       "at": 4,
+       "dur": 1.5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Según AP, los demócratas le arrebatan escaños en Texas, Ohio o Carolina del Norte.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "El *vuelco*",
+       "x": 50,
+       "y": 21,
+       "w": 920
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "Texas",
+       "x": 50,
+       "y": 33,
+       "w": 600,
+       "at": 6,
+       "icon": "urna"
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "Ohio",
+       "x": 50,
+       "y": 42,
+       "w": 600,
+       "at": 8,
+       "icon": "urna"
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "Carolina del Norte",
+       "x": 50,
+       "y": 51,
+       "w": 700,
+       "at": 10,
+       "icon": "urna"
+      }
+     ],
+     "hide": [
+      "k1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "¿Qué pasa ahora? Sin el Congreso, Trump no saca sus leyes, y le costará más colocar jueces en el Supremo.",
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "¿Y *ahora*?",
+       "x": 50,
+       "y": 21,
+       "w": 920
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "text": "Leyes: necesita al Congreso",
+       "x": 50,
+       "y": 34,
+       "w": 860,
+       "at": 8,
+       "icon": "doc"
+      },
+      {
+       "id": "c5",
+       "type": "card",
+       "text": "Supremo: más difícil",
+       "x": 50,
+       "y": 43,
+       "w": 860,
+       "at": 15,
+       "icon": "ley"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Su respuesta: usará el veto.",
+     "show": [
+      {
+       "id": "h4",
+       "type": "headline",
+       "text": "Su *respuesta*",
+       "x": 50,
+       "y": 21,
+       "w": 920
+      },
+      {
+       "id": "f4",
+       "type": "flash",
+       "text": "VETO",
+       "bg": "ink",
+       "size": 200,
+       "x": 50,
+       "y": 40,
+       "at": 1,
+       "dur": 1.5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Ha perdido Trump su poder? Sí o no. Comenta.",
+     "show": [
+      {
+       "id": "u9",
+       "type": "urni",
+       "x": 50,
+       "y": 34,
+       "w": 280,
+       "say": "¿Sí o no?",
+       "moods": [
+        {
+         "at": 0,
+         "m": "duda"
+        }
+       ]
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 54,
+       "rot": -4,
+       "at": 6
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "EE. UU.",
+  "titulo": "Trump *pierde*",
+  "mini": {
+   "texto": "Trump pierde\nel Senado",
+   "rojo": "¿Y AHORA?",
+   "cara": "trump",
+   "emoji": "😤",
+   "emojiX": 800,
+   "emojiY": 1000,
+   "flechaX": 70,
+   "flechaY": 1000,
+   "tam": 140
+  }
+ }
+}

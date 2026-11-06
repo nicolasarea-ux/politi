@@ -1,0 +1,241 @@
+{
+ "id": "slp_055_partidos_29n",
+ "brand": "Politízate Hoy",
+ "formato": "persona",
+ "clauses": 2,
+ "clauseLabels": [
+  "EN TODAS",
+  "CASI EN TODAS",
+  "TU PROVINCIA"
+ ],
+ "header": {
+  "tag": "ELECCIONES 29-N",
+  "source": "Fuentes: Civio a partir del BOE de candidaturas proclamadas (3-11)"
+ },
+ "caption": "Más de 50 partidos estarán en las papeletas del 29-N. Solo cuatro en todas las provincias. Y en tu provincia puedes tener entre 5 y 14 opciones.\n¿Sabías que había tantos? Sí o no 👇\n\nFuente: Civio, a partir del BOE de candidaturas proclamadas (3-11).\nFotos: Vlada Republike Slovenije from Ljubljana, Slovenia (Public domain, Wikimedia Commons); European People's Party (CC BY 2.0, Wikimedia Commons); Vox España (CC0, Wikimedia Commons)\n\n#elecciones #29N #partidos #papeletas #votar",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Más de cincuenta partidos en las papeletas del 29.|veintinueve.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "¿Quién se *presenta*?",
+       "x": 50,
+       "y": 21,
+       "w": 920
+      },
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "+50 PARTIDOS",
+       "bg": "mark",
+       "size": 96,
+       "x": 50,
+       "y": 40,
+       "at": 0,
+       "dur": 2.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Solo cuatro están en las cincuenta y dos provincias: PSOE, PP, Vox y Frente Obrero.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "En *todas*",
+       "x": 50,
+       "y": 21,
+       "w": 920
+      },
+      {
+       "id": "a",
+       "type": "cara",
+       "foto": "sanchez",
+       "h": 300,
+       "w": 300,
+       "x": 22,
+       "y": 40,
+       "at": 9
+      },
+      {
+       "id": "b",
+       "type": "cara",
+       "foto": "feijoo",
+       "h": 300,
+       "w": 300,
+       "x": 50,
+       "y": 40,
+       "at": 10
+      },
+      {
+       "id": "c",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 300,
+       "w": 300,
+       "x": 78,
+       "y": 40,
+       "at": 11
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "+ Frente Obrero",
+       "x": 50,
+       "y": 56,
+       "w": 640,
+       "at": 13,
+       "icon": "urna"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Frente Amplio y SALF, el de Alvise, en cuarenta y seis. Podemos, en cuarenta y uno.",
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "Casi en *todas*",
+       "x": 50,
+       "y": 21,
+       "w": 920
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "Frente Amplio: {46}",
+       "x": 50,
+       "y": 33,
+       "w": 760,
+       "at": 0,
+       "icon": "urna"
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "SALF: {46}",
+       "x": 50,
+       "y": 42,
+       "w": 760,
+       "at": 5,
+       "icon": "urna"
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "text": "Podemos: {41}",
+       "x": 50,
+       "y": 51,
+       "w": 760,
+       "at": 10,
+       "icon": "urna"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y donde más opciones hay: Álava, Las Palmas y Madrid, con catorce. En Melilla, solo cinco.",
+     "show": [
+      {
+       "id": "h4",
+       "type": "headline",
+       "text": "Tu *provincia*",
+       "x": 50,
+       "y": 21,
+       "w": 920
+      },
+      {
+       "id": "c5",
+       "type": "card",
+       "text": "Álava · Las Palmas · Madrid: {14}",
+       "x": 50,
+       "y": 34,
+       "w": 940,
+       "at": 6,
+       "icon": "calendar"
+      },
+      {
+       "id": "c6",
+       "type": "card",
+       "text": "Melilla: {5}",
+       "x": 50,
+       "y": 43,
+       "w": 600,
+       "at": 14,
+       "icon": "calendar"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Sabías que había tantos? Sí o no. Comenta.",
+     "show": [
+      {
+       "id": "u9",
+       "type": "urni",
+       "x": 50,
+       "y": 34,
+       "w": 280,
+       "say": "¿Sí o no?",
+       "moods": [
+        {
+         "at": 0,
+         "m": "duda"
+        }
+       ]
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 54,
+       "rot": -4,
+       "at": 5
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "ELECCIONES 29-N",
+  "titulo": "¿Quién se *presenta*?",
+  "mini": {
+   "texto": "Las papeletas\ndel 29-N:",
+   "rojo": "+50 PARTIDOS",
+   "emoji": "🗳️",
+   "emojiX": 800,
+   "emojiY": 1000,
+   "flecha": true,
+   "tam": 130,
+   "mood": "sorpresa",
+   "flechaX": 70,
+   "flechaY": 1000
+  }
+ }
+}

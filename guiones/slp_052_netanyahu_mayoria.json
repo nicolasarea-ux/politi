@@ -1,0 +1,239 @@
+{
+ "id": "slp_052_netanyahu_mayoria",
+ "brand": "Politízate Hoy",
+ "formato": "persona",
+ "clauses": 2,
+ "clauseLabels": [
+  "LOS NÚMEROS",
+  "EL FRAUDE",
+  "¿Y AHORA?"
+ ],
+ "header": {
+  "tag": "ISRAEL · VIE 6 NOV",
+  "source": "Fuentes: Fox News · Revista Mercado · Wikipedia (resultados 27-10)"
+ },
+ "caption": "¿Se acaba la era Netanyahu? Su bloque se queda en 53 escaños de los 61 que necesita, denuncia fraude sin pruebas y Herzog tendrá que encargar gobierno.\n¿Se acaba su etapa? Sí o no 👇\n\nFuentes: Fox News y Revista Mercado (3-11), con los resultados oficiales del 27-10.\nFotos: Avi Ohayon (CC BY-SA 3.0, Wikimedia Commons)\n\n#Netanyahu #Israel #elecciones #internacional",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Netanyahu pierde la mayoría en Israel. ¿Se acaba su etapa?",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Netanyahu *pierde*",
+       "x": 50,
+       "y": 21,
+       "w": 920
+      },
+      {
+       "id": "k1",
+       "type": "cara",
+       "foto": "netanyahu",
+       "h": 560,
+       "w": 560,
+       "x": 50,
+       "y": 46,
+       "at": 0,
+       "label": "Netanyahu"
+      },
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "SIN MAYORÍA",
+       "bg": "red",
+       "size": 120,
+       "x": 50,
+       "y": 66,
+       "at": 5,
+       "dur": 1.5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Su bloque se queda en cincuenta y tres escaños. Necesita sesenta y uno.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "Los *números*",
+       "x": 50,
+       "y": 21,
+       "w": 920
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "Su bloque: {53}",
+       "x": 50,
+       "y": 33,
+       "w": 860,
+       "at": 0,
+       "icon": "urna"
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "Necesita: {61}",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 8,
+       "icon": "urna"
+      }
+     ],
+     "hide": [
+      "k1"
+     ]
+    },
+    {
+     "text": "La oposición de Eisenkot suma cuarenta y ocho. Y los partidos árabes, diecinueve.",
+     "show": [
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "Oposición: {48} · Árabes: {19}",
+       "x": 50,
+       "y": 51,
+       "w": 940,
+       "at": 2,
+       "icon": "user"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Netanyahu habla de fraude. Las autoridades electorales dicen que no hay pruebas.",
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "El *fraude*",
+       "x": 50,
+       "y": 21,
+       "w": 920
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "text": "Netanyahu: «fraude»",
+       "x": 50,
+       "y": 34,
+       "w": 860,
+       "at": 2,
+       "icon": "phone"
+      },
+      {
+       "id": "s4",
+       "type": "stamp",
+       "text": "SIN PRUEBAS",
+       "color": "red",
+       "x": 50,
+       "y": 45,
+       "rot": -4,
+       "at": 9
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Ahora el presidente Herzog encargará formar gobierno. Si nadie lo logra, nuevas elecciones.",
+     "show": [
+      {
+       "id": "h4",
+       "type": "headline",
+       "text": "¿Y *ahora*?",
+       "x": 50,
+       "y": 21,
+       "w": 920
+      },
+      {
+       "id": "c5",
+       "type": "card",
+       "text": "Herzog encarga gobierno",
+       "x": 50,
+       "y": 34,
+       "w": 860,
+       "at": 3,
+       "icon": "doc"
+      },
+      {
+       "id": "c6",
+       "type": "card",
+       "text": "Sin acuerdo: elecciones",
+       "x": 50,
+       "y": 43,
+       "w": 860,
+       "at": 10,
+       "icon": "calendar"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Se acaba la era Netanyahu? Sí o no. Comenta.",
+     "show": [
+      {
+       "id": "u9",
+       "type": "urni",
+       "x": 50,
+       "y": 34,
+       "w": 280,
+       "say": "¿Sí o no?",
+       "moods": [
+        {
+         "at": 0,
+         "m": "duda"
+        }
+       ]
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 54,
+       "rot": -4,
+       "at": 6
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "ISRAEL",
+  "titulo": "Netanyahu *pierde*",
+  "mini": {
+   "texto": "Netanyahu\npierde la mayoría",
+   "rojo": "¿SE ACABA?",
+   "cara": "netanyahu",
+   "emoji": "😬",
+   "emojiX": 800,
+   "emojiY": 1000,
+   "flechaX": 70,
+   "flechaY": 1000,
+   "tam": 130
+  }
+ }
+}

@@ -38,5 +38,15 @@
   "licencia": "Attribution",
   "autor": "La Moncloa - Gobierno de España",
   "fuente": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Luis_%C3%81balos_2020_(cropped).jpg"
+ },
+ "netanyahu": {
+  "licencia": "CC BY-SA 3.0",
+  "autor": "Avi Ohayon",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Benjamin_Netanyahu,_February_2023.jpg"
+ },
+ "trump": {
+  "licencia": "Public domain",
+  "autor": "Daniel Torok",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Donald_Trump_official_portrait,_2025_(cropped_headshot).jpg"
  }
 }

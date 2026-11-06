@@ -1,0 +1,210 @@
+{
+ "id": "slp_054_murcia_non_grata",
+ "brand": "Politízate Hoy",
+ "formato": "persona",
+ "clauses": 2,
+ "clauseLabels": [
+  "QUIÉN VOTÓ",
+  "LA LETRA PEQUEÑA",
+  "EL PSOE"
+ ],
+ "header": {
+  "tag": "MURCIA · VIE 6 NOV",
+  "source": "Fuentes: elDiario.es · El Debate · Demócrata (3-11)"
+ },
+ "caption": "La Asamblea de Murcia declara a Pedro Sánchez persona non grata con los votos de PP, Vox y dos exdiputados de Vox. Es la primera vez en un parlamento autonómico, y no tiene efectos legales.\n¿Te parece bien? Sí o no 👇\n\nFuentes: elDiario.es, El Debate y Demócrata (3-11).\nFotos: Vlada Republike Slovenije from Ljubljana, Slovenia (Public domain, Wikimedia Commons)\n\n#PedroSánchez #Murcia #personanongrata #elecciones #29N",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "La Asamblea de Murcia declara a Pedro Sánchez persona non grata.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Sánchez, *non grata*",
+       "x": 50,
+       "y": 21,
+       "w": 920
+      },
+      {
+       "id": "k1",
+       "type": "cara",
+       "foto": "sanchez",
+       "h": 560,
+       "w": 560,
+       "x": 50,
+       "y": 46,
+       "at": 0,
+       "label": "Pedro Sánchez"
+      },
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "NON GRATA",
+       "bg": "red",
+       "size": 140,
+       "x": 50,
+       "y": 66,
+       "at": 7,
+       "dur": 1.5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Con los votos de PP, Vox y dos exdiputados de Vox.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "Quién *votó*",
+       "x": 50,
+       "y": 21,
+       "w": 920
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "PP + Vox + 2 ex de Vox",
+       "x": 50,
+       "y": 34,
+       "w": 860,
+       "at": 2,
+       "icon": "urna"
+      }
+     ],
+     "hide": [
+      "k1"
+     ]
+    },
+    {
+     "text": "Es la primera vez que lo hace un parlamento autonómico.",
+     "show": [
+      {
+       "id": "s1",
+       "type": "stamp",
+       "text": "PRIMERA VEZ",
+       "color": "red",
+       "x": 50,
+       "y": 45,
+       "rot": -4,
+       "at": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Pero ojo: es simbólico. No tiene ningún efecto legal.",
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "La letra *pequeña*",
+       "x": 50,
+       "y": 21,
+       "w": 920
+      },
+      {
+       "id": "f3",
+       "type": "flash",
+       "text": "SIMBÓLICO",
+       "bg": "ink",
+       "size": 130,
+       "x": 50,
+       "y": 40,
+       "at": 3,
+       "dur": 1.5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "El PSOE responde que Sánchez ha mejorado la vida de cientos de miles de personas en la región.",
+     "show": [
+      {
+       "id": "h4",
+       "type": "headline",
+       "text": "El *PSOE*",
+       "x": 50,
+       "y": 21,
+       "w": 920
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "text": "«…ha mejorado la vida de cientos de miles»",
+       "x": 50,
+       "y": 36,
+       "w": 960,
+       "at": 3,
+       "icon": "phone"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Te parece bien? Sí o no. Comenta.",
+     "show": [
+      {
+       "id": "u9",
+       "type": "urni",
+       "x": 50,
+       "y": 34,
+       "w": 280,
+       "say": "¿Sí o no?",
+       "moods": [
+        {
+         "at": 0,
+         "m": "duda"
+        }
+       ]
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 54,
+       "rot": -4,
+       "at": 4
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "MURCIA",
+  "titulo": "Sánchez, *non grata*",
+  "mini": {
+   "texto": "Murcia declara\na Sánchez",
+   "rojo": "NON GRATA",
+   "cara": "sanchez",
+   "emoji": "🚫",
+   "emojiX": 800,
+   "emojiY": 1000,
+   "flechaX": 70,
+   "flechaY": 1000,
+   "tam": 140
+  }
+ }
+}
