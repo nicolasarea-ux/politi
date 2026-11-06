@@ -202,25 +202,21 @@
   {
    "id": "slp_014_dhondt",
    "tipo": "atemporal",
-   "estado": "programado",
+   "estado": "reserva",
    "copy": "Por qué un partido con más votos puede sacar menos escaños: la ley D'Hondt explicada en 30 segundos.\n¿Lo sabías o te ha pillado por sorpresa? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 162 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #dhondt #leyelectoral",
    "partidos": [],
-   "fecha_reels": "2026-11-07T21:15",
    "nota": "Vídeo hecho, listo para usar",
-   "fecha": "2026-11-07T21:15",
    "formato": "animado",
    "portada_estilo": "v2"
   },
   {
    "id": "slp_016_blanco_nulo",
    "tipo": "atemporal",
-   "estado": "programado",
+   "estado": "reserva",
    "copy": "Votar en blanco, nulo o quedarte en casa NO es lo mismo. Te explicamos la diferencia según la ley.\n¿Sabías que el voto en blanco cuenta para el 3 %? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 96 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #votoenblanco #votonulo",
    "partidos": [],
    "nota": "Sustituido el 2-N por actualidad; reprogramado",
-   "portada_estilo": "v2",
-   "fecha": "2026-11-07T22:45",
-   "fecha_reels": "2026-11-07T22:45"
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_017_senado",
@@ -232,10 +228,8 @@
     "https://maldita.es/malditateexplica/20230723/votos-senado-psoe-sumar-mayoria-progresista/",
     "https://www.esdiario.com/nacional/261026/201318/votar-senado-pacto-pp-vox-cambian-papeletas-elegir-candidatos_amp.html"
    ],
-   "estado": "programado",
-   "copy": "Senado 29-N: cuántos candidatos puedes marcar, si puedes mezclar partidos y cuándo tu voto acaba siendo nulo 🗳️\n¿Sabías que podías mezclar? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 166 (BOE); Maldita.\n\n#elecciones #29N #eleccionesgenerales #senado #comovotar",
-   "fecha": "2026-11-06T21:15",
-   "fecha_reels": "2026-11-06T21:15"
+   "estado": "reserva",
+   "copy": "Senado 29-N: cuántos candidatos puedes marcar, si puedes mezclar partidos y cuándo tu voto acaba siendo nulo 🗳️\n¿Sabías que podías mezclar? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 166 (BOE); Maldita.\n\n#elecciones #29N #eleccionesgenerales #senado #comovotar"
   },
   {
    "id": "slp_018_puente_cese",
@@ -280,9 +274,7 @@
     "https://www.democrata.es/elecciones-generales-espana/permiso-trabajo-votar-29-noviembre-2026-horas/",
     "https://www.consejogestores.org/?p=11303"
    ],
-   "estado": "programado",
-   "fecha": "2026-11-06T22:45",
-   "fecha_reels": "2026-11-06T22:45",
+   "estado": "reserva",
    "copy": "¿Trabajas el 29-N? Cuántas horas pagadas te corresponden para ir a votar 🕘\nGuárdalo 📌 ¿Trabajas ese domingo? 👇\n\nFuente: Real Decreto 605/1999 (art. 13), Estatuto de los Trabajadores (art. 37.3.d), vía Demócrata y Consejo de Gestores.\n\n#elecciones #29N #eleccionesgenerales #derechoslaborales #comovotar"
   },
   {
@@ -334,11 +326,9 @@
    "fuentes": [
     "https://www.exteriores.gob.es/Consulados/andorra/es/Comunicacion/Noticias/Paginas/Articulos/Elecciones-a-las-Cortes-Generales-de-29-de-noviembre-de-2026.aspx"
    ],
-   "estado": "programado",
-   "fecha": "2026-11-07T13:45",
+   "estado": "reserva",
    "copy": "¿Vives fuera de España? Cómo votar el 29-N: ya no hay que pedirlo, pero hay fechas que no perdonan ✈️\nEtiqueta a quien viva fuera 👇\n\nFuente: Ministerio de Asuntos Exteriores, webs consulares (Elecciones a Cortes Generales, 29-11-2026).\n\n#elecciones #29N #eleccionesgenerales #votoexterior #CERA",
-   "portada_estilo": "v2",
-   "fecha_reels": "2026-11-07T13:45"
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_025_donde_voto",

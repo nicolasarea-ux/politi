@@ -106,6 +106,17 @@ Cada día, **un vídeo de cada formato** (los otros huecos, formato normal anima
 
 **Portadas v2 (3-N):** fondo azul marino por defecto (no parecen un fotograma), título en papel con fosforito, círculo con dato o `portada.escena` en tarjeta, y `portada.badge` (sello rojo: "MINUTO A MINUTO", "¿BULO?", "TOP 3", "EN 30 S"). `portada.estilo: "clasico"` vuelve al papel.
 
+## PLAN DE CRECIMIENTO (Nicks, 6-N — manda sobre lo anterior si choca)
+Datos 9 días (35 Reels): mediana 127 views, alcance ~111, 8 s vistos, 0 comentarios. Solo salen del grupo de prueba los vídeos de PERSONAS y CHOQUES (Sánchez vs Milei 352, Feijóo 307, Jesús de Miguel 208). Explicativos sin cara (top 3, Urni explicando, D'Hondt, Senado): 96–120 y 6 s.
+1. **Mezcla diaria:** 2 de cada 3 Reels sobre una PERSONA o un CHOQUE: "X vs Y" (dos caras, mismo espacio, frases literales de ambos), "Lo que ha dicho X", "Quién es X", "X responde a Y". Siempre `cara` en el vídeo desde `at: 0` y en la portada.
+2. **Explicativos: máximo 1 al día** y colgados de una persona ("Lo que propone Feijóo sobre vivienda", no "Qué es la vivienda"). Atemporales sin cara → `reserva`.
+3. **En pausa 1 semana:** formatos `top3` y `urni` explicando. Se mantienen `bulo` (en serie), `minuto` y `vs`. Urni solo como reacción pequeña.
+4. **Segundo 0:** cara + la frase literal más fuerte en pantalla (`flash` o `card` con comillas) antes de cualquier contexto. 20–30 s.
+5. **Comentarios:** cierra SIEMPRE con una pregunta de sí/no o de elegir entre dos ("¿Dimisión justa? Sí o no", "¿Quién gana: Sánchez o Milei?"), en voz, en pantalla y como primera línea del copy. Nada de preguntas abiertas.
+6. **Neutralidad intacta:** rota personas de todos los partidos; en los VS, mismo tiempo y mismo trato para los dos; 2 fuentes; frases literales.
+7. **Objetivo semanal:** tiempo medio visto ≥ 12 s y 1 de cada 3 Reels > 250 views. Revísalo en `stats.json` cada pasada y anota en `registro.md` qué Reel superó 250.
+8. Al replanificar: si en la cola hay más de 1 explicativo sin cara en un día, pasa los demás a `reserva` y llena el hueco con persona/choque del radar.
+
 ## Datos del 4-N (stats.json) y cambios obligatorios
 `stats.json` se actualiza solo en cada pasada del publicador (views, alcance, `ig_reels_avg_watch_time` en ms, compartidos, guardados). Léelo en cada pasada y anota en `registro.md` los 3 mejores y peores por tiempo medio visto.
 Diagnóstico 4-N: todos los Reels se quedan en ~100–130 de alcance (grupo de prueba) y el tiempo medio visto es 5–10 s en vídeos de 35–50 s. Lo que más retiene: caras conocidas y noticia caliente. Lo que peor: arranques lentos (Urda minuto a minuto: 4 s).

@@ -19,3 +19,7 @@ La rutina lee este archivo ANTES del radar y lo que diga aquí manda sobre el re
 
 ## Desde el 6-N (datos)
 - El formato "X vs Y" con dos caras (slp_050 Sánchez vs Milei: 348 views, 281 de alcance, el único que salió del grupo de prueba) es prioridad: al menos 1 al día cuando haya un choque real entre dos personas (frases literales de ambos, 2 fuentes, mismo espacio para cada uno). Portada `mini` con `cara` + `cara2` (VS).
+
+## 6-N (Nicks, 10:25): aplicar el PLAN DE CRECIMIENTO de INSTRUCCIONES.md
+- Hoy quedan huecos a las 21:15 y 22:45, y mañana a las 13:45, 21:15 y 22:45: llénalos con PERSONAS/CHOQUES del radar (al menos un "X vs Y" hoy y otro mañana). Explicativos: solo dónde voto (hoy) y mesas (mañana).
+- Cambia la pregunta final de bulos 3/3 y bulos izquierda 1/3 a una de sí/no si no lo es.
