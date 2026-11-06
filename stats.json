@@ -2,25 +2,41 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 2,
-  "media_count": 36,
+  "media_count": 37,
   "id": "29046307255021601"
  },
  "reels": [
   {
+   "id": "slp_054_murcia_non_grata",
+   "ig": "18116176523145344",
+   "fecha": "2026-11-06T15:30:32+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfZ7o0hmQm9/",
+   "titulo": "La Asamblea de Murcia declara a Pedro Sánchez persona non gr",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
+  {
    "id": "slp_056_sanchez_feijoo_koldo",
    "ig": "17912548902588935",
    "fecha": "2026-11-06T12:45:32+0000",
-   "likes": 1,
+   "likes": 3,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfZowZEHVRZ/",
    "titulo": "¿Debe Feijóo dar explicaciones? Sí o no 👇\n\nSánchez contra Fe",
-   "views": 35,
-   "reach": 3,
+   "views": 161,
+   "reach": 140,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 1,
-   "ig_reels_avg_watch_time": 22099,
-   "ig_reels_video_view_total_time": 44199
+   "total_interactions": 3,
+   "ig_reels_avg_watch_time": 10765,
+   "ig_reels_video_view_total_time": 1507209
   },
   {
    "id": "slp_048_smi_2027",
