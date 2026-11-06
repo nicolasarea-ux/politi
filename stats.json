@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 2,
-  "media_count": 35,
+  "media_count": 36,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_056_sanchez_feijoo_koldo",
+   "ig": "17912548902588935",
+   "fecha": "2026-11-06T12:45:32+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfZowZEHVRZ/",
+   "titulo": "¿Debe Feijóo dar explicaciones? Sí o no 👇\n\nSánchez contra Fe",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
   {
    "id": "slp_048_smi_2027",
    "ig": "18144675133719650",
@@ -14,7 +30,7 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfZKKKfFOHn/",
    "titulo": "Salario mínimo 2027: lo que propone Trabajo, lo que pedían l",
-   "views": 115,
+   "views": 117,
    "reach": 106,
    "saved": 0,
    "shares": 0,
