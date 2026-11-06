@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 2,
-  "media_count": 34,
+  "media_count": 35,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_048_smi_2027",
+   "ig": "18144675133719650",
+   "fecha": "2026-11-06T08:18:10+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfZKKKfFOHn/",
+   "titulo": "Salario mínimo 2027: lo que propone Trabajo, lo que pedían l",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
   {
    "id": "slp_044_bulos_derecha_2",
    "ig": "18108614887980951",
@@ -62,13 +78,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfW8NP4gg-z/",
    "titulo": "Primer cara a cara entre Pedro Sánchez y Javier Milei tras l",
-   "views": 348,
-   "reach": 281,
+   "views": 352,
+   "reach": 287,
    "saved": 0,
    "shares": 1,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 9476,
-   "ig_reels_video_view_total_time": 2681986
+   "ig_reels_avg_watch_time": 9466,
+   "ig_reels_video_view_total_time": 2735854
   },
   {
    "id": "slp_043_puente_papeleta",
