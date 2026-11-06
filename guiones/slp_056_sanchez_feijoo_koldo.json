@@ -1,0 +1,274 @@
+{
+ "id": "slp_056_sanchez_feijoo_koldo",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "LA ACUSACIÓN",
+  "LA RESPUESTA",
+  "LO QUE HAY"
+ ],
+ "header": {
+  "tag": "VS · VIE 6 NOV",
+  "source": "Fuentes: Público · elDiario · Infobae · ESdiario · Bilbao Hiria"
+ },
+ "caption": "¿Debe Feijóo dar explicaciones? Sí o no 👇\n\nSánchez contra Feijóo por el relato de Koldo: un millón de euros que el PP niega haber ofrecido. Lo que dice cada uno y lo que está sin demostrar.\n\nFuentes: Público, elDiario, Infobae, El Español, ESdiario y Bilbao Hiria (5 y 6-11). Es una acusación, no un hecho probado.\nFotos: Vlada Republike Slovenije (dominio público) y European People's Party (CC BY 2.0), Wikimedia Commons.\n\n#PedroSánchez #Feijóo #Koldo #elecciones #29N",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "«Feijóo tendría que dar alguna explicación». Sánchez contra Feijóo por un millón de euros.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Sánchez vs *Feijóo*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kS",
+       "type": "cara",
+       "foto": "sanchez",
+       "h": 560,
+       "w": 500,
+       "x": 27,
+       "y": 48,
+       "at": 0,
+       "from": "left",
+       "tilt": 3,
+       "label": "Sánchez",
+       "keep": 1
+      },
+      {
+       "id": "kF",
+       "type": "cara",
+       "foto": "feijoo",
+       "h": 560,
+       "w": 500,
+       "x": 73,
+       "y": 48,
+       "at": 0,
+       "from": "right",
+       "tilt": -3,
+       "label": "Feijóo",
+       "keep": 1
+      },
+      {
+       "id": "s0",
+       "type": "sticker",
+       "text": "💶",
+       "size": 150,
+       "x": 50,
+       "y": 50,
+       "at": 9
+      },
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "«ALGUNA EXPLICACIÓN»",
+       "bg": "red",
+       "size": 76,
+       "x": 50,
+       "y": 60,
+       "at": 0,
+       "dur": 2.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Koldo dice, desde prisión, que el abogado del PP le ofreció un millón por declarar contra Sánchez, aun mintiendo.",
+     "hide": [
+      "kS",
+      "kF",
+      "s0"
+     ],
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "Lo que dice *Koldo*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "1.000.000 €",
+       "x": 50,
+       "y": 34,
+       "w": 880,
+       "at": 1,
+       "icon": "phone"
+      },
+      {
+       "id": "st1",
+       "type": "stamp",
+       "text": "«AUN MINTIENDO»",
+       "color": "red",
+       "x": 50,
+       "y": 50,
+       "rot": -4,
+       "at": 17
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "El PP lo niega. Ester Muñoz: «Es un preso. Está mintiendo». Y el abogado también lo rechaza.",
+     "hide": [
+      "c1",
+      "st1",
+      "h2"
+     ],
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "Responde el *PP*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kF2",
+       "type": "cara",
+       "foto": "feijoo",
+       "h": 520,
+       "w": 520,
+       "x": 50,
+       "y": 50,
+       "at": 0,
+       "keep": 1
+      },
+      {
+       "id": "c2n",
+       "type": "card",
+       "text": "Ester Muñoz, portavoz del PP",
+       "x": 50,
+       "y": 30,
+       "w": 800,
+       "at": 3
+      },
+      {
+       "id": "f2",
+       "type": "flash",
+       "text": "«ESTÁ MINTIENDO»",
+       "bg": "ink",
+       "size": 88,
+       "x": 50,
+       "y": 62,
+       "at": 8,
+       "dur": 1.8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Su abogada entregó al juez facturas de 242.000|doscientos_cuarenta_y_dos_mil euros de la editora de OKdiario. Del millón, nada demostrado.",
+     "hide": [
+      "kF2",
+      "h3",
+      "c2n"
+     ],
+     "show": [
+      {
+       "id": "h4",
+       "type": "headline",
+       "text": "Lo que *hay*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "text": "Facturas: 242.000 €",
+       "x": 50,
+       "y": 34,
+       "w": 880,
+       "at": 6,
+       "icon": "doc"
+      },
+      {
+       "id": "st4",
+       "type": "stamp",
+       "text": "SIN DEMOSTRAR",
+       "color": "red",
+       "x": 50,
+       "y": 47,
+       "rot": -4,
+       "at": 13
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Debe Feijóo dar explicaciones? Sí o no. Comenta y síguenos.",
+     "show": [
+      {
+       "id": "uE",
+       "type": "urni",
+       "x": 50,
+       "y": 34,
+       "w": 300,
+       "say": "¿Sí o no?",
+       "moods": [
+        {
+         "at": 0,
+         "m": "duda"
+        }
+       ],
+       "at": 0
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 54,
+       "rot": -4,
+       "at": 5
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "VS",
+  "titulo": "Sánchez vs *Feijóo*",
+  "mini": {
+   "texto": "Sánchez y Feijóo:",
+   "rojo": "1 MILLÓN",
+   "cara": "sanchez",
+   "cara2": "feijoo",
+   "emoji": "💶",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 128
+  }
+ }
+}

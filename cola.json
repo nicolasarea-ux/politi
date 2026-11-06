@@ -339,11 +339,9 @@
    "fuentes": [
     "https://www.democrata.es/elecciones-generales-espana/donde-votar-29n-consultar-colegio-mesa-electoral/"
    ],
-   "estado": "programado",
-   "fecha": "2026-11-06T13:45",
+   "estado": "reserva",
    "copy": "¿No sabes dónde te toca votar? Cómo mirarlo en dos minutos y qué pasa si no te llega la tarjeta censal 📍\n¿Te ha llegado ya la tuya? 👇\n\nFuente: Oficina del Censo Electoral (INE); Demócrata; Maldita.\n\n#elecciones #29N #eleccionesgenerales #censoelectoral #comovotar",
-   "portada_estilo": "v2",
-   "fecha_reels": "2026-11-06T13:45"
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_026_barrera_3",
@@ -435,8 +433,8 @@
    "estado": "programado",
    "nota": "Usar cuanto antes: útil mientras corren los 7 días tras las notificaciones (hasta ~14-N)",
    "copy": "Te ha tocado mesa: las excusas que te libran, las que dependen de la Junta y el plazo que no puedes dejar pasar 🗳️\n¿A ti te ha llegado la carta? 👇\n\nFuente: Instrucción 6/2011 de la Junta Electoral Central, vía Telecinco (1-11) y El Independiente (9-10).\n\n#elecciones #29N #eleccionesgenerales #mesaelectoral #comovotar",
-   "fecha": "2026-11-07T08:45",
-   "fecha_reels": "2026-11-07T08:45"
+   "fecha": "2026-11-08T08:45",
+   "fecha_reels": "2026-11-08T08:45"
   },
   {
    "id": "slp_032_quien_cuenta",
@@ -737,6 +735,97 @@
    "fecha_reels": "2026-11-07T13:45",
    "copy": "Más de 50 partidos estarán en las papeletas del 29-N. Solo cuatro en todas las provincias. Y en tu provincia puedes tener entre 5 y 14 opciones.\n¿Sabías que había tantos? Sí o no 👇\n\nFuente: Civio, a partir del BOE de candidaturas proclamadas (3-11).\nFotos: Vlada Republike Slovenije from Ljubljana, Slovenia (Public domain, Wikimedia Commons); European People's Party (CC BY 2.0, Wikimedia Commons); Vox España (CC0, Wikimedia Commons)\n\n#elecciones #29N #partidos #papeletas #votar",
    "partidos": []
+  },
+  {
+   "id": "slp_056_sanchez_feijoo_koldo",
+   "tipo": "actualidad",
+   "formato": "vs",
+   "portada_estilo": "mini",
+   "estado": "programado",
+   "fecha": "2026-11-06T13:45",
+   "fecha_reels": "2026-11-06T13:45",
+   "partidos": [
+    "PP",
+    "PSOE"
+   ],
+   "copy": "¿Debe Feijóo dar explicaciones? Sí o no 👇\n\nSánchez contra Feijóo por el relato de Koldo: un millón de euros que el PP niega haber ofrecido. Lo que dice cada uno y lo que está sin demostrar.\n\nFuentes: Público, elDiario, Infobae, El Español, ESdiario y Bilbao Hiria (5 y 6-11). Es una acusación, no un hecho probado.\nFotos: Vlada Republike Slovenije (dominio público) y European People's Party (CC BY 2.0), Wikimedia Commons.\n\n#PedroSánchez #Feijóo #Koldo #elecciones #29N"
+  },
+  {
+   "id": "slp_057_feijoo_mundial",
+   "tipo": "actualidad",
+   "formato": "minuto",
+   "portada_estilo": "mini",
+   "estado": "programado",
+   "fecha": "2026-11-07T08:45",
+   "fecha_reels": "2026-11-07T08:45",
+   "partidos": [
+    "PP"
+   ],
+   "copy": "¿Retirarías a España del Mundial? Sí o no 👇\n\nFeijóo en El Chiringuito: si la final de 2030 se va a Marruecos, España fuera de la organización. Lo que dice la Federación y lo que falta por decidir.\n\nFuentes: EFE (vía Infobae) y El Español (5 y 6-11).\nFoto: European People's Party (CC BY 2.0, Wikimedia Commons).\n\n#Feijóo #Mundial2030 #ElChiringuito #elecciones #29N"
+  },
+  {
+   "id": "slp_059_abascal_broncano",
+   "tipo": "atemporal",
+   "formato": "vs",
+   "portada_estilo": "mini",
+   "estado": "programado",
+   "fecha": "2026-11-07T21:15",
+   "fecha_reels": "2026-11-07T21:15",
+   "partidos": [
+    "Vox"
+   ],
+   "copy": "¿Verás la entrevista? Sí o no 👇\n\nAbascal irá a La Revuelta el lunes 9: el programa de la televisión pública en la que un diputado de Vox dijo que había que entrar con un lanzallamas. Sánchez hizo 4,4 millones.\n\nFuentes: elDiario.es (5-11 y 11-3-2026) y EFE vía Infobae (5-11).\nFotos: Vox España (CC0) y Pedro J Pacheco (CC BY-SA 4.0), Wikimedia Commons.\n\n#Abascal #Broncano #LaRevuelta #elecciones #29N"
+  },
+  {
+   "id": "slp_060_colau_montero",
+   "tipo": "atemporal",
+   "formato": "vs",
+   "portada_estilo": "mini",
+   "estado": "programado",
+   "fecha": "2026-11-07T22:45",
+   "fecha_reels": "2026-11-07T22:45",
+   "partidos": [
+    "Frente Amplio",
+    "Podemos"
+   ],
+   "copy": "¿Debieron ir juntas? Sí o no 👇\n\nColau y Montero: la candidatura única que no fue, la pulla por las armas y lo que dice el sondeo de esta semana.\n\nFuentes: Europa Press vía Infobae (6-11), elDiario.es (14-10) y El Constitucional sobre el sondeo SW Demoscopia para La Séptima (5-11).\nFotos: Laura Guerrero (CC BY 4.0) y The Left in the European Parliament (CC0), Wikimedia Commons.\n\n#AdaColau #IreneMontero #izquierda #elecciones #29N"
+  },
+  {
+   "id": "slp_058_montero_armas",
+   "tipo": "atemporal",
+   "formato": "minuto",
+   "portada_estilo": "mini",
+   "estado": "programado",
+   "fecha": "2026-11-08T13:45",
+   "fecha_reels": "2026-11-08T13:45",
+   "partidos": [
+    "Podemos"
+   ],
+   "copy": "¿Menos gasto militar para esto? Sí o no 👇\n\nIrene Montero en el desayuno de Europa Press: nacionalizar Repsol, 80.000 contrataciones, un súper público y «freírles a impuestos». Las cifras son suyas.\n\nFuentes: Europa Press (vía Infobae, Press Digital y Demócrata, 6-11).\nFoto: The Left in the European Parliament (CC0, Wikimedia Commons).\n\n#IreneMontero #GastoMilitar #Repsol #elecciones #29N"
+  },
+  {
+   "id": "slp_061_bulos_izquierda_2",
+   "tipo": "atemporal",
+   "formato": "bulo",
+   "portada_estilo": "mini",
+   "estado": "programado",
+   "fecha": "2026-11-08T19:45",
+   "fecha_reels": "2026-11-08T19:45",
+   "partidos": [],
+   "copy": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la izquierda… Parte 2/3: el discurso «grabado» de Sánchez, el vídeo de Alsina y las encuestas de TikTok.\n\nFuentes: Maldita.es — recopilación de bulos del 29-N (actualizada el 4-11-2026), Alsina (4-11-2026), encuestas en TikTok (16-10-2026).\nFoto: Vlada Republike Slovenije (dominio público, Wikimedia Commons)\n\n#elecciones #29N #bulos #desinformación #verificación"
+  },
+  {
+   "id": "slp_062_rufian",
+   "tipo": "atemporal",
+   "formato": "minuto",
+   "portada_estilo": "mini",
+   "estado": "programado",
+   "fecha": "2026-11-08T21:15",
+   "fecha_reels": "2026-11-08T21:15",
+   "partidos": [
+    "ERC"
+   ],
+   "copy": "¿Tiene razón Rufián con el PSOE? Sí o no 👇\n\nRufián, su libro «Cómo ganar a los fachas» y lo que quiere ser después de Junqueras. Sus frases, tal cual.\n\nFuente: diario Ara (19-10 y 25-10-2026).\nFoto: Marta Jara, eldiario.es (CC BY-SA 3.0 es, Wikimedia Commons).\n\n#Rufián #ERC #izquierda #elecciones #29N"
   }
  ]
 }

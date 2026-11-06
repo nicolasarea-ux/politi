@@ -12,7 +12,7 @@
   "tag": "¿VERDAD O BULO? · 1/3",
   "source": "Fuente: verificaciones de Maldita.es (14-10, 16-10 y 4-11-2026)"
  },
- "caption": "Si gobierna la izquierda… ¿qué es verdad y qué es bulo? Parte 1/3: el vídeo de las «paguitas», las manifestaciones por Sánchez y los 160 escaños.\n¿Te llegó alguno? Responde con el número 👇\n\nFuentes: Maldita.es — vídeo de la mujer ante el Parlamento de Marruecos (4-11-2026), manifestaciones (14-10-2026), encuestas en TikTok (16-10-2026).\nFotos: Vlada Republike Slovenije (dominio público, Wikimedia Commons)\n\n#elecciones #29N #bulos #desinformación #verificación",
+ "caption": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la izquierda… ¿qué es verdad y qué es bulo? Parte 1/3: el vídeo de las «paguitas», las manifestaciones por Sánchez y los 160 escaños.\nFuentes: Maldita.es — vídeo de la mujer ante el Parlamento de Marruecos (4-11-2026), manifestaciones (14-10-2026), encuestas en TikTok (16-10-2026).\nFotos: Vlada Republike Slovenije (dominio público, Wikimedia Commons)\n\n#elecciones #29N #bulos #desinformación #verificación",
  "scenes": [
   {
    "clause": 0,
@@ -324,7 +324,7 @@
    "clause": 0,
    "segments": [
     {
-     "text": "Mañana, la parte dos. Síguenos.",
+     "text": "¿Te había llegado alguno? Sí o no. Mañana, la parte dos. Síguenos.",
      "show": [
       {
        "id": "n5",
@@ -347,7 +347,7 @@
          "m": "feliz"
         }
        ],
-       "say": "¡Síguenos!"
+       "say": "¿Sí o no?"
       },
       {
        "id": "fol",

@@ -1,0 +1,235 @@
+{
+ "id": "slp_058_montero_armas",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "LA CIFRA",
+  "EN QUÉ",
+  "EL RECADO"
+ ],
+ "header": {
+  "tag": "LO QUE HA DICHO · 6 NOV",
+  "source": "Fuente: Europa Press vía Infobae · Press Digital · Demócrata"
+ },
+ "caption": "¿Menos gasto militar para esto? Sí o no 👇\n\nIrene Montero en el desayuno de Europa Press: nacionalizar Repsol, 80.000 contrataciones, un súper público y «freírles a impuestos». Las cifras son suyas.\n\nFuentes: Europa Press (vía Infobae, Press Digital y Demócrata, 6-11).\nFoto: The Left in the European Parliament (CC0, Wikimedia Commons).\n\n#IreneMontero #GastoMilitar #Repsol #elecciones #29N",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "«Para armas lo han encontrado». Irene Montero y veinticuatro mil millones.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Irene *Montero*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "k1",
+       "type": "cara",
+       "foto": "montero",
+       "h": 600,
+       "w": 560,
+       "x": 50,
+       "y": 52,
+       "at": 0,
+       "label": "Irene Montero",
+       "keep": 1
+      },
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "«PARA ARMAS»",
+       "bg": "red",
+       "size": 110,
+       "x": 50,
+       "y": 60,
+       "at": 0,
+       "dur": 1.6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Es lo que, según sus cuentas, ha subido el gasto militar desde 2023.|dos_mil_veintitrés.",
+     "show": [
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "24.000 millones",
+       "x": 50,
+       "y": 30,
+       "w": 880,
+       "at": 0,
+       "icon": "doc"
+      },
+      {
+       "id": "st1",
+       "type": "stamp",
+       "text": "SEGÚN SUS CUENTAS",
+       "color": "red",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 3
+      }
+     ]
+    },
+    {
+     "text": "Lo quiere para nacionalizar Repsol, por 9.100|nueve_mil_cien millones. Y contratar 40.000|cuarenta_mil sanitarios, 40.000|cuarenta_mil maestros y crear un súper público.",
+     "hide": [
+      "c1",
+      "st1",
+      "k1",
+      "h1"
+     ],
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "En *qué*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "Repsol: 9.100 M€",
+       "x": 50,
+       "y": 32,
+       "w": 880,
+       "at": 3,
+       "icon": "doc"
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "40.000 sanitarios + 40.000 maestros",
+       "x": 50,
+       "y": 44,
+       "w": 880,
+       "at": 9,
+       "icon": "user"
+      },
+      {
+       "id": "s2",
+       "type": "sticker",
+       "text": "🛒",
+       "size": 150,
+       "x": 50,
+       "y": 60,
+       "at": 15
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y a las grandes fortunas: «Hay que freírles a impuestos».",
+     "hide": [
+      "c2",
+      "c3",
+      "s2",
+      "h2"
+     ],
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "El *recado*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "k3",
+       "type": "cara",
+       "foto": "montero",
+       "h": 520,
+       "w": 520,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "keep": 1
+      },
+      {
+       "id": "f3",
+       "type": "flash",
+       "text": "«FREÍRLES A IMPUESTOS»",
+       "bg": "red",
+       "size": 78,
+       "x": 50,
+       "y": 62,
+       "at": 4,
+       "dur": 2.2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Menos gasto militar para esto? Sí o no. Comenta y síguenos.",
+     "show": [
+      {
+       "id": "uE",
+       "type": "urni",
+       "x": 50,
+       "y": 34,
+       "w": 300,
+       "say": "¿Sí o no?",
+       "moods": [
+        {
+         "at": 0,
+         "m": "duda"
+        }
+       ],
+       "at": 0
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 54,
+       "rot": -4,
+       "at": 5
+      }
+     ],
+     "hide": [
+      "k3"
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "LO QUE HA DICHO",
+  "titulo": "Irene *Montero*",
+  "mini": {
+   "texto": "Irene Montero:",
+   "rojo": "«PARA ARMAS»",
+   "cara": "montero",
+   "emoji": "💣",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 128
+  }
+ }
+}

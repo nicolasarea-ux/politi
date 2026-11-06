@@ -1,0 +1,235 @@
+{
+ "id": "slp_057_feijoo_mundial",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "LA FRASE",
+  "EL PROBLEMA",
+  "QUIÉN DECIDE"
+ ],
+ "header": {
+  "tag": "LO QUE HA DICHO · VIE 6 NOV",
+  "source": "Fuentes: EFE vía Infobae · El Español"
+ },
+ "caption": "¿Retirarías a España del Mundial? Sí o no 👇\n\nFeijóo en El Chiringuito: si la final de 2030 se va a Marruecos, España fuera de la organización. Lo que dice la Federación y lo que falta por decidir.\n\nFuentes: EFE (vía Infobae) y El Español (5 y 6-11).\nFoto: European People's Party (CC BY 2.0, Wikimedia Commons).\n\n#Feijóo #Mundial2030 #ElChiringuito #elecciones #29N",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "«España no debería participar». Feijóo y la final del Mundial.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Feijóo y el *Mundial*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "k1",
+       "type": "cara",
+       "foto": "feijoo",
+       "h": 600,
+       "w": 560,
+       "x": 50,
+       "y": 52,
+       "at": 0,
+       "label": "Feijóo",
+       "keep": 1
+      },
+      {
+       "id": "s1",
+       "type": "sticker",
+       "text": "⚽",
+       "size": 150,
+       "x": 84,
+       "y": 24,
+       "at": 3
+      },
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "¿ESPAÑA FUERA?",
+       "bg": "red",
+       "size": 96,
+       "x": 50,
+       "y": 60,
+       "at": 0,
+       "dur": 1.6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Lo dijo en El Chiringuito. Si gobierna y la final de 2030|dos_mil_treinta se va a Marruecos, pedirá retirarse. ¿Seguro? «Sí, la respuesta es sí».",
+     "show": [
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "Final en Marruecos = retirada",
+       "x": 50,
+       "y": 30,
+       "w": 880,
+       "at": 4,
+       "icon": "question"
+      },
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "«SÍ, LA RESPUESTA ES SÍ»",
+       "bg": "ink",
+       "size": 72,
+       "x": 50,
+       "y": 66,
+       "at": 20,
+       "dur": 1.8
+      }
+     ],
+     "hide": [
+      "s1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Pero, según El Español, la Federación lo ve inviable y apela a los compromisos firmados.",
+     "hide": [
+      "k1",
+      "c1",
+      "h1"
+     ],
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "El *problema*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "st2",
+       "type": "stamp",
+       "text": "«INVIABLE»",
+       "color": "red",
+       "x": 50,
+       "y": 38,
+       "rot": -4,
+       "at": 8
+      },
+      {
+       "id": "s2",
+       "type": "sticker",
+       "text": "📝",
+       "size": 150,
+       "x": 50,
+       "y": 54,
+       "at": 12
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Marruecos ya da por hecha la final, en el estadio Hassan II. Y la FIFA aún no ha decidido.",
+     "hide": [
+      "h3",
+      "st2",
+      "s2"
+     ],
+     "show": [
+      {
+       "id": "h4",
+       "type": "headline",
+       "text": "Quién *decide*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "s3",
+       "type": "sticker",
+       "text": "🇲🇦",
+       "size": 150,
+       "x": 50,
+       "y": 36,
+       "at": 0
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "text": "La FIFA: aún sin decidir",
+       "x": 50,
+       "y": 52,
+       "w": 880,
+       "at": 12,
+       "icon": "clock"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Retirarías a España del Mundial? Sí o no. Comenta y síguenos.",
+     "show": [
+      {
+       "id": "uE",
+       "type": "urni",
+       "x": 50,
+       "y": 34,
+       "w": 300,
+       "say": "¿Sí o no?",
+       "moods": [
+        {
+         "at": 0,
+         "m": "duda"
+        }
+       ],
+       "at": 0
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 54,
+       "rot": -4,
+       "at": 5
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "LO QUE HA DICHO",
+  "titulo": "Feijóo y el *Mundial*",
+  "mini": {
+   "texto": "Feijóo y el Mundial:",
+   "rojo": "¿FUERA?",
+   "cara": "feijoo",
+   "emoji": "⚽",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 128
+  }
+ }
+}

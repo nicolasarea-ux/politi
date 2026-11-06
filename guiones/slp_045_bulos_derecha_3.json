@@ -12,7 +12,7 @@
   "tag": "¿VERDAD O BULO? · 3/3",
   "source": "Fuente: verificaciones de Maldita.es (13-10, 19-10 y 29-10-2026)"
  },
- "caption": "Si gobierna la derecha… Última parte: las notas de Abascal, las pensiones y el IRPF. Lo que es falso y lo que necesita contexto. Mañana empezamos con los bulos sobre la izquierda.\n¿Cuál te sorprende más? Responde con el número 👇\n\nFuentes: Maldita.es — notas de EGB (13-10-2026), Figaredo y las pensiones (19-10-2026), recopilación del 29N (29-10-2026; programa de Vox no publicado a 23-10).\nFotos: Vox España (CC0, Wikimedia Commons)\n\n#elecciones #29N #bulos #desinformación #pensiones",
+ "caption": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la derecha… Última parte: las notas de Abascal, las pensiones y el IRPF. Lo que es falso y lo que necesita contexto. Mañana empezamos con los bulos sobre la izquierda.\nFuentes: Maldita.es — notas de EGB (13-10-2026), Figaredo y las pensiones (19-10-2026), recopilación del 29N (29-10-2026; programa de Vox no publicado a 23-10).\nFotos: Vox España (CC0, Wikimedia Commons)\n\n#elecciones #29N #bulos #desinformación #pensiones",
  "scenes": [
   {
    "clause": 0,
@@ -324,7 +324,7 @@
    "clause": 0,
    "segments": [
     {
-     "text": "Lo verificó Maldita. Mañana empieza la izquierda: parte uno. Síguenos.",
+     "text": "¿Te había llegado alguno? Sí o no. Mañana empieza la izquierda. Síguenos.",
      "show": [
       {
        "id": "n5",
@@ -347,7 +347,7 @@
          "m": "feliz"
         }
        ],
-       "say": "¡Síguenos!"
+       "say": "¿Sí o no?"
       },
       {
        "id": "fol",
