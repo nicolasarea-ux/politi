@@ -2,18 +2,18 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 2,
-  "media_count": 39,
+  "media_count": 40,
   "id": "29046307255021601"
  },
  "reels": [
   {
-   "id": "slp_053_trump_senado",
-   "ig": "18023667089941754",
-   "fecha": "2026-11-06T20:15:32+0000",
+   "id": "slp_052_netanyahu_mayoria",
+   "ig": "18037439429888090",
+   "fecha": "2026-11-06T21:45:47+0000",
    "likes": 0,
    "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfacQZjgRAj/",
-   "titulo": "Trump pierde el Senado: los demócratas recuperan el control ",
+   "url": "https://www.instagram.com/reel/DfamkgcGR0x/",
+   "titulo": "¿Se acaba la era Netanyahu? Su bloque se queda en 53 escaños",
    "views": 0,
    "reach": 0,
    "saved": 0,
@@ -23,26 +23,42 @@
    "ig_reels_video_view_total_time": 0
   },
   {
+   "id": "slp_053_trump_senado",
+   "ig": "18023667089941754",
+   "fecha": "2026-11-06T20:15:32+0000",
+   "likes": 1,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfacQZjgRAj/",
+   "titulo": "Trump pierde el Senado: los demócratas recuperan el control ",
+   "views": 38,
+   "reach": 33,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 1,
+   "ig_reels_avg_watch_time": 3454,
+   "ig_reels_video_view_total_time": 117448
+  },
+  {
    "id": "slp_045_bulos_derecha_3",
    "ig": "18107139938126147",
    "fecha": "2026-11-06T18:45:32+0000",
-   "likes": 0,
+   "likes": 1,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfaR9KLjj1O/",
    "titulo": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la derecha…",
-   "views": 100,
-   "reach": 79,
+   "views": 129,
+   "reach": 111,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 0,
-   "ig_reels_avg_watch_time": 8530,
-   "ig_reels_video_view_total_time": 665392
+   "total_interactions": 1,
+   "ig_reels_avg_watch_time": 8420,
+   "ig_reels_video_view_total_time": 943048
   },
   {
    "id": "slp_054_murcia_non_grata",
    "ig": "18116176523145344",
    "fecha": "2026-11-06T15:30:32+0000",
-   "likes": 0,
+   "likes": 1,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfZ7o0hmQm9/",
    "titulo": "La Asamblea de Murcia declara a Pedro Sánchez persona non gr",
@@ -50,15 +66,15 @@
    "reach": 111,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 0,
-   "ig_reels_avg_watch_time": 7389,
-   "ig_reels_video_view_total_time": 827635
+   "total_interactions": 1,
+   "ig_reels_avg_watch_time": 7331,
+   "ig_reels_video_view_total_time": 828465
   },
   {
    "id": "slp_056_sanchez_feijoo_koldo",
    "ig": "17912548902588935",
    "fecha": "2026-11-06T12:45:32+0000",
-   "likes": 3,
+   "likes": 4,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfZowZEHVRZ/",
    "titulo": "¿Debe Feijóo dar explicaciones? Sí o no 👇\n\nSánchez contra Fe",
@@ -66,9 +82,9 @@
    "reach": 143,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 3,
-   "ig_reels_avg_watch_time": 10774,
-   "ig_reels_video_view_total_time": 1540756
+   "total_interactions": 4,
+   "ig_reels_avg_watch_time": 10715,
+   "ig_reels_video_view_total_time": 1542998
   },
   {
    "id": "slp_048_smi_2027",
@@ -83,8 +99,8 @@
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 6118,
-   "ig_reels_video_view_total_time": 648535
+   "ig_reels_avg_watch_time": 6065,
+   "ig_reels_video_view_total_time": 648969
   },
   {
    "id": "slp_044_bulos_derecha_2",
