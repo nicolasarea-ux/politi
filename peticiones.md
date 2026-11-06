@@ -16,3 +16,6 @@ La rutina lee este archivo ANTES del radar y lo que diga aquí manda sobre el re
 
 ## 4-N (Nicks, 3-N noche)
 - PRIMERO en la pasada de las 10:31: vídeo de reacciones a la dimisión de Óscar Puente (slp_041_puente_reacciones): partidos en orden alfabético, frases literales con 2 fuentes, quién le sustituye si ya se sabe, formato animado con flashes, ≤ 40 s. Publícalo en cuanto esté (~10:50). Ojo: el Reel slp_036 (21:23 del 3-N) decía que no dimitía; si Nicks no lo ha borrado, recuérdaselo.
+
+## Desde el 6-N (datos)
+- El formato "X vs Y" con dos caras (slp_050 Sánchez vs Milei: 348 views, 281 de alcance, el único que salió del grupo de prueba) es prioridad: al menos 1 al día cuando haya un choque real entre dos personas (frases literales de ambos, 2 fuentes, mismo espacio para cada uno). Portada `mini` con `cara` + `cara2` (VS).
