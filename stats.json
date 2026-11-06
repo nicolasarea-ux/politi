@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 2,
-  "media_count": 38,
+  "media_count": 39,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_053_trump_senado",
+   "ig": "18023667089941754",
+   "fecha": "2026-11-06T20:15:32+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfacQZjgRAj/",
+   "titulo": "Trump pierde el Senado: los demócratas recuperan el control ",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
   {
    "id": "slp_045_bulos_derecha_3",
    "ig": "18107139938126147",
@@ -14,13 +30,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfaR9KLjj1O/",
    "titulo": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la derecha…",
-   "views": 0,
-   "reach": 0,
+   "views": 100,
+   "reach": 79,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 0,
-   "ig_reels_video_view_total_time": 0
+   "ig_reels_avg_watch_time": 8530,
+   "ig_reels_video_view_total_time": 665392
   },
   {
    "id": "slp_054_murcia_non_grata",
