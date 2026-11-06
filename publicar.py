@@ -2,7 +2,7 @@
 Lo ejecuta GitHub Actions cada 15 minutos. Variables de entorno: IG_TOKEN, IG_USER_ID.
 publicaciones.json = {"reels": [{"id": "...", "fecha": "YYYY-MM-DDTHH:MM" (Madrid), "estado": "pendiente|publicado|error", ...}]}
 """
-import json, os, sys, time, urllib.error, urllib.parse, urllib.request
+import json, time, os, sys, urllib.error, urllib.parse, urllib.request
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
@@ -78,12 +78,20 @@ def main():
     path = "publicaciones.json"
     data = json.load(open(path, encoding="utf-8"))
     ahora = datetime.now(TZ)
+    # GitHub lanza el cron cuando quiere (~1 vez por hora): si el siguiente Reel toca en menos de 70 min, espera aquí hasta su hora exacta
+    pend = sorted(datetime.fromisoformat(r["fecha"]).replace(tzinfo=TZ) for r in data["reels"] if r.get("estado") == "pendiente")
+    prox = next((t for t in pend if t > ahora), None)
+    if prox and not any(t <= ahora for t in pend) and prox - ahora < timedelta(minutes=70):
+        espera = (prox - ahora).total_seconds()
+        print(f"Esperando {espera/60:.0f} min hasta {prox:%H:%M}")
+        time.sleep(espera)
+        ahora = datetime.now(TZ)
     cambios = 0
     for r in sorted(data["reels"], key=lambda x: x["fecha"]):
         if r.get("estado") != "pendiente":
             continue
         t = datetime.fromisoformat(r["fecha"]).replace(tzinfo=TZ)
-        if t > ahora + timedelta(minutes=30):  # GitHub lanza el cron ~1 vez por hora: se adelanta hasta 30 min para no llegar 1 h tarde
+        if t > ahora + timedelta(minutes=2):  # la espera de arriba ya ajusta la hora
             continue
         if any(x.get("publicado_en") and ahora - datetime.fromisoformat(x["publicado_en"]).replace(tzinfo=TZ) < timedelta(minutes=45) for x in data["reels"]) or cambios >= 1:  # como mucho 1 Reel por pasada: si hubo un parón, no salen todos de golpe
             break
