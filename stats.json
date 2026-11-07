@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 2,
-  "media_count": 42,
+  "media_count": 43,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_049_bulos_izquierda_1",
+   "ig": "18135779767735267",
+   "fecha": "2026-11-07T18:45:32+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/Dfc2wEDALnH/",
+   "titulo": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la izquierd",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
   {
    "id": "slp_055_partidos_29n",
    "ig": "18109006675954711",
@@ -14,13 +30,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfcNleSHJwb/",
    "titulo": "Más de 50 partidos estarán en las papeletas del 29-N. Solo c",
-   "views": 163,
-   "reach": 138,
+   "views": 165,
+   "reach": 139,
    "saved": 1,
    "shares": 0,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 8040,
-   "ig_reels_video_view_total_time": 1101484
+   "ig_reels_avg_watch_time": 8140,
+   "ig_reels_video_view_total_time": 1123352
   },
   {
    "id": "slp_057_feijoo_mundial",
@@ -30,29 +46,29 @@
    "comentarios": 2,
    "url": "https://www.instagram.com/reel/DfbrSbUGRKG/",
    "titulo": "¿Retirarías a España del Mundial? Sí o no 👇\n\nFeijóo en El Ch",
-   "views": 135,
-   "reach": 117,
+   "views": 136,
+   "reach": 118,
    "saved": 0,
    "shares": 0,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 10463,
-   "ig_reels_video_view_total_time": 1255636
+   "ig_reels_avg_watch_time": 10395,
+   "ig_reels_video_view_total_time": 1257875
   },
   {
    "id": "slp_052_netanyahu_mayoria",
    "ig": "18037439429888090",
    "fecha": "2026-11-06T21:45:47+0000",
-   "likes": 2,
+   "likes": 5,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfamkgcGR0x/",
    "titulo": "¿Se acaba la era Netanyahu? Su bloque se queda en 53 escaños",
-   "views": 252,
-   "reach": 189,
+   "views": 290,
+   "reach": 224,
    "saved": 1,
    "shares": 0,
-   "total_interactions": 3,
-   "ig_reels_avg_watch_time": 40318,
-   "ig_reels_video_view_total_time": 7700788
+   "total_interactions": 6,
+   "ig_reels_avg_watch_time": 35669,
+   "ig_reels_video_view_total_time": 8096964
   },
   {
    "id": "slp_053_trump_senado",
@@ -78,13 +94,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfaR9KLjj1O/",
    "titulo": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la derecha…",
-   "views": 144,
-   "reach": 123,
+   "views": 145,
+   "reach": 124,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 8618,
-   "ig_reels_video_view_total_time": 1077313
+   "ig_reels_avg_watch_time": 8758,
+   "ig_reels_video_view_total_time": 1103521
   },
   {
    "id": "slp_054_murcia_non_grata",
