@@ -2,18 +2,18 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 2,
-  "media_count": 44,
+  "media_count": 45,
   "id": "29046307255021601"
  },
  "reels": [
   {
-   "id": "slp_059_abascal_broncano",
-   "ig": "18651757915028039",
-   "fecha": "2026-11-07T20:15:33+0000",
+   "id": "slp_060_colau_montero",
+   "ig": "18123091744943127",
+   "fecha": "2026-11-07T21:45:31+0000",
    "likes": 0,
    "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfdBDPXmR2z/",
-   "titulo": "¿Verás la entrevista? Sí o no 👇\n\nAbascal irá a La Revuelta e",
+   "url": "https://www.instagram.com/reel/DfdLWXvk622/",
+   "titulo": "¿Debieron ir juntas? Sí o no 👇\n\nColau y Montero: la candidat",
    "views": 0,
    "reach": 0,
    "saved": 0,
@@ -23,6 +23,22 @@
    "ig_reels_video_view_total_time": 0
   },
   {
+   "id": "slp_059_abascal_broncano",
+   "ig": "18651757915028039",
+   "fecha": "2026-11-07T20:15:33+0000",
+   "likes": 1,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfdBDPXmR2z/",
+   "titulo": "¿Verás la entrevista? Sí o no 👇\n\nAbascal irá a La Revuelta e",
+   "views": 136,
+   "reach": 114,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 1,
+   "ig_reels_avg_watch_time": 9781,
+   "ig_reels_video_view_total_time": 1134635
+  },
+  {
    "id": "slp_049_bulos_izquierda_1",
    "ig": "18135779767735267",
    "fecha": "2026-11-07T18:45:32+0000",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfc2wEDALnH/",
    "titulo": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la izquierd",
-   "views": 73,
-   "reach": 53,
+   "views": 127,
+   "reach": 105,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 11220,
-   "ig_reels_video_view_total_time": 594701
+   "ig_reels_avg_watch_time": 12344,
+   "ig_reels_video_view_total_time": 1320876
   },
   {
    "id": "slp_055_partidos_29n",
@@ -46,13 +62,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfcNleSHJwb/",
    "titulo": "Más de 50 partidos estarán en las papeletas del 29-N. Solo c",
-   "views": 174,
-   "reach": 145,
+   "views": 180,
+   "reach": 146,
    "saved": 1,
    "shares": 0,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 8137,
-   "ig_reels_video_view_total_time": 1171791
+   "ig_reels_avg_watch_time": 8404,
+   "ig_reels_video_view_total_time": 1218719
   },
   {
    "id": "slp_057_feijoo_mundial",
@@ -74,17 +90,17 @@
    "id": "slp_052_netanyahu_mayoria",
    "ig": "18037439429888090",
    "fecha": "2026-11-06T21:45:47+0000",
-   "likes": 10,
+   "likes": 13,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfamkgcGR0x/",
    "titulo": "¿Se acaba la era Netanyahu? Su bloque se queda en 53 escaños",
-   "views": 320,
-   "reach": 250,
+   "views": 376,
+   "reach": 296,
    "saved": 2,
    "shares": 0,
-   "total_interactions": 12,
-   "ig_reels_avg_watch_time": 33327,
-   "ig_reels_video_view_total_time": 8431910
+   "total_interactions": 15,
+   "ig_reels_avg_watch_time": 31181,
+   "ig_reels_video_view_total_time": 9323351
   },
   {
    "id": "slp_053_trump_senado",
