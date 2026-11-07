@@ -2,18 +2,18 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 2,
-  "media_count": 43,
+  "media_count": 44,
   "id": "29046307255021601"
  },
  "reels": [
   {
-   "id": "slp_049_bulos_izquierda_1",
-   "ig": "18135779767735267",
-   "fecha": "2026-11-07T18:45:32+0000",
+   "id": "slp_059_abascal_broncano",
+   "ig": "18651757915028039",
+   "fecha": "2026-11-07T20:15:33+0000",
    "likes": 0,
    "comentarios": 0,
-   "url": "https://www.instagram.com/reel/Dfc2wEDALnH/",
-   "titulo": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la izquierd",
+   "url": "https://www.instagram.com/reel/DfdBDPXmR2z/",
+   "titulo": "¿Verás la entrevista? Sí o no 👇\n\nAbascal irá a La Revuelta e",
    "views": 0,
    "reach": 0,
    "saved": 0,
@@ -23,6 +23,22 @@
    "ig_reels_video_view_total_time": 0
   },
   {
+   "id": "slp_049_bulos_izquierda_1",
+   "ig": "18135779767735267",
+   "fecha": "2026-11-07T18:45:32+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/Dfc2wEDALnH/",
+   "titulo": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la izquierd",
+   "views": 73,
+   "reach": 53,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 11220,
+   "ig_reels_video_view_total_time": 594701
+  },
+  {
    "id": "slp_055_partidos_29n",
    "ig": "18109006675954711",
    "fecha": "2026-11-07T12:45:48+0000",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfcNleSHJwb/",
    "titulo": "Más de 50 partidos estarán en las papeletas del 29-N. Solo c",
-   "views": 165,
-   "reach": 139,
+   "views": 174,
+   "reach": 145,
    "saved": 1,
    "shares": 0,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 8140,
-   "ig_reels_video_view_total_time": 1123352
+   "ig_reels_avg_watch_time": 8137,
+   "ig_reels_video_view_total_time": 1171791
   },
   {
    "id": "slp_057_feijoo_mundial",
@@ -46,29 +62,29 @@
    "comentarios": 2,
    "url": "https://www.instagram.com/reel/DfbrSbUGRKG/",
    "titulo": "¿Retirarías a España del Mundial? Sí o no 👇\n\nFeijóo en El Ch",
-   "views": 136,
-   "reach": 118,
+   "views": 139,
+   "reach": 119,
    "saved": 0,
    "shares": 0,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 10395,
-   "ig_reels_video_view_total_time": 1257875
+   "ig_reels_avg_watch_time": 10481,
+   "ig_reels_video_view_total_time": 1289193
   },
   {
    "id": "slp_052_netanyahu_mayoria",
    "ig": "18037439429888090",
    "fecha": "2026-11-06T21:45:47+0000",
-   "likes": 5,
+   "likes": 10,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfamkgcGR0x/",
    "titulo": "¿Se acaba la era Netanyahu? Su bloque se queda en 53 escaños",
-   "views": 290,
-   "reach": 224,
-   "saved": 1,
+   "views": 320,
+   "reach": 250,
+   "saved": 2,
    "shares": 0,
-   "total_interactions": 6,
-   "ig_reels_avg_watch_time": 35669,
-   "ig_reels_video_view_total_time": 8096964
+   "total_interactions": 12,
+   "ig_reels_avg_watch_time": 33327,
+   "ig_reels_video_view_total_time": 8431910
   },
   {
    "id": "slp_053_trump_senado",
