@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 2,
-  "media_count": 40,
+  "media_count": 41,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_057_feijoo_mundial",
+   "ig": "18133984075759889",
+   "fecha": "2026-11-07T07:46:17+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfbrSbUGRKG/",
+   "titulo": "¿Retirarías a España del Mundial? Sí o no 👇\n\nFeijóo en El Ch",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
   {
    "id": "slp_052_netanyahu_mayoria",
    "ig": "18037439429888090",
@@ -62,13 +78,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfZ7o0hmQm9/",
    "titulo": "La Asamblea de Murcia declara a Pedro Sánchez persona non gr",
-   "views": 139,
-   "reach": 111,
+   "views": 140,
+   "reach": 112,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 7331,
-   "ig_reels_video_view_total_time": 828465
+   "ig_reels_avg_watch_time": 7278,
+   "ig_reels_video_view_total_time": 829750
   },
   {
    "id": "slp_056_sanchez_feijoo_koldo",
