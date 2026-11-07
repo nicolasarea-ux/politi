@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 2,
-  "media_count": 41,
+  "media_count": 42,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_055_partidos_29n",
+   "ig": "18109006675954711",
+   "fecha": "2026-11-07T12:45:48+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfcNleSHJwb/",
+   "titulo": "Más de 50 partidos estarán en las papeletas del 29-N. Solo c",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
   {
    "id": "slp_057_feijoo_mundial",
    "ig": "18133984075759889",
@@ -15,12 +31,12 @@
    "url": "https://www.instagram.com/reel/DfbrSbUGRKG/",
    "titulo": "¿Retirarías a España del Mundial? Sí o no 👇\n\nFeijóo en El Ch",
    "views": 135,
-   "reach": 116,
+   "reach": 117,
    "saved": 0,
    "shares": 0,
    "total_interactions": 3,
-   "ig_reels_avg_watch_time": 10510,
-   "ig_reels_video_view_total_time": 1240225
+   "ig_reels_avg_watch_time": 10450,
+   "ig_reels_video_view_total_time": 1243657
   },
   {
    "id": "slp_052_netanyahu_mayoria",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfamkgcGR0x/",
    "titulo": "¿Se acaba la era Netanyahu? Su bloque se queda en 53 escaños",
-   "views": 158,
-   "reach": 124,
+   "views": 188,
+   "reach": 141,
    "saved": 1,
    "shares": 0,
    "total_interactions": 3,
-   "ig_reels_avg_watch_time": 54357,
-   "ig_reels_video_view_total_time": 6794747
+   "ig_reels_avg_watch_time": 49618,
+   "ig_reels_video_view_total_time": 7045771
   },
   {
    "id": "slp_053_trump_senado",
@@ -62,13 +78,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfaR9KLjj1O/",
    "titulo": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la derecha…",
-   "views": 135,
-   "reach": 115,
+   "views": 137,
+   "reach": 117,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 8384,
-   "ig_reels_video_view_total_time": 980939
+   "ig_reels_avg_watch_time": 8523,
+   "ig_reels_video_view_total_time": 1014315
   },
   {
    "id": "slp_054_murcia_non_grata",
@@ -78,13 +94,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfZ7o0hmQm9/",
    "titulo": "La Asamblea de Murcia declara a Pedro Sánchez persona non gr",
-   "views": 143,
-   "reach": 113,
+   "views": 144,
+   "reach": 114,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 7545,
-   "ig_reels_video_view_total_time": 875228
+   "ig_reels_avg_watch_time": 7486,
+   "ig_reels_video_view_total_time": 875942
   },
   {
    "id": "slp_056_sanchez_feijoo_koldo",
