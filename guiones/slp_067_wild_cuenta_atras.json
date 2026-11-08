@@ -1,0 +1,255 @@
+{
+ "id": "slp_067_wild_cuenta_atras",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "MAÑANA",
+  "LAS REGLAS",
+  "LO QUE AVISA"
+ ],
+ "header": {
+  "tag": "CUENTA ATRÁS · THE WILD PROJECT",
+  "source": "Fuentes: Periodista Digital · ActualTV · Bilbao Hiria"
+ },
+ "caption": "¿Las verás enteras? Sí o no 👇\n\nMañana, 13-N, Jordi Wild publica en The Wild Project sus entrevistas a Abascal, Colau, Feijóo y Sánchez. Reglas: sin preguntas pactadas, sin cortes y con dos verificadores. Las cubrimos las cuatro.\n\nFuentes: Periodista Digital (2-11), ActualTV y Bilbao Hiria (24-10-2026). La frase de Wild, en Bilbao Hiria.\nFotos: Vox España (CC0), Laura Guerrero (CC BY 4.0), European People's Party (CC BY 2.0) y Vlada Republike Slovenije (dominio público), Wikimedia Commons.\n\n#JordiWild #TheWildProject #elecciones #29N #eleccionesgenerales",
+ "nota": "REVISAR el 12-N antes de poner voz: que la fecha (13-N) y las reglas siguen igual.",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Mañana, cuatro candidatos se sientan con Jordi Wild. Sin preguntas pactadas.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Cuenta atrás: *Wild*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "k1",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 360,
+       "w": 340,
+       "x": 27,
+       "y": 38,
+       "at": 0,
+       "keep": 1,
+       "label": "Abascal",
+       "from": "left"
+      },
+      {
+       "id": "k2",
+       "type": "cara",
+       "foto": "colau",
+       "h": 360,
+       "w": 340,
+       "x": 73,
+       "y": 38,
+       "at": 0,
+       "keep": 1,
+       "label": "Colau",
+       "from": "right"
+      },
+      {
+       "id": "k3",
+       "type": "cara",
+       "foto": "feijoo",
+       "h": 360,
+       "w": 340,
+       "x": 27,
+       "y": 60,
+       "at": 0,
+       "keep": 1,
+       "label": "Feijóo",
+       "from": "left"
+      },
+      {
+       "id": "k4",
+       "type": "cara",
+       "foto": "sanchez",
+       "h": 360,
+       "w": 340,
+       "x": 73,
+       "y": 60,
+       "at": 0,
+       "keep": 1,
+       "label": "Sánchez",
+       "from": "right"
+      },
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "MAÑANA",
+       "bg": "red",
+       "size": 120,
+       "x": 50,
+       "y": 49,
+       "at": 0,
+       "dur": 1.8
+      }
+     ]
+    },
+    {
+     "text": "Salen el 13,|trece, el primer día de campaña, con una hora entre una y otra.",
+     "show": [
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "{13} de noviembre",
+       "x": 50,
+       "y": 76,
+       "w": 760,
+       "at": 2,
+       "icon": "calendar"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "De sesenta a noventa minutos cada una, sin cortes, y con dos verificadores.",
+     "hide": [
+      "k1",
+      "k2",
+      "k3",
+      "k4",
+      "h1",
+      "c1"
+     ],
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "Las *reglas*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "Sin preguntas pactadas",
+       "x": 50,
+       "y": 34,
+       "w": 860,
+       "at": 0,
+       "icon": "question"
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "Sin cortes",
+       "x": 50,
+       "y": 46,
+       "w": 860,
+       "at": 6,
+       "icon": "clock"
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "text": "{2} verificadores",
+       "x": 50,
+       "y": 58,
+       "w": 860,
+       "at": 9,
+       "icon": "doc"
+      }
+     ]
+    },
+    {
+     "text": "Y Wild avisa, según Bilbao Hiria: «Iré a temas delicados y jodidos para ellos».",
+     "hide": [
+      "c2",
+      "c3",
+      "c4"
+     ],
+     "show": [
+      {
+       "id": "f2",
+       "type": "flash",
+       "text": "«TEMAS DELICADOS»",
+       "bg": "ink",
+       "size": 86,
+       "x": 50,
+       "y": 44,
+       "at": 5,
+       "dur": 2.0
+      },
+      {
+       "id": "s2",
+       "type": "sticker",
+       "text": "🎙️",
+       "x": 80,
+       "y": 32,
+       "at": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Las verás enteras? Sí o no. Síguenos: mañana te contamos las frases más fuertes de las cuatro.",
+     "hide": [
+      "h2",
+      "f2",
+      "s2"
+     ],
+     "show": [
+      {
+       "id": "uE",
+       "type": "urni",
+       "x": 50,
+       "y": 34,
+       "w": 300,
+       "say": "¿Sí o no?",
+       "moods": [
+        {
+         "at": 0,
+         "m": "sorpresa"
+        }
+       ],
+       "at": 0
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 54,
+       "rot": -4,
+       "at": 8
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "CUENTA ATRÁS",
+  "titulo": "Wild: *4 candidatos*",
+  "mini": {
+   "texto": "Jordi Wild, mañana:",
+   "rojo": "4 CANDIDATOS",
+   "cara": "feijoo",
+   "cara2": "sanchez",
+   "emoji": "🎙️",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 118
+  }
+ }
+}

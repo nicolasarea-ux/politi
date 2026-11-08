@@ -884,6 +884,35 @@
    "estado": "pendiente",
    "nota": "Guion hecho; falta la voz (ordenador desconectado el 8-N a las ~14:40). Hacer en la pasada del 9-N para 9-N 19:45 (sustituye a slp_023, relleno).",
    "copy": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la izquierda… Parte 3/3 (última): el senador del PP que «pide el voto para Sánchez», la mujer que «se irá si gana Vox» y la «privatización» de las pensiones.\n\nFuente: Maldita.es — bulos y contexto sobre las elecciones del 29-N (actualizada el 6-11-2026).\n\n#elecciones #29N #bulos #desinformación #verificación"
+  },
+  {
+   "id": "slp_066_abascal_revuelta_publico",
+   "tipo": "actualidad",
+   "formato": "vs",
+   "portada_estilo": "mini",
+   "partidos": [
+    "Vox"
+   ],
+   "estado": "pendiente",
+   "fecha": "2026-11-09T13:45",
+   "nota": "Petición de Nicks (8-N). Guion hecho; SIN VOZ (ordenador desconectado el 8-N). La pasada del 9-N: voz + render y sustituir a slp_025 (relleno) en 9-N 13:45; slp_025 vuelve a reserva. Antes, mirar si RTVE/El Terrat/Vox han confirmado algo y actualizar.",
+   "copy": "¿Debería haber público normal? Sí o no 👇\n\nAbascal va hoy a La Revuelta, pero la grabación cambia de público. Qué está confirmado y qué no.\n\nConfirmado: Broncano lo anunció el 5-11. El email de El Terrat lo publicó Público (recogido por ¡Hola! y Demócrata, 6 y 7-11). Que Vox pidiera su propio público es lo que cuenta La Séptima (vía Demócrata); ni RTVE, ni El Terrat, ni Vox lo han confirmado. La audiencia de Sánchez: The Objective (3-11).\nFotos: Vox España (CC0) y Pedro J Pacheco (CC BY-SA 4.0), Wikimedia Commons.\n\n#Abascal #Broncano #LaRevuelta #elecciones #29N"
+  },
+  {
+   "id": "slp_067_wild_cuenta_atras",
+   "tipo": "actualidad",
+   "formato": "vs",
+   "portada_estilo": "mini",
+   "partidos": [
+    "PP",
+    "PSOE",
+    "Vox",
+    "Frente Amplio"
+   ],
+   "estado": "pendiente",
+   "fecha": "2026-11-12T13:45",
+   "nota": "Petición de Nicks (8-N): cuenta atrás Wild para el 12-N. Guion hecho, SIN VOZ. Comprobar fecha y reglas el 11/12-N antes de grabar.",
+   "copy": "¿Las verás enteras? Sí o no 👇\n\nMañana, 13-N, Jordi Wild publica en The Wild Project sus entrevistas a Abascal, Colau, Feijóo y Sánchez. Reglas: sin preguntas pactadas, sin cortes y con dos verificadores. Las cubrimos las cuatro.\n\nFuentes: Periodista Digital (2-11), ActualTV y Bilbao Hiria (24-10-2026). La frase de Wild, en Bilbao Hiria.\nFotos: Vox España (CC0), Laura Guerrero (CC BY 4.0), European People's Party (CC BY 2.0) y Vlada Republike Slovenije (dominio público), Wikimedia Commons.\n\n#JordiWild #TheWildProject #elecciones #29N #eleccionesgenerales"
   }
  ]
 }

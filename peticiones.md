@@ -23,3 +23,10 @@ La rutina lee este archivo ANTES del radar y lo que diga aquí manda sobre el re
 ## 6-N (Nicks, 10:25): aplicar el PLAN DE CRECIMIENTO de INSTRUCCIONES.md
 - Hoy quedan huecos a las 21:15 y 22:45, y mañana a las 13:45, 21:15 y 22:45: llénalos con PERSONAS/CHOQUES del radar (al menos un "X vs Y" hoy y otro mañana). Explicativos: solo dónde voto (hoy) y mesas (mañana).
 - Cambia la pregunta final de bulos 3/3 y bulos izquierda 1/3 a una de sí/no si no lo es.
+
+## 8-N (Nicks, pasada a mano de las 14:30)
+- **Lunes 9-N ~13:45: VS Abascal–Broncano sobre el público de La Revuelta** (guion `slp_066_abascal_revuelta_publico`, sin voz por el ordenador desconectado). Dejar claro qué está confirmado (Broncano lo anunció; email de El Terrat publicado por Público: «condiciones distintas de calendario y de público») y qué no (según La Séptima, Vox pidió su propio público o uno mixto y RTVE lo rechazó; ni RTVE, ni El Terrat, ni Vox lo han confirmado). Sustituye al relleno slp_025 de las 13:45. Revisar si hay novedades antes de grabar.
+- **Martes 10-N: si hay frases del programa de Abascal en La Revuelta, otro vídeo** (frases literales con 2 fuentes, VS Abascal–Broncano). Ojo: la pasada es a las 10:31, así que la primera franja posible es 13:45 (sustituye a slp_017 Senado, relleno).
+- **Miércoles 12-N: cuenta atrás de las entrevistas de Jordi Wild** (guion `slp_067_wild_cuenta_atras`, sin voz; comprobar fecha y reglas antes).
+- **13-N y 14-N: cubrir cada entrevista de The Wild Project (Abascal, Colau, Feijóo, Sánchez)** con las frases más fuertes, literales y con enlace al vídeo: un vídeo por entrevista («¿Qué ha dicho X en The Wild Project?») más uno comparando lo que dijo cada uno sobre el mismo tema. Mismo trato para los cuatro. El 13-N es día pico (10 vídeos).
+- Datos: Colau vs Montero (slp_060) es el récord (1.390 views, 1.157 de alcance, 16,7 s); Netanyahu 388 y 30 s. Repetir el formato VS/choque.
