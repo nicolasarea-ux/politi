@@ -2,18 +2,18 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 2,
-  "media_count": 49,
+  "media_count": 50,
   "id": "29046307255021601"
  },
  "reels": [
   {
-   "id": "slp_069_cracovia_atacante",
-   "ig": "18117008969182592",
-   "fecha": "2026-11-08T17:30:32+0000",
+   "id": "slp_061_bulos_izquierda_2",
+   "ig": "17943224364363384",
+   "fecha": "2026-11-08T18:45:47+0000",
    "likes": 0,
    "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DffS9nRj-IS/",
-   "titulo": "Cracovia: lo que se sabe del atacante (cámara para grabarse,",
+   "url": "https://www.instagram.com/reel/Dffbi9LDxJ_/",
+   "titulo": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la izquierd",
    "views": 0,
    "reach": 0,
    "saved": 0,
@@ -23,6 +23,22 @@
    "ig_reels_video_view_total_time": 0
   },
   {
+   "id": "slp_069_cracovia_atacante",
+   "ig": "18117008969182592",
+   "fecha": "2026-11-08T17:30:32+0000",
+   "likes": 1,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DffS9nRj-IS/",
+   "titulo": "Cracovia: lo que se sabe del atacante (cámara para grabarse,",
+   "views": 31,
+   "reach": 17,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 1,
+   "ig_reels_avg_watch_time": 9837,
+   "ig_reels_video_view_total_time": 177071
+  },
+  {
    "id": "slp_068_cracovia",
    "ig": "18119916221009437",
    "fecha": "2026-11-08T15:30:32+0000",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DffFOw6AAb1/",
    "titulo": "Tiroteo en la plaza del Mercado de Cracovia: al menos 9 muer",
-   "views": 127,
-   "reach": 107,
+   "views": 132,
+   "reach": 121,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 3947,
-   "ig_reels_video_view_total_time": 426297
+   "ig_reels_avg_watch_time": 3793,
+   "ig_reels_video_view_total_time": 474183
   },
   {
    "id": "slp_058_montero_armas",
@@ -51,8 +67,8 @@
    "saved": 1,
    "shares": 0,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 9115,
-   "ig_reels_video_view_total_time": 1048278
+   "ig_reels_avg_watch_time": 9046,
+   "ig_reels_video_view_total_time": 1049336
   },
   {
    "id": "slp_031_mesas_excusas",
@@ -78,13 +94,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfdLWXvk622/",
    "titulo": "¿Debieron ir juntas? Sí o no 👇\n\nColau y Montero: la candidat",
-   "views": 1394,
-   "reach": 1161,
+   "views": 1395,
+   "reach": 1163,
    "saved": 3,
    "shares": 0,
    "total_interactions": 14,
-   "ig_reels_avg_watch_time": 16671,
-   "ig_reels_video_view_total_time": 19272706
+   "ig_reels_avg_watch_time": 16644,
+   "ig_reels_video_view_total_time": 19273918
   },
   {
    "id": "slp_059_abascal_broncano",
@@ -110,13 +126,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfc2wEDALnH/",
    "titulo": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la izquierd",
-   "views": 231,
-   "reach": 197,
+   "views": 285,
+   "reach": 248,
    "saved": 0,
    "shares": 0,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 12226,
-   "ig_reels_video_view_total_time": 2408557
+   "ig_reels_avg_watch_time": 12220,
+   "ig_reels_video_view_total_time": 3079611
   },
   {
    "id": "slp_055_partidos_29n",
