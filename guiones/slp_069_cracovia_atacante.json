@@ -1,0 +1,217 @@
+{
+ "id": "slp_069_cracovia_atacante",
+ "brand": "Politízate Hoy",
+ "tono": "serio",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL ATACANTE",
+  "LO QUE LLEVABA",
+  "LO QUE NO SE SABE"
+ ],
+ "header": {
+  "tag": "POLONIA · DOM 8 NOV",
+  "source": "Fuentes: El Español · CNN · CBS · Euronews · PBS (7-11)"
+ },
+ "caption": "Cracovia: lo que se sabe del atacante (cámara para grabarse, chaleco antibalas y un coche lleno de armas) y lo que aún no. Sin nombres ni imágenes del autor.\n¿Debería Europa endurecer el control de armas? Sí o no 👇\n\nFuentes: El Español (citando a la prensa polaca y al ministro del Interior), CNN, CBS News y Euronews (7-11).\n\n#Cracovia #Polonia #Europa #internacional",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Cracovia: lo que se sabe del atacante. Y lo que no.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "El *atacante*",
+       "x": 50,
+       "y": 21,
+       "w": 920
+      },
+      {
+       "id": "i1",
+       "type": "icon",
+       "icon": "user",
+       "x": 50,
+       "y": 40,
+       "w": 200,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Un ciudadano polaco. Disparó desde su coche y, al huir, contra la policía. Dos agentes heridos.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "El *ataque*",
+       "x": 50,
+       "y": 21,
+       "w": 920
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "Ciudadano polaco",
+       "x": 50,
+       "y": 33,
+       "w": 680,
+       "at": 2,
+       "icon": "user"
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "Disparó también a la policía",
+       "x": 50,
+       "y": 42,
+       "w": 860,
+       "at": 9,
+       "icon": "phone"
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "{2} agentes heridos",
+       "x": 50,
+       "y": 51,
+       "w": 600,
+       "at": 15
+      }
+     ],
+     "hide": [
+      "i1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Según la prensa polaca, llevaba una cámara para grabarse, chaleco antibalas, y muchas armas en el coche.",
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "Lo que *llevaba*",
+       "x": 50,
+       "y": 21,
+       "w": 920
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "text": "Cámara para grabarse",
+       "x": 50,
+       "y": 33,
+       "w": 760,
+       "at": 8,
+       "icon": "laptop"
+      },
+      {
+       "id": "c5",
+       "type": "card",
+       "text": "Chaleco antibalas",
+       "x": 50,
+       "y": 42,
+       "w": 760,
+       "at": 11,
+       "icon": "user"
+      },
+      {
+       "id": "c6",
+       "type": "card",
+       "text": "Armas en el coche",
+       "x": 50,
+       "y": 51,
+       "w": 760,
+       "at": 15,
+       "icon": "doc"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Lo que no se sabe: por qué lo hizo exactamente, y si Polonia lo tratará como terrorismo. Por ahora, no lo ha hecho.",
+     "show": [
+      {
+       "id": "h4",
+       "type": "headline",
+       "text": "Lo que *no* se sabe",
+       "x": 50,
+       "y": 21,
+       "w": 920
+      },
+      {
+       "id": "c7",
+       "type": "card",
+       "text": "¿Motivo exacto?",
+       "x": 50,
+       "y": 34,
+       "w": 620,
+       "at": 6,
+       "icon": "question"
+      },
+      {
+       "id": "c8",
+       "type": "card",
+       "text": "¿Terrorismo? Aún no",
+       "x": 50,
+       "y": 43,
+       "w": 720,
+       "at": 14,
+       "icon": "ley"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Debería Europa endurecer el control de armas? Sí o no.",
+     "show": [
+      {
+       "id": "s9",
+       "type": "stamp",
+       "text": "¿SÍ O NO?",
+       "color": "ink",
+       "x": 50,
+       "y": 32,
+       "rot": -3,
+       "at": 4
+      },
+      {
+       "id": "logo",
+       "type": "logo",
+       "x": 50,
+       "y": 46,
+       "w": 340,
+       "at": 8
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "POLONIA",
+  "titulo": "Cracovia: *el atacante*",
+  "estilo": "v2",
+  "grande": "?",
+  "sub": "Lo que se sabe y lo que no"
+ }
+}

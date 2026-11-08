@@ -913,6 +913,30 @@
    "fecha": "2026-11-12T13:45",
    "nota": "Petición de Nicks (8-N): cuenta atrás Wild para el 12-N. Guion hecho, SIN VOZ. Comprobar fecha y reglas el 11/12-N antes de grabar.",
    "copy": "¿Las verás enteras? Sí o no 👇\n\nMañana, 13-N, Jordi Wild publica en The Wild Project sus entrevistas a Abascal, Colau, Feijóo y Sánchez. Reglas: sin preguntas pactadas, sin cortes y con dos verificadores. Las cubrimos las cuatro.\n\nFuentes: Periodista Digital (2-11), ActualTV y Bilbao Hiria (24-10-2026). La frase de Wild, en Bilbao Hiria.\nFotos: Vox España (CC0), Laura Guerrero (CC BY 4.0), European People's Party (CC BY 2.0) y Vlada Republike Slovenije (dominio público), Wikimedia Commons.\n\n#JordiWild #TheWildProject #elecciones #29N #eleccionesgenerales"
+  },
+  {
+   "id": "slp_068_cracovia",
+   "tipo": "actualidad",
+   "formato": "noticia",
+   "portada_estilo": "v2",
+   "partidos": [],
+   "estado": "programado",
+   "fecha": "2026-11-08T16:30",
+   "fecha_reels": "2026-11-08T16:30",
+   "nota": "Petición de Nicks (8-N): atentado de Cracovia, tono serio",
+   "copy": "Tiroteo en la plaza del Mercado de Cracovia: al menos 9 muertos, 15 heridos y un atacante polaco que, según el Gobierno, estaba «fascinado con la ideología de la extrema derecha». Lo que se sabe. Todo nuestro cariño a las víctimas.\n\nFuentes: El Español, CNN, CBS News, Euronews y PBS (7-11). Cifras provisionales.\n\n#Cracovia #Polonia #Europa #internacional"
+  },
+  {
+   "id": "slp_069_cracovia_atacante",
+   "tipo": "actualidad",
+   "formato": "noticia",
+   "portada_estilo": "v2",
+   "partidos": [],
+   "estado": "programado",
+   "fecha": "2026-11-08T18:30",
+   "fecha_reels": "2026-11-08T18:30",
+   "nota": "Petición de Nicks (8-N): atentado de Cracovia, tono serio",
+   "copy": "Cracovia: lo que se sabe del atacante (cámara para grabarse, chaleco antibalas y un coche lleno de armas) y lo que aún no. Sin nombres ni imágenes del autor.\n¿Debería Europa endurecer el control de armas? Sí o no 👇\n\nFuentes: El Español (citando a la prensa polaca y al ministro del Interior), CNN, CBS News y Euronews (7-11).\n\n#Cracovia #Polonia #Europa #internacional"
   }
  ]
 }
