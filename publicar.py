@@ -14,6 +14,17 @@ TOKEN = os.environ["IG_TOKEN"]
 USER = os.environ["IG_USER_ID"]
 
 
+# Línea "sígueme" que se añade al final del copy (cambiar tras el 14-N; vacío = nada)
+CTA = "👉 Síguenos: el 13-N te contamos las 4 entrevistas de Jordi Wild."
+
+def con_cta(c):
+    if not CTA or CTA in c:
+        return c
+    partes = c.rstrip().split("\n\n")
+    if len(partes) > 1 and partes[-1].lstrip().startswith("#"):
+        return "\n\n".join(partes[:-1] + [CTA, partes[-1]])
+    return c.rstrip() + "\n\n" + CTA
+
 def call(method, path, **params):
     params["access_token"] = TOKEN
     data = urllib.parse.urlencode(params).encode()
@@ -53,7 +64,7 @@ def publicar(reel):
     except Exception:
         extra["thumb_offset"] = 1000
     c = call("POST", f"{USER}/media", media_type="REELS", video_url=REPO_RAW + reel["id"] + ".mp4",
-             caption=reel.get("copy") or CAPTION, share_to_feed="true", **extra)
+             caption=con_cta(reel.get("copy") or CAPTION), share_to_feed="true", **extra)
     cid = c["id"]
     for _ in range(40):  # hasta ~10 min procesando
         st = call("GET", cid, fields="status_code")["status_code"]

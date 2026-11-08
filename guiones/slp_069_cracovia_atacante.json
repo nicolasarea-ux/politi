@@ -213,5 +213,6 @@
   "estilo": "v2",
   "grande": "?",
   "sub": "Lo que se sabe y lo que no"
- }
+ },
+ "follow": false
 }

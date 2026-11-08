@@ -212,5 +212,6 @@
   "estilo": "v2",
   "grande": "9",
   "sub": "muertos, según datos provisionales"
- }
+ },
+ "follow": false
 }
