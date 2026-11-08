@@ -2,25 +2,41 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 2,
-  "media_count": 45,
+  "media_count": 46,
   "id": "29046307255021601"
  },
  "reels": [
   {
+   "id": "slp_031_mesas_excusas",
+   "ig": "18354172957266824",
+   "fecha": "2026-11-08T07:46:01+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfeQDr1jUdM/",
+   "titulo": "Te ha tocado mesa: las excusas que te libran, las que depend",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
+  {
    "id": "slp_060_colau_montero",
    "ig": "18123091744943127",
    "fecha": "2026-11-07T21:45:31+0000",
-   "likes": 3,
+   "likes": 9,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfdLWXvk622/",
    "titulo": "¿Debieron ir juntas? Sí o no 👇\n\nColau y Montero: la candidat",
-   "views": 750,
-   "reach": 590,
+   "views": 1301,
+   "reach": 976,
    "saved": 2,
    "shares": 0,
-   "total_interactions": 5,
-   "ig_reels_avg_watch_time": 12270,
-   "ig_reels_video_view_total_time": 7178277
+   "total_interactions": 11,
+   "ig_reels_avg_watch_time": 15954,
+   "ig_reels_video_view_total_time": 15443529
   },
   {
    "id": "slp_059_abascal_broncano",
@@ -46,13 +62,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfc2wEDALnH/",
    "titulo": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la izquierd",
-   "views": 139,
-   "reach": 117,
+   "views": 142,
+   "reach": 119,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 11817,
-   "ig_reels_video_view_total_time": 1394463
+   "ig_reels_avg_watch_time": 11655,
+   "ig_reels_video_view_total_time": 1398684
   },
   {
    "id": "slp_055_partidos_29n",
@@ -62,13 +78,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfcNleSHJwb/",
    "titulo": "Más de 50 partidos estarán en las papeletas del 29-N. Solo c",
-   "views": 240,
-   "reach": 189,
+   "views": 256,
+   "reach": 203,
    "saved": 1,
    "shares": 0,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 8868,
-   "ig_reels_video_view_total_time": 1685032
+   "ig_reels_avg_watch_time": 8776,
+   "ig_reels_video_view_total_time": 1790439
   },
   {
    "id": "slp_057_feijoo_mundial",
