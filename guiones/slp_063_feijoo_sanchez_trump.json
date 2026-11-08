@@ -1,0 +1,278 @@
+{
+ "id": "slp_063_feijoo_sanchez_trump",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "MÁLAGA",
+  "BILBAO",
+  "EL CRUCE"
+ ],
+ "header": {
+  "tag": "VS · TRUMP, TRENES Y TRISTEZA",
+  "source": "Fuentes: EFE · El Español · elDiario · The Objective"
+ },
+ "caption": "¿Quién gana el cruce: Feijóo o Sánchez? 👇\n\nDomingo de mítines: Feijóo en Málaga pide mirar menos a Trump y más a los trenes; Sánchez en Bilbao le acusa de «tragar con todo» y se burla: «No es más triste porque no quiere».\n\nFuentes: El Español y elDiario.es (Feijóo en Málaga, 8-11-2026); EFE vía Infobae y The Objective (Sánchez en Bilbao, 8-11-2026).\nFotos: European People's Party (CC BY 2.0) y Vlada Republike Slovenije (dominio público), Wikimedia Commons.\n\n#elecciones #29N #eleccionesgenerales #Feijóo #Sánchez",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "«Menos mirar a Trump y más a los trenes». Feijóo, hoy en Málaga.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Feijóo vs *Sánchez*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kF",
+       "type": "cara",
+       "foto": "feijoo",
+       "h": 560,
+       "w": 500,
+       "x": 27,
+       "y": 48,
+       "at": 0,
+       "from": "left",
+       "tilt": 3,
+       "label": "Feijóo",
+       "keep": 1
+      },
+      {
+       "id": "kS",
+       "type": "cara",
+       "foto": "sanchez",
+       "h": 560,
+       "w": 500,
+       "x": 73,
+       "y": 48,
+       "at": 0,
+       "from": "right",
+       "tilt": -3,
+       "label": "Sánchez",
+       "keep": 1
+      },
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "«MÁS A LOS TRENES»",
+       "bg": "red",
+       "size": 80,
+       "x": 50,
+       "y": 62,
+       "at": 0,
+       "dur": 2.2
+      },
+      {
+       "id": "s0",
+       "type": "sticker",
+       "text": "🚆",
+       "x": 50,
+       "y": 76,
+       "at": 9
+      }
+     ]
+    },
+    {
+     "text": "Y a los directivos de Adif, por sus primas: «Si tienen un ápice de dignidad, que las devuelvan».",
+     "hide": [
+      "kS",
+      "h1",
+      "s0"
+     ],
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "Las primas de *Adif*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "«Que las devuelvan»",
+       "x": 50,
+       "y": 64,
+       "w": 820,
+       "at": 13
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Sánchez, en Bilbao: «¿Estos se van a atrever a decirle a Trump que no al cinco por ciento del PIB?»|pe_i_be?»",
+     "hide": [
+      "kF",
+      "h2",
+      "c2"
+     ],
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "La respuesta de *Sánchez*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kS2",
+       "type": "cara",
+       "foto": "sanchez",
+       "h": 520,
+       "w": 500,
+       "x": 50,
+       "y": 45,
+       "at": 0,
+       "keep": 1
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "Trump: el {5} % del PIB",
+       "x": 50,
+       "y": 64,
+       "w": 820,
+       "at": 9
+      },
+      {
+       "id": "f3",
+       "type": "flash",
+       "text": "«TRAGAN CON TODO»",
+       "bg": "ink",
+       "size": 84,
+       "x": 50,
+       "y": 40,
+       "at": 15,
+       "dur": 1.2
+      }
+     ]
+    },
+    {
+     "text": "Y de Feijóo: «No es más triste porque no quiere».",
+     "hide": [
+      "c3"
+     ],
+     "show": [
+      {
+       "id": "f4",
+       "type": "flash",
+       "text": "«NO ES MÁS TRISTE…»",
+       "bg": "red",
+       "size": 80,
+       "x": 50,
+       "y": 66,
+       "at": 2,
+       "dur": 1.8
+      },
+      {
+       "id": "s4",
+       "type": "sticker",
+       "text": "😐",
+       "x": 82,
+       "y": 32,
+       "at": 5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Quién gana el cruce: Feijóo o Sánchez? Comenta y síguenos.",
+     "hide": [
+      "kS2",
+      "h3",
+      "f4",
+      "s4"
+     ],
+     "show": [
+      {
+       "id": "kF3",
+       "type": "cara",
+       "foto": "feijoo",
+       "h": 420,
+       "w": 420,
+       "x": 27,
+       "y": 40,
+       "at": 0,
+       "from": "left",
+       "tilt": 3,
+       "keep": 1
+      },
+      {
+       "id": "kS3",
+       "type": "cara",
+       "foto": "sanchez",
+       "h": 420,
+       "w": 420,
+       "x": 73,
+       "y": 40,
+       "at": 0,
+       "from": "right",
+       "tilt": -3,
+       "keep": 1
+      },
+      {
+       "id": "pE",
+       "type": "poll",
+       "noPct": true,
+       "x": 50,
+       "y": 62,
+       "w": 820,
+       "at": 1,
+       "opts": [
+        {
+         "t": "FEIJÓO",
+         "v": 0
+        },
+        {
+         "t": "SÁNCHEZ",
+         "v": 0
+        }
+       ],
+       "reveal": 999
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 76,
+       "rot": -4,
+       "at": 7
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "VS",
+  "titulo": "Feijóo vs *Sánchez*",
+  "mini": {
+   "texto": "Feijóo y Sánchez:",
+   "rojo": "TRUMP",
+   "cara": "feijoo",
+   "cara2": "sanchez",
+   "emoji": "🚆",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 128
+  }
+ }
+}
