@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 2,
-  "media_count": 46,
+  "media_count": 47,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_058_montero_armas",
+   "ig": "18001136283013098",
+   "fecha": "2026-11-08T12:45:32+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfeyWDmHEoT/",
+   "titulo": "¿Menos gasto militar para esto? Sí o no 👇\n\nIrene Montero en ",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
   {
    "id": "slp_031_mesas_excusas",
    "ig": "18354172957266824",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfdLWXvk622/",
    "titulo": "¿Debieron ir juntas? Sí o no 👇\n\nColau y Montero: la candidat",
-   "views": 1381,
-   "reach": 1152,
+   "views": 1389,
+   "reach": 1157,
    "saved": 3,
    "shares": 0,
    "total_interactions": 13,
-   "ig_reels_avg_watch_time": 16591,
-   "ig_reels_video_view_total_time": 19030685
+   "ig_reels_avg_watch_time": 16736,
+   "ig_reels_video_view_total_time": 19263377
   },
   {
    "id": "slp_059_abascal_broncano",
@@ -62,13 +78,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfc2wEDALnH/",
    "titulo": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la izquierd",
-   "views": 157,
-   "reach": 133,
+   "views": 160,
+   "reach": 136,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 11858,
-   "ig_reels_video_view_total_time": 1589095
+   "ig_reels_avg_watch_time": 11784,
+   "ig_reels_video_view_total_time": 1614441
   },
   {
    "id": "slp_055_partidos_29n",
@@ -78,13 +94,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfcNleSHJwb/",
    "titulo": "Más de 50 partidos estarán en las papeletas del 29-N. Solo c",
-   "views": 301,
-   "reach": 243,
+   "views": 312,
+   "reach": 252,
    "saved": 2,
    "shares": 0,
    "total_interactions": 5,
-   "ig_reels_avg_watch_time": 8857,
-   "ig_reels_video_view_total_time": 2152372
+   "ig_reels_avg_watch_time": 9091,
+   "ig_reels_video_view_total_time": 2291066
   },
   {
    "id": "slp_057_feijoo_mundial",
