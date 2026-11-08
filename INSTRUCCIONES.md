@@ -138,3 +138,10 @@ Con víctimas (accidentes, atentados, catástrofes): `"tono": "serio"` en el gui
 - Formato: 30–40 s. Gancho en la primera frase (pregunta que te señala, promesa de lo oculto, dato que choca o urgencia real), 2 cláusulas y "la letra pequeña" al final, y un cierre que deje la historia abierta. Portada legible sin sonido.
 - Descripción: título distinto al texto del vídeo + una pregunta para comentarios + 4–6 hashtags (`#elecciones #29N #eleccionesgenerales` + 2–3 del tema). Nunca hashtags de partidos.
 - Series y calendario: ver el plan (enlace arriba).
+
+
+## CIERRE "SÍGUENOS" (8-N, petición de Nicks)
+- Todos los vídeos llevan en los últimos ~3 s un banner "Síguenos: las 4 entrevistas de Wild 13-N" (engine/slp.html, FOLLOW_DEF) y publicar.py añade al copy, antes de los hashtags, la línea CTA.
+- Excepciones: noticias graves (atentados, muertes) → `"follow": false` en el guion.
+- Texto propio por vídeo: `"follow": "texto"`.
+- El 14-N, cambiar FOLLOW_DEF y CTA (publicar.py) por el siguiente gancho con fecha (p. ej. debates o el 29-N). Siempre un motivo concreto y con fecha, nunca un "síguenos" genérico.
