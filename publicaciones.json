@@ -449,8 +449,10 @@
   {
    "id": "slp_068_cracovia",
    "fecha": "2026-11-08T16:30",
-   "estado": "pendiente",
-   "copy": "Tiroteo en la plaza del Mercado de Cracovia: al menos 9 muertos, 15 heridos y un atacante polaco que, según el Gobierno, estaba «fascinado con la ideología de la extrema derecha». Lo que se sabe. Todo nuestro cariño a las víctimas.\n\nFuentes: El Español, CNN, CBS News, Euronews y PBS (7-11). Cifras provisionales.\n\n#Cracovia #Polonia #Europa #internacional"
+   "estado": "publicado",
+   "copy": "Tiroteo en la plaza del Mercado de Cracovia: al menos 9 muertos, 15 heridos y un atacante polaco que, según el Gobierno, estaba «fascinado con la ideología de la extrema derecha». Lo que se sabe. Todo nuestro cariño a las víctimas.\n\nFuentes: El Español, CNN, CBS News, Euronews y PBS (7-11). Cifras provisionales.\n\n#Cracovia #Polonia #Europa #internacional",
+   "ig_media_id": "18119916221009437",
+   "publicado_en": "2026-11-08T16:30"
   },
   {
    "id": "slp_069_cracovia_atacante",
