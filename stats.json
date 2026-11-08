@@ -2,25 +2,41 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 2,
-  "media_count": 48,
+  "media_count": 49,
   "id": "29046307255021601"
  },
  "reels": [
   {
-   "id": "slp_068_cracovia",
-   "ig": "18119916221009437",
-   "fecha": "2026-11-08T15:30:32+0000",
+   "id": "slp_069_cracovia_atacante",
+   "ig": "18117008969182592",
+   "fecha": "2026-11-08T17:30:32+0000",
    "likes": 0,
    "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DffFOw6AAb1/",
-   "titulo": "Tiroteo en la plaza del Mercado de Cracovia: al menos 9 muer",
-   "views": 10,
-   "reach": 2,
+   "url": "https://www.instagram.com/reel/DffS9nRj-IS/",
+   "titulo": "Cracovia: lo que se sabe del atacante (cámara para grabarse,",
+   "views": 0,
+   "reach": 0,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 1728,
-   "ig_reels_video_view_total_time": 3457
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
+  {
+   "id": "slp_068_cracovia",
+   "ig": "18119916221009437",
+   "fecha": "2026-11-08T15:30:32+0000",
+   "likes": 1,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DffFOw6AAb1/",
+   "titulo": "Tiroteo en la plaza del Mercado de Cracovia: al menos 9 muer",
+   "views": 127,
+   "reach": 107,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 1,
+   "ig_reels_avg_watch_time": 3947,
+   "ig_reels_video_view_total_time": 426297
   },
   {
    "id": "slp_058_montero_armas",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfeyWDmHEoT/",
    "titulo": "¿Menos gasto militar para esto? Sí o no 👇\n\nIrene Montero en ",
-   "views": 130,
+   "views": 131,
    "reach": 113,
    "saved": 1,
    "shares": 0,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 9185,
-   "ig_reels_video_view_total_time": 1047128
+   "ig_reels_avg_watch_time": 9115,
+   "ig_reels_video_view_total_time": 1048278
   },
   {
    "id": "slp_031_mesas_excusas",
@@ -62,13 +78,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfdLWXvk622/",
    "titulo": "¿Debieron ir juntas? Sí o no 👇\n\nColau y Montero: la candidat",
-   "views": 1391,
-   "reach": 1159,
+   "views": 1394,
+   "reach": 1161,
    "saved": 3,
    "shares": 0,
    "total_interactions": 14,
-   "ig_reels_avg_watch_time": 16698,
-   "ig_reels_video_view_total_time": 19269807
+   "ig_reels_avg_watch_time": 16671,
+   "ig_reels_video_view_total_time": 19272706
   },
   {
    "id": "slp_059_abascal_broncano",
@@ -90,17 +106,17 @@
    "id": "slp_049_bulos_izquierda_1",
    "ig": "18135779767735267",
    "fecha": "2026-11-07T18:45:32+0000",
-   "likes": 3,
+   "likes": 4,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfc2wEDALnH/",
    "titulo": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la izquierd",
-   "views": 206,
-   "reach": 173,
+   "views": 231,
+   "reach": 197,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 3,
-   "ig_reels_avg_watch_time": 12232,
-   "ig_reels_video_view_total_time": 2128433
+   "total_interactions": 4,
+   "ig_reels_avg_watch_time": 12226,
+   "ig_reels_video_view_total_time": 2408557
   },
   {
    "id": "slp_055_partidos_29n",
@@ -110,13 +126,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfcNleSHJwb/",
    "titulo": "Más de 50 partidos estarán en las papeletas del 29-N. Solo c",
-   "views": 312,
-   "reach": 255,
+   "views": 313,
+   "reach": 256,
    "saved": 2,
    "shares": 0,
    "total_interactions": 5,
-   "ig_reels_avg_watch_time": 8968,
-   "ig_reels_video_view_total_time": 2295908
+   "ig_reels_avg_watch_time": 8936,
+   "ig_reels_video_view_total_time": 2296741
   },
   {
    "id": "slp_057_feijoo_mundial",
