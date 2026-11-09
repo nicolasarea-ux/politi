@@ -152,6 +152,6 @@ Motivo: estancados en ~130 views de mediana y 2 seguidores con 5 Reels/día.
 2. **Cero explicativos/"cómo votar"**: están en `reserva` y vuelven del 22-N al 28-N, cuando la gente los busca.
 3. **Clip real en el primer segundo** siempre que exista: 4–8 s de la frase del político con su voz, campo `intro` del guion (ver engine/intro.py). Fuente obligatoria en pantalla y en el copy ("Imagen: RTVE"). Fragmento corto y con comentario nuestro, nunca piezas largas de terceros.
    - De dónde salen: Nicks deja clips o grabaciones de pantalla en `Descargas\politizate\clips` del portátil (carpeta conectada) → stage → `clips/<nombre>.mp4` en el repo.
-4. **Cara de Nicks**: si deja un selfie en `Descargas\politizate\cara\` (2–3 s diciendo el gancho), va primero con `"tipo": "cara"` en `intro`. Prioridad absoluta sobre todo lo demás.
+4. **Nicks NO sale en cámara ni pone su voz** (dicho el 9-N). No proponerlo más. El gancho humano lo dan los clips reales de los políticos.
 5. **Doble publicación en TikTok** cuando la cuenta esté conectada en Metricool (marca Politízate Hoy). Hasta entonces, solo Instagram.
 6. Medir el domingo 15-N: mediana de views, segundos vistos, seguidores ganados. Comparar con la semana anterior (mediana 130, 2 seguidores).
