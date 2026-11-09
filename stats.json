@@ -2,18 +2,18 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 2,
-  "media_count": 55,
+  "media_count": 56,
   "id": "29046307255021601"
  },
  "reels": [
   {
-   "id": "slp_065_bulos_izquierda_3",
-   "ig": "18125370301725747",
-   "fecha": "2026-11-09T18:45:32+0000",
+   "id": "slp_071_tele_esta_noche",
+   "ig": "17912084523561606",
+   "fecha": "2026-11-09T20:15:32+0000",
    "likes": 0,
    "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfiAVsjliP9/",
-   "titulo": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la izquierd",
+   "url": "https://www.instagram.com/reel/DfiKo3FgCbf/",
+   "titulo": "¿A quién verás, Sánchez o Abascal? 👇\n\nEsta noche, casi a la ",
    "views": 0,
    "reach": 0,
    "saved": 0,
@@ -23,6 +23,22 @@
    "ig_reels_video_view_total_time": 0
   },
   {
+   "id": "slp_065_bulos_izquierda_3",
+   "ig": "18125370301725747",
+   "fecha": "2026-11-09T18:45:32+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfiAVsjliP9/",
+   "titulo": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la izquierd",
+   "views": 59,
+   "reach": 39,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 9690,
+   "ig_reels_video_view_total_time": 377911
+  },
+  {
    "id": "slp_066_abascal_revuelta_publico",
    "ig": "17942022741383239",
    "fecha": "2026-11-09T12:45:33+0000",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfhXJAPnZLr/",
    "titulo": "¿Debería haber público normal? Sí o no 👇\n\nAbascal va hoy a L",
-   "views": 153,
+   "views": 154,
    "reach": 122,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 11903,
-   "ig_reels_video_view_total_time": 1476095
+   "ig_reels_avg_watch_time": 11967,
+   "ig_reels_video_view_total_time": 1495961
   },
   {
    "id": "slp_064_feijoo_huelga_11n",
@@ -46,13 +62,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfg05cNDOT9/",
    "titulo": "¿Debería desconvocarse? Sí o no 👇\n\nFeijóo pide a CCOO y UGT ",
-   "views": 139,
-   "reach": 119,
+   "views": 142,
+   "reach": 122,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 7919,
-   "ig_reels_video_view_total_time": 958310
+   "ig_reels_avg_watch_time": 7839,
+   "ig_reels_video_view_total_time": 972073
   },
   {
    "id": "slp_063_feijoo_sanchez_trump",
@@ -142,13 +158,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfeyWDmHEoT/",
    "titulo": "¿Menos gasto militar para esto? Sí o no 👇\n\nIrene Montero en ",
-   "views": 134,
+   "views": 139,
    "reach": 115,
-   "saved": 1,
+   "saved": 0,
    "shares": 0,
-   "total_interactions": 4,
-   "ig_reels_avg_watch_time": 9205,
-   "ig_reels_video_view_total_time": 1077019
+   "total_interactions": 3,
+   "ig_reels_avg_watch_time": 9445,
+   "ig_reels_video_view_total_time": 1114584
   },
   {
    "id": "slp_031_mesas_excusas",
@@ -174,13 +190,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfdLWXvk622/",
    "titulo": "¿Debieron ir juntas? Sí o no 👇\n\nColau y Montero: la candidat",
-   "views": 1400,
-   "reach": 1165,
-   "saved": 3,
+   "views": 1405,
+   "reach": 1166,
+   "saved": 2,
    "shares": 0,
-   "total_interactions": 14,
-   "ig_reels_avg_watch_time": 16664,
-   "ig_reels_video_view_total_time": 19347392
+   "total_interactions": 13,
+   "ig_reels_avg_watch_time": 16679,
+   "ig_reels_video_view_total_time": 19382087
   },
   {
    "id": "slp_059_abascal_broncano",
