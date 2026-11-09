@@ -1,0 +1,266 @@
+{
+ "id": "slp_071_tele_esta_noche",
+ "brand": "Politízate Hoy",
+ "formato": "vs",
+ "clauses": 2,
+ "clauseLabels": [
+  "LA HORA",
+  "EL AVISO",
+  "LA LETRA PEQUEÑA"
+ ],
+ "header": {
+  "tag": "VS · ESTA NOCHE EN LA TELE",
+  "source": "Fuentes: El Español · EFE (Infobae) · elDiario.es"
+ },
+ "caption": "¿A quién verás, Sánchez o Abascal? 👇\n\nEsta noche, casi a la vez: Sánchez en La Séptima, Abascal en La Revuelta y Feijóo en 101 Televisión.\n\nFuentes: agenda de El Español y EFE (vía Infobae) del 9-11; la frase de Évole es de su columna en La Vanguardia, recogida por elDiario.es (8-11).\nFotos: Vlada Republike Slovenije (dominio público), Vox España (CC0) y European People's Party (CC BY 2.0), Wikimedia Commons.\n\n#Sánchez #Abascal #LaRevuelta #elecciones #29N",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Esta noche, a la vez: Sánchez en La Séptima. Abascal en La Revuelta.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Sánchez vs *Abascal*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kA",
+       "type": "cara",
+       "foto": "sanchez",
+       "h": 560,
+       "w": 500,
+       "x": 27,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "from": "left",
+       "tilt": 3,
+       "label": "Sánchez"
+      },
+      {
+       "id": "kB",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 560,
+       "w": 500,
+       "x": 73,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "from": "right",
+       "tilt": -3,
+       "label": "Abascal"
+      },
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "ESTA NOCHE",
+       "bg": "red",
+       "size": 84,
+       "x": 50,
+       "y": 62,
+       "at": 0,
+       "dur": 2.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Sánchez, a las 21:30,|nueve_y_media, con Javier Ruiz. Abascal, a las 22:00,|diez, con Broncano. Y sin el público de siempre.",
+     "hide": [
+      "kA",
+      "kB",
+      "h1"
+     ],
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "La *hora*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "Sánchez · La Séptima · 21:30",
+       "x": 50,
+       "y": 34,
+       "w": 880,
+       "at": 1,
+       "icon": "clock"
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "Abascal · La 1 · 22:00",
+       "x": 50,
+       "y": 46,
+       "w": 880,
+       "at": 6,
+       "icon": "clock"
+      },
+      {
+       "id": "st1",
+       "type": "stamp",
+       "text": "SIN PÚBLICO HABITUAL",
+       "color": "red",
+       "x": 50,
+       "y": 60,
+       "rot": -4,
+       "at": 13
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Évole, en La Vanguardia: «El que lo puede pasar mal el lunes sin pinganillo es Abascal con Broncano».",
+     "hide": [
+      "h2",
+      "c1",
+      "c2",
+      "st1"
+     ],
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "El *aviso*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "«Lo puede pasar mal… sin pinganillo»",
+       "x": 50,
+       "y": 40,
+       "w": 880,
+       "at": 2
+      },
+      {
+       "id": "f3",
+       "type": "flash",
+       "text": "ÉVOLE",
+       "bg": "ink",
+       "size": 90,
+       "x": 50,
+       "y": 58,
+       "at": 8,
+       "dur": 2.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y Feijóo, a las 21:30,|nueve_y_media, en 101|ciento_uno Televisión.",
+     "hide": [
+      "h3",
+      "c3",
+      "f3"
+     ],
+     "show": [
+      {
+       "id": "h4",
+       "type": "headline",
+       "text": "Y *Feijóo*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "k1f",
+       "type": "cara",
+       "foto": "feijoo",
+       "h": 480,
+       "w": 480,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "keep": 1
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "text": "Feijóo · 101 TV · 21:30",
+       "x": 50,
+       "y": 70,
+       "w": 880,
+       "at": 3,
+       "icon": "clock"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿A quién verás, a Sánchez o a Abascal? Comenta y síguenos.",
+     "show": [
+      {
+       "id": "uE",
+       "type": "urni",
+       "x": 50,
+       "y": 34,
+       "w": 300,
+       "say": "¿Tú qué dices?",
+       "moods": [
+        {
+         "at": 0,
+         "m": "duda"
+        }
+       ],
+       "at": 0
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 54,
+       "rot": -4,
+       "at": 4
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "VS",
+  "titulo": "Sánchez vs *Abascal*",
+  "mini": {
+   "texto": "Esta noche,",
+   "rojo": "A LA VEZ",
+   "cara": "sanchez",
+   "cara2": "abascal",
+   "emoji": "📺",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 128
+  }
+ }
+}

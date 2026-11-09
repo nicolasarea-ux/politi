@@ -1,0 +1,307 @@
+{
+ "id": "slp_072_vivienda_feijoo_colau",
+ "brand": "Politízate Hoy",
+ "formato": "vs",
+ "clauses": 2,
+ "clauseLabels": [
+  "FEIJÓO",
+  "COLAU",
+  "LA LETRA PEQUEÑA"
+ ],
+ "header": {
+  "tag": "VS · VIVIENDA",
+  "source": "Fuentes: Europa Press (Demócrata, PressDigital) · idealista"
+ },
+ "caption": "¿Construir o expropiar? 👇\n\nVivienda: lo que proponen Feijóo y Colau, con sus palabras.\n\nFuentes: vídeo de compromisos de Feijóo (Europa Press vía Demócrata, 9-11) y programa del PP resumido por idealista (9-11); mitin de Colau en Barcelona (Europa Press vía PressDigital, 7-11). La cifra de 13 fondos y 100.000 viviendas es de Colau.\nFotos: European People's Party (CC BY 2.0) y Laura Guerrero (CC BY 4.0), Wikimedia Commons.\n\n#vivienda #Feijóo #Colau #elecciones #29N",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Vivienda: Feijóo quiere construir. Colau, expropiar.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Feijóo vs *Colau*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kA",
+       "type": "cara",
+       "foto": "feijoo",
+       "h": 560,
+       "w": 500,
+       "x": 27,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "from": "left",
+       "tilt": 3,
+       "label": "Feijóo"
+      },
+      {
+       "id": "kB",
+       "type": "cara",
+       "foto": "colau",
+       "h": 560,
+       "w": 500,
+       "x": 73,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "from": "right",
+       "tilt": -3,
+       "label": "Colau"
+      },
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "CONSTRUIR / EXPROPIAR",
+       "bg": "red",
+       "size": 70,
+       "x": 50,
+       "y": 62,
+       "at": 0,
+       "dur": 2.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Feijóo: «Un millón de nuevas viviendas». Y «en 48|cuarenta_y_ocho horas, ocupas fuera».",
+     "hide": [
+      "kA",
+      "kB",
+      "h1"
+     ],
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "*Feijóo*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "k1a",
+       "type": "cara",
+       "foto": "feijoo",
+       "h": 480,
+       "w": 480,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "keep": 1
+      },
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "1 MILLÓN",
+       "bg": "ink",
+       "size": 96,
+       "x": 50,
+       "y": 66,
+       "at": 2,
+       "dur": 2.0
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "«En 48 horas, ocupas fuera»",
+       "x": 50,
+       "y": 78,
+       "w": 880,
+       "at": 9
+      }
+     ]
+    },
+    {
+     "text": "Su programa: derogar la Ley de Vivienda.",
+     "hide": [
+      "k1a",
+      "f1",
+      "c1"
+     ],
+     "show": [
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "Derogar la Ley de Vivienda",
+       "x": 50,
+       "y": 40,
+       "w": 880,
+       "at": 1,
+       "icon": "doc"
+      },
+      {
+       "id": "st2",
+       "type": "stamp",
+       "text": "PROGRAMA DEL PP",
+       "color": "red",
+       "x": 50,
+       "y": 54,
+       "rot": -4,
+       "at": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Colau: «expropiar a los fondos buitre». Y subir impuestos a los más ricos.",
+     "hide": [
+      "h2",
+      "c2",
+      "st2"
+     ],
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "*Colau*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "k1b",
+       "type": "cara",
+       "foto": "colau",
+       "h": 480,
+       "w": 480,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "keep": 1
+      },
+      {
+       "id": "f3",
+       "type": "flash",
+       "text": "EXPROPIAR",
+       "bg": "ink",
+       "size": 96,
+       "x": 50,
+       "y": 66,
+       "at": 2,
+       "dur": 2.0
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "+ impuestos a los más ricos",
+       "x": 50,
+       "y": 78,
+       "w": 880,
+       "at": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Según Colau, trece fondos tienen más de cien mil viviendas. Es su cifra.",
+     "hide": [
+      "h3",
+      "k1b",
+      "f3",
+      "c3"
+     ],
+     "show": [
+      {
+       "id": "h4",
+       "type": "headline",
+       "text": "La *letra pequeña*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "text": "13 fondos · +100.000 pisos",
+       "x": 50,
+       "y": 38,
+       "w": 880,
+       "at": 3,
+       "icon": "house"
+      },
+      {
+       "id": "st4",
+       "type": "stamp",
+       "text": "CIFRA DE COLAU",
+       "color": "red",
+       "x": 50,
+       "y": 52,
+       "rot": -4,
+       "at": 9
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Construir o expropiar? ¿Tú qué eliges? Comenta y síguenos.",
+     "show": [
+      {
+       "id": "uE",
+       "type": "urni",
+       "x": 50,
+       "y": 34,
+       "w": 300,
+       "say": "¿Tú qué dices?",
+       "moods": [
+        {
+         "at": 0,
+         "m": "duda"
+        }
+       ],
+       "at": 0
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "+ SEGUIR",
+       "color": "ink",
+       "x": 50,
+       "y": 54,
+       "rot": -4,
+       "at": 4
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "VS",
+  "titulo": "Feijóo vs *Colau*",
+  "mini": {
+   "texto": "Vivienda:",
+   "rojo": "¿CONSTRUIR O EXPROPIAR?",
+   "cara": "feijoo",
+   "cara2": "colau",
+   "emoji": "🏠",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 110
+  }
+ }
+}

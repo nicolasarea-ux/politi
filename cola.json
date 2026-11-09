@@ -325,11 +325,9 @@
     "https://www.publico.es/politica/puede-jornada-reflexion.html",
     "https://www.estrelladigital.es/espana/elecciones-generales-29-noviembre-campana-arranca-13-voto-correo-puede-pedir-1/20261101165854452758.html"
    ],
-   "estado": "programado",
+   "estado": "reserva",
    "nota": "Vídeo hecho, listo para usar",
-   "copy": "Qué es la jornada de reflexión del 28-N y qué pasa si alguien hace campaña ese día 🤫\n¿Debería seguir existiendo? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 53, 69 y 144 (BOE); Público; Estrella Digital (1-11).\n\n#elecciones #29N #eleccionesgenerales #jornadadereflexion #explicado",
-   "fecha": "2026-11-09T19:45",
-   "fecha_reels": "2026-11-09T19:45"
+   "copy": "Qué es la jornada de reflexión del 28-N y qué pasa si alguien hace campaña ese día 🤫\n¿Debería seguir existiendo? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 53, 69 y 144 (BOE); Público; Estrella Digital (1-11).\n\n#elecciones #29N #eleccionesgenerales #jornadadereflexion #explicado"
   },
   {
    "id": "slp_024_voto_exterior",
@@ -353,11 +351,9 @@
    "fuentes": [
     "https://www.democrata.es/elecciones-generales-espana/donde-votar-29n-consultar-colegio-mesa-electoral/"
    ],
-   "estado": "programado",
+   "estado": "reserva",
    "copy": "¿No sabes dónde te toca votar? Cómo mirarlo en dos minutos y qué pasa si no te llega la tarjeta censal 📍\n¿Te ha llegado ya la tuya? 👇\n\nFuente: Oficina del Censo Electoral (INE); Demócrata; Maldita.\n\n#elecciones #29N #eleccionesgenerales #censoelectoral #comovotar",
-   "portada_estilo": "v2",
-   "fecha": "2026-11-09T13:45",
-   "fecha_reels": "2026-11-09T13:45"
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_026_barrera_3",
@@ -881,9 +877,10 @@
    "formato": "bulo",
    "portada_estilo": "mini",
    "partidos": [],
-   "estado": "pendiente",
-   "nota": "Guion hecho; falta la voz (ordenador desconectado el 8-N a las ~14:40). Hacer en la pasada del 9-N para 9-N 19:45 (sustituye a slp_023, relleno).",
-   "copy": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la izquierda… Parte 3/3 (última): el senador del PP que «pide el voto para Sánchez», la mujer que «se irá si gana Vox» y la «privatización» de las pensiones.\n\nFuente: Maldita.es — bulos y contexto sobre las elecciones del 29-N (actualizada el 6-11-2026).\n\n#elecciones #29N #bulos #desinformación #verificación"
+   "estado": "programado",
+   "copy": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la izquierda… Parte 3/3 (última): el senador del PP que «pide el voto para Sánchez», la mujer que «se irá si gana Vox» y la «privatización» de las pensiones.\n\nFuente: Maldita.es — bulos y contexto sobre las elecciones del 29-N (actualizada el 6-11-2026).\n\n#elecciones #29N #bulos #desinformación #verificación",
+   "fecha": "2026-11-09T19:45",
+   "fecha_reels": "2026-11-09T19:45"
   },
   {
    "id": "slp_066_abascal_revuelta_publico",
@@ -893,10 +890,10 @@
    "partidos": [
     "Vox"
    ],
-   "estado": "pendiente",
+   "estado": "programado",
    "fecha": "2026-11-09T13:45",
-   "nota": "Petición de Nicks (8-N). Guion hecho; SIN VOZ (ordenador desconectado el 8-N). La pasada del 9-N: voz + render y sustituir a slp_025 (relleno) en 9-N 13:45; slp_025 vuelve a reserva. Antes, mirar si RTVE/El Terrat/Vox han confirmado algo y actualizar.",
-   "copy": "¿Debería haber público normal? Sí o no 👇\n\nAbascal va hoy a La Revuelta, pero la grabación cambia de público. Qué está confirmado y qué no.\n\nConfirmado: Broncano lo anunció el 5-11. El email de El Terrat lo publicó Público (recogido por ¡Hola! y Demócrata, 6 y 7-11). Que Vox pidiera su propio público es lo que cuenta La Séptima (vía Demócrata); ni RTVE, ni El Terrat, ni Vox lo han confirmado. La audiencia de Sánchez: The Objective (3-11).\nFotos: Vox España (CC0) y Pedro J Pacheco (CC BY-SA 4.0), Wikimedia Commons.\n\n#Abascal #Broncano #LaRevuelta #elecciones #29N"
+   "copy": "¿Debería haber público normal? Sí o no 👇\n\nAbascal va hoy a La Revuelta, pero la grabación cambia de público. Qué está confirmado y qué no.\n\nConfirmado: Broncano lo anunció el 5-11. El email de El Terrat lo publicó Público (recogido por ¡Hola! y Demócrata, 6 y 7-11). Que Vox pidiera su propio público es lo que cuenta La Séptima (vía Demócrata); ni RTVE, ni El Terrat, ni Vox lo han confirmado. La audiencia de Sánchez: The Objective (3-11).\nFotos: Vox España (CC0) y Pedro J Pacheco (CC BY-SA 4.0), Wikimedia Commons.\n\n#Abascal #Broncano #LaRevuelta #elecciones #29N",
+   "fecha_reels": "2026-11-09T13:45"
   },
   {
    "id": "slp_067_wild_cuenta_atras",
