@@ -26,7 +26,8 @@
        "text": "Top *5* momentazos",
        "x": 50,
        "y": 21,
-       "w": 900
+       "w": 900,
+       "keep": 1
       },
       {
        "id": "kA",
@@ -77,15 +78,14 @@
      ],
      "show": [
       {
-       "id": "f4",
-       "type": "flash",
+       "id": "c4",
+       "type": "card",
        "text": "4 · «EL FONDO BUITRE ES EL GOBIERNO»",
-       "bg": "ink",
-       "size": 46,
        "x": 50,
-       "y": 46,
+       "y": 34,
+       "w": 940,
        "at": 0,
-       "dur": 3
+       "keep": 1
       }
      ]
     }
@@ -98,15 +98,13 @@
      "text": "Tres: «Si te quieres deconstruir, hazlo, pero no me obligues».",
      "show": [
       {
-       "id": "f3",
-       "type": "flash",
+       "id": "c3",
+       "type": "card",
        "text": "3 · «NO ME OBLIGUES»",
-       "bg": "ink",
-       "size": 70,
        "x": 50,
        "y": 46,
-       "at": 0,
-       "dur": 3
+       "w": 940,
+       "at": 0
       }
      ]
     },
@@ -114,15 +112,13 @@
      "text": "Dos: Broncano, sobre Israel: «No has tenido huevos». Luego pidió perdón por las formas.",
      "show": [
       {
-       "id": "f2",
-       "type": "flash",
+       "id": "c2",
+       "type": "card",
        "text": "2 · «NO HAS TENIDO HUEVOS»",
-       "bg": "red",
-       "size": 62,
        "x": 50,
-       "y": 46,
-       "at": 0,
-       "dur": 3.2
+       "y": 58,
+       "w": 940,
+       "at": 0
       }
      ]
     }
@@ -134,7 +130,10 @@
     {
      "text": "Y uno: la despedida. Broncano no le desea suerte. Abascal: «Yo sí. Porque la vas a necesitar».",
      "hide": [
-      "h1"
+      "h1",
+      "c4",
+      "c3",
+      "c2"
      ],
      "show": [
       {
