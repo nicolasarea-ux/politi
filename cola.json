@@ -212,10 +212,10 @@
   {
    "id": "slp_016_blanco_nulo",
    "tipo": "atemporal",
-   "estado": "programado",
+   "estado": "reserva",
    "copy": "Votar en blanco, nulo o quedarte en casa NO es lo mismo. Te explicamos la diferencia según la ley.\n¿Sabías que el voto en blanco cuenta para el 3 %? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 96 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #votoenblanco #votonulo",
    "partidos": [],
-   "nota": "Sustituido el 2-N por actualidad; reprogramado",
+   "nota": "Sustituido el 2-N por actualidad; reprogramado | 9-N: a reserva (semana de prueba: solo actualidad; vuelven la última semana antes del 29-N)",
    "portada_estilo": "v2",
    "fecha": "2026-11-10T19:45",
    "fecha_reels": "2026-11-10T19:45"
@@ -230,10 +230,11 @@
     "https://maldita.es/malditateexplica/20230723/votos-senado-psoe-sumar-mayoria-progresista/",
     "https://www.esdiario.com/nacional/261026/201318/votar-senado-pacto-pp-vox-cambian-papeletas-elegir-candidatos_amp.html"
    ],
-   "estado": "programado",
+   "estado": "reserva",
    "copy": "Senado 29-N: cuántos candidatos puedes marcar, si puedes mezclar partidos y cuándo tu voto acaba siendo nulo 🗳️\n¿Sabías que podías mezclar? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 166 (BOE); Maldita.\n\n#elecciones #29N #eleccionesgenerales #senado #comovotar",
    "fecha": "2026-11-10T13:45",
-   "fecha_reels": "2026-11-10T13:45"
+   "fecha_reels": "2026-11-10T13:45",
+   "nota": "9-N: a reserva (semana de prueba: solo actualidad; vuelven la última semana antes del 29-N)"
   },
   {
    "id": "slp_018_puente_cese",
@@ -278,10 +279,11 @@
     "https://www.democrata.es/elecciones-generales-espana/permiso-trabajo-votar-29-noviembre-2026-horas/",
     "https://www.consejogestores.org/?p=11303"
    ],
-   "estado": "programado",
+   "estado": "reserva",
    "copy": "¿Trabajas el 29-N? Cuántas horas pagadas te corresponden para ir a votar 🕘\nGuárdalo 📌 ¿Trabajas ese domingo? 👇\n\nFuente: Real Decreto 605/1999 (art. 13), Estatuto de los Trabajadores (art. 37.3.d), vía Demócrata y Consejo de Gestores.\n\n#elecciones #29N #eleccionesgenerales #derechoslaborales #comovotar",
    "fecha": "2026-11-10T08:45",
-   "fecha_reels": "2026-11-10T08:45"
+   "fecha_reels": "2026-11-10T08:45",
+   "nota": "9-N: a reserva (semana de prueba: solo actualidad; vuelven la última semana antes del 29-N)"
   },
   {
    "id": "slp_022_escanos_provincia",
@@ -334,12 +336,13 @@
    "fuentes": [
     "https://www.exteriores.gob.es/Consulados/andorra/es/Comunicacion/Noticias/Paginas/Articulos/Elecciones-a-las-Cortes-Generales-de-29-de-noviembre-de-2026.aspx"
    ],
-   "estado": "programado",
+   "estado": "reserva",
    "copy": "¿Vives fuera de España? Cómo votar el 29-N: ya no hay que pedirlo, pero hay fechas que no perdonan ✈️\nEtiqueta a quien viva fuera 👇\n\nFuente: Ministerio de Asuntos Exteriores, webs consulares (Elecciones a Cortes Generales, 29-11-2026).\n\n#elecciones #29N #eleccionesgenerales #votoexterior #CERA",
    "portada_estilo": "v2",
    "fecha": "2026-11-11T14:15",
    "fecha_reels": "2026-11-11T14:15",
-   "formato": null
+   "formato": null,
+   "nota": "9-N: a reserva (semana de prueba: solo actualidad; vuelven la última semana antes del 29-N)"
   },
   {
    "id": "slp_025_donde_voto",
@@ -363,8 +366,8 @@
    "fuentes": [
     "https://maldita.es/malditateexplica/20190429/por-que-no-consigue-escano-pacma-os-lo-explicamos-no-hubiera-obtenido-diputados-cambiando-el-tamano-de-los-distritos-ni-quitando-el-limite-del-3-solo-con-una-unica-circunscripcion/"
    ],
-   "estado": "programado",
-   "nota": "Vídeo hecho, listo para usar",
+   "estado": "reserva",
+   "nota": "Vídeo hecho, listo para usar | 9-N: a reserva (semana de prueba: solo actualidad; vuelven la última semana antes del 29-N)",
    "copy": "326.045 votos y ningún escaño: qué es la barrera del 3 % y si de verdad fue la culpable 🧮\n¿Lo sabías? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 163 (BOE); Maldita.\n\n#elecciones #29N #eleccionesgenerales #leyelectoral #explicado",
    "fecha": "2026-11-10T22:45",
    "fecha_reels": "2026-11-10T22:45"
@@ -460,10 +463,11 @@
     "https://maldita.es/malditateexplica/20240422/preguntas-frecuentes-sobre-el-escrutinio-electoral-empieza-tres-dias-despues-de-las-elecciones-generales-se-hace-a-mano-y-se-anade-el-voto-que-llega-desde-el-extranjero*/",
     "https://maldita.es/malditobulo/20230719/indra-elecciones-recuento-votos"
    ],
-   "estado": "programado",
+   "estado": "reserva",
    "copy": "Quién cuenta de verdad tu voto el 29-N, qué hace Indra y cuándo llega el resultado oficial 🗳️\n¿Sabías que se cuenta a mano? 👇\n\nFuente: Maldita.es, sobre el escrutinio electoral y el papel de Indra.\n\n#elecciones #29N #eleccionesgenerales #recuento #comovotar",
    "fecha": "2026-11-10T21:15",
-   "fecha_reels": "2026-11-10T21:15"
+   "fecha_reels": "2026-11-10T21:15",
+   "nota": "9-N: a reserva (semana de prueba: solo actualidad; vuelven la última semana antes del 29-N)"
   },
   {
    "id": "slp_033_urda_minuto",

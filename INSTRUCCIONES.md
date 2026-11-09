@@ -145,3 +145,13 @@ Con víctimas (accidentes, atentados, catástrofes): `"tono": "serio"` en el gui
 - Excepciones: noticias graves (atentados, muertes) → `"follow": false` en el guion.
 - Texto propio por vídeo: `"follow": "texto"`.
 - El 14-N, cambiar FOLLOW_DEF y CTA (publicar.py) por el siguiente gancho con fecha (p. ej. debates o el 29-N). Siempre un motivo concreto y con fecha, nunca un "síguenos" genérico.
+
+## SEMANA DE PRUEBA (9-N → 15-N) — sustituye al plan del 6-N donde choque
+Motivo: estancados en ~130 views de mediana y 2 seguidores con 5 Reels/día.
+1. **2–3 Reels al día, máximo.** Solo actualidad con caras y choque, publicada en las primeras horas tras la noticia. Huecos: 13:45, 19:45 y 22:45 (8:45 solo si hay algo muy fuerte de la mañana).
+2. **Cero explicativos/"cómo votar"**: están en `reserva` y vuelven del 22-N al 28-N, cuando la gente los busca.
+3. **Clip real en el primer segundo** siempre que exista: 4–8 s de la frase del político con su voz, campo `intro` del guion (ver engine/intro.py). Fuente obligatoria en pantalla y en el copy ("Imagen: RTVE"). Fragmento corto y con comentario nuestro, nunca piezas largas de terceros.
+   - De dónde salen: Nicks deja clips o grabaciones de pantalla en `Descargas\politizate\clips` del portátil (carpeta conectada) → stage → `clips/<nombre>.mp4` en el repo.
+4. **Cara de Nicks**: si deja un selfie en `Descargas\politizate\cara\` (2–3 s diciendo el gancho), va primero con `"tipo": "cara"` en `intro`. Prioridad absoluta sobre todo lo demás.
+5. **Doble publicación en TikTok** cuando la cuenta esté conectada en Metricool (marca Politízate Hoy). Hasta entonces, solo Instagram.
+6. Medir el domingo 15-N: mediana de views, segundos vistos, seguidores ganados. Comparar con la semana anterior (mediana 130, 2 seguidores).

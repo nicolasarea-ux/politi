@@ -8,6 +8,7 @@ cp "guiones/$id.json" "$w/script.json"
 python3 engine/tts_andrew.py "$w" "audio/$id.mp3"
 TPL=slp.html node engine/render.js "$w" >/dev/null
 python3 engine/mix.py "$w" >/dev/null
+python3 engine/intro.py "guiones/$id.json" "$w"
 cp "$w/final.mp4" "videos/$id.mp4"
 node engine/cover.js "guiones/$id.json" "videos/$id.jpg"
 ffmpeg -v error -y -i "videos/$id.mp4" -vf "fps=1/3,scale=180:-1,tile=6x2" -frames:v 1 "$w/check.png"
