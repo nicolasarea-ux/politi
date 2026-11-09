@@ -338,9 +338,12 @@
    "fuentes": [
     "https://www.exteriores.gob.es/Consulados/andorra/es/Comunicacion/Noticias/Paginas/Articulos/Elecciones-a-las-Cortes-Generales-de-29-de-noviembre-de-2026.aspx"
    ],
-   "estado": "reserva",
+   "estado": "programado",
    "copy": "¿Vives fuera de España? Cómo votar el 29-N: ya no hay que pedirlo, pero hay fechas que no perdonan ✈️\nEtiqueta a quien viva fuera 👇\n\nFuente: Ministerio de Asuntos Exteriores, webs consulares (Elecciones a Cortes Generales, 29-11-2026).\n\n#elecciones #29N #eleccionesgenerales #votoexterior #CERA",
-   "portada_estilo": "v2"
+   "portada_estilo": "v2",
+   "fecha": "2026-11-11T14:15",
+   "fecha_reels": "2026-11-11T14:15",
+   "formato": null
   },
   {
    "id": "slp_025_donde_voto",
@@ -906,10 +909,10 @@
     "Vox",
     "Frente Amplio"
    ],
-   "estado": "pendiente",
+   "estado": "programado",
    "fecha": "2026-11-12T13:45",
-   "nota": "Petición de Nicks (8-N): cuenta atrás Wild para el 12-N. Guion hecho, SIN VOZ. Comprobar fecha y reglas el 11/12-N antes de grabar.",
-   "copy": "¿Las verás enteras? Sí o no 👇\n\nMañana, 13-N, Jordi Wild publica en The Wild Project sus entrevistas a Abascal, Colau, Feijóo y Sánchez. Reglas: sin preguntas pactadas, sin cortes y con dos verificadores. Las cubrimos las cuatro.\n\nFuentes: Periodista Digital (2-11), ActualTV y Bilbao Hiria (24-10-2026). La frase de Wild, en Bilbao Hiria.\nFotos: Vox España (CC0), Laura Guerrero (CC BY 4.0), European People's Party (CC BY 2.0) y Vlada Republike Slovenije (dominio público), Wikimedia Commons.\n\n#JordiWild #TheWildProject #elecciones #29N #eleccionesgenerales"
+   "copy": "¿Las verás enteras? Sí o no 👇\n\nMañana, 13-N, Jordi Wild publica en The Wild Project sus entrevistas a Abascal, Colau, Feijóo y Sánchez. Reglas: sin preguntas pactadas, sin cortes y con dos verificadores. Las cubrimos las cuatro.\n\nFuentes: Periodista Digital (2-11), ActualTV y Bilbao Hiria (24-10-2026). La frase de Wild, en Bilbao Hiria.\nFotos: Vox España (CC0), Laura Guerrero (CC BY 4.0), European People's Party (CC BY 2.0) y Vlada Republike Slovenije (dominio público), Wikimedia Commons.\n\n#JordiWild #TheWildProject #elecciones #29N #eleccionesgenerales",
+   "fecha_reels": "2026-11-12T13:45"
   },
   {
    "id": "slp_068_cracovia",
