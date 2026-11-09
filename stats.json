@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 2,
-  "media_count": 57,
+  "media_count": 58,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_073_abascal_broncano_suerte",
+   "ig": "17878182042635835",
+   "fecha": "2026-11-09T23:45:32+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfiirEkEmez/",
+   "titulo": "¿Quién ganó la entrevista: Abascal o Broncano? 👇\n\nAsí acabó ",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
   {
    "id": "slp_070_encuestas_sanchez_feijoo",
    "ig": "17914404390552549",
@@ -14,13 +30,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfiU80wFJDk/",
    "titulo": "¿Remonta Sánchez? Sí o no 👇\n\nTres encuestas publicadas tras ",
-   "views": 121,
-   "reach": 89,
+   "views": 138,
+   "reach": 119,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 9929,
-   "ig_reels_video_view_total_time": 883727
+   "ig_reels_avg_watch_time": 10017,
+   "ig_reels_video_view_total_time": 1091900
   },
   {
    "id": "slp_071_tele_esta_noche",
@@ -51,8 +67,8 @@
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 9614,
-   "ig_reels_video_view_total_time": 980676
+   "ig_reels_avg_watch_time": 9553,
+   "ig_reels_video_view_total_time": 983994
   },
   {
    "id": "slp_066_abascal_revuelta_publico",
@@ -207,12 +223,12 @@
    "url": "https://www.instagram.com/reel/DfdLWXvk622/",
    "titulo": "¿Debieron ir juntas? Sí o no 👇\n\nColau y Montero: la candidat",
    "views": 1406,
-   "reach": 1166,
+   "reach": 1167,
    "saved": 2,
    "shares": 0,
    "total_interactions": 13,
-   "ig_reels_avg_watch_time": 16679,
-   "ig_reels_video_view_total_time": 19382087
+   "ig_reels_avg_watch_time": 16674,
+   "ig_reels_video_view_total_time": 19391952
   },
   {
    "id": "slp_059_abascal_broncano",
