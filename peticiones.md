@@ -30,3 +30,8 @@ La rutina lee este archivo ANTES del radar y lo que diga aquí manda sobre el re
 - **Miércoles 12-N: cuenta atrás de las entrevistas de Jordi Wild** (guion `slp_067_wild_cuenta_atras`, sin voz; comprobar fecha y reglas antes).
 - **13-N y 14-N: cubrir cada entrevista de The Wild Project (Abascal, Colau, Feijóo, Sánchez)** con las frases más fuertes, literales y con enlace al vídeo: un vídeo por entrevista («¿Qué ha dicho X en The Wild Project?») más uno comparando lo que dijo cada uno sobre el mismo tema. Mismo trato para los cuatro. El 13-N es día pico (10 vídeos).
 - Datos: Colau vs Montero (slp_060) es el récord (1.390 views, 1.157 de alcance, 16,7 s); Netanyahu 388 y 30 s. Repetir el formato VS/choque.
+
+## 10-N (00:10) — Abascal en La Revuelta: 10 Reels (HECHO)
+- slp_073–082 programados del 10-N 00:45 al 11-N 13:45. El 10-N ya está lleno (9 Reels): la pasada de hoy NO añade más al 10-N salvo noticia muy grande; solo prepara el 11-N (huelga general) y el 12-N.
+- Si sale la audiencia de La Revuelta (Barlovento/Kantar, ~10:00), vale un Reel extra en el 11-N: "Abascal vs Sánchez en audiencia" (Sánchez hizo 4,4 M).
+- Nicks no graba clips; usar solo lo que haya.
