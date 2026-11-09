@@ -1,0 +1,213 @@
+{
+ "id": "slp_075_abascal_deconstruir",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL CHOQUE",
+  "LO QUE DIJO",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "VS · ANOCHE EN LA 1",
+  "source": "Fuentes: El Nacional · El Español · Infobae"
+ },
+ "caption": "¿Quién tenía razón: Abascal o Broncano? 👇\n\nEl choque más comentado de Abascal en La Revuelta: violencia machista, micromachismos y «si te quieres deconstruir, hazlo, pero no me obligues».\n\nFuentes: El Nacional, El Español (directo 9-11) e Infobae (9-11).\nFotos: Vox España (CC0) y Pedro J Pacheco (CC BY-SA 4.0), Wikimedia Commons.\n\n#Abascal #Broncano #LaRevuelta #elecciones #29N",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "«David, si te quieres deconstruir, hazlo. Pero no me obligues a mí». Abascal a Broncano.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Abascal vs *Broncano*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kA",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 560,
+       "w": 500,
+       "x": 27,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3,
+       "label": "Abascal",
+       "from": "left"
+      },
+      {
+       "id": "kB",
+       "type": "cara",
+       "foto": "broncano",
+       "h": 560,
+       "w": 500,
+       "x": 73,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3,
+       "label": "Broncano",
+       "from": "right"
+      },
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "«NO ME OBLIGUES»",
+       "bg": "red",
+       "size": 80,
+       "x": 50,
+       "y": 62,
+       "at": 0,
+       "dur": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "El tema: violencia machista. Broncano le pide no frivolizar con los micromachismos.",
+     "hide": [
+      "h1",
+      "kA",
+      "kB"
+     ],
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "El *tema*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kB2",
+       "type": "cara",
+       "foto": "broncano",
+       "h": 460,
+       "w": 440,
+       "x": 50,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": 0
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "«No frivolices»",
+       "x": 50,
+       "y": 62,
+       "w": 900,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Abascal: castigo penal para los agresores, pero estas leyes, dice, «buscan el enfrentamiento de sexos». Y: «Ahora cualquier cosa es machismo».",
+     "hide": [
+      "kB2",
+      "c1"
+     ],
+     "show": [
+      {
+       "id": "kA2",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 460,
+       "w": 440,
+       "x": 50,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": 0
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "«Ahora cualquier cosa es machismo»",
+       "x": 50,
+       "y": 62,
+       "w": 900,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Quién tenía razón? ¿Abascal o Broncano? Comenta y síguenos.",
+     "hide": [
+      "h2",
+      "kA2",
+      "c2"
+     ],
+     "show": [
+      {
+       "id": "kA3",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 420,
+       "w": 380,
+       "x": 27,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3
+      },
+      {
+       "id": "kB3",
+       "type": "cara",
+       "foto": "broncano",
+       "h": 420,
+       "w": 380,
+       "x": 73,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿QUIÉN TIENE RAZÓN?",
+       "color": "ink",
+       "x": 50,
+       "y": 66,
+       "rot": -4,
+       "at": 3
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "VS",
+  "titulo": "«Si te quieres *deconstruir*»",
+  "mini": {
+   "texto": "Abascal a Broncano:",
+   "rojo": "«NO ME OBLIGUES»",
+   "cara": "abascal",
+   "cara2": "broncano",
+   "emoji": "🔥",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 104
+  }
+ }
+}

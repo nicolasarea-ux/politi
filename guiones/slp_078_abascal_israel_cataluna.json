@@ -1,0 +1,197 @@
+{
+ "id": "slp_078_abascal_israel_cataluna",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "LO QUE CONTÓ",
+  "DE DÓNDE VIENE",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "VS · ANOCHE EN LA 1",
+  "source": "Fuentes: El Nacional · OKDiario · Moncloa.com"
+ },
+ "caption": "¿Debe un partido negociar esto con otro país? Sí o no 👇\n\nEn La Revuelta (9-11) Abascal contó que pidió a Israel no reconocer una independencia de Cataluña. Viene de su viaje a Jerusalén en 2024, cuando Vox anunció el compromiso de Netanyahu.\n\nFuentes: El Nacional (9-11); OKDiario y Moncloa.com (mayo de 2024).\nFotos: Vox España (CC0) y Pedro J Pacheco (CC BY-SA 4.0), Wikimedia Commons; Netanyahu: Wikimedia Commons (ver créditos).\n\n#Abascal #Broncano #LaRevuelta #elecciones #29N #Israel #Cataluña",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Abascal soltó esto en La Revuelta: pidió a Israel que no reconociera una independencia de Cataluña.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Abascal, *Israel* y Cataluña",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kA",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 560,
+       "w": 500,
+       "x": 30,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3,
+       "label": "Abascal",
+       "from": "left"
+      },
+      {
+       "id": "kN",
+       "type": "cara",
+       "foto": "netanyahu",
+       "h": 560,
+       "w": 500,
+       "x": 72,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3,
+       "label": "Netanyahu",
+       "from": "right"
+      },
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "🇮🇱 + CATALUÑA",
+       "bg": "ink",
+       "size": 80,
+       "x": 50,
+       "y": 62,
+       "at": 0,
+       "dur": 2.2
+      }
+     ]
+    },
+    {
+     "text": "Y dice que logró apoyo israelí también sobre Ceuta y Melilla.",
+     "show": [
+      {
+       "id": "st",
+       "type": "stamp",
+       "text": "CEUTA Y MELILLA",
+       "color": "red",
+       "x": 50,
+       "y": 66,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "No es nuevo: en 2024 Abascal fue a Jerusalén a ver a Netanyahu, y Vox anunció ese compromiso.",
+     "hide": [
+      "h1",
+      "kA",
+      "kN",
+      "st"
+     ],
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "De dónde *viene*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "Mayo 2024: Abascal con Netanyahu",
+       "x": 50,
+       "y": 50,
+       "w": 900,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Broncano le reprochó hablar de Cataluña y no de Palestina.",
+     "hide": [
+      "c1"
+     ],
+     "show": [
+      {
+       "id": "kB2",
+       "type": "cara",
+       "foto": "broncano",
+       "h": 480,
+       "w": 460,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "keep": 1,
+       "tilt": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Debe un partido negociar esto con otro país? Sí o no. Comenta y síguenos.",
+     "hide": [
+      "h2",
+      "kB2"
+     ],
+     "show": [
+      {
+       "id": "uE",
+       "type": "urni",
+       "x": 50,
+       "y": 47,
+       "w": 260,
+       "say": "¿Sí o no?",
+       "moods": [
+        {
+         "at": 0,
+         "m": "duda"
+        }
+       ],
+       "at": 0
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿SÍ O NO?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 3
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "VS",
+  "titulo": "Abascal, *Israel* y Cataluña",
+  "mini": {
+   "texto": "Abascal pidió a Israel:",
+   "rojo": "NO A UNA CATALUÑA INDEPENDIENTE",
+   "cara": "abascal",
+   "cara2": "netanyahu",
+   "emoji": "🇮🇱",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 76
+  }
+ }
+}

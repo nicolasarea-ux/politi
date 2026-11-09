@@ -1,0 +1,220 @@
+{
+ "id": "slp_080_revuelta_top5",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "5 Y 4",
+  "3 Y 2",
+  "EL 1"
+ ],
+ "header": {
+  "tag": "VS · ANOCHE EN LA 1",
+  "source": "Fuentes: Infobae · El Nacional · El Español · Campo de Gibraltar 24h"
+ },
+ "caption": "¿Cuál fue el mejor momento? Comenta el número 👇\n\nLos 5 momentos de Abascal en La Revuelta (9-11), de menos a más.\n\nFuentes: Infobae, El Nacional, El Español y Campo de Gibraltar 24h (9-11).\nFotos: Vox España (CC0) y Pedro J Pacheco (CC BY-SA 4.0), Wikimedia Commons.\n\n#Abascal #Broncano #LaRevuelta #elecciones #29N",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Los cinco momentazos de Abascal en La Revuelta. Cinco: el público grita «¡presidente!» nada más entrar.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Top *5* momentazos",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kA",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 500,
+       "w": 440,
+       "x": 27,
+       "y": 46,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3,
+       "label": "Abascal",
+       "from": "left"
+      },
+      {
+       "id": "kB",
+       "type": "cara",
+       "foto": "broncano",
+       "h": 500,
+       "w": 440,
+       "x": 73,
+       "y": 46,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3,
+       "label": "Broncano",
+       "from": "right"
+      },
+      {
+       "id": "f5",
+       "type": "flash",
+       "text": "5 · «¡PRESIDENTE!»",
+       "bg": "ink",
+       "size": 70,
+       "x": 50,
+       "y": 66,
+       "at": 0,
+       "dur": 3
+      }
+     ]
+    },
+    {
+     "text": "Cuatro: «El principal fondo buitre es el Gobierno».",
+     "hide": [
+      "kA",
+      "kB"
+     ],
+     "show": [
+      {
+       "id": "f4",
+       "type": "flash",
+       "text": "4 · «EL FONDO BUITRE ES EL GOBIERNO»",
+       "bg": "ink",
+       "size": 54,
+       "x": 50,
+       "y": 46,
+       "at": 0,
+       "dur": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Tres: «Si te quieres deconstruir, hazlo, pero no me obligues».",
+     "show": [
+      {
+       "id": "f3",
+       "type": "flash",
+       "text": "3 · «NO ME OBLIGUES»",
+       "bg": "ink",
+       "size": 70,
+       "x": 50,
+       "y": 46,
+       "at": 0,
+       "dur": 3
+      }
+     ]
+    },
+    {
+     "text": "Dos: Broncano, sobre Israel: «No has tenido huevos». Luego pidió perdón por las formas.",
+     "show": [
+      {
+       "id": "f2",
+       "type": "flash",
+       "text": "2 · «NO HAS TENIDO HUEVOS»",
+       "bg": "red",
+       "size": 62,
+       "x": 50,
+       "y": 46,
+       "at": 0,
+       "dur": 3.2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y uno: la despedida. Broncano no le desea suerte. Abascal: «Yo sí. Porque la vas a necesitar».",
+     "hide": [
+      "h1"
+     ],
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "El *número 1*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kA3",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 500,
+       "w": 440,
+       "x": 27,
+       "y": 44,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3,
+       "from": "left"
+      },
+      {
+       "id": "kB3",
+       "type": "cara",
+       "foto": "broncano",
+       "h": 500,
+       "w": 440,
+       "x": 73,
+       "y": 44,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3,
+       "from": "right"
+      },
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "1 · «LA VAS A NECESITAR»",
+       "bg": "red",
+       "size": 62,
+       "x": 50,
+       "y": 66,
+       "at": 0,
+       "dur": 3.5
+      }
+     ]
+    },
+    {
+     "text": "¿Cuál fue el mejor? Comenta el número y síguenos.",
+     "show": [
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿CUÁL? 1-5",
+       "color": "ink",
+       "x": 50,
+       "y": 66,
+       "rot": -4,
+       "at": 1
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "TOP",
+  "titulo": "Top *5* de Abascal en La Revuelta",
+  "mini": {
+   "texto": "Abascal en La Revuelta:",
+   "rojo": "TOP 5 MOMENTAZOS",
+   "cara": "abascal",
+   "cara2": "broncano",
+   "emoji": "🔥",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 96
+  }
+ }
+}

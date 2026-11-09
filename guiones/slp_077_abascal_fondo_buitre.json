@@ -1,0 +1,241 @@
+{
+ "id": "slp_077_abascal_fondo_buitre",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "LA FRASE",
+  "SUS CIFRAS",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "VS · ANOCHE EN LA 1",
+  "source": "Fuentes: El Nacional · Campo de Gibraltar 24h · Infobae · El Español"
+ },
+ "caption": "¿Tiene razón Abascal con la vivienda? Sí o no 👇\n\nEn La Revuelta (9-11) Abascal dijo que «el principal fondo buitre es el Gobierno» y dio sus cifras: casi seis millones de llegadas en cinco años y 400.000 viviendas. Son sus datos, tal como los dijo.\n\nFuentes: El Nacional, Campo de Gibraltar 24h, Infobae y El Español (9-11).\nFotos: Vox España (CC0) y Pedro J Pacheco (CC BY-SA 4.0), Wikimedia Commons.\n\n#Abascal #Broncano #LaRevuelta #elecciones #29N #vivienda",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "«El principal fondo buitre es el Gobierno». Abascal, en La Revuelta.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Vivienda: *el choque*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kA",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 560,
+       "w": 500,
+       "x": 27,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3,
+       "label": "Abascal",
+       "from": "left"
+      },
+      {
+       "id": "kB",
+       "type": "cara",
+       "foto": "broncano",
+       "h": 560,
+       "w": 500,
+       "x": 73,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3,
+       "label": "Broncano",
+       "from": "right"
+      },
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "«EL FONDO BUITRE ES EL GOBIERNO»",
+       "bg": "red",
+       "size": 58,
+       "x": 50,
+       "y": 62,
+       "at": 0,
+       "dur": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Sus cifras: casi seis millones de personas llegadas en cinco años, y solo cuatrocientas mil viviendas construidas.",
+     "hide": [
+      "h1",
+      "kA",
+      "kB"
+     ],
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "Sus *cifras*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "~6 millones de llegadas en 5 años",
+       "x": 50,
+       "y": 40,
+       "w": 900,
+       "at": 0
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "400.000 viviendas",
+       "x": 50,
+       "y": 56,
+       "w": 900,
+       "at": 9
+      }
+     ]
+    },
+    {
+     "text": "Su propuesta: quitar los impuestos a la primera vivienda. Según él, bajaría el precio al menos un treinta por ciento.",
+     "hide": [
+      "c1",
+      "c2"
+     ],
+     "show": [
+      {
+       "id": "s1",
+       "type": "sticker",
+       "text": "🏠",
+       "x": 50,
+       "y": 38,
+       "at": 0
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "Sin impuestos en la 1.ª vivienda: −30 %, según él",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Vigilar la especulación, sí, dice. Pero el problema es el Gobierno.",
+     "hide": [
+      "s1",
+      "c3"
+     ],
+     "show": [
+      {
+       "id": "kA",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 480,
+       "w": 420,
+       "x": 27,
+       "y": 46,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3,
+       "from": "left"
+      },
+      {
+       "id": "kB",
+       "type": "cara",
+       "foto": "broncano",
+       "h": 480,
+       "w": 420,
+       "x": 73,
+       "y": 46,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3,
+       "from": "right"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Tiene razón Abascal con la vivienda? Sí o no. Comenta y síguenos.",
+     "hide": [
+      "h2",
+      "kA",
+      "kB"
+     ],
+     "show": [
+      {
+       "id": "kA9",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 460,
+       "w": 420,
+       "x": 27,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3
+      },
+      {
+       "id": "kB9",
+       "type": "cara",
+       "foto": "broncano",
+       "h": 460,
+       "w": 420,
+       "x": 73,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿SÍ O NO?",
+       "color": "ink",
+       "x": 50,
+       "y": 66,
+       "rot": -4,
+       "at": 3
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "VS",
+  "titulo": "«El fondo buitre es *el Gobierno*»",
+  "mini": {
+   "texto": "Abascal en La Revuelta:",
+   "rojo": "«EL FONDO BUITRE ES EL GOBIERNO»",
+   "cara": "abascal",
+   "cara2": "broncano",
+   "emoji": "🏠",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 76
+  }
+ }
+}

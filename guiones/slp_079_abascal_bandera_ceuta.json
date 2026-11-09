@@ -1,0 +1,201 @@
+{
+ "id": "slp_079_abascal_bandera_ceuta",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL REGALO",
+  "LA RESPUESTA",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "VS · ANOCHE EN LA 1",
+  "source": "Fuentes: Infobae · El Nacional · El Español"
+ },
+ "caption": "¿Debería Broncano colgar la bandera? Sí o no 👇\n\nEl regalo de Abascal en La Revuelta (9-11): una bandera de Ceuta, con petición incluida. Y la respuesta de Broncano.\n\nFuentes: Infobae, El Nacional y El Español (9-11).\nFotos: Vox España (CC0) y Pedro J Pacheco (CC BY-SA 4.0), Wikimedia Commons.\n\n#Abascal #Broncano #LaRevuelta #elecciones #29N #Ceuta",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "El regalo de Abascal a Broncano: una bandera de Ceuta. Y una petición: «Te pediría que la pusieras».",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "El *regalo*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kA",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 560,
+       "w": 500,
+       "x": 27,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3,
+       "label": "Abascal",
+       "from": "left"
+      },
+      {
+       "id": "kB",
+       "type": "cara",
+       "foto": "broncano",
+       "h": 560,
+       "w": 500,
+       "x": 73,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3,
+       "label": "Broncano",
+       "from": "right"
+      },
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "🎁 BANDERA DE CEUTA",
+       "bg": "ink",
+       "size": 76,
+       "x": 50,
+       "y": 62,
+       "at": 0,
+       "dur": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Broncano: «Estoy comprometido con todos los territorios».",
+     "hide": [
+      "kA"
+     ],
+     "show": [
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "«Comprometido con todos los territorios»",
+       "x": 50,
+       "y": 72,
+       "w": 900,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Abascal habló de «invasión» en Ceuta, por Marruecos. Broncano no compró esa palabra. Y ahí acordaron menos chistes.",
+     "hide": [
+      "h1",
+      "kB",
+      "c1"
+     ],
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "«*Invasión*»",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kA2",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 480,
+       "w": 460,
+       "x": 50,
+       "y": 42,
+       "at": 0,
+       "keep": 1,
+       "tilt": 0
+      },
+      {
+       "id": "st",
+       "type": "stamp",
+       "text": "MENOS CHISTES",
+       "color": "red",
+       "x": 50,
+       "y": 66,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Debería Broncano colgar la bandera? Sí o no. Comenta y síguenos.",
+     "hide": [
+      "h2",
+      "kA2",
+      "st"
+     ],
+     "show": [
+      {
+       "id": "kA9",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 460,
+       "w": 420,
+       "x": 27,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3
+      },
+      {
+       "id": "kB9",
+       "type": "cara",
+       "foto": "broncano",
+       "h": 460,
+       "w": 420,
+       "x": 73,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿LA CUELGA?",
+       "color": "ink",
+       "x": 50,
+       "y": 66,
+       "rot": -4,
+       "at": 3
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "VS",
+  "titulo": "La *bandera* de Abascal",
+  "mini": {
+   "texto": "El regalo de Abascal:",
+   "rojo": "«PONLA»",
+   "cara": "abascal",
+   "cara2": "broncano",
+   "emoji": "🎁",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 118
+  }
+ }
+}

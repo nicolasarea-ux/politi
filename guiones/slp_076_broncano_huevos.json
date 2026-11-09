@@ -1,0 +1,240 @@
+{
+ "id": "slp_076_broncano_huevos",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL ZASCA",
+  "LA RESPUESTA",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "VS · ANOCHE EN LA 1",
+  "source": "Fuentes: Infobae · El Nacional"
+ },
+ "caption": "¿Se pasó Broncano o tenía razón? 👇\n\nEl momento más tenso de Abascal en La Revuelta (9-11): Israel, Gaza y un «no has tenido huevos» de Broncano, que después pidió perdón por las formas.\n\nFuentes: Infobae y El Nacional (9 y 10-11).\nFotos: Vox España (CC0) y Pedro J Pacheco (CC BY-SA 4.0), Wikimedia Commons.\n\n#Abascal #Broncano #LaRevuelta #elecciones #29N",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "«No has tenido huevos». Broncano a Abascal, en directo, en La 1.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "El momento *más tenso*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kA",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 560,
+       "w": 500,
+       "x": 27,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3,
+       "label": "Abascal",
+       "from": "left"
+      },
+      {
+       "id": "kB",
+       "type": "cara",
+       "foto": "broncano",
+       "h": 560,
+       "w": 500,
+       "x": 73,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3,
+       "label": "Broncano",
+       "from": "right"
+      },
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "«NO HAS TENIDO HUEVOS»",
+       "bg": "red",
+       "size": 66,
+       "x": 50,
+       "y": 62,
+       "at": 0,
+       "dur": 3
+      }
+     ]
+    },
+    {
+     "text": "El tema: Israel. Broncano le reprocha no hablar de los bombardeos ni de los niños muertos en Gaza.",
+     "hide": [
+      "kA",
+      "kB"
+     ],
+     "show": [
+      {
+       "id": "s1",
+       "type": "sticker",
+       "text": "🇮🇱",
+       "x": 50,
+       "y": 38,
+       "at": 0
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "Israel y Gaza",
+       "x": 50,
+       "y": 56,
+       "w": 900,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Abascal culpa a Hamás. Y remata: «Es mi posición y no voy a cambiarla».",
+     "hide": [
+      "h1",
+      "s1",
+      "c1"
+     ],
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "La *respuesta*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kA2",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 480,
+       "w": 460,
+       "x": 50,
+       "y": 42,
+       "at": 0,
+       "keep": 1,
+       "tilt": 0
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "«Es mi posición y no voy a cambiarla»",
+       "x": 50,
+       "y": 64,
+       "w": 900,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Broncano, después, pidió perdón por las formas. No por el fondo.",
+     "hide": [
+      "kA2",
+      "c2"
+     ],
+     "show": [
+      {
+       "id": "kB2",
+       "type": "cara",
+       "foto": "broncano",
+       "h": 480,
+       "w": 460,
+       "x": 50,
+       "y": 42,
+       "at": 0,
+       "keep": 1,
+       "tilt": 0
+      },
+      {
+       "id": "st",
+       "type": "stamp",
+       "text": "PERDÓN POR LAS FORMAS",
+       "color": "red",
+       "x": 50,
+       "y": 64,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Se pasó Broncano, o tenía razón? Sí o no. Comenta y síguenos.",
+     "hide": [
+      "h2",
+      "kB2",
+      "st"
+     ],
+     "show": [
+      {
+       "id": "kA9",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 460,
+       "w": 420,
+       "x": 27,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3
+      },
+      {
+       "id": "kB9",
+       "type": "cara",
+       "foto": "broncano",
+       "h": 460,
+       "w": 420,
+       "x": 73,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿SE PASÓ?",
+       "color": "ink",
+       "x": 50,
+       "y": 66,
+       "rot": -4,
+       "at": 3
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "VS",
+  "titulo": "«No has tenido *huevos*»",
+  "mini": {
+   "texto": "Broncano a Abascal:",
+   "rojo": "«NO HAS TENIDO HUEVOS»",
+   "cara": "broncano",
+   "cara2": "abascal",
+   "emoji": "😳",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 84
+  }
+ }
+}

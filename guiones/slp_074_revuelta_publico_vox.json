@@ -1,0 +1,231 @@
+{
+ "id": "slp_074_revuelta_publico_vox",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL PÚBLICO",
+  "LA PULLA",
+  "SÁNCHEZ"
+ ],
+ "header": {
+  "tag": "VS · ANOCHE EN LA 1",
+  "source": "Fuentes: El Nacional · El Español · Campo de Gibraltar 24h"
+ },
+ "caption": "¿Debe el invitado poder elegir el público? Sí o no 👇\n\nEn La Revuelta de anoche el público lo gestionó una agencia a petición del equipo de Abascal, y Broncano lo dijo en directo. Lo que pasó y lo que dijo Sánchez.\n\nFuentes: El Nacional, El Español (directo 9-11) y Campo de Gibraltar 24h (9-11).\nFotos: Vox España (CC0), Pedro J Pacheco (CC BY-SA 4.0) y Vlada Republike Slovenije (dominio público), Wikimedia Commons.\n\n#Abascal #Broncano #LaRevuelta #Sánchez #29N",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Abascal entra en La Revuelta y el público grita: «¡Presidente, presidente!».",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Abascal vs *Broncano*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kA",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 560,
+       "w": 500,
+       "x": 27,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3,
+       "label": "Abascal",
+       "from": "left"
+      },
+      {
+       "id": "kB",
+       "type": "cara",
+       "foto": "broncano",
+       "h": 560,
+       "w": 500,
+       "x": 73,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3,
+       "label": "Broncano",
+       "from": "right"
+      },
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "«¡PRESIDENTE!»",
+       "bg": "red",
+       "size": 90,
+       "x": 50,
+       "y": 62,
+       "at": 0,
+       "dur": 2.2
+      }
+     ]
+    },
+    {
+     "text": "Ese público lo gestionó una agencia, a petición del equipo de Abascal.",
+     "hide": [
+      "kA",
+      "kB"
+     ],
+     "show": [
+      {
+       "id": "s1",
+       "type": "sticker",
+       "text": "🎟️",
+       "x": 50,
+       "y": 40,
+       "at": 0
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "Público: agencia, a petición de Vox",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Y Broncano, con ironía: «Que no quede una intervención de Abascal sin aplausos».",
+     "hide": [
+      "h1",
+      "s1",
+      "c1"
+     ],
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "La *pulla*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kB2",
+       "type": "cara",
+       "foto": "broncano",
+       "h": 480,
+       "w": 460,
+       "x": 50,
+       "y": 42,
+       "at": 0,
+       "keep": 1,
+       "tilt": 0
+      },
+      {
+       "id": "f2",
+       "type": "flash",
+       "text": "👏 👏 👏",
+       "bg": "ink",
+       "size": 100,
+       "x": 50,
+       "y": 64,
+       "at": 0,
+       "dur": 2.5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Sánchez, en La Séptima: «Luego tengo que escuchar que el dictador soy yo».",
+     "hide": [
+      "h2",
+      "kB2"
+     ],
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "Y *Sánchez*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kS",
+       "type": "cara",
+       "foto": "sanchez",
+       "h": 480,
+       "w": 460,
+       "x": 50,
+       "y": 42,
+       "at": 0,
+       "keep": 1,
+       "tilt": 0,
+       "label": "Sánchez"
+      }
+     ]
+    },
+    {
+     "text": "¿Debe el invitado poder elegir el público? Sí o no. Comenta y síguenos.",
+     "hide": [
+      "h3",
+      "kS"
+     ],
+     "show": [
+      {
+       "id": "uE",
+       "type": "urni",
+       "x": 50,
+       "y": 47,
+       "w": 260,
+       "say": "¿Sí o no?",
+       "moods": [
+        {
+         "at": 0,
+         "m": "duda"
+        }
+       ],
+       "at": 0
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿SÍ O NO?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 3
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "VS",
+  "titulo": "El *público* de Abascal",
+  "mini": {
+   "texto": "El público de La Revuelta:",
+   "rojo": "LO PIDIÓ VOX",
+   "cara": "abascal",
+   "cara2": "broncano",
+   "emoji": "👏",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 104
+  }
+ }
+}

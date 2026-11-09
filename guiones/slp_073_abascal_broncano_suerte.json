@@ -1,0 +1,211 @@
+{
+ "id": "slp_073_abascal_broncano_suerte",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "LA DESPEDIDA",
+  "EL CONTEXTO",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "VS · ANOCHE EN LA 1",
+  "source": "Fuentes: Infobae · Campo de Gibraltar 24h · El Nacional"
+ },
+ "caption": "¿Quién ganó la entrevista: Abascal o Broncano? 👇\n\nAsí acabó Abascal en La Revuelta (La 1, 9-11): Broncano no le desea suerte para el 29-N y Abascal le responde «porque la vas a necesitar».\n\nFuentes: Infobae, Campo de Gibraltar 24h y El Nacional (9 y 10-11). Que el programa siga tras el 29-N no está confirmado ni desmentido.\nFotos: Vox España (CC0) y Pedro J Pacheco (CC BY-SA 4.0), Wikimedia Commons.\n\n#Abascal #Broncano #LaRevuelta #elecciones #29N",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Así acabó Abascal en La Revuelta. Broncano: no le desea suerte para el 29|veintinueve N.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "La *despedida*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kA",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 560,
+       "w": 500,
+       "x": 27,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3,
+       "label": "Abascal",
+       "from": "left"
+      },
+      {
+       "id": "kB",
+       "type": "cara",
+       "foto": "broncano",
+       "h": 560,
+       "w": 500,
+       "x": 73,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3,
+       "label": "Broncano",
+       "from": "right"
+      },
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "SIN SUERTE",
+       "bg": "red",
+       "size": 90,
+       "x": 50,
+       "y": 62,
+       "at": 0,
+       "dur": 2.2
+      }
+     ]
+    },
+    {
+     "text": "Y Abascal le contesta: «Yo sí. Porque la vas a necesitar».",
+     "show": [
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "«LA VAS A NECESITAR»",
+       "bg": "ink",
+       "size": 70,
+       "x": 50,
+       "y": 66,
+       "at": 0,
+       "dur": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "La prensa lo lee como una pulla al futuro de La Revuelta en la tele pública si cambia el Gobierno.",
+     "hide": [
+      "h1",
+      "kA",
+      "kB"
+     ],
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "La *pulla*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "s1",
+       "type": "sticker",
+       "text": "📺",
+       "x": 50,
+       "y": 36,
+       "at": 0
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "Si cambia el Gobierno, ¿sigue La Revuelta?",
+       "x": 50,
+       "y": 54,
+       "w": 900,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Ojo: que el programa se acabe no está confirmado. Nadie lo ha dicho.",
+     "show": [
+      {
+       "id": "st",
+       "type": "stamp",
+       "text": "SIN CONFIRMAR",
+       "color": "red",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y tú, ¿quién ganó la entrevista? ¿Abascal o Broncano? Comenta y síguenos.",
+     "hide": [
+      "h2",
+      "s1",
+      "c1",
+      "st"
+     ],
+     "show": [
+      {
+       "id": "kA2",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 420,
+       "w": 380,
+       "x": 27,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3
+      },
+      {
+       "id": "kB2",
+       "type": "cara",
+       "foto": "broncano",
+       "h": 420,
+       "w": 380,
+       "x": 73,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿QUIÉN GANÓ?",
+       "color": "ink",
+       "x": 50,
+       "y": 66,
+       "rot": -4,
+       "at": 4
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "VS",
+  "titulo": "Abascal vs *Broncano*",
+  "mini": {
+   "texto": "Abascal a Broncano:",
+   "rojo": "«LA VAS A NECESITAR»",
+   "cara": "abascal",
+   "cara2": "broncano",
+   "emoji": "🍀",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 96
+  }
+ }
+}

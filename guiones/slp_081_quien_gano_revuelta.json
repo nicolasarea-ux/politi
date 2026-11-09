@@ -1,0 +1,244 @@
+{
+ "id": "slp_081_quien_gano_revuelta",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "LA PRENSA",
+  "LOS ZASCAS",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "VS · ANOCHE EN LA 1",
+  "source": "Fuentes: El Nacional · Campo de Gibraltar 24h · El Español · Infobae"
+ },
+ "caption": "¿Quién ganó: Abascal o Broncano? Vota en comentarios 👇\n\nLo que dejó la entrevista de Abascal en La Revuelta (9-11) y los cruces que la decidieron.\n\nFuentes: El Nacional, Campo de Gibraltar 24h, El Español e Infobae (9 y 10-11).\nFotos: Vox España (CC0) y Pedro J Pacheco (CC BY-SA 4.0), Wikimedia Commons.\n\n#Abascal #Broncano #LaRevuelta #elecciones #29N",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Quién ganó la entrevista de La Revuelta? Hoy decides tú.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "¿Quién *ganó*?",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kA",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 560,
+       "w": 500,
+       "x": 27,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3,
+       "label": "Abascal",
+       "from": "left"
+      },
+      {
+       "id": "kB",
+       "type": "cara",
+       "foto": "broncano",
+       "h": 560,
+       "w": 500,
+       "x": 73,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3,
+       "label": "Broncano",
+       "from": "right"
+      },
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "¿QUIÉN GANÓ?",
+       "bg": "red",
+       "size": 90,
+       "x": 50,
+       "y": 62,
+       "at": 0,
+       "dur": 2.2
+      }
+     ]
+    },
+    {
+     "text": "Abascal, a la salida: «Ha sido más un debate serio». Broncano tuvo que pedir perdón por unas formas.",
+     "hide": [
+      "kA",
+      "kB"
+     ],
+     "show": [
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "«Más un debate serio» — Abascal",
+       "x": 50,
+       "y": 50,
+       "w": 900,
+       "at": 8
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "Broncano: perdón por las formas",
+       "x": 50,
+       "y": 66,
+       "w": 900,
+       "at": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Los cruces: Abascal: «Te veo un poco desesperado». Broncano: «No has tenido huevos».",
+     "hide": [
+      "h1",
+      "c1",
+      "c2"
+     ],
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "Los *zascas*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kA2",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 480,
+       "w": 420,
+       "x": 27,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3,
+       "from": "left"
+      },
+      {
+       "id": "kB2",
+       "type": "cara",
+       "foto": "broncano",
+       "h": 480,
+       "w": 420,
+       "x": 73,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3,
+       "from": "right"
+      },
+      {
+       "id": "fz",
+       "type": "flash",
+       "text": "«DESESPERADO» vs «HUEVOS»",
+       "bg": "ink",
+       "size": 58,
+       "x": 50,
+       "y": 64,
+       "at": 0,
+       "dur": 3
+      }
+     ]
+    },
+    {
+     "text": "Y un momento raro: Abascal, a Broncano: «Te voy a dar la razón».",
+     "show": [
+      {
+       "id": "st",
+       "type": "stamp",
+       "text": "«TE DOY LA RAZÓN»",
+       "color": "red",
+       "x": 50,
+       "y": 66,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Ahora decides tú: ¿Abascal o Broncano? Comenta y síguenos.",
+     "hide": [
+      "h2",
+      "kA2",
+      "kB2",
+      "st"
+     ],
+     "show": [
+      {
+       "id": "kA9",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 460,
+       "w": 420,
+       "x": 27,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3,
+       "label": "Abascal"
+      },
+      {
+       "id": "kB9",
+       "type": "cara",
+       "foto": "broncano",
+       "h": 460,
+       "w": 420,
+       "x": 73,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3,
+       "label": "Broncano"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "VOTA 👇",
+       "color": "ink",
+       "x": 50,
+       "y": 66,
+       "rot": -4,
+       "at": 3
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "VS",
+  "titulo": "¿Quién *ganó*?",
+  "mini": {
+   "texto": "Abascal vs Broncano:",
+   "rojo": "¿QUIÉN GANÓ?",
+   "cara": "abascal",
+   "cara2": "broncano",
+   "emoji": "🥊",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 118
+  }
+ }
+}
