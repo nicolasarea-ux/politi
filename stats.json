@@ -2,18 +2,18 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 2,
-  "media_count": 56,
+  "media_count": 57,
   "id": "29046307255021601"
  },
  "reels": [
   {
-   "id": "slp_071_tele_esta_noche",
-   "ig": "17912084523561606",
-   "fecha": "2026-11-09T20:15:32+0000",
+   "id": "slp_070_encuestas_sanchez_feijoo",
+   "ig": "17914404390552549",
+   "fecha": "2026-11-09T21:45:33+0000",
    "likes": 0,
    "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfiKo3FgCbf/",
-   "titulo": "¿A quién verás, Sánchez o Abascal? 👇\n\nEsta noche, casi a la ",
+   "url": "https://www.instagram.com/reel/DfiU80wFJDk/",
+   "titulo": "¿Remonta Sánchez? Sí o no 👇\n\nTres encuestas publicadas tras ",
    "views": 0,
    "reach": 0,
    "saved": 0,
@@ -23,20 +23,36 @@
    "ig_reels_video_view_total_time": 0
   },
   {
+   "id": "slp_071_tele_esta_noche",
+   "ig": "17912084523561606",
+   "fecha": "2026-11-09T20:15:32+0000",
+   "likes": 4,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfiKo3FgCbf/",
+   "titulo": "¿A quién verás, Sánchez o Abascal? 👇\n\nEsta noche, casi a la ",
+   "views": 134,
+   "reach": 106,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 4,
+   "ig_reels_avg_watch_time": 11089,
+   "ig_reels_video_view_total_time": 1197612
+  },
+  {
    "id": "slp_065_bulos_izquierda_3",
    "ig": "18125370301725747",
    "fecha": "2026-11-09T18:45:32+0000",
-   "likes": 0,
+   "likes": 1,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfiAVsjliP9/",
    "titulo": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la izquierd",
-   "views": 75,
-   "reach": 60,
+   "views": 113,
+   "reach": 101,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 0,
-   "ig_reels_avg_watch_time": 9319,
-   "ig_reels_video_view_total_time": 549850
+   "total_interactions": 1,
+   "ig_reels_avg_watch_time": 9614,
+   "ig_reels_video_view_total_time": 980676
   },
   {
    "id": "slp_066_abascal_revuelta_publico",
@@ -46,13 +62,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfhXJAPnZLr/",
    "titulo": "¿Debería haber público normal? Sí o no 👇\n\nAbascal va hoy a L",
-   "views": 154,
-   "reach": 122,
+   "views": 155,
+   "reach": 123,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 11967,
-   "ig_reels_video_view_total_time": 1495961
+   "ig_reels_avg_watch_time": 11942,
+   "ig_reels_video_view_total_time": 1504736
   },
   {
    "id": "slp_064_feijoo_huelga_11n",
@@ -62,13 +78,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfg05cNDOT9/",
    "titulo": "¿Debería desconvocarse? Sí o no 👇\n\nFeijóo pide a CCOO y UGT ",
-   "views": 142,
-   "reach": 122,
+   "views": 143,
+   "reach": 123,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 7839,
-   "ig_reels_video_view_total_time": 972073
+   "ig_reels_avg_watch_time": 7800,
+   "ig_reels_video_view_total_time": 975106
   },
   {
    "id": "slp_063_feijoo_sanchez_trump",
