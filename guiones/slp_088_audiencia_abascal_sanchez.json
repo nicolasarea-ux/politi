@@ -1,0 +1,253 @@
+{
+ "id": "slp_088_audiencia_abascal_sanchez",
+ "brand": "Politízate Hoy",
+ "formato": "vs",
+ "clauses": 2,
+ "clauseLabels": [
+  "LA NOCHE DEL 9-N",
+  "EL RÉCORD",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "VS · AUDIENCIAS",
+  "source": "Fuentes: elDiario.es (Vertele) · Demócrata"
+ },
+ "caption": "",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Abascal ganó a Sánchez… en audiencia: 4,8 millones lo vieron en La Revuelta.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Abascal vs *Sánchez*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kA",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 560,
+       "w": 500,
+       "x": 27,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3,
+       "label": "Abascal · La 1",
+       "from": "left"
+      },
+      {
+       "id": "kS",
+       "type": "cara",
+       "foto": "sanchez",
+       "h": 560,
+       "w": 500,
+       "x": 73,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3,
+       "label": "Sánchez · La Séptima",
+       "from": "right"
+      },
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "4,8 MILLONES",
+       "bg": "red",
+       "size": 90,
+       "x": 50,
+       "y": 64,
+       "at": 0,
+       "dur": 3
+      }
+     ]
+    },
+    {
+     "text": "A la misma hora, Sánchez en La Séptima: 2,16 millones.",
+     "show": [
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "Abascal: 4.815.000 (33,6 %)",
+       "x": 50,
+       "y": 15,
+       "w": 900,
+       "at": 0
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "Sánchez: 2.160.000 (14,2 %)",
+       "x": 50,
+       "y": 24,
+       "w": 900,
+       "at": 4
+      }
+     ],
+     "hide": [
+      "h1",
+      "f0"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Pero Sánchez también fue a La Revuelta en octubre: 4,4 millones, y más cuota que Abascal, por tres décimas.",
+     "hide": [
+      "kA",
+      "kS",
+      "c1",
+      "c2"
+     ],
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "El récord sigue siendo de *Sánchez*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kS2",
+       "type": "cara",
+       "foto": "sanchez",
+       "h": 480,
+       "w": 460,
+       "x": 50,
+       "y": 42,
+       "at": 0,
+       "keep": 1,
+       "tilt": 0
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "22-O: 4.387.000 · 33,9 %",
+       "x": 50,
+       "y": 66,
+       "w": 900,
+       "at": 0
+      },
+      {
+       "id": "s1",
+       "type": "stamp",
+       "text": "+0,3 PUNTOS",
+       "color": "red",
+       "x": 70,
+       "y": 78,
+       "rot": -6,
+       "at": 14
+      }
+     ]
+    },
+    {
+     "text": "Y entre los de 13 a 24 años, Abascal se llevó un 50,7 % de cuota.",
+     "hide": [
+      "h2",
+      "kS2",
+      "c3",
+      "s1"
+     ],
+     "show": [
+      {
+       "id": "kA2",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 480,
+       "w": 460,
+       "x": 50,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": 0
+      },
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "50,7 %",
+       "bg": "mark",
+       "size": 110,
+       "x": 50,
+       "y": 64,
+       "at": 2,
+       "dur": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Quién ganó la noche: Abascal o Sánchez? Comenta y síguenos.",
+     "hide": [
+      "kA2"
+     ],
+     "show": [
+      {
+       "id": "kA9",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 460,
+       "w": 420,
+       "x": 27,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3
+      },
+      {
+       "id": "kS9",
+       "type": "cara",
+       "foto": "sanchez",
+       "h": 460,
+       "w": 420,
+       "x": 73,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿QUIÉN GANÓ?",
+       "color": "ink",
+       "x": 50,
+       "y": 66,
+       "rot": -4,
+       "at": 3
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "VS",
+  "titulo": "Abascal vs *Sánchez*",
+  "mini": {
+   "texto": "Abascal vs Sánchez:",
+   "rojo": "4,8 M vs 2,2 M",
+   "cara": "abascal",
+   "cara2": "sanchez",
+   "emoji": "📺",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 96
+  }
+ }
+}
