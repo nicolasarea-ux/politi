@@ -155,3 +155,9 @@ Motivo: estancados en ~130 views de mediana y 2 seguidores con 5 Reels/día.
 4. **Nicks NO sale en cámara ni pone su voz** (dicho el 9-N). No proponerlo más. El gancho humano lo dan los clips reales de los políticos.
 5. **Doble publicación en TikTok** cuando la cuenta esté conectada en Metricool (marca Politízate Hoy). Hasta entonces, solo Instagram.
 6. Medir el domingo 15-N: mediana de views, segundos vistos, seguidores ganados. Comparar con la semana anterior (mediana 130, 2 seguidores).
+
+## REGLA DE ORO (10-N): "TANDA EN CALIENTE"
+- Lo que funcionó: Abascal en La Revuelta → 3 Reels de madrugada con 2.100–2.800 views cada uno (mediana del canal: 139), 17–18 s vistos, 23 comentarios, de 2 a 8 seguidores.
+- Cuando haya un MOMENTO del que todo el mundo habla (entrevista, debate, zasca viral): esa misma noche, un Reel por momento (3 en las primeras 2 h y el resto al día siguiente). Frase literal en grande en el segundo 0, las dos caras, pregunta para comentar al final. Formato "top 5" incluido.
+- Próximos momentos a preparar con antelación (guiones base y caras listas): entrevistas de Jordi Wild (13-N), debates a 4 y a 2, mítines de cierre, noche electoral 29-N.
+- Días sin momento: 2–3 Reels de actualidad con caras. Nunca relleno.
