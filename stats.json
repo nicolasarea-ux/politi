@@ -1,7 +1,7 @@
 {
  "cuenta": {
   "username": "politizatehoy",
-  "followers_count": 3,
+  "followers_count": 4,
   "media_count": 60,
   "id": "29046307255021601"
  },
@@ -10,49 +10,49 @@
    "id": "slp_075_abascal_deconstruir",
    "ig": "18189949708425814",
    "fecha": "2026-11-10T01:15:32+0000",
-   "likes": 0,
-   "comentarios": 0,
+   "likes": 3,
+   "comentarios": 1,
    "url": "https://www.instagram.com/reel/Dfis-KrnS5B/",
    "titulo": "¿Quién tenía razón: Abascal o Broncano? 👇\n\nEl choque más com",
-   "views": 120,
-   "reach": 53,
+   "views": 571,
+   "reach": 280,
    "saved": 1,
    "shares": 0,
-   "total_interactions": 1,
-   "ig_reels_avg_watch_time": 11698,
-   "ig_reels_video_view_total_time": 573248
+   "total_interactions": 5,
+   "ig_reels_avg_watch_time": 12744,
+   "ig_reels_video_view_total_time": 5212345
   },
   {
    "id": "slp_074_revuelta_publico_vox",
    "ig": "18143220181719999",
    "fecha": "2026-11-10T00:30:32+0000",
-   "likes": 1,
+   "likes": 5,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfin0h_FrdC/",
    "titulo": "¿Debe el invitado poder elegir el público? Sí o no 👇\n\nEn La ",
-   "views": 280,
-   "reach": 168,
-   "saved": 0,
+   "views": 672,
+   "reach": 436,
+   "saved": 1,
    "shares": 0,
-   "total_interactions": 1,
-   "ig_reels_avg_watch_time": 12880,
-   "ig_reels_video_view_total_time": 1429749
+   "total_interactions": 6,
+   "ig_reels_avg_watch_time": 13272,
+   "ig_reels_video_view_total_time": 5760418
   },
   {
    "id": "slp_073_abascal_broncano_suerte",
    "ig": "17878182042635835",
    "fecha": "2026-11-09T23:45:32+0000",
-   "likes": 21,
-   "comentarios": 8,
+   "likes": 23,
+   "comentarios": 9,
    "url": "https://www.instagram.com/reel/DfiirEkEmez/",
    "titulo": "¿Quién ganó la entrevista: Abascal o Broncano? 👇\n\nAsí acabó ",
-   "views": 1541,
-   "reach": 908,
+   "views": 2100,
+   "reach": 1528,
    "saved": 1,
-   "shares": 0,
-   "total_interactions": 31,
-   "ig_reels_avg_watch_time": 14382,
-   "ig_reels_video_view_total_time": 12772093
+   "shares": 1,
+   "total_interactions": 35,
+   "ig_reels_avg_watch_time": 15645,
+   "ig_reels_video_view_total_time": 23843459
   },
   {
    "id": "slp_070_encuestas_sanchez_feijoo",
@@ -62,13 +62,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfiU80wFJDk/",
    "titulo": "¿Remonta Sánchez? Sí o no 👇\n\nTres encuestas publicadas tras ",
-   "views": 150,
-   "reach": 133,
+   "views": 155,
+   "reach": 135,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 10066,
-   "ig_reels_video_view_total_time": 1338897
+   "ig_reels_avg_watch_time": 10041,
+   "ig_reels_video_view_total_time": 1355558
   },
   {
    "id": "slp_071_tele_esta_noche",
@@ -94,13 +94,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfiAVsjliP9/",
    "titulo": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la izquierd",
-   "views": 114,
+   "views": 115,
    "reach": 102,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 9553,
-   "ig_reels_video_view_total_time": 983994
+   "ig_reels_avg_watch_time": 9649,
+   "ig_reels_video_view_total_time": 1003593
   },
   {
    "id": "slp_066_abascal_revuelta_publico",
@@ -110,13 +110,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfhXJAPnZLr/",
    "titulo": "¿Debería haber público normal? Sí o no 👇\n\nAbascal va hoy a L",
-   "views": 161,
-   "reach": 127,
+   "views": 162,
+   "reach": 128,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 12041,
-   "ig_reels_video_view_total_time": 1565427
+   "ig_reels_avg_watch_time": 11966,
+   "ig_reels_video_view_total_time": 1567650
   },
   {
    "id": "slp_064_feijoo_huelga_11n",
@@ -127,12 +127,12 @@
    "url": "https://www.instagram.com/reel/Dfg05cNDOT9/",
    "titulo": "¿Debería desconvocarse? Sí o no 👇\n\nFeijóo pide a CCOO y UGT ",
    "views": 148,
-   "reach": 127,
+   "reach": 128,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 7856,
-   "ig_reels_video_view_total_time": 1013516
+   "ig_reels_avg_watch_time": 7810,
+   "ig_reels_video_view_total_time": 1015418
   },
   {
    "id": "slp_063_feijoo_sanchez_trump",
