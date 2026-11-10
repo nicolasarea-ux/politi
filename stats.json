@@ -1,42 +1,58 @@
 {
  "cuenta": {
   "username": "politizatehoy",
-  "followers_count": 18,
-  "media_count": 64,
+  "followers_count": 19,
+  "media_count": 65,
   "id": "29046307255021601"
  },
  "reels": [
   {
+   "id": "slp_081_quien_gano_revuelta",
+   "ig": "18109326032192093",
+   "fecha": "2026-11-10T18:45:48+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfklLV0pQWO/",
+   "titulo": "¿Quién ganó: Abascal o Broncano? Vota en comentarios 👇\n\nLo q",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
+  {
    "id": "slp_078_abascal_israel_cataluna",
    "ig": "18100443710531911",
    "fecha": "2026-11-10T16:15:33+0000",
-   "likes": 2,
+   "likes": 3,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfkT97cDW9i/",
    "titulo": "¿Debe un partido negociar esto con otro país? Sí o no 👇\n\nEn ",
-   "views": 155,
-   "reach": 104,
+   "views": 231,
+   "reach": 186,
    "saved": 1,
    "shares": 0,
-   "total_interactions": 3,
-   "ig_reels_avg_watch_time": 9466,
-   "ig_reels_video_view_total_time": 965555
+   "total_interactions": 4,
+   "ig_reels_avg_watch_time": 9494,
+   "ig_reels_video_view_total_time": 1747038
   },
   {
    "id": "slp_080_revuelta_top5",
    "ig": "18018181805751206",
    "fecha": "2026-11-10T12:45:47+0000",
-   "likes": 36,
-   "comentarios": 9,
+   "likes": 39,
+   "comentarios": 10,
    "url": "https://www.instagram.com/reel/Dfj7826HcKP/",
    "titulo": "¿Cuál fue el mejor momento? Comenta el número 👇\n\nLos 5 momen",
-   "views": 2764,
-   "reach": 2130,
+   "views": 2959,
+   "reach": 2332,
    "saved": 2,
    "shares": 1,
-   "total_interactions": 49,
-   "ig_reels_avg_watch_time": 17229,
-   "ig_reels_video_view_total_time": 37266796
+   "total_interactions": 53,
+   "ig_reels_avg_watch_time": 17361,
+   "ig_reels_video_view_total_time": 41701506
   },
   {
    "id": "slp_077_abascal_fondo_buitre",
@@ -46,29 +62,29 @@
    "comentarios": 3,
    "url": "https://www.instagram.com/reel/DfjuQ9FDEBu/",
    "titulo": "¿Tiene razón Abascal con la vivienda? Sí o no 👇\n\nEn La Revue",
-   "views": 145,
-   "reach": 120,
+   "views": 146,
+   "reach": 121,
    "saved": 0,
    "shares": 0,
    "total_interactions": 5,
-   "ig_reels_avg_watch_time": 9063,
-   "ig_reels_video_view_total_time": 1142007
+   "ig_reels_avg_watch_time": 9036,
+   "ig_reels_video_view_total_time": 1147637
   },
   {
    "id": "slp_076_broncano_huevos",
    "ig": "17949666054071879",
    "fecha": "2026-11-10T07:45:32+0000",
-   "likes": 26,
+   "likes": 29,
    "comentarios": 10,
    "url": "https://www.instagram.com/reel/DfjZm5ACsyU/",
    "titulo": "¿Se pasó Broncano o tenía razón? 👇\n\nEl momento más tenso de ",
-   "views": 3481,
-   "reach": 2750,
+   "views": 3528,
+   "reach": 2793,
    "saved": 4,
    "shares": 0,
-   "total_interactions": 41,
-   "ig_reels_avg_watch_time": 14182,
-   "ig_reels_video_view_total_time": 39001932
+   "total_interactions": 44,
+   "ig_reels_avg_watch_time": 14128,
+   "ig_reels_video_view_total_time": 39473760
   },
   {
    "id": "slp_075_abascal_deconstruir",
@@ -78,13 +94,13 @@
    "comentarios": 6,
    "url": "https://www.instagram.com/reel/Dfis-KrnS5B/",
    "titulo": "¿Quién tenía razón: Abascal o Broncano? 👇\n\nEl choque más com",
-   "views": 2939,
-   "reach": 2433,
+   "views": 2949,
+   "reach": 2441,
    "saved": 3,
    "shares": 0,
    "total_interactions": 25,
-   "ig_reels_avg_watch_time": 16839,
-   "ig_reels_video_view_total_time": 41071371
+   "ig_reels_avg_watch_time": 16817,
+   "ig_reels_video_view_total_time": 41169176
   },
   {
    "id": "slp_074_revuelta_publico_vox",
@@ -94,13 +110,13 @@
    "comentarios": 14,
    "url": "https://www.instagram.com/reel/Dfin0h_FrdC/",
    "titulo": "¿Debe el invitado poder elegir el público? Sí o no 👇\n\nEn La ",
-   "views": 2529,
-   "reach": 1917,
+   "views": 2544,
+   "reach": 1923,
    "saved": 2,
    "shares": 0,
    "total_interactions": 39,
-   "ig_reels_avg_watch_time": 13898,
-   "ig_reels_video_view_total_time": 26866024
+   "ig_reels_avg_watch_time": 13895,
+   "ig_reels_video_view_total_time": 26984473
   },
   {
    "id": "slp_073_abascal_broncano_suerte",
@@ -110,13 +126,13 @@
    "comentarios": 53,
    "url": "https://www.instagram.com/reel/DfiirEkEmez/",
    "titulo": "¿Quién ganó la entrevista: Abascal o Broncano? 👇\n\nAsí acabó ",
-   "views": 5076,
-   "reach": 3879,
+   "views": 5137,
+   "reach": 3919,
    "saved": 6,
    "shares": 2,
    "total_interactions": 139,
-   "ig_reels_avg_watch_time": 16661,
-   "ig_reels_video_view_total_time": 64428185
+   "ig_reels_avg_watch_time": 16642,
+   "ig_reels_video_view_total_time": 65005533
   },
   {
    "id": "slp_070_encuestas_sanchez_feijoo",
@@ -126,13 +142,13 @@
    "comentarios": 1,
    "url": "https://www.instagram.com/reel/DfiU80wFJDk/",
    "titulo": "¿Remonta Sánchez? Sí o no 👇\n\nTres encuestas publicadas tras ",
-   "views": 427,
-   "reach": 372,
+   "views": 454,
+   "reach": 391,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 10490,
-   "ig_reels_video_view_total_time": 3891941
+   "ig_reels_avg_watch_time": 10672,
+   "ig_reels_video_view_total_time": 4172812
   },
   {
    "id": "slp_071_tele_esta_noche",
@@ -142,13 +158,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfiKo3FgCbf/",
    "titulo": "¿A quién verás, Sánchez o Abascal? 👇\n\nEsta noche, casi a la ",
-   "views": 143,
-   "reach": 117,
+   "views": 144,
+   "reach": 118,
    "saved": 0,
    "shares": 0,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 10910,
-   "ig_reels_video_view_total_time": 1309243
+   "ig_reels_avg_watch_time": 10901,
+   "ig_reels_video_view_total_time": 1319033
   },
   {
    "id": "slp_065_bulos_izquierda_3",
@@ -158,13 +174,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfiAVsjliP9/",
    "titulo": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la izquierd",
-   "views": 158,
-   "reach": 140,
+   "views": 160,
+   "reach": 143,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 9472,
-   "ig_reels_video_view_total_time": 1335667
+   "ig_reels_avg_watch_time": 9318,
+   "ig_reels_video_view_total_time": 1341912
   },
   {
    "id": "slp_066_abascal_revuelta_publico",
@@ -175,7 +191,7 @@
    "url": "https://www.instagram.com/reel/DfhXJAPnZLr/",
    "titulo": "¿Debería haber público normal? Sí o no 👇\n\nAbascal va hoy a L",
    "views": 219,
-   "reach": 163,
+   "reach": 164,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
