@@ -1,0 +1,319 @@
+{
+ "id": "slp_088_revuelta_tiempo_palabra",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "CON ABASCAL",
+  "CON SÁNCHEZ",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "VS · LA REVUELTA",
+  "source": "Datos: cronometraje de las dos entrevistas"
+ },
+ "caption": "¿Trató Broncano igual a Abascal y a Sánchez? Sí o no 👇\n\nTiempo de palabra en las dos entrevistas de La Revuelta:\n• Abascal 51 % (44:58) · Broncano 49 % (43:34)\n• Sánchez 63 % (54:18) · Broncano 37 % (31:52)\nBroncano habló 11 min 42 s más con Abascal que con Sánchez.\n\nDatos: cronometraje de las dos entrevistas.\nFotos: Vox España (CC0), Pedro J Pacheco (CC BY-SA 4.0) y Vlada Republike Slovenije (dominio público), Wikimedia Commons.\n\n#Abascal #Sánchez #Broncano #LaRevuelta #elecciones #29N",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Quién habló más? Broncano con Abascal… y Broncano con Sánchez. Estos son los tiempos de las dos entrevistas.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "¿Quién *habló más*?",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kA",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 360,
+       "w": 320,
+       "x": 20,
+       "y": 42,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3,
+       "label": "Abascal",
+       "from": "left"
+      },
+      {
+       "id": "kB",
+       "type": "cara",
+       "foto": "broncano",
+       "h": 360,
+       "w": 320,
+       "x": 50,
+       "y": 42,
+       "at": 0,
+       "keep": 1,
+       "tilt": 0,
+       "label": "Broncano"
+      },
+      {
+       "id": "kS",
+       "type": "cara",
+       "foto": "sanchez",
+       "h": 360,
+       "w": 320,
+       "x": 80,
+       "y": 42,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3,
+       "label": "Sánchez",
+       "from": "right"
+      },
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "51 % vs 63 %",
+       "bg": "ink",
+       "size": 90,
+       "x": 50,
+       "y": 64,
+       "at": 0,
+       "dur": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Con Abascal: Abascal habló un cincuenta y uno por ciento, cuarenta y cinco minutos. Broncano, un cuarenta y nueve. Casi a la par.",
+     "hide": [
+      "h1",
+      "kA",
+      "kB",
+      "kS"
+     ],
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "Abascal vs *Broncano*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kA2",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 330,
+       "w": 300,
+       "x": 30,
+       "y": 34,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3,
+       "from": "left"
+      },
+      {
+       "id": "kB2",
+       "type": "cara",
+       "foto": "broncano",
+       "h": 330,
+       "w": 300,
+       "x": 70,
+       "y": 34,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3,
+       "from": "right"
+      },
+      {
+       "id": "p1",
+       "type": "poll",
+       "x": 50,
+       "y": 56,
+       "w": 880,
+       "at": 2,
+       "fill": 1.6,
+       "opts": [
+        {
+         "t": "ABASCAL · 44:58",
+         "v": 51
+        },
+        {
+         "t": "BRONCANO · 43:34",
+         "v": 49,
+         "c": "red"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "text": "Con Sánchez: Sánchez habló un sesenta y tres por ciento, cincuenta y cuatro minutos. Broncano, solo un treinta y siete.",
+     "hide": [
+      "h2",
+      "kA2",
+      "kB2",
+      "p1"
+     ],
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "Sánchez vs *Broncano*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kS3",
+       "type": "cara",
+       "foto": "sanchez",
+       "h": 330,
+       "w": 300,
+       "x": 30,
+       "y": 34,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3,
+       "from": "left"
+      },
+      {
+       "id": "kB3",
+       "type": "cara",
+       "foto": "broncano",
+       "h": 330,
+       "w": 300,
+       "x": 70,
+       "y": 34,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3,
+       "from": "right"
+      },
+      {
+       "id": "p2",
+       "type": "poll",
+       "x": 50,
+       "y": 56,
+       "w": 880,
+       "at": 2,
+       "fill": 1.6,
+       "opts": [
+        {
+         "t": "SÁNCHEZ · 54:18",
+         "v": 63
+        },
+        {
+         "t": "BRONCANO · 31:52",
+         "v": 37,
+         "c": "red"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "O sea: Broncano habló casi doce minutos más con Abascal que con Sánchez.",
+     "hide": [
+      "h3",
+      "kS3",
+      "kB3",
+      "p2"
+     ],
+     "show": [
+      {
+       "id": "kB4",
+       "type": "cara",
+       "foto": "broncano",
+       "h": 480,
+       "w": 440,
+       "x": 50,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": 0
+      },
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "+11:42 MIN",
+       "bg": "red",
+       "size": 110,
+       "x": 50,
+       "y": 64,
+       "at": 0,
+       "dur": 3
+      }
+     ]
+    },
+    {
+     "text": "¿Trató Broncano igual a los dos? Sí o no. Comenta y síguenos.",
+     "hide": [
+      "kB4"
+     ],
+     "show": [
+      {
+       "id": "kA9",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 420,
+       "w": 380,
+       "x": 27,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3
+      },
+      {
+       "id": "kS9",
+       "type": "cara",
+       "foto": "sanchez",
+       "h": 420,
+       "w": 380,
+       "x": 73,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿IGUAL A LOS DOS?",
+       "color": "ink",
+       "x": 50,
+       "y": 66,
+       "rot": -4,
+       "at": 2
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "VS",
+  "titulo": "¿Quién *habló más*?",
+  "mini": {
+   "texto": "Broncano habló:",
+   "rojo": "49 % CON ABASCAL · 37 % CON SÁNCHEZ",
+   "cara": "abascal",
+   "cara2": "sanchez",
+   "emoji": "⏱️",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 70
+  }
+ }
+}
