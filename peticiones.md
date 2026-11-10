@@ -35,3 +35,6 @@ La rutina lee este archivo ANTES del radar y lo que diga aquí manda sobre el re
 - slp_073–082 programados del 10-N 00:45 al 11-N 13:45. El 10-N ya está lleno (9 Reels): la pasada de hoy NO añade más al 10-N salvo noticia muy grande; solo prepara el 11-N (huelga general) y el 12-N.
 - Si sale la audiencia de La Revuelta (Barlovento/Kantar, ~10:00), vale un Reel extra en el 11-N: "Abascal vs Sánchez en audiencia" (Sánchez hizo 4,4 M).
 - Nicks no graba clips; usar solo lo que haya.
+
+## 10-N (19:02) — 4 Reels de la huelga general del 11-N (HECHO)
+- slp_083–086 programados el 11-N a las 07:30, 11:00, 17:00 y 21:00. El 11-N queda con 6 Reels: no añadir más ese día salvo noticia muy grande.

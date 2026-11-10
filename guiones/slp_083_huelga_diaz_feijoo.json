@@ -1,0 +1,218 @@
+{
+ "id": "slp_083_huelga_diaz_feijoo",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "DÍAZ",
+  "FEIJÓO",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "VS · HUELGA GENERAL HOY",
+  "source": "Fuentes: Demócrata · OKDiario · Público"
+ },
+ "caption": "¿Haces huelga hoy? Sí o no 👇\n\nHoy, miércoles 11-N, hay huelga general de 24 horas convocada por CCOO y UGT. Yolanda Díaz la defiende; Feijóo pidió desconvocarla. Sus frases literales.\n\nFuentes: Demócrata (6-11) para Díaz; OKDiario y Público (3-11) para Feijóo.\nFotos: Wikimedia Commons (ver fotos/creditos.json).\n\n#YolandaDíaz #Feijóo #huelgageneral #11N #elecciones #29N",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Huelga general hoy. Yolanda Díaz: «¡Viva la huelga general convocada por los sindicatos de mi país!».",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Díaz vs *Feijóo*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kD",
+       "type": "cara",
+       "foto": "diaz",
+       "h": 560,
+       "w": 500,
+       "x": 27,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3,
+       "label": "Díaz",
+       "from": "left"
+      },
+      {
+       "id": "kF",
+       "type": "cara",
+       "foto": "feijoo",
+       "h": 560,
+       "w": 500,
+       "x": 73,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3,
+       "label": "Feijóo",
+       "from": "right"
+      },
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "«¡VIVA LA HUELGA!»",
+       "bg": "red",
+       "size": 78,
+       "x": 50,
+       "y": 62,
+       "at": 0,
+       "dur": 3
+      }
+     ]
+    },
+    {
+     "text": "Y sin esconderse: «¿Qué es una huelga si no es política? Claro que es política».",
+     "hide": [
+      "kF"
+     ],
+     "show": [
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "«Claro que es política»",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Feijóo, tras el accidente de Urda, pidió desconvocarla: «Antes era incomprensible. Sesenta y nueve muertos después, es un grave error».",
+     "hide": [
+      "h1",
+      "kD",
+      "c1"
+     ],
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "Y *Feijóo*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kF2",
+       "type": "cara",
+       "foto": "feijoo",
+       "h": 480,
+       "w": 460,
+       "x": 50,
+       "y": 42,
+       "at": 0,
+       "keep": 1,
+       "tilt": 0
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "«69 muertos después, un grave error»",
+       "x": 50,
+       "y": 62,
+       "w": 900,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Y la llama «una huelga convocada contra la oposición».",
+     "hide": [
+      "c2"
+     ],
+     "show": [
+      {
+       "id": "st",
+       "type": "stamp",
+       "text": "«CONTRA LA OPOSICIÓN»",
+       "color": "red",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y tú, ¿haces huelga hoy? Sí o no. Comenta y síguenos.",
+     "hide": [
+      "h2",
+      "kF2",
+      "st"
+     ],
+     "show": [
+      {
+       "id": "kD9",
+       "type": "cara",
+       "foto": "diaz",
+       "h": 460,
+       "w": 420,
+       "x": 27,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3
+      },
+      {
+       "id": "kF9",
+       "type": "cara",
+       "foto": "feijoo",
+       "h": 460,
+       "w": 420,
+       "x": 73,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿HACES HUELGA?",
+       "color": "ink",
+       "x": 50,
+       "y": 66,
+       "rot": -4,
+       "at": 2
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "VS",
+  "titulo": "Díaz vs *Feijóo*",
+  "mini": {
+   "texto": "Huelga general hoy:",
+   "rojo": "«¡VIVA LA HUELGA!»",
+   "cara": "diaz",
+   "cara2": "feijoo",
+   "emoji": "✊",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 100
+  }
+ }
+}

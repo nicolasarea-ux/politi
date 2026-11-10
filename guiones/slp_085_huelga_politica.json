@@ -1,0 +1,220 @@
+{
+ "id": "slp_085_huelga_politica",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "LA ACUSACIÓN",
+  "LA RESPUESTA",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "VS · HUELGA GENERAL HOY",
+  "source": "Fuentes: Demócrata · OKDiario · El Diario de Madrid"
+ },
+ "caption": "¿Es una huelga política? Sí o no 👇\n\nLa gran pelea de la huelga de hoy: ¿es por la vivienda y los sueldos, o es electoral a 18 días del 29-N? Lo que dicen unos y otros.\n\nFuentes: Demócrata (6-11), OKDiario (3-11) y El Diario de Madrid (8-11).\nFotos: Wikimedia Commons (ver fotos/creditos.json).\n\n#huelgageneral #11N #elecciones #29N",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "La gran pelea de hoy: ¿es una huelga política? Feijóo dice que sí: «convocada contra la oposición». Y que con Sánchez, en ocho años, no hubo ninguna.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "¿Huelga *política*?",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kF",
+       "type": "cara",
+       "foto": "feijoo",
+       "h": 500,
+       "w": 460,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "keep": 1,
+       "tilt": 0,
+       "label": "Feijóo"
+      },
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "«CONTRA LA OPOSICIÓN»",
+       "bg": "red",
+       "size": 66,
+       "x": 50,
+       "y": 66,
+       "at": 0,
+       "dur": 3
+      }
+     ]
+    },
+    {
+     "text": "La patronal CEOE y el sindicato CSIF también la ven electoralista.",
+     "hide": [
+      "kF"
+     ],
+     "show": [
+      {
+       "id": "s1",
+       "type": "sticker",
+       "text": "🏢",
+       "x": 50,
+       "y": 38,
+       "at": 0
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "CEOE y CSIF: «electoralista»",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "UGT responde: el argumento de Feijóo es «insultante».",
+     "hide": [
+      "h1",
+      "s1",
+      "c1"
+     ],
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "La *respuesta*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "s2",
+       "type": "sticker",
+       "text": "✊",
+       "x": 50,
+       "y": 36,
+       "at": 0
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "UGT: «Insultante»",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Y Yolanda Díaz ni lo niega: «Claro que es política. Si no, ¿para qué las hacemos?».",
+     "hide": [
+      "s2",
+      "c2"
+     ],
+     "show": [
+      {
+       "id": "kD",
+       "type": "cara",
+       "foto": "diaz",
+       "h": 480,
+       "w": 460,
+       "x": 50,
+       "y": 42,
+       "at": 0,
+       "keep": 1,
+       "tilt": 0,
+       "label": "Díaz"
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "«Claro que es política»",
+       "x": 50,
+       "y": 66,
+       "w": 900,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Es una huelga política? Sí o no. Comenta y síguenos.",
+     "hide": [
+      "h2",
+      "kD",
+      "c3"
+     ],
+     "show": [
+      {
+       "id": "kF9",
+       "type": "cara",
+       "foto": "feijoo",
+       "h": 460,
+       "w": 420,
+       "x": 27,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3
+      },
+      {
+       "id": "kD9",
+       "type": "cara",
+       "foto": "diaz",
+       "h": 460,
+       "w": 420,
+       "x": 73,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿SÍ O NO?",
+       "color": "ink",
+       "x": 50,
+       "y": 66,
+       "rot": -4,
+       "at": 2
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "VS",
+  "titulo": "¿Huelga *política*?",
+  "mini": {
+   "texto": "Díaz, sobre la huelga:",
+   "rojo": "«CLARO QUE ES POLÍTICA»",
+   "cara": "diaz",
+   "cara2": "feijoo",
+   "emoji": "🔥",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 92
+  }
+ }
+}

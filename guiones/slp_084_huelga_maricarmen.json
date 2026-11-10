@@ -1,0 +1,196 @@
+{
+ "id": "slp_084_huelga_maricarmen",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "MARICARMEN",
+  "LA HUELGA",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "POR QUÉ HAY HUELGA HOY",
+  "source": "Fuentes: El Salto · Euronews · El Diario de Madrid"
+ },
+ "caption": "¿La vivienda justifica una huelga general? Sí o no 👇\n\nLa historia que hay detrás de la huelga de hoy: Maricarmen, 87 años, desahuciada en Madrid en septiembre. Murió antes de poder volver a su casa.\n\nFuentes: El Salto (7-10), Euronews (29-9) y El Diario de Madrid (8-11).\n\n#vivienda #Maricarmen #huelgageneral #11N #elecciones #29N",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Esta huelga empieza con Maricarmen. Ochenta y siete años. En septiembre, la policía la desahucia de su casa en Madrid.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Por qué hay *huelga*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "s1",
+       "type": "sticker",
+       "text": "🏠",
+       "x": 50,
+       "y": 36,
+       "at": 0
+      },
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "87 AÑOS · DESAHUCIADA",
+       "bg": "ink",
+       "size": 64,
+       "x": 50,
+       "y": 58,
+       "at": 0,
+       "dur": 3
+      }
+     ]
+    },
+    {
+     "text": "Días después, el fondo dueño del piso acepta que vuelva. Pero Maricarmen muere en el hospital antes de volver.",
+     "hide": [
+      "s1"
+     ],
+     "show": [
+      {
+       "id": "st",
+       "type": "stamp",
+       "text": "NUNCA VOLVIÓ",
+       "color": "red",
+       "x": 50,
+       "y": 56,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Su caso encendió las protestas por la vivienda. Y el día de su muerte se anunció esta huelga.",
+     "hide": [
+      "h1",
+      "st"
+     ],
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "La *huelga*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "s3",
+       "type": "sticker",
+       "text": "✊",
+       "x": 50,
+       "y": 36,
+       "at": 0
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "Vivienda · servicios públicos · sueldos",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "La patronal y el PP dicen que es una huelga electoralista. Los sindicatos, que es por la vivienda.",
+     "hide": [
+      "s3",
+      "c1"
+     ],
+     "show": [
+      {
+       "id": "kF",
+       "type": "cara",
+       "foto": "feijoo",
+       "h": 440,
+       "w": 420,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "keep": 1,
+       "tilt": 0,
+       "label": "Feijóo"
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "PP y CEOE: «electoralista»",
+       "x": 50,
+       "y": 66,
+       "w": 900,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿La vivienda justifica una huelga general? Sí o no. Comenta y síguenos.",
+     "hide": [
+      "h2",
+      "kF",
+      "c2"
+     ],
+     "show": [
+      {
+       "id": "uE",
+       "type": "urni",
+       "x": 50,
+       "y": 47,
+       "w": 260,
+       "say": "¿Sí o no?",
+       "moods": [
+        {
+         "at": 0,
+         "m": "duda"
+        }
+       ],
+       "at": 0
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿SÍ O NO?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 3
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "HUELGA",
+  "titulo": "Por qué hay *huelga*",
+  "mini": {
+   "texto": "La huelga empieza aquí:",
+   "rojo": "87 AÑOS, DESAHUCIADA",
+   "emoji": "🏠",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 96
+  }
+ }
+}

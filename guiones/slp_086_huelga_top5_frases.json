@@ -1,0 +1,203 @@
+{
+ "id": "slp_086_huelga_top5_frases",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "5 Y 4",
+  "3 Y 2",
+  "EL 1"
+ ],
+ "header": {
+  "tag": "TOP 5 · HUELGA GENERAL",
+  "source": "Fuentes: OKDiario · Público · Demócrata"
+ },
+ "caption": "¿Con qué frase te quedas? Comenta el número 👇\n\nLas 5 frases que ha dejado la huelga general del 11-N, de Feijóo, UGT y Yolanda Díaz.\n\nFuentes: OKDiario y Público (3-11) para Feijóo y UGT; Demócrata (6-11) para Díaz.\nFotos: Wikimedia Commons (ver fotos/creditos.json).\n\n#huelgageneral #11N #elecciones #29N",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Las cinco frases de la huelga general. Cinco, Feijóo: «Reconsideren esa huelga convocada contra la oposición».",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Top *5* frases",
+       "x": 50,
+       "y": 20,
+       "w": 900
+      },
+      {
+       "id": "kF",
+       "type": "cara",
+       "foto": "feijoo",
+       "h": 480,
+       "w": 420,
+       "x": 27,
+       "y": 44,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3,
+       "label": "Feijóo",
+       "from": "left"
+      },
+      {
+       "id": "kD",
+       "type": "cara",
+       "foto": "diaz",
+       "h": 480,
+       "w": 420,
+       "x": 73,
+       "y": 44,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3,
+       "label": "Díaz",
+       "from": "right"
+      },
+      {
+       "id": "c5",
+       "type": "card",
+       "text": "5 · «Convocada contra la oposición» — Feijóo",
+       "x": 50,
+       "y": 66,
+       "w": 940,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Cuatro, UGT, sobre Feijóo: «Es insultante».",
+     "hide": [
+      "kF",
+      "kD",
+      "c5"
+     ],
+     "show": [
+      {
+       "id": "c4",
+       "type": "card",
+       "text": "4 · «Es insultante» — UGT",
+       "x": 50,
+       "y": 34,
+       "w": 940,
+       "at": 0,
+       "keep": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Tres, Feijóo: «Sesenta y nueve muertos después, es un grave error».",
+     "show": [
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "3 · «69 muertos después, un grave error» — Feijóo",
+       "x": 50,
+       "y": 46,
+       "w": 940,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Dos, Yolanda Díaz: «Claro que es política».",
+     "show": [
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "2 · «Claro que es política» — Díaz",
+       "x": 50,
+       "y": 58,
+       "w": 940,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y uno, Díaz: «¡Viva la huelga general convocada por los sindicatos de mi país!».",
+     "hide": [
+      "h1",
+      "c4",
+      "c3",
+      "c2"
+     ],
+     "show": [
+      {
+       "id": "h3",
+       "type": "headline",
+       "text": "El *número 1*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kD3",
+       "type": "cara",
+       "foto": "diaz",
+       "h": 500,
+       "w": 460,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "keep": 1,
+       "tilt": 0
+      },
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "1 · «¡VIVA LA HUELGA!»",
+       "bg": "red",
+       "size": 64,
+       "x": 50,
+       "y": 66,
+       "at": 0,
+       "dur": 3.5
+      }
+     ]
+    },
+    {
+     "text": "¿Con cuál te quedas? Comenta el número y síguenos.",
+     "show": [
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿CUÁL? 1-5",
+       "color": "ink",
+       "x": 50,
+       "y": 66,
+       "rot": -4,
+       "at": 1
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "TOP",
+  "titulo": "Top *5* frases de la huelga",
+  "mini": {
+   "texto": "Huelga general:",
+   "rojo": "TOP 5 FRASES",
+   "cara": "diaz",
+   "cara2": "feijoo",
+   "emoji": "🔥",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 110
+  }
+ }
+}
