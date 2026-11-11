@@ -1,19 +1,19 @@
 {
  "cuenta": {
   "username": "politizatehoy",
-  "followers_count": 21,
-  "media_count": 77,
+  "followers_count": 22,
+  "media_count": 78,
   "id": "29046307255021601"
  },
  "reels": [
   {
-   "id": "slp_094_abascal_planta_wild",
-   "ig": "17976998412007187",
-   "fecha": "2026-11-11T21:01:19+0000",
+   "id": "slp_095_wild_vs_vox",
+   "ig": "18400821784204872",
+   "fecha": "2026-11-11T22:15:33+0000",
    "likes": 0,
    "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfnZdnNj68u/",
-   "titulo": "¿Hace bien Abascal en no ir? Sí o no 👇\n\nVox suspende la entr",
+   "url": "https://www.instagram.com/reel/Dfnh90niswa/",
+   "titulo": "¿Quién tiene razón: Vox o Jordi Wild? 👇\n\nLas dos versiones d",
    "views": 0,
    "reach": 0,
    "saved": 0,
@@ -23,6 +23,22 @@
    "ig_reels_video_view_total_time": 0
   },
   {
+   "id": "slp_094_abascal_planta_wild",
+   "ig": "17976998412007187",
+   "fecha": "2026-11-11T21:01:19+0000",
+   "likes": 2,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfnZdnNj68u/",
+   "titulo": "¿Hace bien Abascal en no ir? Sí o no 👇\n\nVox suspende la entr",
+   "views": 179,
+   "reach": 145,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 2,
+   "ig_reels_avg_watch_time": 7213,
+   "ig_reels_video_view_total_time": 1038787
+  },
+  {
    "id": "slp_086_huelga_top5_frases",
    "ig": "18016506545974888",
    "fecha": "2026-11-11T20:00:33+0000",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfnShQ5Ev6Q/",
    "titulo": "¿Con qué frase te quedas? Comenta el número 👇\n\nLas 5 frases ",
-   "views": 131,
-   "reach": 95,
+   "views": 132,
+   "reach": 114,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 8814,
-   "ig_reels_video_view_total_time": 828532
+   "ig_reels_avg_watch_time": 8305,
+   "ig_reels_video_view_total_time": 955076
   },
   {
    "id": "slp_093_colau_preguntas",
@@ -74,17 +90,17 @@
    "id": "slp_092_broncano_perdon",
    "ig": "18145595791608869",
    "fecha": "2026-11-11T14:15:32+0000",
-   "likes": 11,
+   "likes": 12,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfmrCDNAJJ3/",
    "titulo": "¿Tenía que pedir perdón Broncano? Sí o no 👇\n\nAl día siguient",
-   "views": 1408,
-   "reach": 1039,
+   "views": 1779,
+   "reach": 1303,
    "saved": 1,
    "shares": 0,
-   "total_interactions": 12,
-   "ig_reels_avg_watch_time": 12696,
-   "ig_reels_video_view_total_time": 13318450
+   "total_interactions": 13,
+   "ig_reels_avg_watch_time": 13321,
+   "ig_reels_video_view_total_time": 17517440
   },
   {
    "id": "slp_079_abascal_bandera_ceuta",
@@ -94,13 +110,13 @@
    "comentarios": 2,
    "url": "https://www.instagram.com/reel/Dfmgu-3iNSE/",
    "titulo": "¿Debería Broncano colgar la bandera? Sí o no 👇\n\nEl regalo de",
-   "views": 662,
-   "reach": 509,
+   "views": 758,
+   "reach": 599,
    "saved": 1,
    "shares": 0,
    "total_interactions": 8,
-   "ig_reels_avg_watch_time": 10734,
-   "ig_reels_video_view_total_time": 5538953
+   "ig_reels_avg_watch_time": 10489,
+   "ig_reels_video_view_total_time": 6367059
   },
   {
    "id": "slp_089_colau_revuelta_frases",
@@ -142,29 +158,29 @@
    "comentarios": 4,
    "url": "https://www.instagram.com/reel/Dfl-Z0AAtn4/",
    "titulo": "¿Quién ganó la noche: Abascal o Sánchez? 👇\n\nLa noche del 9-N",
-   "views": 1429,
-   "reach": 1160,
+   "views": 1436,
+   "reach": 1167,
    "saved": 2,
    "shares": 1,
    "total_interactions": 15,
-   "ig_reels_avg_watch_time": 12587,
-   "ig_reels_video_view_total_time": 14639567
+   "ig_reels_avg_watch_time": 12569,
+   "ig_reels_video_view_total_time": 14706435
   },
   {
    "id": "slp_083_huelga_diaz_feijoo",
    "ig": "17893178646456785",
    "fecha": "2026-11-11T06:30:33+0000",
-   "likes": 2,
+   "likes": 3,
    "comentarios": 2,
    "url": "https://www.instagram.com/reel/Dfl10ggCAoz/",
    "titulo": "¿Haces huelga hoy? Sí o no 👇\n\nHoy, miércoles 11-N, hay huelg",
-   "views": 347,
-   "reach": 292,
+   "views": 362,
+   "reach": 310,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 5,
-   "ig_reels_avg_watch_time": 9882,
-   "ig_reels_video_view_total_time": 2925168
+   "total_interactions": 6,
+   "ig_reels_avg_watch_time": 10015,
+   "ig_reels_video_view_total_time": 3124789
   },
   {
    "id": "slp_088_revuelta_tiempo_palabra",
@@ -174,13 +190,13 @@
    "comentarios": 10,
    "url": "https://www.instagram.com/reel/DflIEkSgjSD/",
    "titulo": "¿Trató Broncano igual a Abascal y a Sánchez? Sí o no 👇\n\nTiem",
-   "views": 1582,
-   "reach": 1248,
+   "views": 1583,
+   "reach": 1249,
    "saved": 1,
    "shares": 0,
    "total_interactions": 24,
-   "ig_reels_avg_watch_time": 17409,
-   "ig_reels_video_view_total_time": 21779492
+   "ig_reels_avg_watch_time": 17396,
+   "ig_reels_video_view_total_time": 21780283
   },
   {
    "id": "slp_082_sanchez_abascal_revuelta",
@@ -190,13 +206,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfk50mNjXxk/",
    "titulo": "¿Quién tiene razón: Sánchez o Abascal? 👇\n\nSánchez respondió ",
-   "views": 180,
-   "reach": 160,
+   "views": 181,
+   "reach": 162,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 7483,
-   "ig_reels_video_view_total_time": 1204903
+   "ig_reels_avg_watch_time": 7506,
+   "ig_reels_video_view_total_time": 1223593
   },
   {
    "id": "slp_081_quien_gano_revuelta",
@@ -238,13 +254,13 @@
    "comentarios": 12,
    "url": "https://www.instagram.com/reel/Dfj7826HcKP/",
    "titulo": "¿Cuál fue el mejor momento? Comenta el número 👇\n\nLos 5 momen",
-   "views": 3539,
+   "views": 3541,
    "reach": 2780,
    "saved": 2,
    "shares": 2,
    "total_interactions": 61,
-   "ig_reels_avg_watch_time": 17752,
-   "ig_reels_video_view_total_time": 51181245
+   "ig_reels_avg_watch_time": 17756,
+   "ig_reels_video_view_total_time": 51210593
   },
   {
    "id": "slp_077_abascal_fondo_buitre",
@@ -270,13 +286,13 @@
    "comentarios": 11,
    "url": "https://www.instagram.com/reel/DfjZm5ACsyU/",
    "titulo": "¿Se pasó Broncano o tenía razón? 👇\n\nEl momento más tenso de ",
-   "views": 3687,
-   "reach": 2921,
+   "views": 3688,
+   "reach": 2922,
    "saved": 4,
    "shares": 0,
    "total_interactions": 48,
-   "ig_reels_avg_watch_time": 14178,
-   "ig_reels_video_view_total_time": 41430133
+   "ig_reels_avg_watch_time": 14174,
+   "ig_reels_video_view_total_time": 41431047
   },
   {
    "id": "slp_075_abascal_deconstruir",
