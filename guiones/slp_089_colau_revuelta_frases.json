@@ -1,0 +1,211 @@
+{
+ "id": "slp_089_colau_revuelta_frases",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "SOBRE ABASCAL",
+  "SU DINERO",
+  "LA PREGUNTA"
+ ],
+ "header": {
+  "tag": "LO QUE HA DICHO · LA REVUELTA",
+  "source": "Fuentes: Infobae · OKDiario · Deia (11-11)"
+ },
+ "caption": "",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "«Es un señoro de extrema derecha». Así habló Ada Colau de Abascal en La Revuelta.",
+     "show": [
+      {
+       "id": "kC",
+       "type": "cara",
+       "foto": "colau",
+       "h": 560,
+       "w": 520,
+       "x": 50,
+       "y": 38,
+       "at": 0,
+       "keep": 1,
+       "tilt": 0,
+       "label": "Ada Colau · La 1"
+      },
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "«SEÑORO DE EXTREMA DERECHA»",
+       "bg": "red",
+       "size": 44,
+       "x": 50,
+       "y": 60,
+       "at": 0,
+       "dur": 4
+      }
+     ]
+    },
+    {
+     "text": "Fue la noche después de que Abascal se sentara en el mismo sillón.",
+     "hide": [
+      "f0"
+     ],
+     "show": [
+      {
+       "id": "kA",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 300,
+       "w": 280,
+       "x": 80,
+       "y": 56,
+       "at": 0,
+       "keep": 1,
+       "tilt": -4,
+       "label": "Abascal · 9-N"
+      },
+      {
+       "id": "c0",
+       "type": "card",
+       "text": "9-N Abascal · 10-N Colau",
+       "x": 50,
+       "y": 16,
+       "w": 900,
+       "at": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Pregunta clásica de Broncano: ¿cuánto dinero tienes? «Podría tener más de 400.000 euros, pero tengo menos de 10.000».",
+     "hide": [
+      "kA",
+      "c0"
+     ],
+     "show": [
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "Podría: más de 400.000 €",
+       "x": 50,
+       "y": 14,
+       "w": 900,
+       "at": 4
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "Tiene: menos de 10.000 €",
+       "x": 50,
+       "y": 23,
+       "w": 900,
+       "at": 10
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Y su receta: impuestos a los ricos. Según Colau, en España hay 33 milmillonarios.",
+     "hide": [
+      "c1",
+      "c2"
+     ],
+     "show": [
+      {
+       "id": "k3",
+       "type": "cara",
+       "foto": "colau",
+       "h": 420,
+       "w": 400,
+       "x": 50,
+       "y": 30,
+       "at": 0,
+       "keep": 1,
+       "tilt": 2
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "«Impuestos a los ricos»",
+       "x": 50,
+       "y": 14,
+       "w": 900,
+       "at": 0
+      },
+      {
+       "id": "f2",
+       "type": "flash",
+       "text": "33",
+       "bg": "mark",
+       "size": 150,
+       "x": 50,
+       "y": 52,
+       "at": 9,
+       "dur": 3
+      },
+      {
+       "id": "s2",
+       "type": "stamp",
+       "text": "SEGÚN COLAU",
+       "color": "red",
+       "x": 70,
+       "y": 62,
+       "rot": -6,
+       "at": 10
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Más impuestos a los milmillonarios? Sí o no. Comenta y síguenos.",
+     "hide": [
+      "f2",
+      "s2",
+      "k3",
+      "c3"
+     ],
+     "show": [
+      {
+       "id": "st",
+       "type": "stamp",
+       "text": "¿SÍ O NO?",
+       "color": "ink",
+       "x": 50,
+       "y": 55,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "LO QUE HA DICHO",
+  "titulo": "Colau en *La Revuelta*",
+  "mini": {
+   "texto": "Colau sobre Abascal:",
+   "rojo": "«SEÑORO»",
+   "cara": "colau",
+   "cara2": "abascal",
+   "emoji": "📺",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 96
+  }
+ }
+}

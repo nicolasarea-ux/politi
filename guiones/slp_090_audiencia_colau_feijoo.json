@@ -1,0 +1,250 @@
+{
+ "id": "slp_090_audiencia_colau_feijoo",
+ "brand": "Politízate Hoy",
+ "formato": "vs",
+ "clauses": 2,
+ "clauseLabels": [
+  "LA NOCHE DEL 10-N",
+  "EL RANKING",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "VS · AUDIENCIAS",
+  "source": "Fuentes: EFE vía Infobae · FormulaTV · El Plural"
+ },
+ "caption": "",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Colau ganó a Feijóo… en audiencia. Los dos, en la tele el martes por la noche.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Colau vs *Feijóo*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kC",
+       "type": "cara",
+       "foto": "colau",
+       "h": 560,
+       "w": 500,
+       "x": 27,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3,
+       "label": "Colau · La 1",
+       "from": "left"
+      },
+      {
+       "id": "kF",
+       "type": "cara",
+       "foto": "feijoo",
+       "h": 560,
+       "w": 500,
+       "x": 73,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3,
+       "label": "Feijóo · Cuatro",
+       "from": "right"
+      },
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "22,9 % vs 12,8 %",
+       "bg": "red",
+       "size": 90,
+       "x": 50,
+       "y": 66,
+       "at": 0,
+       "dur": 3
+      }
+     ]
+    },
+    {
+     "text": "Colau en La Revuelta: 3.050.000 espectadores. Feijóo en Horizonte: un 12,8 % de cuota, según FormulaTV.",
+     "hide": [
+      "h1",
+      "f0"
+     ],
+     "show": [
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "Colau: 3.050.000 (22,9 %)",
+       "x": 50,
+       "y": 15,
+       "w": 900,
+       "at": 0
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "Feijóo: 12,8 % (FormulaTV)",
+       "x": 50,
+       "y": 24,
+       "w": 900,
+       "at": 7
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Pero en La Revuelta, Colau queda tercera: Abascal hizo 4,8 millones y Sánchez 4,4.",
+     "hide": [
+      "kC",
+      "kF",
+      "c1",
+      "c2"
+     ],
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "El *ranking* de La Revuelta",
+       "x": 50,
+       "y": 18,
+       "w": 900
+      },
+      {
+       "id": "r1",
+       "type": "card",
+       "text": "1. Abascal · 4.815.000",
+       "x": 50,
+       "y": 40,
+       "w": 900,
+       "at": 8
+      },
+      {
+       "id": "r2",
+       "type": "card",
+       "text": "2. Sánchez · 4.387.000",
+       "x": 50,
+       "y": 52,
+       "w": 900,
+       "at": 11
+      },
+      {
+       "id": "r3",
+       "type": "card",
+       "text": "3. Colau · 3.050.000",
+       "x": 50,
+       "y": 64,
+       "w": 900,
+       "at": 4
+      }
+     ]
+    },
+    {
+     "text": "Eso sí: entre los de 13 a 24 años, un 39,2 % de cuota.",
+     "hide": [
+      "h2",
+      "r1",
+      "r2",
+      "r3"
+     ],
+     "show": [
+      {
+       "id": "kC2",
+       "type": "cara",
+       "foto": "colau",
+       "h": 480,
+       "w": 460,
+       "x": 50,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": 0
+      },
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "39,2 %",
+       "bg": "mark",
+       "size": 110,
+       "x": 50,
+       "y": 66,
+       "at": 2,
+       "dur": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Quién ganó la noche: Colau o Feijóo? Comenta y síguenos.",
+     "hide": [
+      "kC2",
+      "f1"
+     ],
+     "show": [
+      {
+       "id": "kC9",
+       "type": "cara",
+       "foto": "colau",
+       "h": 460,
+       "w": 420,
+       "x": 27,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3
+      },
+      {
+       "id": "kF9",
+       "type": "cara",
+       "foto": "feijoo",
+       "h": 460,
+       "w": 420,
+       "x": 73,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿QUIÉN GANÓ?",
+       "color": "ink",
+       "x": 50,
+       "y": 66,
+       "rot": -4,
+       "at": 3
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "VS",
+  "titulo": "Colau vs *Feijóo*",
+  "mini": {
+   "texto": "Colau vs Feijóo:",
+   "rojo": "22,9 % vs 12,8 %",
+   "cara": "colau",
+   "cara2": "feijoo",
+   "emoji": "📺",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 96
+  }
+ }
+}
