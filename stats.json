@@ -2,18 +2,18 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 20,
-  "media_count": 70,
+  "media_count": 71,
   "id": "29046307255021601"
  },
  "reels": [
   {
-   "id": "slp_084_huelga_maricarmen",
-   "ig": "18195392800400327",
-   "fecha": "2026-11-11T10:00:33+0000",
+   "id": "slp_089_colau_revuelta_frases",
+   "ig": "17900865054396490",
+   "fecha": "2026-11-11T11:20:32+0000",
    "likes": 0,
    "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfmN2VWDcCH/",
-   "titulo": "¿La vivienda justifica una huelga general? Sí o no 👇\n\nLa his",
+   "url": "https://www.instagram.com/reel/DfmXABzEbzW/",
+   "titulo": "¿Más impuestos a los milmillonarios? Sí o no 👇\n\nAda Colau pa",
    "views": 0,
    "reach": 0,
    "saved": 0,
@@ -23,20 +23,36 @@
    "ig_reels_video_view_total_time": 0
   },
   {
+   "id": "slp_084_huelga_maricarmen",
+   "ig": "18195392800400327",
+   "fecha": "2026-11-11T10:00:33+0000",
+   "likes": 1,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfmN2VWDcCH/",
+   "titulo": "¿La vivienda justifica una huelga general? Sí o no 👇\n\nLa his",
+   "views": 113,
+   "reach": 103,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 1,
+   "ig_reels_avg_watch_time": 3014,
+   "ig_reels_video_view_total_time": 313503
+  },
+  {
    "id": "slp_088_audiencia_abascal_sanchez",
    "ig": "18138615862699661",
    "fecha": "2026-11-11T07:45:33+0000",
-   "likes": 7,
+   "likes": 8,
    "comentarios": 4,
    "url": "https://www.instagram.com/reel/Dfl-Z0AAtn4/",
    "titulo": "¿Quién ganó la noche: Abascal o Sánchez? 👇\n\nLa noche del 9-N",
-   "views": 873,
-   "reach": 661,
-   "saved": 1,
-   "shares": 0,
-   "total_interactions": 12,
-   "ig_reels_avg_watch_time": 12457,
-   "ig_reels_video_view_total_time": 8184442
+   "views": 1320,
+   "reach": 1076,
+   "saved": 2,
+   "shares": 1,
+   "total_interactions": 15,
+   "ig_reels_avg_watch_time": 12472,
+   "ig_reels_video_view_total_time": 13407865
   },
   {
    "id": "slp_083_huelga_diaz_feijoo",
@@ -46,29 +62,29 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfl10ggCAoz/",
    "titulo": "¿Haces huelga hoy? Sí o no 👇\n\nHoy, miércoles 11-N, hay huelg",
-   "views": 174,
-   "reach": 146,
+   "views": 196,
+   "reach": 172,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 10150,
-   "ig_reels_video_view_total_time": 1482028
+   "ig_reels_avg_watch_time": 9906,
+   "ig_reels_video_view_total_time": 1713822
   },
   {
    "id": "slp_088_revuelta_tiempo_palabra",
    "ig": "18113953943131543",
    "fecha": "2026-11-10T23:50:47+0000",
-   "likes": 11,
+   "likes": 12,
    "comentarios": 8,
    "url": "https://www.instagram.com/reel/DflIEkSgjSD/",
    "titulo": "¿Trató Broncano igual a Abascal y a Sánchez? Sí o no 👇\n\nTiem",
-   "views": 1543,
-   "reach": 1217,
+   "views": 1550,
+   "reach": 1223,
    "saved": 1,
    "shares": 0,
-   "total_interactions": 21,
-   "ig_reels_avg_watch_time": 17362,
-   "ig_reels_video_view_total_time": 21199493
+   "total_interactions": 22,
+   "ig_reels_avg_watch_time": 17340,
+   "ig_reels_video_view_total_time": 21276384
   },
   {
    "id": "slp_082_sanchez_abascal_revuelta",
@@ -78,13 +94,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfk50mNjXxk/",
    "titulo": "¿Quién tiene razón: Sánchez o Abascal? 👇\n\nSánchez respondió ",
-   "views": 172,
-   "reach": 154,
+   "views": 174,
+   "reach": 156,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 7491,
-   "ig_reels_video_view_total_time": 1161169
+   "ig_reels_avg_watch_time": 7531,
+   "ig_reels_video_view_total_time": 1182383
   },
   {
    "id": "slp_081_quien_gano_revuelta",
@@ -94,13 +110,13 @@
    "comentarios": 1,
    "url": "https://www.instagram.com/reel/DfklLV0pQWO/",
    "titulo": "¿Quién ganó: Abascal o Broncano? Vota en comentarios 👇\n\nLo q",
-   "views": 269,
-   "reach": 224,
+   "views": 292,
+   "reach": 244,
    "saved": 0,
    "shares": 0,
    "total_interactions": 6,
-   "ig_reels_avg_watch_time": 8113,
-   "ig_reels_video_view_total_time": 1833623
+   "ig_reels_avg_watch_time": 8282,
+   "ig_reels_video_view_total_time": 2037549
   },
   {
    "id": "slp_078_abascal_israel_cataluna",
@@ -110,13 +126,13 @@
    "comentarios": 1,
    "url": "https://www.instagram.com/reel/DfkT97cDW9i/",
    "titulo": "¿Debe un partido negociar esto con otro país? Sí o no 👇\n\nEn ",
-   "views": 1264,
-   "reach": 1034,
+   "views": 1269,
+   "reach": 1039,
    "saved": 2,
    "shares": 0,
    "total_interactions": 15,
-   "ig_reels_avg_watch_time": 12537,
-   "ig_reels_video_view_total_time": 12788566
+   "ig_reels_avg_watch_time": 12562,
+   "ig_reels_video_view_total_time": 12864233
   },
   {
    "id": "slp_080_revuelta_top5",
@@ -126,13 +142,13 @@
    "comentarios": 11,
    "url": "https://www.instagram.com/reel/Dfj7826HcKP/",
    "titulo": "¿Cuál fue el mejor momento? Comenta el número 👇\n\nLos 5 momen",
-   "views": 3446,
-   "reach": 2693,
+   "views": 3456,
+   "reach": 2711,
    "saved": 2,
    "shares": 2,
    "total_interactions": 59,
-   "ig_reels_avg_watch_time": 17713,
-   "ig_reels_video_view_total_time": 49633250
+   "ig_reels_avg_watch_time": 17720,
+   "ig_reels_video_view_total_time": 49865440
   },
   {
    "id": "slp_077_abascal_fondo_buitre",
@@ -142,13 +158,13 @@
    "comentarios": 3,
    "url": "https://www.instagram.com/reel/DfjuQ9FDEBu/",
    "titulo": "¿Tiene razón Abascal con la vivienda? Sí o no 👇\n\nEn La Revue",
-   "views": 153,
-   "reach": 129,
+   "views": 154,
+   "reach": 130,
    "saved": 0,
    "shares": 0,
    "total_interactions": 5,
-   "ig_reels_avg_watch_time": 8838,
-   "ig_reels_video_view_total_time": 1193174
+   "ig_reels_avg_watch_time": 8880,
+   "ig_reels_video_view_total_time": 1207697
   },
   {
    "id": "slp_076_broncano_huevos",
@@ -158,13 +174,13 @@
    "comentarios": 11,
    "url": "https://www.instagram.com/reel/DfjZm5ACsyU/",
    "titulo": "¿Se pasó Broncano o tenía razón? 👇\n\nEl momento más tenso de ",
-   "views": 3670,
-   "reach": 2905,
+   "views": 3673,
+   "reach": 2906,
    "saved": 4,
    "shares": 0,
    "total_interactions": 47,
-   "ig_reels_avg_watch_time": 14178,
-   "ig_reels_video_view_total_time": 41216701
+   "ig_reels_avg_watch_time": 14188,
+   "ig_reels_video_view_total_time": 41261138
   },
   {
    "id": "slp_075_abascal_deconstruir",
@@ -206,13 +222,13 @@
    "comentarios": 54,
    "url": "https://www.instagram.com/reel/DfiirEkEmez/",
    "titulo": "¿Quién ganó la entrevista: Abascal o Broncano? 👇\n\nAsí acabó ",
-   "views": 5233,
-   "reach": 4004,
+   "views": 5234,
+   "reach": 4005,
    "saved": 6,
    "shares": 2,
    "total_interactions": 140,
-   "ig_reels_avg_watch_time": 16579,
-   "ig_reels_video_view_total_time": 66153729
+   "ig_reels_avg_watch_time": 16580,
+   "ig_reels_video_view_total_time": 66172495
   },
   {
    "id": "slp_070_encuestas_sanchez_feijoo",
@@ -222,13 +238,13 @@
    "comentarios": 1,
    "url": "https://www.instagram.com/reel/DfiU80wFJDk/",
    "titulo": "¿Remonta Sánchez? Sí o no 👇\n\nTres encuestas publicadas tras ",
-   "views": 559,
-   "reach": 488,
+   "views": 561,
+   "reach": 489,
    "saved": 0,
    "shares": 0,
    "total_interactions": 3,
-   "ig_reels_avg_watch_time": 11245,
-   "ig_reels_video_view_total_time": 5420192
+   "ig_reels_avg_watch_time": 11233,
+   "ig_reels_video_view_total_time": 5425645
   },
   {
    "id": "slp_071_tele_esta_noche",
@@ -254,13 +270,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfiAVsjliP9/",
    "titulo": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la izquierd",
-   "views": 160,
-   "reach": 143,
+   "views": 161,
+   "reach": 144,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 9318,
-   "ig_reels_video_view_total_time": 1341912
+   "ig_reels_avg_watch_time": 9448,
+   "ig_reels_video_view_total_time": 1370079
   },
   {
    "id": "slp_066_abascal_revuelta_publico",
@@ -479,12 +495,12 @@
    "url": "https://www.instagram.com/reel/DfbrSbUGRKG/",
    "titulo": "¿Retirarías a España del Mundial? Sí o no 👇\n\nFeijóo en El Ch",
    "views": 140,
-   "reach": 119,
+   "reach": 120,
    "saved": 0,
    "shares": 0,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 10481,
-   "ig_reels_video_view_total_time": 1289193
+   "ig_reels_avg_watch_time": 10609,
+   "ig_reels_video_view_total_time": 1315541
   },
   {
    "id": "slp_052_netanyahu_mayoria",
@@ -655,12 +671,12 @@
    "url": "https://www.instagram.com/reel/DfVbxsBjUtC/",
    "titulo": "Puente ha dimitido, pero en Valladolid su nombre seguirá el ",
    "views": 128,
-   "reach": 108,
+   "reach": 109,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 7231,
-   "ig_reels_video_view_total_time": 809949
+   "ig_reels_avg_watch_time": 7214,
+   "ig_reels_video_view_total_time": 815189
   },
   {
    "id": "slp_012_quien_sanchez",
