@@ -595,8 +595,10 @@
   {
    "id": "slp_085_huelga_politica",
    "fecha": "2026-11-11T17:00",
-   "estado": "pendiente",
-   "copy": "¿Es una huelga política? Sí o no 👇\n\nLa gran pelea de la huelga de hoy: ¿es por la vivienda y los sueldos, o es electoral a 18 días del 29-N? Lo que dicen unos y otros.\n\nFuentes: Demócrata (6-11), OKDiario (3-11) y El Diario de Madrid (8-11).\nFotos: Wikimedia Commons (ver fotos/creditos.json).\n\n#huelgageneral #11N #elecciones #29N"
+   "estado": "publicado",
+   "copy": "¿Es una huelga política? Sí o no 👇\n\nLa gran pelea de la huelga de hoy: ¿es por la vivienda y los sueldos, o es electoral a 18 días del 29-N? Lo que dicen unos y otros.\n\nFuentes: Demócrata (6-11), OKDiario (3-11) y El Diario de Madrid (8-11).\nFotos: Wikimedia Commons (ver fotos/creditos.json).\n\n#huelgageneral #11N #elecciones #29N",
+   "ig_media_id": "18135373111740458",
+   "publicado_en": "2026-11-11T17:01"
   },
   {
    "id": "slp_086_huelga_top5_frases",
