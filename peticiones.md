@@ -42,3 +42,8 @@ La rutina lee este archivo ANTES del radar y lo que diga aquí manda sobre el re
 ## 11-N (10:50) — Colau en La Revuelta (HECHO desde el chat)
 - slp_092 Broncano pide perdón (11-N 15:15) y slp_093 Colau y las preguntas clásicas (11-N 19:15), además de slp_089 de la pasada (12:20). El 11-N queda con 9 Reels: no añadir más.
 - OJO numeración: la pasada y el chat chocaron (slp_089/090). Antes de crear un id, `git pull` y mirar el último número de guiones/.
+
+## 11-N (21:05) — Abascal cancela con Jordi Wild (HECHO desde el chat)
+- slp_094 (11-N 22:00) y slp_095 Vox vs Wild (11-N 23:15).
+- RETENIDOS slp_067 y slp_087: hablaban de 4 entrevistas. NO publicarlos. Rehacer la previa con 3 (Colau y Sánchez ya grabadas; Feijóo se graba el 12-N, según Hispanidad 11-11) cuando se confirme la fecha de publicación.
+- Cierre «Síguenos» cambiado a «la campaña día a día · 29-N» (engine y publicar.py).

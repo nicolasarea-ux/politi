@@ -1,0 +1,201 @@
+{
+ "id": "slp_095_wild_vs_vox",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "VOX",
+  "WILD",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "VS · VOX Y JORDI WILD",
+  "source": "Fuentes: El Debate · Hispanidad · elEconomista"
+ },
+ "caption": "¿Quién tiene razón: Vox o Jordi Wild? 👇\n\nLas dos versiones del plantón de Abascal a The Wild Project. Vox dice que no culpa a Wild; Wild dice que Vox pidió quedarse los derechos de la entrevista.\n\nFuentes: El Debate (11-11) para el comunicado de Vox; El Debate, Hispanidad y elEconomista (11-11) para Jordi Wild. Es la versión de Wild; Vox no la ha comentado.\nFoto: Vox España (CC0), Wikimedia Commons.\n\n#Abascal #JordiWild #TheWildProject #Vox #elecciones #29N",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Vox contra Jordi Wild: dos versiones. Vox dice que no culpa a Wild de nada. Que el problema es RTVE.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Vox vs *Jordi Wild*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kA",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 460,
+       "w": 420,
+       "x": 30,
+       "y": 44,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3,
+       "label": "Vox",
+       "from": "left"
+      },
+      {
+       "id": "w1",
+       "type": "sticker",
+       "text": "🎙️",
+       "x": 50,
+       "y": 44,
+       "at": 0
+      },
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "2 VERSIONES",
+       "bg": "ink",
+       "size": 80,
+       "x": 50,
+       "y": 64,
+       "at": 0,
+       "dur": 2.6
+      }
+     ]
+    },
+    {
+     "text": "Y que Abascal no irá a ningún programa que quiera controlar en exclusiva sus respuestas.",
+     "show": [
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "«Control en exclusiva de las respuestas»",
+       "x": 50,
+       "y": 64,
+       "w": 900,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Wild lo cuenta distinto: su contrato era «no tocar un solo píxel» y publicarla íntegra.",
+     "hide": [
+      "h1",
+      "kA",
+      "w1",
+      "c1"
+     ],
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "La versión de *Wild*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "w2",
+       "type": "sticker",
+       "text": "🎙️",
+       "x": 50,
+       "y": 36,
+       "at": 0
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "«No tocar un solo píxel»",
+       "x": 50,
+       "y": 56,
+       "w": 900,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Según él, Vox quería grabarla y que fuera suya: «Querían los derechos de la entrevista». Y remata: «Si hubieran querido venir, hubieran venido».",
+     "hide": [
+      "c2"
+     ],
+     "show": [
+      {
+       "id": "st",
+       "type": "stamp",
+       "text": "«QUERÍAN LOS DERECHOS»",
+       "color": "red",
+       "x": 50,
+       "y": 58,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Quién tiene razón? ¿Vox o Jordi Wild? Comenta y síguenos.",
+     "hide": [
+      "h2",
+      "w2",
+      "st"
+     ],
+     "show": [
+      {
+       "id": "kA9",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 440,
+       "w": 400,
+       "x": 30,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3
+      },
+      {
+       "id": "w9",
+       "type": "sticker",
+       "text": "🎙️",
+       "x": 50,
+       "y": 40,
+       "at": 0
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿QUIÉN TIENE RAZÓN?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 2
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "VS",
+  "titulo": "Vox vs *Jordi Wild*",
+  "mini": {
+   "texto": "Jordi Wild sobre Vox:",
+   "rojo": "«QUERÍAN LOS DERECHOS»",
+   "cara": "abascal",
+   "emoji": "🎙️",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 92
+  }
+ }
+}
