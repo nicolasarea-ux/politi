@@ -38,3 +38,7 @@ La rutina lee este archivo ANTES del radar y lo que diga aquí manda sobre el re
 
 ## 10-N (19:02) — 4 Reels de la huelga general del 11-N (HECHO)
 - slp_083–086 programados el 11-N a las 07:30, 11:00, 17:00 y 21:00. El 11-N queda con 6 Reels: no añadir más ese día salvo noticia muy grande.
+
+## 11-N (10:50) — Colau en La Revuelta (HECHO desde el chat)
+- slp_092 Broncano pide perdón (11-N 15:15) y slp_093 Colau y las preguntas clásicas (11-N 19:15), además de slp_089 de la pasada (12:20). El 11-N queda con 9 Reels: no añadir más.
+- OJO numeración: la pasada y el chat chocaron (slp_089/090). Antes de crear un id, `git pull` y mirar el último número de guiones/.

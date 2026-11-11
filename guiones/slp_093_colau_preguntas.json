@@ -1,0 +1,209 @@
+{
+ "id": "slp_093_colau_preguntas",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL BANCO",
+  "LO OTRO",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "LA REVUELTA · ANOCHE",
+  "source": "Fuentes: Infobae · OKDiario · Ara"
+ },
+ "caption": "¿Deberían hacerles estas preguntas a todos los candidatos? Sí o no 👇\n\nAda Colau respondió en La Revuelta (10-11) las dos preguntas clásicas del programa, las que a Abascal no se le hicieron.\n\nFuentes: Infobae y OKDiario (11-11); Ara (11-11) sobre que a Abascal no se le hicieron.\nFotos: Wikimedia Commons (ver fotos/creditos.json).\n\n#Broncano #LaRevuelta #Colau #Abascal #elecciones #29N",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "A Abascal, Broncano no le hizo las preguntas clásicas. A Colau, sí.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Las preguntas *clásicas*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kC",
+       "type": "cara",
+       "foto": "colau",
+       "h": 560,
+       "w": 500,
+       "x": 27,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3,
+       "label": "Colau",
+       "from": "left"
+      },
+      {
+       "id": "kA",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 560,
+       "w": 500,
+       "x": 73,
+       "y": 48,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3,
+       "label": "Abascal",
+       "from": "right"
+      },
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "A ÉL NO. A ELLA, SÍ",
+       "bg": "ink",
+       "size": 64,
+       "x": 50,
+       "y": 60,
+       "at": 0,
+       "dur": 2.6
+      }
+     ]
+    },
+    {
+     "text": "¿Dinero en el banco? «Podría tener más de cuatrocientos mil euros en el banco. Pero tengo menos de diez mil».",
+     "hide": [
+      "kA"
+     ],
+     "show": [
+      {
+       "id": "s1",
+       "type": "sticker",
+       "text": "🏦",
+       "x": 50,
+       "y": 36,
+       "at": 0
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "«Menos de 10.000 €»",
+       "x": 50,
+       "y": 64,
+       "w": 900,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "¿Y sexo, el último mes? Siendo alcaldesa y madre: «un desierto». Y ahora: «cuatro a la semana».",
+     "hide": [
+      "h1",
+      "kC",
+      "s1",
+      "c1"
+     ],
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "¿Y *lo otro*?",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kC2",
+       "type": "cara",
+       "foto": "colau",
+       "h": 480,
+       "w": 460,
+       "x": 50,
+       "y": 42,
+       "at": 0,
+       "keep": 1,
+       "tilt": 0
+      },
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "«CUATRO A LA SEMANA»",
+       "bg": "red",
+       "size": 62,
+       "x": 50,
+       "y": 60,
+       "at": 0,
+       "dur": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Deberían hacerles estas preguntas a todos los candidatos? Sí o no. Comenta y síguenos.",
+     "hide": [
+      "h2",
+      "kC2"
+     ],
+     "show": [
+      {
+       "id": "kC9",
+       "type": "cara",
+       "foto": "colau",
+       "h": 420,
+       "w": 380,
+       "x": 27,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3
+      },
+      {
+       "id": "kA9",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 420,
+       "w": 380,
+       "x": 73,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿A TODOS?",
+       "color": "ink",
+       "x": 50,
+       "y": 66,
+       "rot": -4,
+       "at": 2
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "REVUELTA",
+  "titulo": "Colau y las *preguntas*",
+  "mini": {
+   "texto": "Colau en La Revuelta:",
+   "rojo": "«CUATRO A LA SEMANA»",
+   "cara": "colau",
+   "emoji": "😳",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 100
+  }
+ }
+}
