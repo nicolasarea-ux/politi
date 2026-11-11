@@ -909,10 +909,11 @@
     "Vox",
     "Frente Amplio"
    ],
-   "estado": "programado",
+   "estado": "retenido",
    "fecha": "2026-11-12T13:45",
    "copy": "¿Las verás enteras? Sí o no 👇\n\nMañana, 13-N, Jordi Wild publica en The Wild Project sus entrevistas a Abascal, Colau, Feijóo y Sánchez. Reglas: sin preguntas pactadas, sin cortes y con dos verificadores. Las cubrimos las cuatro.\n\nFuentes: Periodista Digital (2-11), ActualTV y Bilbao Hiria (24-10-2026). La frase de Wild, en Bilbao Hiria.\nFotos: Vox España (CC0), Laura Guerrero (CC BY 4.0), European People's Party (CC BY 2.0) y Vlada Republike Slovenije (dominio público), Wikimedia Commons.\n\n#JordiWild #TheWildProject #elecciones #29N #eleccionesgenerales",
-   "fecha_reels": "2026-11-12T13:45"
+   "fecha_reels": "2026-11-12T13:45",
+   "nota": "11-N 21:05: RETENIDO, Abascal cancela con Wild (dice 4 entrevistas)"
   },
   {
    "id": "slp_068_cracovia",
@@ -1126,10 +1127,10 @@
    "id": "slp_087_wild_quien_pierde",
    "tipo": "actualidad",
    "formato": "vs",
-   "estado": "programado",
+   "estado": "retenido",
    "fecha": "2026-11-12T21:00",
    "fecha_reels": "2026-11-12T21:00",
-   "nota": "Idea de Nicks (10-N): introductorio de Jordi Wild el jueves",
+   "nota": "Idea de Nicks (10-N): introductorio de Jordi Wild el jueves | 11-N 21:05: RETENIDO, Abascal cancela con Wild (dice 4 entrevistas)",
    "copy": "¿Quién sale peor parado de Jordi Wild? Comenta el nombre 👇\n\nMañana, 13-N, The Wild Project publica sus entrevistas a Colau, Abascal, Feijóo y Sánchez, en ese orden y con una hora de diferencia. Sin preguntas pactadas, sin cortes y con dos verificadores. Las cubrimos todas.\n\nFuentes: El Independiente (10-11), OKDiario y Artículo 14 (9-11). La frase de Wild, de su tuit del 24-10 recogido por El Independiente.\nFotos: Wikimedia Commons (ver fotos/creditos.json).\n\n#JordiWild #TheWildProject #Sánchez #Feijóo #Abascal #Colau #elecciones #29N"
   },
   {

@@ -178,7 +178,7 @@ const clamp=(x,a=0,b=1)=>Math.min(Math.max(x,a),b);
 const back=p=>{p=clamp(p);const c=1.7;return 1+(c+1)*Math.pow(p-1,3)+c*Math.pow(p-1,2)};
 const outQ=p=>1-Math.pow(1-clamp(p),3);
 let DATA_BRAND='Politízate Hoy';
-const FOLLOW_DEF='Síguenos: las 4 entrevistas de Wild <b>13-N</b>'; // CTA de cierre por defecto; guion: follow:false o follow:'texto'
+const FOLLOW_DEF='Síguenos: la campaña día a día <b>29-N</b>'; // CTA de cierre por defecto; guion: follow:false o follow:'texto'
 function init(d){D=d;DATA_BRAND=d.brand||DATA_BRAND;
  document.getElementById('htag').textContent=d.header.tag||'';
  document.getElementById('src').textContent=d.header.source||'';
