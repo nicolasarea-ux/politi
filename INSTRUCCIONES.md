@@ -171,3 +171,11 @@ Referencia: canal @que.cambia («Lo que pasa y cómo te afecta, sin bandos»). N
 5. **Nuestro personaje propio = los CABEZONES** (elemento `cabezon`: cabeza grande que habla, bocadillo con la frase literal). Es nuestra marca frente a su muñeco. Mismo trato a todos los políticos (neutralidad): nunca deformar ni ridiculizar a uno más que a otro.
 6. **Constancia**: misma estructura en todos los vídeos de una serie; series reconocibles («Si votas a…», «Qué te cambia…», «La frase del día»).
 7. **Lead magnet** (cuando Nicks lo monte): «Comenta GUÍA y te mando la guía del 29-N».
+
+## FORMATO MONIGOTES (12-N, aprobado por Nicks: «la idea es esa, más animación, más movimiento, transiciones»)
+- Elemento `mono` (engine/monos.js): who = sanchez|feijoo|abascal|diaz|colau|montero|motos|broncano|wild; cara = neutral|sonrie|enfado|sorpresa|risa|duda (o `caras:[{f,c}]`); gesto = habla|senala|brazos|manos|puno|quieto; from/exit left|right (entra/sale andando); habla true/false; say + bub up|l|r; flip; mira l|r.
+- Objetos `prop` (engine/props.js): mesa, silla (vacia), tele (count/fmt/sub), doc (BOE + sello), urna, votos (favor/contra con siglas de partido).
+- Transición `cap` (número + título que barre la pantalla) al empezar cada capítulo.
+- ZONAS (nada tapa el texto): ARRIBA y 16–22 % titular/tarjetas · MEDIO 24–66 % personajes y objetos · subtítulos fijos abajo. Personajes w 240–320.
+- Mismo estilo y trato para todos los políticos. Siempre algo moviéndose: cada 2–3 s cambia algo (entra un personaje, objeto, gesto, expresión, transición).
+- Intercalar: ~1 de cada 3 vídeos en monigotes; comparar números cada domingo.
