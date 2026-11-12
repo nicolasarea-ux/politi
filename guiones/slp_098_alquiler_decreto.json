@@ -1,0 +1,343 @@
+{
+ "id": "slp_098_alquiler_decreto",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 3,
+ "clauseLabels": [
+  "LA VOTACIÓN",
+  "LO QUE TE CAMBIA",
+  "LO QUE NO",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "¿QUÉ CAMBIA? · TU ALQUILER",
+  "source": "Fuentes: idealista · elDiario.es · Infobae"
+ },
+ "caption": "¿Te afecta? Cuéntanoslo 👇\n\nEl Congreso (Diputación Permanente) aprobó el 12-N el decreto de vivienda por 35 a 34 y tumbó el de alquileres indefinidos. Lo que cambia:\n• Si tu contrato acaba antes de 2029, puedes pedir hasta 2 años más de prórroga (al corriente de pago).\n• Subidas del alquiler limitadas hasta el 31-12-2027.\n• Desahucios de familias vulnerables sin alternativa, frenados hasta el 31-12-2030.\n• Lo que NO sale: la renovación automática (alquileres «indefinidos»). El PNV votó en contra.\nA favor: PSOE, Sumar, ERC, Bildu, PNV, Podemos, BNG. En contra: PP, Vox, Junts.\n\nFuentes: idealista (12-11), elDiario.es (12-11), Infobae (12-11). Frases: ministra Isabel Rodríguez y diputado de Vox Carlos Hernández Quero (vía idealista).\n\n#alquiler #vivienda #decreto #Congreso #29N",
+ "portada": {
+  "serie": "QUÉ CAMBIA",
+  "titulo": "¿Qué cambia en *tu alquiler*?",
+  "mini": {
+   "texto": "Aprobado por 1 voto:",
+   "rojo": "¿QUÉ CAMBIA EN TU ALQUILER?",
+   "emoji": "🏠",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 86
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Qué cambia en tu alquiler? El Congreso aprobó ayer el decreto de vivienda.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "¿Qué cambia en *tu alquiler*?",
+       "x": 50,
+       "y": 19,
+       "w": 900
+      },
+      {
+       "id": "casa",
+       "type": "prop",
+       "kind": "casa",
+       "x": 68,
+       "y": 45,
+       "w": 420,
+       "at": 0,
+       "text": "ALQUILER",
+       "tag": 0.6
+      },
+      {
+       "id": "tu",
+       "type": "mono",
+       "who": "tu",
+       "x": 26,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "from": "left",
+       "cara": "duda",
+       "label": "Tú"
+      },
+      {
+       "id": "doc",
+       "type": "prop",
+       "kind": "doc",
+       "x": 50,
+       "y": 44,
+       "w": 560,
+       "at": 10,
+       "text": "Decreto de vivienda",
+       "sello": "APROBADO",
+       "st": 0.7
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Por un voto: treinta y cinco a treinta y cuatro.",
+     "show": [
+      {
+       "id": "vot",
+       "type": "prop",
+       "kind": "votos",
+       "x": 50,
+       "y": 45,
+       "w": 980,
+       "at": 0,
+       "favor": [
+        "PSOE",
+        "SUMAR",
+        "ERC",
+        "BILDU",
+        "PNV",
+        "PODEMOS",
+        "BNG"
+       ],
+       "contra": [
+        "PP",
+        "VOX",
+        "JUNTS"
+       ],
+       "nf": 35,
+       "nc": 34
+      },
+      {
+       "id": "st1",
+       "type": "stamp",
+       "text": "POR 1 VOTO",
+       "color": "red",
+       "x": 50,
+       "y": 61,
+       "rot": -6,
+       "at": 2
+      }
+     ],
+     "hide": [
+      "casa",
+      "tu",
+      "doc"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Lo que te cambia: si tu contrato acaba antes de 2029, puedes pedir dos años más.",
+     "show": [
+      {
+       "id": "cap1",
+       "type": "cap",
+       "n": "1",
+       "text": "Lo que te cambia",
+       "at": 0
+      },
+      {
+       "id": "k1",
+       "type": "card",
+       "text": "Contrato acaba antes de 2029 → +2 años",
+       "x": 50,
+       "y": 20,
+       "w": 900,
+       "at": 3
+      },
+      {
+       "id": "tu2",
+       "type": "mono",
+       "who": "tu",
+       "x": 28,
+       "y": 49,
+       "w": 270,
+       "at": 2,
+       "habla": false,
+       "cara": "sonrie"
+      },
+      {
+       "id": "casa2",
+       "type": "prop",
+       "kind": "casa",
+       "x": 70,
+       "y": 46,
+       "w": 400,
+       "at": 2,
+       "text": "+2 AÑOS",
+       "tag": 0.9
+      }
+     ],
+     "hide": [
+      "h1",
+      "vot",
+      "st1"
+     ]
+    },
+    {
+     "text": "Las subidas, limitadas hasta finales de 2027. Y los desahucios de familias vulnerables, frenados hasta 2030.",
+     "show": [
+      {
+       "id": "k2",
+       "type": "card",
+       "text": "Subidas limitadas → fin de 2027",
+       "x": 50,
+       "y": 20,
+       "w": 900,
+       "at": 0
+      },
+      {
+       "id": "k3",
+       "type": "card",
+       "text": "Desahucios de vulnerables frenados → 2030",
+       "x": 50,
+       "y": 27,
+       "w": 900,
+       "at": 8
+      }
+     ],
+     "hide": [
+      "k1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Lo que no sale: los alquileres indefinidos. El PNV votó en contra.",
+     "show": [
+      {
+       "id": "cap2",
+       "type": "cap",
+       "n": "2",
+       "text": "Lo que no sale",
+       "at": 0
+      },
+      {
+       "id": "doc2",
+       "type": "prop",
+       "kind": "doc",
+       "x": 50,
+       "y": 42,
+       "w": 560,
+       "at": 2,
+       "text": "Alquileres indefinidos",
+       "sello": "RECHAZADO",
+       "st": 0.8
+      },
+      {
+       "id": "k4",
+       "type": "card",
+       "text": "El PNV vota en contra",
+       "x": 50,
+       "y": 62,
+       "w": 900,
+       "at": 8
+      }
+     ],
+     "hide": [
+      "k2",
+      "k3",
+      "tu2",
+      "casa2"
+     ]
+    },
+    {
+     "text": "El Gobierno: «proteger a los inquilinos». Vox: «cambiar las reglas del juego en mitad del partido».",
+     "show": [
+      {
+       "id": "min",
+       "type": "mono",
+       "who": "ministra",
+       "x": 28,
+       "y": 50,
+       "w": 260,
+       "at": 0,
+       "habla": true,
+       "tf": [
+        0,
+        0.42
+       ],
+       "label": "Gobierno",
+       "say": "«Proteger a los inquilinos»",
+       "bw": 380,
+       "bfs": 36,
+       "cara": "sonrie",
+       "gesto": "manos"
+      },
+      {
+       "id": "dip",
+       "type": "mono",
+       "who": "diputado",
+       "x": 72,
+       "y": 50,
+       "w": 265,
+       "at": 0,
+       "habla": true,
+       "tf": [
+        0.45,
+        1
+       ],
+       "label": "Vox",
+       "say": "«Cambiar las reglas del juego en mitad del partido»",
+       "bw": 420,
+       "bfs": 34,
+       "cara": "enfado",
+       "gesto": "senala",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": [
+      "doc2",
+      "k4"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Te afecta? Comenta y síguenos.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TE AFECTA?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "min",
+      "dip"
+     ]
+    }
+   ]
+  }
+ ]
+}

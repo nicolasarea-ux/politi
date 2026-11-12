@@ -88,6 +88,7 @@ body.th-pixel{--ink:#F7F1FF;--paper:#1A0F3A;--card:#2B1B5E;--mark:#39FF14;--red:
 .th-pixel #caps{font-family:T;text-shadow:4px 4px 0 #000}
 .th-pixel #caps .now{color:#1A0F3A}
 .th-pixel img.face{image-rendering:pixelated;filter:drop-shadow(8px 0 0 #F7F1FF) drop-shadow(-8px 0 0 #F7F1FF) drop-shadow(0 -8px 0 #F7F1FF) drop-shadow(10px 10px 0 #000)!important}
+.mono .ink path:not([stroke]),.mono .ink rect,.mono .ink ellipse:not(.shadow){stroke:#14213D;stroke-width:2.6;stroke-linejoin:round;paint-order:stroke}
 </style></head>
 <body><div id="stage"><div id="bgfx"></div><div id="margin"></div>
 <div id="hdr"><div id="htag"></div><div id="hand"><span id="handle">@politizatehoy</span><span id="ast"></span></div></div>
@@ -269,8 +270,8 @@ else if(e.type==='cabezon'){if(e.from){dx=(e.from==='left'?-1:1)*(1-outQ(a/0.5))
    hd.style.transform=`translateX(-50%) translateY(${-Math.abs(Math.sin(t*(talk?9:2.4)))*(talk?18:6)}px) rotate(${Math.sin(t*(talk?7.5:1.8)+e.x)*(talk?6:3)}deg) scale(${1+(talk?0.035:0.01)*Math.sin(t*13)},${1-(talk?0.03:0.005)*Math.sin(t*13)})`;
    const bb=n.querySelector('.bub');if(bb){const q=back(clamp((a-0.25)/0.3));bb.style.transform=`scale(${q})`;bb.style.opacity=q>0?1:0}
    rot+=(e.tilt||0)}
-else if(e.type==='mono'){const fr=e.from?(e.from==='left'?-1:1):0;if(fr)dx=fr*(1-clamp(a/0.7))*760;else dy=(1-outQ(a/0.35))*500;op=fr?1:clamp(a/0.1);
-   const exP=(e.exit&&t>hT)?clamp((t-hT)/0.9):0;if(e.exit){dx+=(e.exit==='left'?-1:1)*exP*900;out=0}const talk=!exP&&e.habla!==false&&t>=e.g.t0+0.05&&t<=e.g.t1-0.1&&a>(fr?0.7:0.2);MONO_ANIM(n,t,a,talk,e,exP);
+else if(e.type==='mono'){const fr=e.from?(e.from==='left'?-1:1):0;if(fr){const qq=clamp(a/0.75);dx=fr*(1-qq)*760+(qq>=1?0:fr*-Math.sin(qq*Math.PI)*0);}else dy=(1-outQ(a/0.35))*500;op=fr?1:clamp(a/0.1);
+   const exP=(e.exit&&t>hT)?clamp((t-hT)/0.9):0;if(e.exit){dx+=(e.exit==='left'?-1:1)*exP*900;out=0}const tw0=e.g.t0+(e.tf?e.tf[0]*(e.g.t1-e.g.t0):0.05),tw1=e.g.t0+(e.tf?e.tf[1]*(e.g.t1-e.g.t0):(e.g.t1-e.g.t0-0.1));const talk=!exP&&e.habla!==false&&t>=tw0&&t<=tw1&&a>(fr?0.7:0.2);MONO_ANIM(n,t,a,talk,e,exP);
    const bb=n.querySelector('.bub');if(bb){const q=back(clamp((a-(fr?0.75:0.3))/0.3));bb.style.transform=`scale(${q})`;bb.style.opacity=q>0?1:0}
    {const sv=n.querySelector('svg.mono');const fl=(e.flip?-1:1)*(exP&&((e.exit==='left')!==!!e.flip)?-1:1);sv.style.transform=`scaleX(${fl})`;}}
   else if(e.type==='cap'){const pn=n.querySelector('.cpp');const xin=a<0.28?(1-outQ(a/0.28))*-1080:(a>0.95?outQ((a-0.95)/0.3)*1080:0);pn.style.transform=`translateX(${xin}px)`;

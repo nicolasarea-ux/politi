@@ -95,8 +95,23 @@ def main(vdir):
         for g in s["segments"]:
             for e in g["show"]:
                 i = int(e["t"] * SR)
-                p = {"stamp": thump, "flash": thump, "note": ticks}.get(e["type"], pop)()
-                gain = {"stamp": 0.9, "flash": 0.8, "note": 0.35}.get(e["type"], 0.45)
+                ty = e["type"]
+                if ty == "cap":
+                    w = whoosh(); w = np.concatenate([w, w[::-1]]); fx[i:i + len(w)] += 0.9 * w[:len(fx) - i]
+                    th = thump(); j = i + int(0.2 * SR); fx[j:j + len(th)] += 0.6 * th[:len(fx) - j]; continue
+                if ty == "mono" and e.get("from"):
+                    tk = ticks(0.7); fx[i:i + len(tk)] += 0.35 * tk[:len(fx) - i]; continue
+                if ty == "prop":
+                    k = e.get("kind")
+                    if k == "doc" and e.get("sello"):
+                        j = i + int((e.get("st", 0.9) + 0.1) * SR); th = thump(); fx[j:j + len(th)] += 1.0 * th[:len(fx) - j]
+                    if k == "votos":
+                        for c in range(len(e.get("favor", [])) + len(e.get("contra", []))):
+                            j = i + int((0.3 + c * 0.12) * SR); pp = pop(); fx[j:j + len(pp)] += 0.35 * pp[:len(fx) - j]
+                    if k == "tele" and e.get("count"):
+                        tk = ticks(e.get("dur", 1.6)); fx[i:i + len(tk)] += 0.4 * tk[:len(fx) - i]
+                p = {"stamp": thump, "flash": thump, "note": ticks}.get(ty, pop)()
+                gain = {"stamp": 0.9, "flash": 0.8, "note": 0.35}.get(ty, 0.45)
                 fx[i:i + len(p)] += gain * p[:len(fx) - i]
     mix = mix + db(fx[:n], -9)
     mix = mix / np.abs(mix).max() * 0.95

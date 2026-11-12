@@ -12,6 +12,9 @@ window.MONOS = {
   motos:   {skin:'#EFC09B', fw:51, chin:186, jaw:.6, hair:'pincho', hc:'#8C8783', hl:'#C4BFBA', brow:'#6E6965', bw:6, barba:'#B57C55', corta:1, suit:'#141414', shirt:'#fff', tie:null, alto:0.98, smile:1, teeth:1, lips:'#9B4B45'},
   broncano:{skin:'#E8B791', fw:45, chin:196, jaw:.4, hair:'rizocorto', hc:'#1F1814', hl:'#3D322B', brow:'#1F1814', bw:7, barba:'#1F1814', barbaHl:'#3D322B', suit:'#262626', camiseta:1, alto:1.0, smile:.3, ojos:1.15, lips:'#8E4A42'},
   wild:    {skin:'#E5AF87', fw:55, chin:188, jaw:.85, hair:'calvo', hc:'#C99A76', hl:'#C99A76', brow:'#2E2219', bw:8, barba:'#33271E', barbaHl:'#5A4636', suit:'#5B5F66', tirantes:1, tatuajes:1, alto:1.03, smile:.6, teeth:1, lips:'#8E4A42', brazos:1.25},
+  tu:      {skin:'#E9BC98', fw:49, chin:184, jaw:.35, hair:'lado', hc:'#6B4A33', hl:'#8E6A50', brow:'#4A3324', bw:6, suit:'#E4572E', camiseta:1, alto:0.97, smile:.6, teeth:1, lips:'#A35A50', sudadera:1},
+  ministra:{skin:'#EEC6A6', fw:47, chin:182, jaw:.15, hair:'bob', hc:'#4B3A30', hl:'#6E5A4C', brow:'#3A2C24', bw:5, suit:'#7A2E3B', shirt:'#fff', tie:null, alto:0.94, mujer:1, smile:.4, lips:'#A84A55'},
+  diputado:{skin:'#EAC0A0', fw:51, chin:186, jaw:.5, hair:'entradas', hc:'#5A4E46', hl:'#80746B', brow:'#3D342E', bw:6, suit:'#2E3B2E', shirt:'#fff', tie:'#6B7F3A', alto:1.0, smile:.2, lips:'#9B4B45'},
   generico:{skin:'#EBC0A0', fw:50, chin:186, jaw:.4, hair:'lado', hc:'#4A3C32', hl:'#6b5a4c', brow:'#3a2e26', bw:6, suit:'#2B3448', shirt:'#fff', tie:'#888', alto:1, smile:.5, lips:'#9B4B45'}
 };
 const _c=152;
@@ -37,6 +40,7 @@ function monoSVG(name, opts={}){
   const legs=`<g class="mlegs"><g class="leg l" style="transform-origin:134px 330px"><rect x="122" y="328" width="24" height="122" rx="9" fill="${pant}"/><path d="M112 446 h40 v14 h-46 q-2-10 6-14Z" fill="#141414"/></g><g class="leg r" style="transform-origin:170px 330px"><rect x="158" y="328" width="24" height="122" rx="9" fill="${pant}"/><path d="M152 446 h40 q8 4 6 14 h-46Z" fill="#141414"/></g></g>`;
   let torso;
   if(p.tirantes) torso=`<path d="M106 204 Q152 192 198 204 L206 338 Q152 350 98 338Z" fill="${p.suit}"/><path d="M122 200 Q152 236 182 200" fill="${S}"/><path d="M106 204 L122 200 L118 250 Z M198 204 L182 200 L186 250Z" fill="${S}"/>`;
+  else if(p.sudadera) torso=`<path d="M98 206 Q152 188 206 206 L214 340 Q152 352 90 340Z" fill="${p.suit}"/><path d="M120 200 Q152 232 184 200 Q152 214 120 200Z" fill="#000" opacity=".18"/><path d="M140 214 L138 262 M164 214 L166 262" stroke="#fff" stroke-width="4" stroke-linecap="round"/><rect x="122" y="290" width="60" height="30" rx="8" fill="#000" opacity=".12"/>`;
   else if(p.camiseta) torso=`<path d="M100 206 Q152 190 204 206 L212 338 Q152 350 92 338Z" fill="${p.suit}"/><path d="M130 198 Q152 222 174 198" stroke="#000" stroke-opacity=".3" stroke-width="5" fill="none"/>`;
   else torso=`<path d="M100 206 Q152 190 204 206 L212 338 Q152 350 92 338Z" fill="${p.suit}"/><path d="M132 198 L152 262 L172 198Z" fill="${p.shirt}"/>${p.tie?`<path d="M147 210 h10 l6 54 l-11 14 l-11-14Z" fill="${p.tie}"/><path d="M146 206 h12 l-2 8 h-8Z" fill="${p.tie}" style="filter:brightness(.8)"/>`:''}<path d="M132 198 L152 262 L124 252 L110 214Z" fill="${p.suit}" style="filter:brightness(1.15)"/><path d="M172 198 L152 262 L180 252 L194 214Z" fill="${p.suit}" style="filter:brightness(1.15)"/>${p.mujer?'':`<circle cx="152" cy="290" r="3" fill="#000" opacity=".35"/><circle cx="152" cy="312" r="3" fill="#000" opacity=".35"/>`}`;
   const ab=p.brazos||1, sleeve=(p.tirantes)?S:p.suit;
@@ -60,8 +64,8 @@ function monoSVG(name, opts={}){
       <g class="mopen" style="transform-origin:${_c}px 158px;opacity:0"><path d="M${_c-18} 156 Q${_c} 186 ${_c+18} 156 Q${_c} 162 ${_c-18} 156Z" fill="#5E1F22"/>${p.teeth?`<path d="M${_c-15} 158 Q${_c} 164 ${_c+15} 158 L${_c+13} 163 Q${_c} 167 ${_c-13} 163Z" fill="#fff"/>`:''}<ellipse cx="${_c}" cy="174" rx="8" ry="4" fill="#C0545A" opacity=".8"/></g>
     </g>
     ${p.pend?`<circle cx="${L+1}" cy="136" r="4.5" fill="${p.pend}"/><circle cx="${R-1}" cy="136" r="4.5" fill="${p.pend}"/>`:''}
-    ${_hair(p,false)}</g>`;
-  return `<svg viewBox="40 20 224 450" class="mono" style="overflow:visible;width:100%;height:100%">${legs}<g class="mbody">${torso}${arm('l')}${arm('r')}</g>${head}</svg>`;
+    <g class="hairf" style="transform-origin:152px 60px">${_hair(p,false)}</g></g>`;
+  return `<svg viewBox="40 20 224 450" class="mono" style="overflow:visible;width:100%;height:100%"><ellipse class="shadow" cx="152" cy="462" rx="78" ry="12" fill="#000" opacity=".14"/><g class="ink">${legs}<g class="mbody">${torso}${arm('l')}${arm('r')}</g>${head}</g></svg>`;
 }
 // expresiones: neutral, sonrie, enfado, sorpresa, risa, duda
 const EXPR={neutral:{bl:0,br:0,by:0,sq:0,mo:0},sonrie:{bl:-4,br:4,by:-2,sq:.15,mo:.15},enfado:{bl:14,br:-14,by:4,sq:.25,mo:0},sorpresa:{bl:-8,br:8,by:-9,sq:-.15,mo:.55},risa:{bl:-6,br:6,by:-5,sq:.75,mo:.75},duda:{bl:10,br:-4,by:-6,sq:.1,mo:0}};
@@ -76,9 +80,10 @@ function MONO_ANIM(n, t, a, talk, e, exitP){
   const X=EXPR[ex]||EXPR.neutral;
   const hd=q('.mhead');const nod=talk?Math.sin(t*7.3)*3.5+Math.sin(t*3.1)*2:Math.sin(t*1.6)*1.8;const tilt=ex==='duda'?7:0;
   hd.style.transform=`translateY(${br*0.8+(talk?-Math.abs(Math.sin(t*8))*3:0)+(ex==='risa'?-Math.abs(Math.sin(t*16))*5:0)}px) rotate(${nod+tilt}deg) scale(1.24)`;
+  const hf=q('.hairf');if(hf)hf.style.transform=`rotate(${-nod*0.35}deg) translateY(${talk?Math.abs(Math.sin(t*8))*1.5:0}px)`;
   // boca
   const amp=talk?0.3+0.7*Math.abs(Math.sin(t*15+Math.sin(t*4)*2)):X.mo;
-  const mo=q('.mopen'),mc=q('.mclosed');mo.style.opacity=amp>0.05?1:0;mo.style.transform=`scaleY(${0.25+amp*1.0}) scaleX(${ex==='sorpresa'?0.6:1})`;mc.style.opacity=amp>0.05?0:1;
+  const mo=q('.mopen'),mc=q('.mclosed');mo.style.opacity=amp>0.05?1:0;const vis=talk?[1,0.7,1.15,0.8][Math.floor(t*9)%4]:1;mo.style.transform=`scaleY(${0.25+amp*1.0}) scaleX(${ex==='sorpresa'?0.6:vis})`;mc.style.opacity=amp>0.05?0:1;
   mc.style.transformBox='fill-box';mc.style.transformOrigin='center';mc.style.transform=(ex==='enfado'||ex==='duda')?'scaleY(-0.7)':'';
   // ojos: parpadeo + entornar
   const bl=((t+e.x*0.07)%3.6)<0.12;qa('.eye').forEach(x=>{x.style.transform=`scaleY(${bl?0.08:1-Math.max(0,X.sq)*0.55}) scale(${X.sq<0?1.15:1})`});
