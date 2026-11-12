@@ -161,3 +161,13 @@ Motivo: estancados en ~130 views de mediana y 2 seguidores con 5 Reels/día.
 - Cuando haya un MOMENTO del que todo el mundo habla (entrevista, debate, zasca viral): esa misma noche, un Reel por momento (3 en las primeras 2 h y el resto al día siguiente). Frase literal en grande en el segundo 0, las dos caras, pregunta para comentar al final. Formato "top 5" incluido.
 - Próximos momentos a preparar con antelación (guiones base y caras listas): entrevistas de Jordi Wild (13-N), debates a 4 y a 2, mítines de cierre, noche electoral 29-N.
 - Días sin momento: 2–3 Reels de actualidad con caras. Nunca relleno.
+
+## CORRECCIÓN DE RUMBO (12-N) — lo que hace @que.cambia (109k) y nosotros no
+Referencia: canal @que.cambia («Lo que pasa y cómo te afecta, sin bandos»). NO copiar su estética (amarillo + muñeco «?»): copiar sus MECANISMOS.
+1. **Ángulo «¿y a ti qué?»**: cada vídeo termina (o empieza) con lo que le cambia a quien lo ve: tu alquiler, tu nómina, tu pensión, tu voto. El cotilleo político solo, sin «qué te cambia», no se guarda ni se comparte.
+2. **Capítulos numerados con barra de progreso arriba** («1 LA VOTACIÓN · 2 TU ALQUILER · 3 …»): la barra de cláusulas ya existe; usar etiquetas de capítulo con número y verbo claro, 3–5 capítulos.
+3. **Datos visuales, no texto**: votaciones con logos de partidos en fichas (a favor / en contra), cifras grandes, documentos (BOE, papeleta) como objetos animados en el gancho.
+4. **Gancho = objeto + pregunta personal** en el segundo 0: «¿QUÉ CAMBIA EN TU ALQUILER?» sobre un BOE con sello «VOTADO HOY».
+5. **Nuestro personaje propio = los CABEZONES** (elemento `cabezon`: cabeza grande que habla, bocadillo con la frase literal). Es nuestra marca frente a su muñeco. Mismo trato a todos los políticos (neutralidad): nunca deformar ni ridiculizar a uno más que a otro.
+6. **Constancia**: misma estructura en todos los vídeos de una serie; series reconocibles («Si votas a…», «Qué te cambia…», «La frase del día»).
+7. **Lead magnet** (cuando Nicks lo monte): «Comenta GUÍA y te mando la guía del 29-N».
