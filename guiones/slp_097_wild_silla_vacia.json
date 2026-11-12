@@ -87,9 +87,9 @@
        "type": "stamp",
        "text": "NO VA",
        "color": "red",
-       "x": 50,
-       "y": 50,
-       "rot": -4,
+       "x": 80,
+       "y": 46,
+       "rot": -10,
        "at": 0
       }
      ]
