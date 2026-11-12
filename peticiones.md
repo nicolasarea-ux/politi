@@ -48,3 +48,13 @@ La rutina lee este archivo ANTES del radar y lo que diga aquí manda sobre el re
 - RETENIDOS slp_067 y slp_087: hablaban de 4 entrevistas. NO publicarlos. Rehacer la previa con 3 (Colau y Sánchez ya grabadas; Feijóo se graba el 12-N, según Hispanidad 11-11) cuando se confirme la fecha de publicación.
 - Cierre «Síguenos» cambiado a «la campaña día a día · 29-N» (engine y publicar.py).
 - 12-N 08:19: slp_096 Motos vs Sánchez (09:30), hecho desde el chat. La pasada no debe repetir este tema.
+
+## SERIE «SI VOTAS A…» (petición de Nicks, 12-N 13:56) — 1 al día del 14-N al 18-N
+Formato fijo, IGUAL para todos (neutralidad):
+- Título en pantalla y portada: «Si votas a X, esto es lo que propone» (nunca «lo que pasará»: son propuestas, no consecuencias).
+- Cara del candidato al segundo 0 + logo/nombre del partido. 5 medidas, una por tarjeta con «5…1» en cuenta atrás (formato top 5, el que mejor funciona).
+- Criterio de selección, el mismo para todos: las 5 medidas MÁS CONCRETAS y con cifra de sus propios documentos (programa 29-N si está publicado; si no, decálogos, resoluciones de congreso o anuncios del propio partido, citando cuál). Nada de críticas de rivales dentro del vídeo.
+- Ni una palabra de valoración. Cierre: «¿Te convence? Sí o no. Comenta y síguenos. Mañana: [siguiente partido]».
+- Caption: fuente de cada medida y fecha; si el programa oficial no está publicado, decirlo.
+Orden y horas (19:45, la mejor franja): 14-N PSOE · 15-N PP · 16-N Vox · 17-N Frente Amplio (Colau) · 18-N Podemos (Montero). Si publican programa oficial antes de su día, usar el programa.
+Fuentes de partida: DatosClaros (comparador 29N, vivienda), Forbes 5-10 (batallas económicas), politicaelectoral.com, Politicheck. Contrastar cada cifra con una 2.ª fuente o con el documento del partido.
