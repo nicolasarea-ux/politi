@@ -1,0 +1,218 @@
+{
+ "id": "slp_096_motos_sanchez_cobardia",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL ZASCA",
+  "LAS PREGUNTAS",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "VS · EL HORMIGUERO ANOCHE",
+  "source": "Fuentes: OKDiario · El Español · elDiario.es"
+ },
+ "caption": "¿Cobardía o estrategia? 👇\n\nPablo Motos, en El Hormiguero (11-11), antes de entrevistar a Feijóo: Sánchez no irá al programa y «puede ser cobardía». Y las preguntas que le habría hecho. En La Revuelta (22-10) Sánchez había dicho: «Iré a El Hormiguero y donde haga falta».\n\nFuentes: OKDiario y El Español (11-11) para Motos; elDiario.es (28-10) para la frase de Sánchez. No hemos encontrado respuesta de Moncloa ni del PSOE.\nFoto: Vlada Republike Slovenije (dominio público), Wikimedia Commons.\n\n#PabloMotos #ElHormiguero #Sánchez #Feijóo #elecciones #29N",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "«Puede ser cobardía». Pablo Motos, en El Hormiguero, sobre Pedro Sánchez, que no irá al programa.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Motos vs *Sánchez*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kS",
+       "type": "cara",
+       "foto": "sanchez",
+       "h": 500,
+       "w": 460,
+       "x": 50,
+       "y": 42,
+       "at": 0,
+       "keep": 1,
+       "tilt": 0,
+       "label": "Sánchez"
+      },
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "«PUEDE SER COBARDÍA»",
+       "bg": "red",
+       "size": 64,
+       "x": 50,
+       "y": 60,
+       "at": 0,
+       "dur": 3.2
+      }
+     ]
+    },
+    {
+     "text": "Y antes: «Es una torpeza política, porque aquí hay miles de votos». Lo dijo justo antes de entrevistar a Feijóo.",
+     "hide": [
+      "kS"
+     ],
+     "show": [
+      {
+       "id": "s1",
+       "type": "sticker",
+       "text": "📺",
+       "x": 50,
+       "y": 36,
+       "at": 0
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "«Aquí hay miles de votos»",
+       "x": 50,
+       "y": 56,
+       "w": 900,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Y soltó lo que le habría preguntado: por qué se fue veinticuatro días de vacaciones, si pone la mano en el fuego por Zapatero, por Ábalos, Cerdán y Koldo…",
+     "hide": [
+      "h1",
+      "s1",
+      "c1"
+     ],
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "Lo que le *habría preguntado*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "24 días de vacaciones",
+       "x": 50,
+       "y": 38,
+       "w": 900,
+       "at": 0
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "Zapatero",
+       "x": 50,
+       "y": 50,
+       "w": 900,
+       "at": 12
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "text": "Ábalos, Cerdán, Koldo",
+       "x": 50,
+       "y": 62,
+       "w": 900,
+       "at": 20
+      }
+     ]
+    },
+    {
+     "text": "Lo curioso: en La Revuelta, Sánchez había dicho: «Iré a El Hormiguero y donde haga falta».",
+     "hide": [
+      "h2",
+      "c2",
+      "c3",
+      "c4"
+     ],
+     "show": [
+      {
+       "id": "kS2",
+       "type": "cara",
+       "foto": "sanchez",
+       "h": 480,
+       "w": 460,
+       "x": 50,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": 0
+      },
+      {
+       "id": "st",
+       "type": "stamp",
+       "text": "«IRÉ A EL HORMIGUERO»",
+       "color": "ink",
+       "x": 50,
+       "y": 60,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Cobardía o estrategia? Comenta y síguenos.",
+     "hide": [
+      "kS2",
+      "st"
+     ],
+     "show": [
+      {
+       "id": "kS9",
+       "type": "cara",
+       "foto": "sanchez",
+       "h": 460,
+       "w": 440,
+       "x": 50,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": 0
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿COBARDÍA O ESTRATEGIA?",
+       "color": "ink",
+       "x": 50,
+       "y": 64,
+       "rot": -4,
+       "at": 1
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "VS",
+  "titulo": "Motos vs *Sánchez*",
+  "mini": {
+   "texto": "Pablo Motos a Sánchez:",
+   "rojo": "«PUEDE SER COBARDÍA»",
+   "cara": "sanchez",
+   "emoji": "📺",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 96
+  }
+ }
+}

@@ -47,3 +47,4 @@ La rutina lee este archivo ANTES del radar y lo que diga aquí manda sobre el re
 - slp_094 (11-N 22:00) y slp_095 Vox vs Wild (11-N 23:15).
 - RETENIDOS slp_067 y slp_087: hablaban de 4 entrevistas. NO publicarlos. Rehacer la previa con 3 (Colau y Sánchez ya grabadas; Feijóo se graba el 12-N, según Hispanidad 11-11) cuando se confirme la fecha de publicación.
 - Cierre «Síguenos» cambiado a «la campaña día a día · 29-N» (engine y publicar.py).
+- 12-N 08:19: slp_096 Motos vs Sánchez (09:30), hecho desde el chat. La pasada no debe repetir este tema.
