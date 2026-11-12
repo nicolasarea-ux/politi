@@ -56,5 +56,5 @@ Formato fijo, IGUAL para todos (neutralidad):
 - Criterio de selección, el mismo para todos: las 5 medidas MÁS CONCRETAS y con cifra de sus propios documentos (programa 29-N si está publicado; si no, decálogos, resoluciones de congreso o anuncios del propio partido, citando cuál). Nada de críticas de rivales dentro del vídeo.
 - Ni una palabra de valoración. Cierre: «¿Te convence? Sí o no. Comenta y síguenos. Mañana: [siguiente partido]».
 - Caption: fuente de cada medida y fecha; si el programa oficial no está publicado, decirlo.
-Orden y horas (19:45, la mejor franja): 14-N PSOE · 15-N PP · 16-N Vox · 17-N Frente Amplio (Colau) · 18-N Podemos (Montero). Si publican programa oficial antes de su día, usar el programa.
+Orden y horas (19:45, la mejor franja): 14-N PSOE · 15-N PP · 16-N Vox · 17-N Frente Amplio (Colau) · 18-N Podemos (Montero) · 19-N SALF (Alvise) · 20-N Junts. Bildu NO (decisión de Nicks, 12-N 13:59). Si publican programa oficial antes de su día, usar el programa.
 Fuentes de partida: DatosClaros (comparador 29N, vivienda), Forbes 5-10 (batallas económicas), politicaelectoral.com, Politicheck. Contrastar cada cifra con una 2.ª fuente o con el documento del partido.
