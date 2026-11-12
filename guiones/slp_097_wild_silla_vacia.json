@@ -1,0 +1,265 @@
+{
+ "id": "slp_097_wild_silla_vacia",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "clauses": 2,
+ "clauseLabels": [
+  "MAÑANA",
+  "EL PLANTÓN",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "MAÑANA · THE WILD PROJECT",
+  "source": "Fuentes: El Plural · El Debate · Hispanidad"
+ },
+ "caption": "¿Quién sale peor parado mañana con Jordi Wild? Comenta el nombre 👇\n\nViernes 13-N: The Wild Project publica sus entrevistas a Colau, Sánchez y Feijóo (orden y horas aún por confirmar). Abascal canceló horas antes de grabar: Vox culpa a RTVE; Wild dice que no se lo cree.\n\nFuentes: El Plural (12-11) para fecha y orden y la frase de Wild; El Debate e Hispanidad (11-11) para la cancelación.\nFotos: Wikimedia Commons (ver fotos/creditos.json).\n\n#JordiWild #TheWildProject #Sánchez #Feijóo #Colau #Abascal #elecciones #29N",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Mañana sale Jordi Wild. Tres candidatos… y una silla vacía.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Mañana, *Jordi Wild*",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "k1",
+       "type": "cara",
+       "foto": "colau",
+       "h": 330,
+       "w": 300,
+       "x": 20,
+       "y": 42,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3,
+       "label": "Colau",
+       "from": "left"
+      },
+      {
+       "id": "k2",
+       "type": "cara",
+       "foto": "sanchez",
+       "h": 330,
+       "w": 300,
+       "x": 40,
+       "y": 42,
+       "at": 0,
+       "keep": 1,
+       "tilt": -2,
+       "label": "Sánchez"
+      },
+      {
+       "id": "k3",
+       "type": "cara",
+       "foto": "feijoo",
+       "h": 330,
+       "w": 300,
+       "x": 60,
+       "y": 42,
+       "at": 0,
+       "keep": 1,
+       "tilt": 2,
+       "label": "Feijóo"
+      },
+      {
+       "id": "k4",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 330,
+       "w": 300,
+       "x": 80,
+       "y": 42,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3,
+       "label": "Abascal",
+       "from": "right"
+      },
+      {
+       "id": "st",
+       "type": "stamp",
+       "text": "NO VA",
+       "color": "red",
+       "x": 50,
+       "y": 50,
+       "rot": -4,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Colau, Sánchez y Feijóo, sin preguntas pactadas y sin cortes. Abascal se bajó horas antes de grabar.",
+     "show": [
+      {
+       "id": "f0",
+       "type": "flash",
+       "text": "3 DE 4",
+       "bg": "ink",
+       "size": 96,
+       "x": 50,
+       "y": 64,
+       "at": 0,
+       "dur": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Vox culpa a RTVE por los cuarenta minutos que no se emitieron de La Revuelta.",
+     "hide": [
+      "h1",
+      "k1",
+      "k2",
+      "k3",
+      "k4",
+      "st"
+     ],
+     "show": [
+      {
+       "id": "h2",
+       "type": "headline",
+       "text": "¿Por qué *no va*?",
+       "x": 50,
+       "y": 21,
+       "w": 900
+      },
+      {
+       "id": "kA",
+       "type": "cara",
+       "foto": "abascal",
+       "h": 460,
+       "w": 440,
+       "x": 50,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": 0
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "Vox: «la culpa es de RTVE»",
+       "x": 50,
+       "y": 64,
+       "w": 900,
+       "at": 0
+      }
+     ]
+    },
+    {
+     "text": "Wild no se lo cree: «No me creo que La Revuelta haya sido el antes y el después».",
+     "hide": [
+      "kA",
+      "c1"
+     ],
+     "show": [
+      {
+       "id": "w1",
+       "type": "sticker",
+       "text": "🎙️",
+       "x": 50,
+       "y": 38,
+       "at": 0
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "«No me creo que La Revuelta…»",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Y ahora tú: ¿quién sale peor parado mañana? Comenta el nombre y síguenos, que te contamos las mejores frases.",
+     "hide": [
+      "h2",
+      "w1",
+      "c2"
+     ],
+     "show": [
+      {
+       "id": "k1b",
+       "type": "cara",
+       "foto": "colau",
+       "h": 400,
+       "w": 360,
+       "x": 27,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3
+      },
+      {
+       "id": "k2b",
+       "type": "cara",
+       "foto": "sanchez",
+       "h": 400,
+       "w": 360,
+       "x": 50,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": 0
+      },
+      {
+       "id": "k3b",
+       "type": "cara",
+       "foto": "feijoo",
+       "h": 400,
+       "w": 360,
+       "x": 73,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿QUIÉN PIERDE?",
+       "color": "ink",
+       "x": 50,
+       "y": 64,
+       "rot": -4,
+       "at": 3
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "portada": {
+  "serie": "WILD",
+  "titulo": "3 candidatos y una *silla vacía*",
+  "mini": {
+   "texto": "Mañana con Jordi Wild:",
+   "rojo": "3 DE 4 · ABASCAL NO VA",
+   "cara": "sanchez",
+   "cara2": "abascal",
+   "emoji": "🎙️",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 84
+  }
+ }
+}
