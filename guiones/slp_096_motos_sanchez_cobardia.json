@@ -12,7 +12,7 @@
   "tag": "VS · EL HORMIGUERO ANOCHE",
   "source": "Fuentes: OKDiario · El Español · elDiario.es"
  },
- "caption": "¿Cobardía o estrategia? 👇\n\nPablo Motos, en El Hormiguero (11-11), antes de entrevistar a Feijóo: Sánchez no irá al programa y «puede ser cobardía». Y las preguntas que le habría hecho. En La Revuelta (22-10) Sánchez había dicho: «Iré a El Hormiguero y donde haga falta».\n\nFuentes: OKDiario y El Español (11-11) para Motos; elDiario.es (28-10) para la frase de Sánchez. No hemos encontrado respuesta de Moncloa ni del PSOE.\nFoto: Vlada Republike Slovenije (dominio público), Wikimedia Commons.\n\n#PabloMotos #ElHormiguero #Sánchez #Feijóo #elecciones #29N",
+ "caption": "¿Cobardía o estrategia? 👇\n\nPablo Motos, en El Hormiguero (11-11), antes de entrevistar a Feijóo: Sánchez no irá al programa y «puede ser cobardía». Y las preguntas que le habría hecho. En La Revuelta (22-10) Sánchez había dicho: «Iré a El Hormiguero y donde haga falta».\n\nFuentes: OKDiario y El Español (11-11) para Motos; elDiario.es (28-10) para la frase de Sánchez. No hemos encontrado respuesta de Moncloa ni del PSOE.\nFotos: Vlada Republike Slovenije (dominio público), Wikimedia Commons; Pablo Motos: imagen promocional.\n\n#PabloMotos #ElHormiguero #Sánchez #Feijóo #elecciones #29N",
  "scenes": [
   {
    "clause": 0,
@@ -29,17 +29,32 @@
        "w": 900
       },
       {
+       "id": "kM",
+       "type": "cara",
+       "foto": "motos",
+       "h": 520,
+       "w": 440,
+       "x": 27,
+       "y": 46,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3,
+       "label": "Motos",
+       "from": "left"
+      },
+      {
        "id": "kS",
        "type": "cara",
        "foto": "sanchez",
-       "h": 500,
-       "w": 460,
-       "x": 50,
-       "y": 42,
+       "h": 520,
+       "w": 440,
+       "x": 73,
+       "y": 46,
        "at": 0,
        "keep": 1,
-       "tilt": 0,
-       "label": "Sánchez"
+       "tilt": -3,
+       "label": "Sánchez",
+       "from": "right"
       },
       {
        "id": "f0",
@@ -57,7 +72,8 @@
     {
      "text": "Y antes: «Es una torpeza política, porque aquí hay miles de votos». Lo dijo justo antes de entrevistar a Feijóo.",
      "hide": [
-      "kS"
+      "kS",
+      "kM"
      ],
      "show": [
       {
@@ -175,18 +191,6 @@
      ],
      "show": [
       {
-       "id": "kS9",
-       "type": "cara",
-       "foto": "sanchez",
-       "h": 460,
-       "w": 440,
-       "x": 50,
-       "y": 40,
-       "at": 0,
-       "keep": 1,
-       "tilt": 0
-      },
-      {
        "id": "fol",
        "type": "stamp",
        "text": "¿COBARDÍA O ESTRATEGIA?",
@@ -195,6 +199,30 @@
        "y": 64,
        "rot": -4,
        "at": 1
+      },
+      {
+       "id": "kM9",
+       "type": "cara",
+       "foto": "motos",
+       "h": 440,
+       "w": 400,
+       "x": 27,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": 3
+      },
+      {
+       "id": "kS9",
+       "type": "cara",
+       "foto": "sanchez",
+       "h": 440,
+       "w": 400,
+       "x": 73,
+       "y": 40,
+       "at": 0,
+       "keep": 1,
+       "tilt": -3
       }
      ]
     }
@@ -207,12 +235,13 @@
   "mini": {
    "texto": "Pablo Motos a Sánchez:",
    "rojo": "«PUEDE SER COBARDÍA»",
-   "cara": "sanchez",
+   "cara": "motos",
    "emoji": "📺",
    "emojiX": 780,
    "emojiY": 760,
    "flecha": false,
-   "tam": 96
+   "tam": 96,
+   "cara2": "sanchez"
   }
  }
 }
