@@ -1,0 +1,341 @@
+{
+ "id": "slp_102_si_votas_pp",
+ "brand": "Politízate Hoy",
+ "formato": "top5",
+ "serie": "si_votas_a",
+ "tono": "normal",
+ "clauses": 3,
+ "clauseLabels": [
+  "EL CANDIDATO",
+  "5 MEDIDAS",
+  "LA LETRA PEQUEÑA",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "SI VOTAS A… PP",
+  "source": "Fuente: programa del PP (10-11) y su decálogo de septiembre, vía politicaelectoral.com y Telecinco (13-11)"
+ },
+ "portada": {
+  "serie": "SI VOTAS A… 2/7",
+  "titulo": "Si votas al *PP*, esto es lo que propone",
+  "mini": {
+   "texto": "Si votas al PP,",
+   "rojo": "ESTO ES LO QUE PROPONE",
+   "cara": "feijoo",
+   "flecha": false,
+   "tam": 84
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Si votas al PP, esto es lo que propone. Cinco medidas.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Si votas al *PP*…",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "k",
+       "type": "cara",
+       "foto": "feijoo",
+       "h": 600,
+       "w": 520,
+       "x": 50,
+       "y": 50,
+       "at": 0,
+       "keep": 0,
+       "label": "Alberto Núñez Feijóo · PP"
+      },
+      {
+       "id": "st0",
+       "type": "stamp",
+       "text": "5 MEDIDAS",
+       "color": "red",
+       "x": 50,
+       "y": 72,
+       "rot": -4,
+       "at": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cinco: pensiones que suben con el IPC.",
+     "show": [
+      {
+       "id": "f5",
+       "type": "flash",
+       "text": "5",
+       "bg": "mark",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c5",
+       "type": "card",
+       "text": "Pensiones revalorizadas con el IPC",
+       "x": 50,
+       "y": 56,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s5",
+       "type": "sticker",
+       "text": "👵",
+       "x": 82,
+       "y": 40,
+       "at": 2
+      },
+      {
+       "id": "n5",
+       "type": "card",
+       "text": "Cada año, con la inflación",
+       "x": 50,
+       "y": 74,
+       "w": 600,
+       "at": 3
+      }
+     ]
+    },
+    {
+     "text": "Cuatro: IVA de la luz y el gas, del 21 al 10 %.",
+     "show": [
+      {
+       "id": "f4",
+       "type": "flash",
+       "text": "4",
+       "bg": "ink",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "text": "IVA de luz y gas: del 21 % al 10 %",
+       "x": 50,
+       "y": 56,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s4",
+       "type": "sticker",
+       "text": "💡",
+       "x": 82,
+       "y": 40,
+       "at": 2
+      },
+      {
+       "id": "n4",
+       "type": "card",
+       "text": "{10} %",
+       "x": 50,
+       "y": 74,
+       "w": 600,
+       "at": 3
+      }
+     ]
+    },
+    {
+     "text": "Tres: duplicar el mínimo por el primer hijo, de 2.400 a 4.800 euros.",
+     "show": [
+      {
+       "id": "f3",
+       "type": "flash",
+       "text": "3",
+       "bg": "red",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "Mínimo por el primer hijo en el IRPF",
+       "x": 50,
+       "y": 56,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s3",
+       "type": "sticker",
+       "text": "👶",
+       "x": 82,
+       "y": 40,
+       "at": 2
+      },
+      {
+       "id": "n3",
+       "type": "card",
+       "text": "{4800} €",
+       "x": 50,
+       "y": 74,
+       "w": 600,
+       "at": 3
+      }
+     ]
+    },
+    {
+     "text": "Dos: IVA del 0 % para alimentos básicos.",
+     "show": [
+      {
+       "id": "f2",
+       "type": "flash",
+       "text": "2",
+       "bg": "ink",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "IVA 0 %: carne, pescado, leche, aceite, fruta…",
+       "x": 50,
+       "y": 56,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s2",
+       "type": "sticker",
+       "text": "🛒",
+       "x": 82,
+       "y": 40,
+       "at": 2
+      },
+      {
+       "id": "n2",
+       "type": "card",
+       "text": "{0} % de IVA",
+       "x": 50,
+       "y": 74,
+       "w": 600,
+       "at": 3
+      }
+     ]
+    },
+    {
+     "text": "Y uno: un millón de viviendas en cuatro años.",
+     "show": [
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "1",
+       "bg": "mark",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "Un millón de viviendas",
+       "x": 50,
+       "y": 56,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s1",
+       "type": "sticker",
+       "text": "🏗️",
+       "x": 82,
+       "y": 40,
+       "at": 2
+      },
+      {
+       "id": "n1",
+       "type": "card",
+       "text": "{1000000} viviendas",
+       "x": 50,
+       "y": 74,
+       "w": 600,
+       "at": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Ojo: varias cifras salen de su decálogo de septiembre, no del texto del programa.",
+     "show": [
+      {
+       "id": "doc",
+       "type": "prop",
+       "kind": "doc",
+       "x": 50,
+       "y": 44,
+       "w": 520,
+       "at": 0,
+       "kicker": "PROGRAMA 29-N",
+       "text": "Publicado el 10-11",
+       "sello": "+ DECÁLOGO",
+       "st": 0.5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Te convence? Sí o no. Comenta y síguenos. Mañana: Vox.",
+     "show": [
+      {
+       "id": "k2",
+       "type": "cara",
+       "foto": "feijoo",
+       "h": 420,
+       "w": 380,
+       "x": 50,
+       "y": 40,
+       "at": 0,
+       "keep": 1
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TE CONVENCE?",
+       "color": "ink",
+       "x": 50,
+       "y": 66,
+       "rot": -4,
+       "at": 1
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "caption": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (2/7): las 5 medidas más concretas y con cifra del PP. Mismo criterio para todos los partidos.\n5. Revalorizar las pensiones con el IPC (Telecinco; Feijóo lo garantizó ante Jordi Wild, según Infobae).\n4. IVA de la luz y el gas del 21 % al 10 % (decálogo de septiembre, vía politicaelectoral.com y Telecinco).\n3. Duplicar el mínimo por el primer hijo en el IRPF: de 2.400 a 4.800 € (politicaelectoral.com, Telecinco).\n2. IVA del 0 % para alimentos básicos (politicaelectoral.com, Telecinco).\n1. Un millón de viviendas en cuatro años (programa del 10-11 y decálogo, vía politicaelectoral.com y Telecinco).\n\nPrograma del PP presentado el 10-11-2026; varias rebajas fiscales salen de su decálogo de septiembre.\nFotos: European People's Party (CC BY 2.0), Wikimedia Commons.\n\n#elecciones #29N #eleccionesgenerales #vivienda #impuestos"
+}
