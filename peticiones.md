@@ -67,3 +67,6 @@ Flujo: copiar mp3 a audio/<id>.mp3 → ./crear.sh <id> → revisar work/<id>/che
 Calendario propuesto: 14-N 20:45, 22:15, 23:30; 15-N 08:00, 09:30, 11:00, 12:30, 14:00, 15:30, 17:00, 18:30, 21:00, 22:30; 16-N mañana el resto. Prioridad Sánchez > Feijóo. Colau: no más.
 Portadas: engine/cover_mono.js (cara a cara con monigotes); se aplica sola en crear.sh.
 Generador de guiones: engine/mk_guion.py.
+
+## 13-N 17:05 — estado
+Tanda 2 montada y programada (118-125). ElevenLabs sin créditos (plan free agotado): quedan SIN VOZ slp_126_feijoo_defensa_frontera y 127-132 (Sánchez). Textos en guiones/_pendiente_voz_tanda2.json (último) y _tanda3.json. Opciones: Clipchamp si vuelve, o plan Creator de ElevenLabs. Huecos libres sugeridos: 15-N 15:30, 17:00, 18:30, 21:00, 22:30; 16-N 08:00, 10:00.
