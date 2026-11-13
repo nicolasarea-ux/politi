@@ -154,11 +154,33 @@
      "text": "Tres momentos de la entrevista. Uno: la izquierda dividida.",
      "show": [
       {
+       "id": "k0",
+       "type": "card",
+       "text": "3 momentos de la entrevista",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      },
+      {
+       "id": "co25",
+       "type": "mono",
+       "who": "colau",
+       "x": 50,
+       "y": 47,
+       "w": 280,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "brazos",
+       "label": "Ada Colau"
+      },
+      {
        "id": "cap1",
        "type": "cap",
        "n": "1",
        "text": "La izquierda dividida",
-       "at": 4
+       "at": 5
       }
      ],
      "hide": [
@@ -212,7 +234,10 @@
        "tag": 0.5
       }
      ],
-     "hide": []
+     "hide": [
+      "k0",
+      "co25"
+     ]
     }
    ]
   },
