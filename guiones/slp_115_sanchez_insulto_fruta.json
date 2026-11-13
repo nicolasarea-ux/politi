@@ -1,0 +1,215 @@
+{
+ "id": "slp_115_sanchez_insulto_fruta",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL INSULTO",
+  "LA CULPA",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "SÁNCHEZ EN THE WILD PROJECT",
+  "source": "Fuente: The Wild Project #393 (13-11)"
+ },
+ "caption": "¿Estás de acuerdo? 👇\n\nJordi Wild pregunta a Pedro Sánchez (PSOE) por el insulto que le dedican en bares, conciertos y redes.\n\n• Cuenta que sus hijas tuvieron que salir de un local cuando lo corearon.\n• Sánchez: detrás de ese insulto hay «una carencia total de argumentos y de proyecto político».\n• Wild le dice que todos tienen parte de culpa en la crispación. Sánchez: «Los insultos son asimétricos». «Yo no digo me gusta la fruta, por ejemplo».\n\nFuente: The Wild Project #393 (13-11), min. 8-11. Citas transcritas del vídeo.\n\n#Sánchez #insultos #megustalafruta #JordiWild #29N",
+ "portada": {
+  "serie": "WILD x SÁNCHEZ",
+  "titulo": "Sánchez: *«Yo no digo me gusta la fruta»*",
+  "mini": {
+   "texto": "Sánchez a Wild:",
+   "rojo": "«ME GUSTA LA FRUTA»",
+   "emoji": "🍎",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 86
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Sánchez habla en The Wild Project del famoso insulto que le corean: sus hijas tuvieron que salir de un local.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Sánchez y *el insulto*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "s0",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "brazos",
+       "label": "Sánchez"
+      },
+      {
+       "id": "k0",
+       "type": "card",
+       "text": "Sus hijas tuvieron que salir de un local",
+       "x": 50,
+       "y": 64,
+       "w": 920,
+       "at": 10
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Para él, detrás hay «una carencia total de argumentos y de proyecto político».",
+     "show": [
+      {
+       "id": "s1",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 0,
+       "habla": true,
+       "cara": "enfado",
+       "say": "«Una carencia total de argumentos»",
+       "tf": [
+        0.3,
+        1
+       ],
+       "bub": "up",
+       "bw": 360,
+       "bfs": 34,
+       "gesto": "manos",
+       "label": "Sánchez"
+      }
+     ],
+     "hide": [
+      "h1",
+      "s0",
+      "k0"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Wild le dice que todos tienen parte de culpa. Sánchez: «Los insultos son asimétricos». Y suelta: «Yo no digo me gusta la fruta, por ejemplo».",
+     "show": [
+      {
+       "id": "c1",
+       "type": "cap",
+       "n": "1",
+       "text": "La culpa",
+       "at": 0
+      },
+      {
+       "id": "w2",
+       "type": "mono",
+       "who": "wild",
+       "x": 74,
+       "y": 47,
+       "w": 280,
+       "at": 1,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«Todos tenéis parte de culpa»",
+       "tf": [
+        0,
+        0.3
+       ],
+       "bub": "up",
+       "bw": 320,
+       "bfs": 34,
+       "gesto": "senala",
+       "label": "Jordi Wild",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "s2",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 26,
+       "y": 47,
+       "w": 270,
+       "at": 1,
+       "habla": true,
+       "cara": "sonrie",
+       "say": "«Yo no digo me gusta la fruta»",
+       "tf": [
+        0.6,
+        1
+       ],
+       "bub": "up",
+       "bw": 340,
+       "bfs": 34,
+       "gesto": "manos",
+       "label": "Sánchez"
+      },
+      {
+       "id": "st",
+       "type": "stamp",
+       "text": "🍎 «ME GUSTA LA FRUTA»",
+       "color": "red",
+       "x": 50,
+       "y": 22,
+       "rot": -5,
+       "at": 17
+      }
+     ],
+     "hide": [
+      "s1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Estás de acuerdo? Comenta y síguenos.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿DE ACUERDO?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "w2",
+      "s2",
+      "st"
+     ]
+    }
+   ]
+  }
+ ]
+}

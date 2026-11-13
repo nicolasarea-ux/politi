@@ -1,0 +1,252 @@
+{
+ "id": "slp_111_sanchez_hemeroteca",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 3,
+ "clauseLabels": [
+  "LA LISTA",
+  "LA AMNISTÍA",
+  "IGLESIAS",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "SÁNCHEZ EN THE WILD PROJECT",
+  "source": "Fuente: The Wild Project #393 (13-11)"
+ },
+ "caption": "¿Cambio de opinión o promesa rota? 👇\n\nJordi Wild repasa «la famosa hemeroteca» de Pedro Sánchez (PSOE): indultos y amnistía, Bildu, Pablo Iglesias, el Sáhara, ley mordaza.\n\n• Sánchez sobre indultos y amnistía: «Cambio de opinión y además lo he reconocido».\n• Sobre Iglesias: «Yo nunca dije que no quería que Pablo Iglesias estuviera en el gobierno».\n• Wild le recuerda: «No se dan las condiciones para que el señor Iglesias sea miembro de ese gobierno». «Esto no es un bulo».\n\nFuente: The Wild Project #393 (13-11), min. 1:35-1:40. Citas transcritas del vídeo.\n\n#Sánchez #hemeroteca #amnistía #JordiWild #29N",
+ "portada": {
+  "serie": "WILD x SÁNCHEZ",
+  "titulo": "La hemeroteca de Sánchez, *cara a cara con Wild*",
+  "mini": {
+   "texto": "Sánchez admite:",
+   "rojo": "«CAMBIÉ DE OPINIÓN»",
+   "emoji": "📚",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 86
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Jordi Wild saca «la famosa hemeroteca» de Sánchez: amnistía, Bildu, Iglesias, el Sáhara.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "*«La famosa hemeroteca»*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "doc",
+       "type": "prop",
+       "kind": "doc",
+       "x": 50,
+       "y": 42,
+       "w": 520,
+       "at": 2,
+       "kicker": "HEMEROTECA",
+       "text": "Amnistía · Bildu · Iglesias · Sáhara",
+       "sello": "DIJO QUE NO",
+       "st": 0.7
+      }
+     ],
+     "hide": []
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Sobre la amnistía, Sánchez lo admite: «Cambio de opinión y además lo he reconocido».",
+     "show": [
+      {
+       "id": "c1",
+       "type": "cap",
+       "n": "1",
+       "text": "La amnistía",
+       "at": 0
+      },
+      {
+       "id": "s1",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 3,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«Cambio de opinión y además lo he reconocido»",
+       "tf": [
+        0.45,
+        1
+       ],
+       "bub": "up",
+       "bw": 420,
+       "bfs": 34,
+       "gesto": "manos",
+       "label": "Sánchez"
+      }
+     ],
+     "hide": [
+      "h1",
+      "doc"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Sobre Iglesias: «Yo nunca dije que no quería que Pablo Iglesias estuviera en el gobierno».",
+     "show": [
+      {
+       "id": "c2",
+       "type": "cap",
+       "n": "2",
+       "text": "Iglesias",
+       "at": 0
+      },
+      {
+       "id": "s2",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 26,
+       "y": 47,
+       "w": 270,
+       "at": 1,
+       "habla": true,
+       "cara": "enfado",
+       "say": "«Yo nunca dije que no quería…»",
+       "tf": [
+        0.1,
+        1
+       ],
+       "bub": "up",
+       "bw": 340,
+       "bfs": 34,
+       "gesto": "senala",
+       "label": "Sánchez"
+      },
+      {
+       "id": "w2",
+       "type": "mono",
+       "who": "wild",
+       "x": 74,
+       "y": 47,
+       "w": 280,
+       "at": 1,
+       "habla": false,
+       "cara": "duda",
+       "label": "Jordi Wild",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": [
+      "s1"
+     ]
+    },
+    {
+     "text": "Wild le lee su frase: «No se dan las condiciones para que el señor Iglesias sea miembro de ese gobierno». «Esto no es un bulo».",
+     "show": [
+      {
+       "id": "w3",
+       "type": "mono",
+       "who": "wild",
+       "x": 74,
+       "y": 47,
+       "w": 280,
+       "at": 0,
+       "habla": true,
+       "cara": "enfado",
+       "say": "«Esto no es un bulo»",
+       "tf": [
+        0.8,
+        1
+       ],
+       "bub": "up",
+       "bw": 300,
+       "bfs": 40,
+       "gesto": "senala",
+       "label": "Jordi Wild",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "s3",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 26,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "sorpresa",
+       "label": "Sánchez"
+      },
+      {
+       "id": "k3",
+       "type": "card",
+       "text": "«No se dan las condiciones para que el señor Iglesias sea miembro de ese gobierno»",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 4
+      }
+     ],
+     "hide": [
+      "s2",
+      "w2"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Cambio de opinión o promesa rota? Comenta y síguenos.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TÚ QUÉ CREES?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "w3",
+      "s3",
+      "k3"
+     ]
+    }
+   ]
+  }
+ ]
+}

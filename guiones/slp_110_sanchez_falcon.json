@@ -1,0 +1,251 @@
+{
+ "id": "slp_110_sanchez_falcon",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL COCHE",
+  "EL AVIÓN",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "SÁNCHEZ EN THE WILD PROJECT",
+  "source": "Fuente: The Wild Project #393 (13-11)"
+ },
+ "caption": "Comenta 👇\n\nEl momento más distendido de la entrevista de Jordi Wild a Pedro Sánchez (PSOE).\n\n• Hablando del coche de las primarias, Sánchez cuenta que una vez «me dormí» conduciendo solo y se llevó «un buen susto».\n• Wild: «Tienes un avión, no me jodas». Sánchez: «Un día si quieres te subo».\n• Wild bromea con que Sánchez acabe diciéndole: «Te voy a meter en el Falcon, pero para abajo». Sánchez: «No, al contrario».\n\nFuente: The Wild Project #393 (13-11), min. 1:09-1:10. Citas transcritas del vídeo.\n\n#Sánchez #Falcon #JordiWild #TheWildProject #29N",
+ "portada": {
+  "serie": "WILD x SÁNCHEZ",
+  "titulo": "Wild a Sánchez: *«Tienes un avión, no me jodas»*",
+  "mini": {
+   "texto": "Wild a Sánchez:",
+   "rojo": "«TIENES UN AVIÓN»",
+   "emoji": "✈️",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 86
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Sánchez cuenta en The Wild Project que una vez, conduciendo solo, «me dormí». Se llevó «un buen susto».",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Sánchez, el coche *y el Falcon*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "s0",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 0,
+       "habla": true,
+       "cara": "sorpresa",
+       "say": "«Me dormí»",
+       "tf": [
+        0.45,
+        0.8
+       ],
+       "bub": "r",
+       "bw": 240,
+       "bfs": 44,
+       "gesto": "manos",
+       "label": "Sánchez"
+      },
+      {
+       "id": "st0",
+       "type": "stamp",
+       "text": "«UN BUEN SUSTO»",
+       "color": "red",
+       "x": 50,
+       "y": 64,
+       "rot": -5,
+       "at": 14
+      }
+     ],
+     "hide": []
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Wild: «Tienes un avión, no me jodas». Sánchez: «Un día si quieres te subo».",
+     "show": [
+      {
+       "id": "mesa",
+       "type": "prop",
+       "kind": "mesa",
+       "x": 50,
+       "y": 60,
+       "w": 900,
+       "at": 0,
+       "text": "THE WILD PROJECT"
+      },
+      {
+       "id": "w1",
+       "type": "mono",
+       "who": "wild",
+       "x": 74,
+       "y": 47,
+       "w": 280,
+       "at": 0,
+       "habla": true,
+       "cara": "risa",
+       "say": "«Tienes un avión, no me jodas»",
+       "tf": [
+        0,
+        0.5
+       ],
+       "bub": "up",
+       "bw": 360,
+       "bfs": 34,
+       "gesto": "senala",
+       "label": "Jordi Wild",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "s1",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 26,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": true,
+       "cara": "sonrie",
+       "say": "«Un día si quieres te subo»",
+       "tf": [
+        0.55,
+        1
+       ],
+       "bub": "up",
+       "bw": 320,
+       "bfs": 34,
+       "gesto": "manos",
+       "label": "Sánchez"
+      }
+     ],
+     "hide": [
+      "h1",
+      "s0",
+      "st0"
+     ]
+    },
+    {
+     "text": "Y Wild bromea con que Sánchez le diga: «Te voy a meter en el Falcon, pero para abajo». Sánchez: «No, al contrario».",
+     "show": [
+      {
+       "id": "w2",
+       "type": "mono",
+       "who": "wild",
+       "x": 74,
+       "y": 47,
+       "w": 280,
+       "at": 0,
+       "habla": true,
+       "cara": "risa",
+       "say": "«Te voy a meter en el Falcon, pero para abajo»",
+       "tf": [
+        0.1,
+        0.75
+       ],
+       "bub": "up",
+       "bw": 400,
+       "bfs": 32,
+       "gesto": "brazos",
+       "label": "Jordi Wild",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "s2",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 26,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": true,
+       "cara": "risa",
+       "say": "«No, al contrario»",
+       "tf": [
+        0.8,
+        1
+       ],
+       "bub": "up",
+       "bw": 260,
+       "bfs": 34,
+       "gesto": "manos",
+       "label": "Sánchez"
+      },
+      {
+       "id": "k2",
+       "type": "card",
+       "text": "✈️ El Falcon",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "mesa",
+      "w1",
+      "s1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Te subirías al Falcon? Comenta y síguenos.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TE SUBIRÍAS?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "w2",
+      "s2",
+      "k2"
+     ]
+    }
+   ]
+  }
+ ]
+}

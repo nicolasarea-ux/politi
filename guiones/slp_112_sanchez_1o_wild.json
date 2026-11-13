@@ -1,0 +1,253 @@
+{
+ "id": "slp_112_sanchez_1o_wild",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "LA PALABRA",
+  "EL GIRO",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "SÁNCHEZ EN THE WILD PROJECT",
+  "source": "Fuente: The Wild Project #393 (13-11)"
+ },
+ "caption": "¿Quién tiene razón? 👇\n\nJordi Wild critica a los políticos por cambiar su palabra y Pedro Sánchez (PSOE) le da la vuelta.\n\n• Wild: «La palabra de un presidente […] tiene que ser sagrada».\n• Sánchez: «El político no es infalible». Y le recuerda: «El 1 de octubre de 2017 votaste».\n• Wild: «Yo soy un ciudadano». Sánchez: «Los políticos también tenemos derecho a cambiar nuestra opinión».\n\nFuente: The Wild Project #393 (13-11), min. 1:42-1:43. Citas transcritas del vídeo.\n\n#Sánchez #JordiWild #1O #29N",
+ "portada": {
+  "serie": "WILD x SÁNCHEZ",
+  "titulo": "Sánchez a Wild: *«El 1 de octubre votaste»*",
+  "mini": {
+   "texto": "Sánchez a Wild:",
+   "rojo": "«EL 1-O VOTASTE»",
+   "emoji": "🗳️",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 86
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Jordi Wild a Sánchez: «La palabra de un presidente tiene que ser sagrada».",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Sánchez le da *la vuelta a Wild*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "mesa",
+       "type": "prop",
+       "kind": "mesa",
+       "x": 50,
+       "y": 60,
+       "w": 900,
+       "at": 0,
+       "text": "THE WILD PROJECT"
+      },
+      {
+       "id": "s0",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 26,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "label": "Sánchez"
+      },
+      {
+       "id": "w0",
+       "type": "mono",
+       "who": "wild",
+       "x": 74,
+       "y": 47,
+       "w": 280,
+       "at": 4,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«La palabra de un presidente tiene que ser sagrada»",
+       "tf": [
+        0.2,
+        1
+       ],
+       "bub": "l",
+       "bw": 400,
+       "bfs": 32,
+       "gesto": "senala",
+       "label": "Jordi Wild",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": []
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Sánchez: «El político no es infalible». Y contraataca: «El 1 de octubre de 2017 votaste».",
+     "show": [
+      {
+       "id": "c1",
+       "type": "cap",
+       "n": "1",
+       "text": "El giro",
+       "at": 0
+      },
+      {
+       "id": "s1",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 26,
+       "y": 47,
+       "w": 270,
+       "at": 2,
+       "habla": true,
+       "cara": "sonrie",
+       "say": "«El 1 de octubre de 2017 votaste»",
+       "tf": [
+        0.45,
+        1
+       ],
+       "bub": "up",
+       "bw": 340,
+       "bfs": 34,
+       "gesto": "senala",
+       "label": "Sánchez"
+      },
+      {
+       "id": "w1",
+       "type": "mono",
+       "who": "wild",
+       "x": 74,
+       "y": 47,
+       "w": 280,
+       "at": 2,
+       "habla": false,
+       "cara": "sorpresa",
+       "label": "Jordi Wild",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "k1",
+       "type": "card",
+       "text": "«El político no es infalible»",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 2
+      }
+     ],
+     "hide": [
+      "h1",
+      "mesa",
+      "s0",
+      "w0"
+     ]
+    },
+    {
+     "text": "Wild: «Yo soy un ciudadano». Sánchez: «Los políticos también tenemos derecho a cambiar nuestra opinión».",
+     "show": [
+      {
+       "id": "w2",
+       "type": "mono",
+       "who": "wild",
+       "x": 74,
+       "y": 47,
+       "w": 280,
+       "at": 0,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«Yo soy un ciudadano»",
+       "tf": [
+        0,
+        0.35
+       ],
+       "bub": "up",
+       "bw": 300,
+       "bfs": 34,
+       "gesto": "manos",
+       "label": "Jordi Wild",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "s2",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 26,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«También tenemos derecho a cambiar nuestra opinión»",
+       "tf": [
+        0.4,
+        1
+       ],
+       "bub": "up",
+       "bw": 380,
+       "bfs": 32,
+       "gesto": "manos",
+       "label": "Sánchez"
+      }
+     ],
+     "hide": [
+      "s1",
+      "w1",
+      "k1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Quién tiene razón? Comenta y síguenos.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿QUIÉN GANA?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "w2",
+      "s2"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,251 @@
+{
+ "id": "slp_108_sanchez_abalos",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 3,
+ "clauseLabels": [
+  "EL COCHE",
+  "SU RESPUESTA",
+  "EL DILEMA",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "SÁNCHEZ EN THE WILD PROJECT",
+  "source": "Fuente: The Wild Project #393 (13-11)"
+ },
+ "caption": "¿Le crees? 👇\n\nJordi Wild pregunta a Pedro Sánchez (PSOE) por Ábalos y Koldo.\n\n• Wild: le «cuesta mucho pensar» que en los viajes en coche no hubiera comentarios machistas.\n• Sánchez: «Ábalos conmigo delante nunca hizo ningún comentario». «Yo no sabía que consumía prostitución».\n• Wild: o «no te enterabas de lo que pasaba» o «mirabas a otro lado».\n• Sánchez: «La segunda descártala absolutamente».\n\nFuente: The Wild Project #393 (13-11), min. 1:10-1:12. Citas transcritas del vídeo.\n\n#Sánchez #Ábalos #Koldo #JordiWild #PSOE #29N",
+ "portada": {
+  "serie": "WILD x SÁNCHEZ",
+  "titulo": "Sánchez sobre Ábalos: *«Yo no sabía»*",
+  "mini": {
+   "texto": "Sánchez, sobre Ábalos:",
+   "rojo": "«YO NO SABÍA»",
+   "emoji": "🚗",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 86
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Jordi Wild le pregunta a Sánchez por Ábalos y Koldo: le cuesta pensar que en el coche no hubiera comentarios machistas.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Sánchez y *Ábalos*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "mesa",
+       "type": "prop",
+       "kind": "mesa",
+       "x": 50,
+       "y": 60,
+       "w": 900,
+       "at": 0,
+       "text": "THE WILD PROJECT"
+      },
+      {
+       "id": "s0",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 26,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "label": "Sánchez"
+      },
+      {
+       "id": "w0",
+       "type": "mono",
+       "who": "wild",
+       "x": 74,
+       "y": 47,
+       "w": 280,
+       "at": 6,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«Me cuesta mucho pensar…»",
+       "tf": [
+        0.4,
+        1
+       ],
+       "bub": "l",
+       "bw": 320,
+       "bfs": 34,
+       "gesto": "senala",
+       "label": "Jordi Wild",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": []
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Sánchez: «Ábalos conmigo delante nunca hizo ningún comentario». Y añade: «Yo no sabía que consumía prostitución».",
+     "show": [
+      {
+       "id": "c1",
+       "type": "cap",
+       "n": "1",
+       "text": "Su respuesta",
+       "at": 0
+      },
+      {
+       "id": "s1",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 1,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«Yo no sabía que consumía prostitución»",
+       "tf": [
+        0.55,
+        1
+       ],
+       "bub": "up",
+       "bw": 420,
+       "bfs": 34,
+       "gesto": "manos",
+       "label": "Sánchez"
+      },
+      {
+       "id": "k1",
+       "type": "card",
+       "text": "«Nunca hizo ningún comentario»",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "h1",
+      "mesa",
+      "s0",
+      "w0"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Wild le pone un dilema: o «no te enterabas de lo que pasaba» o «mirabas a otro lado». Sánchez: «La segunda descártala absolutamente».",
+     "show": [
+      {
+       "id": "c2",
+       "type": "cap",
+       "n": "2",
+       "text": "El dilema",
+       "at": 0
+      },
+      {
+       "id": "w2",
+       "type": "mono",
+       "who": "wild",
+       "x": 74,
+       "y": 47,
+       "w": 280,
+       "at": 3,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«O mirabas a otro lado»",
+       "tf": [
+        0,
+        0.6
+       ],
+       "bub": "up",
+       "bw": 380,
+       "bfs": 34,
+       "gesto": "brazos",
+       "label": "Jordi Wild",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "s2",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 26,
+       "y": 47,
+       "w": 270,
+       "at": 3,
+       "habla": true,
+       "cara": "enfado",
+       "say": "«La segunda descártala»",
+       "tf": [
+        0.65,
+        1
+       ],
+       "bub": "up",
+       "bw": 320,
+       "bfs": 34,
+       "gesto": "senala",
+       "label": "Sánchez"
+      }
+     ],
+     "hide": [
+      "s1",
+      "k1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Le crees? Comenta y síguenos.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿LE CREES?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "w2",
+      "s2"
+     ]
+    }
+   ]
+  }
+ ]
+}

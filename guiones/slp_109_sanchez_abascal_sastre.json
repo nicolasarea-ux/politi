@@ -1,0 +1,285 @@
+{
+ "id": "slp_109_sanchez_abascal_sastre",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 3,
+ "clauseLabels": [
+  "COLAU",
+  "FEIJÓO",
+  "ABASCAL",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "SÁNCHEZ EN THE WILD PROJECT",
+  "source": "Fuente: The Wild Project #393 (13-11)"
+ },
+ "caption": "¿Qué te parece? 👇\n\nAl final de la entrevista, Jordi Wild pide a Pedro Sánchez (PSOE) que defina a sus rivales.\n\n• Colau: «Activista».\n• Feijóo: «Conservador. Siglo XX».\n• Abascal: «Que debería ir a otro sastre porque se pone unas chaquetas muy estrechas». Wild: «Esta no me lo esperaba».\n• Luego añade sobre Abascal: «No es bueno el vivir en el rencor y en la revancha permanente».\n\nFuente: The Wild Project #393 (13-11), min. 1:49. Citas transcritas del vídeo.\n\n#Sánchez #Abascal #Feijóo #Colau #JordiWild #29N",
+ "portada": {
+  "serie": "WILD x SÁNCHEZ",
+  "titulo": "Sánchez a Abascal: *«Debería ir a otro sastre»*",
+  "mini": {
+   "texto": "Sánchez sobre Abascal:",
+   "rojo": "«CHAQUETAS MUY ESTRECHAS»",
+   "emoji": "🧥",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 86
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Jordi Wild pide a Sánchez que defina a sus rivales. Colau: «Activista».",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Sánchez define *a sus rivales*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "c0",
+       "type": "cap",
+       "n": "1",
+       "text": "Colau",
+       "at": 8
+      },
+      {
+       "id": "co",
+       "type": "mono",
+       "who": "colau",
+       "x": 72,
+       "y": 47,
+       "w": 270,
+       "at": 8,
+       "habla": false,
+       "cara": "sonrie",
+       "label": "Ada Colau",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "s0",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 47,
+       "w": 270,
+       "at": 8,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«Activista»",
+       "tf": [
+        0.7,
+        1
+       ],
+       "bub": "r",
+       "bw": 240,
+       "bfs": 44,
+       "gesto": "senala",
+       "label": "Sánchez"
+      }
+     ],
+     "hide": []
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Feijóo: «Conservador. Siglo XX».",
+     "show": [
+      {
+       "id": "c1",
+       "type": "cap",
+       "n": "2",
+       "text": "Feijóo",
+       "at": 0
+      },
+      {
+       "id": "fe",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 72,
+       "y": 47,
+       "w": 270,
+       "at": 1,
+       "habla": false,
+       "cara": "sorpresa",
+       "label": "Feijóo",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "s1",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 47,
+       "w": 270,
+       "at": 1,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«Conservador. Siglo XX»",
+       "tf": [
+        0.3,
+        1
+       ],
+       "bub": "up",
+       "bw": 320,
+       "bfs": 40,
+       "gesto": "manos",
+       "label": "Sánchez"
+      }
+     ],
+     "hide": [
+      "h1",
+      "co",
+      "s0"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "¿Y Abascal? «Que debería ir a otro sastre porque se pone unas chaquetas muy estrechas».",
+     "show": [
+      {
+       "id": "c2",
+       "type": "cap",
+       "n": "3",
+       "text": "Abascal",
+       "at": 0
+      },
+      {
+       "id": "ab",
+       "type": "mono",
+       "who": "abascal",
+       "x": 72,
+       "y": 47,
+       "w": 270,
+       "at": 2,
+       "habla": false,
+       "cara": "enfado",
+       "label": "Abascal",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "s2",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 47,
+       "w": 270,
+       "at": 2,
+       "habla": true,
+       "cara": "risa",
+       "say": "«Debería ir a otro sastre»",
+       "tf": [
+        0.2,
+        1
+       ],
+       "bub": "up",
+       "bw": 320,
+       "bfs": 38,
+       "gesto": "senala",
+       "label": "Sánchez"
+      },
+      {
+       "id": "st",
+       "type": "stamp",
+       "text": "«CHAQUETAS MUY ESTRECHAS»",
+       "color": "red",
+       "x": 50,
+       "y": 22,
+       "rot": -5,
+       "at": 9
+      }
+     ],
+     "hide": [
+      "fe",
+      "s1"
+     ]
+    },
+    {
+     "text": "Wild: «Esta no me lo esperaba».",
+     "show": [
+      {
+       "id": "w3",
+       "type": "mono",
+       "who": "wild",
+       "x": 50,
+       "y": 47,
+       "w": 280,
+       "at": 0,
+       "habla": true,
+       "cara": "risa",
+       "say": "«Esta no me lo esperaba»",
+       "tf": [
+        0,
+        1
+       ],
+       "bub": "up",
+       "bw": 340,
+       "bfs": 40,
+       "gesto": "brazos",
+       "label": "Jordi Wild",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": [
+      "ab",
+      "s2",
+      "st"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Qué te parece? Comenta y síguenos.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿QUÉ TE PARECE?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "w3"
+     ]
+    }
+   ]
+  }
+ ]
+}
