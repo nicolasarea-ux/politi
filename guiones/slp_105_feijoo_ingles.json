@@ -1,0 +1,273 @@
+{
+ "id": "slp_105_feijoo_ingles",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 3,
+ "clauseLabels": [
+  "LA PREGUNTA",
+  "LA ADMISIÓN",
+  "LA FRASE",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "FEIJÓO EN THE WILD PROJECT",
+  "source": "Fuente: The Wild Project #392 (13-11)"
+ },
+ "caption": "¿Te importa que no sepa inglés? 👇\n\nJordi Wild pregunta a Feijóo (PP) por el inglés.\n• «Un primer ministro español debería de saber inglés. No es mi caso».\n• «No he hecho ningún esfuerzo en esto». Dice que le interesan más «los problemas de mi país».\n• Remata: «Yo no sé inglés, pero sé gobernar. Y segundo, yo no insulto en ningún idioma».\n\nFuente: The Wild Project #392 (13-11), min. 1:18-1:19. Citas transcritas del vídeo.\n\n#Feijóo #inglés #JordiWild #PP #29N",
+ "portada": {
+  "serie": "WILD x FEIJÓO",
+  "titulo": "Feijóo: *«No sé inglés, pero sé gobernar»*",
+  "mini": {
+   "texto": "Feijóo, sobre el inglés:",
+   "rojo": "«NO ES MI CASO»",
+   "emoji": "🇬🇧",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 86
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Jordi Wild le pregunta a Feijóo por el inglés.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Feijóo y *el inglés*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "mesa",
+       "type": "prop",
+       "kind": "mesa",
+       "x": 50,
+       "y": 60,
+       "w": 900,
+       "at": 0,
+       "text": "THE WILD PROJECT"
+      },
+      {
+       "id": "fe",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 26,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "label": "Feijóo"
+      },
+      {
+       "id": "wi",
+       "type": "mono",
+       "who": "wild",
+       "x": 74,
+       "y": 47,
+       "w": 280,
+       "at": 0,
+       "habla": false,
+       "cara": "sonrie",
+       "gesto": "senala",
+       "label": "Jordi Wild",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Feijóo admite: un presidente «debería de saber inglés. No es mi caso».",
+     "show": [
+      {
+       "id": "fe1",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 0,
+       "habla": true,
+       "cara": "sonrie",
+       "say": "«Debería de saber inglés. No es mi caso»",
+       "tf": [
+        0.3,
+        1
+       ],
+       "bub": "up",
+       "bw": 420,
+       "bfs": 34,
+       "gesto": "manos",
+       "label": "Feijóo"
+      },
+      {
+       "id": "st1",
+       "type": "stamp",
+       "text": "NO ES SU CASO",
+       "color": "red",
+       "x": 50,
+       "y": 22,
+       "rot": -5,
+       "at": 9
+      }
+     ],
+     "hide": [
+      "h1",
+      "mesa",
+      "fe",
+      "wi"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Y reconoce: «No he hecho ningún esfuerzo en esto». Dice que le interesan más «los problemas de mi país».",
+     "show": [
+      {
+       "id": "c1",
+       "type": "cap",
+       "n": "1",
+       "text": "La admisión",
+       "at": 0
+      },
+      {
+       "id": "doc",
+       "type": "prop",
+       "kind": "doc",
+       "x": 34,
+       "y": 40,
+       "w": 420,
+       "at": 2,
+       "kicker": "INGLÉS",
+       "text": "Esfuerzo: 0",
+       "sello": "SUSPENSO",
+       "st": 0.5
+      },
+      {
+       "id": "fe2",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 74,
+       "y": 50,
+       "w": 260,
+       "at": 9,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«Los problemas de mi país»",
+       "tf": [
+        0.7,
+        1
+       ],
+       "bub": "up",
+       "bw": 360,
+       "bfs": 34,
+       "gesto": "manos",
+       "label": "Feijóo"
+      }
+     ],
+     "hide": [
+      "fe1",
+      "st1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Y remata: «Yo no sé inglés, pero sé gobernar. Y segundo, yo no insulto en ningún idioma».",
+     "show": [
+      {
+       "id": "c2",
+       "type": "cap",
+       "n": "2",
+       "text": "La frase",
+       "at": 0
+      },
+      {
+       "id": "fe3",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 2,
+       "habla": true,
+       "cara": "sonrie",
+       "say": "«Yo no sé inglés, pero sé gobernar»",
+       "tf": [
+        0.1,
+        0.55
+       ],
+       "bub": "up",
+       "bw": 400,
+       "bfs": 38,
+       "gesto": "senala",
+       "label": "Feijóo"
+      },
+      {
+       "id": "st2",
+       "type": "card",
+       "text": "«Yo no insulto en ningún idioma»",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 10
+      }
+     ],
+     "hide": [
+      "doc",
+      "fe2"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Te importa que no sepa inglés? Comenta y síguenos.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TE IMPORTA?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "fe3",
+      "st2"
+     ]
+    }
+   ]
+  }
+ ]
+}

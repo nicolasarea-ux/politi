@@ -1,0 +1,323 @@
+{
+ "id": "slp_106_feijoo_define_rivales",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 4,
+ "clauseLabels": [
+  "COLAU",
+  "ABASCAL",
+  "SÁNCHEZ",
+  "EL BARCO",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "FEIJÓO EN THE WILD PROJECT",
+  "source": "Fuente: The Wild Project #392 (13-11)"
+ },
+ "caption": "¿Qué te parece? 👇\n\nJordi Wild pide a Feijóo (PP) que defina a sus rivales:\n• Colau: «Yo creo que hizo muy mal la gestión como alcaldesa».\n• Abascal: ha hecho «algo que no es fácil», convertir a Vox en tercera fuerza en pocos años; y recuerda que en Galicia, donde gobernó, Vox no tiene «un solo concejal».\n• Sánchez: «Ha sido una gran decepción».\nWild, en broma: «Que no estuvieras de vacaciones en el barco ese». Feijóo: «Ese barco no sé dónde está».\n\nFuente: The Wild Project #392 (13-11), min. 1:22-1:25. Citas transcritas del vídeo.\n\n#Feijóo #JordiWild #Colau #Abascal #Sánchez #29N",
+ "portada": {
+  "serie": "WILD x FEIJÓO",
+  "titulo": "Feijóo define a sus rivales *(y Wild saca el barco)*",
+  "mini": {
+   "texto": "Wild a Feijóo:",
+   "rojo": "«EL BARCO ESE»",
+   "emoji": "⛵",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 86
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Feijóo define a sus rivales en The Wild Project. Colau: «Hizo muy mal la gestión como alcaldesa».",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Feijóo define *a sus rivales*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "c0",
+       "type": "cap",
+       "n": "1",
+       "text": "Colau",
+       "at": 8
+      },
+      {
+       "id": "co",
+       "type": "mono",
+       "who": "colau",
+       "x": 72,
+       "y": 47,
+       "w": 270,
+       "at": 8,
+       "habla": false,
+       "cara": "enfado",
+       "label": "Ada Colau",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "fe",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 28,
+       "y": 47,
+       "w": 270,
+       "at": 8,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«Hizo muy mal la gestión como alcaldesa»",
+       "tf": [
+        0.5,
+        1
+       ],
+       "bub": "up",
+       "bw": 400,
+       "bfs": 34,
+       "gesto": "senala",
+       "label": "Feijóo"
+      }
+     ],
+     "hide": []
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Abascal: ha hecho «algo que no es fácil», convertirse en tercera fuerza, y recuerda que en Galicia Vox no tiene «un solo concejal».",
+     "show": [
+      {
+       "id": "c1",
+       "type": "cap",
+       "n": "2",
+       "text": "Abascal",
+       "at": 0
+      },
+      {
+       "id": "ab",
+       "type": "mono",
+       "who": "abascal",
+       "x": 72,
+       "y": 47,
+       "w": 270,
+       "at": 1,
+       "habla": false,
+       "cara": "sonrie",
+       "label": "Abascal",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "fe1",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 28,
+       "y": 47,
+       "w": 270,
+       "at": 1,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«Algo que no es fácil»",
+       "tf": [
+        0.1,
+        0.45
+       ],
+       "bub": "up",
+       "bw": 320,
+       "bfs": 34,
+       "gesto": "manos",
+       "label": "Feijóo"
+      },
+      {
+       "id": "st1",
+       "type": "card",
+       "text": "Galicia: Vox, «ni un concejal»",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 14
+      }
+     ],
+     "hide": [
+      "h1",
+      "co",
+      "fe"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Sánchez: «Ha sido una gran decepción».",
+     "show": [
+      {
+       "id": "c2",
+       "type": "cap",
+       "n": "3",
+       "text": "Sánchez",
+       "at": 0
+      },
+      {
+       "id": "sa",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 72,
+       "y": 47,
+       "w": 270,
+       "at": 1,
+       "habla": false,
+       "cara": "duda",
+       "label": "Sánchez",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "fe2",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 28,
+       "y": 47,
+       "w": 270,
+       "at": 1,
+       "habla": true,
+       "cara": "enfado",
+       "say": "«Ha sido una gran decepción»",
+       "tf": [
+        0.2,
+        1
+       ],
+       "bub": "up",
+       "bw": 340,
+       "bfs": 38,
+       "gesto": "senala",
+       "label": "Feijóo"
+      }
+     ],
+     "hide": [
+      "ab",
+      "fe1",
+      "st1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 3,
+   "segments": [
+    {
+     "text": "Y Wild le suelta: «Que no estuvieras de vacaciones en el barco ese». Feijóo: «Ese barco no sé dónde está».",
+     "show": [
+      {
+       "id": "mesa",
+       "type": "prop",
+       "kind": "mesa",
+       "x": 50,
+       "y": 60,
+       "w": 900,
+       "at": 0,
+       "text": "THE WILD PROJECT"
+      },
+      {
+       "id": "wi",
+       "type": "mono",
+       "who": "wild",
+       "x": 74,
+       "y": 47,
+       "w": 280,
+       "at": 0,
+       "habla": true,
+       "cara": "risa",
+       "say": "«Que no estuvieras de vacaciones en el barco ese»",
+       "tf": [
+        0.15,
+        0.62
+       ],
+       "bub": "up",
+       "bw": 400,
+       "bfs": 32,
+       "gesto": "senala",
+       "label": "Jordi Wild",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "fe3",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 26,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": true,
+       "cara": "sorpresa",
+       "say": "«Ese barco no sé dónde está»",
+       "tf": [
+        0.66,
+        1
+       ],
+       "bub": "up",
+       "bw": 320,
+       "bfs": 34,
+       "gesto": "manos",
+       "label": "Feijóo"
+      }
+     ],
+     "hide": [
+      "sa",
+      "fe2"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Qué te parece? Comenta y síguenos.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿QUÉ TE PARECE?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "mesa",
+      "wi",
+      "fe3"
+     ]
+    }
+   ]
+  }
+ ]
+}

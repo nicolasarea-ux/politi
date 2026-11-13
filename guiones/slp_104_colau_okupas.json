@@ -1,0 +1,257 @@
+{
+ "id": "slp_104_colau_okupas",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 3,
+ "clauseLabels": [
+  "LA PREGUNTA",
+  "SU PLAN",
+  "LA CUARTA",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "COLAU EN THE WILD PROJECT",
+  "source": "Fuente: The Wild Project #391 (13-11)"
+ },
+ "caption": "¿Te parece bien? 👇\n\nJordi Wild aprieta a Ada Colau (Frente Amplio) con la okupación de pisos de pequeños propietarios.\n• Wild: «¿En cuánto tiempo echas a los okupas?».\n• Colau: un servicio de mediación municipal para que el pequeño propietario recupere el piso «en un mes o dos meses» si entra una familia vulnerable; si es ocupación delincuencial, «lo más rápido posible».\n• Pequeño propietario, para su propuesta: hasta tres viviendas. «A partir de una cuarta vivienda se deja de ser un pequeño propietario».\n\nFuente: The Wild Project #391 (13-11), min. 1:43-1:49. Citas transcritas del vídeo.\n\n#Colau #okupación #vivienda #JordiWild #29N",
+ "portada": {
+  "serie": "WILD x COLAU",
+  "titulo": "Wild a Colau: *¿en cuánto echas a los okupas?*",
+  "mini": {
+   "texto": "Colau, sobre pisos:",
+   "rojo": "«A PARTIR DE LA CUARTA...»",
+   "emoji": "🏚️",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 86
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Jordi Wild aprieta a Ada Colau con la okupación. «¿En cuánto tiempo echas a los okupas?».",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "¿En cuánto echas *a los okupas*?",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "mesa",
+       "type": "prop",
+       "kind": "mesa",
+       "x": 50,
+       "y": 60,
+       "w": 900,
+       "at": 0,
+       "text": "THE WILD PROJECT"
+      },
+      {
+       "id": "co",
+       "type": "mono",
+       "who": "colau",
+       "x": 26,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "label": "Ada Colau"
+      },
+      {
+       "id": "wi",
+       "type": "mono",
+       "who": "wild",
+       "x": 74,
+       "y": 47,
+       "w": 280,
+       "at": 8,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«¿En cuánto tiempo echas a los okupas?»",
+       "tf": [
+        0.5,
+        1
+       ],
+       "bub": "up",
+       "bw": 380,
+       "bfs": 34,
+       "gesto": "senala",
+       "label": "Jordi Wild",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": []
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Ella propone un servicio de mediación para que el pequeño propietario recupere el piso «en un mes o dos meses».",
+     "show": [
+      {
+       "id": "c1",
+       "type": "cap",
+       "n": "1",
+       "text": "Su plan",
+       "at": 0
+      },
+      {
+       "id": "casa",
+       "type": "prop",
+       "kind": "casa",
+       "x": 68,
+       "y": 46,
+       "w": 400,
+       "at": 2,
+       "text": "1-2 MESES",
+       "tag": 0.75
+      },
+      {
+       "id": "co1",
+       "type": "mono",
+       "who": "colau",
+       "x": 28,
+       "y": 47,
+       "w": 270,
+       "at": 2,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«En un mes o dos meses»",
+       "tf": [
+        0.7,
+        1
+       ],
+       "bub": "up",
+       "bw": 320,
+       "bfs": 38,
+       "gesto": "manos",
+       "label": "Ada Colau"
+      }
+     ],
+     "hide": [
+      "h1",
+      "mesa",
+      "co",
+      "wi"
+     ]
+    },
+    {
+     "text": "Si es ocupación delincuencial, «lo más rápido posible».",
+     "show": [
+      {
+       "id": "st1",
+       "type": "card",
+       "text": "Si es delincuencial: «lo más rápido posible»",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 2
+      }
+     ],
+     "hide": []
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "¿Y quién es pequeño propietario? Hasta tres viviendas: «a partir de una cuarta vivienda se deja de ser un pequeño propietario».",
+     "show": [
+      {
+       "id": "c2",
+       "type": "cap",
+       "n": "2",
+       "text": "La cuarta vivienda",
+       "at": 0
+      },
+      {
+       "id": "casa2",
+       "type": "prop",
+       "kind": "casa",
+       "x": 50,
+       "y": 40,
+       "w": 360,
+       "at": 2,
+       "text": "4ª CASA",
+       "tag": 0.6
+      },
+      {
+       "id": "co2",
+       "type": "mono",
+       "who": "colau",
+       "x": 50,
+       "y": 52,
+       "w": 250,
+       "at": 6,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«A partir de una cuarta vivienda se deja de ser un pequeño propietario»",
+       "tf": [
+        0.35,
+        1
+       ],
+       "bub": "up",
+       "bw": 460,
+       "bfs": 32,
+       "gesto": "senala",
+       "label": "Ada Colau"
+      }
+     ],
+     "hide": [
+      "casa",
+      "co1",
+      "st1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Te parece bien? Comenta y síguenos.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TE PARECE BIEN?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "casa2",
+      "co2"
+     ]
+    }
+   ]
+  }
+ ]
+}
