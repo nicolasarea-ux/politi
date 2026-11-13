@@ -1,0 +1,244 @@
+{
+ "id": "slp_131_sanchez_vivienda_colau",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "LA CRÍTICA",
+  "EL EJEMPLO",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "SÁNCHEZ EN THE WILD PROJECT",
+  "source": "Fuente: The Wild Project #393 (13-11)"
+ },
+ "caption": "¿Quién tiene razón? 👇\n\nJordi Wild le traslada a Pedro Sánchez (PSOE) la crítica de Ada Colau sobre vivienda.\n\n• Wild: Colau «ha dicho que vosotros habéis hecho cero en 8 años».\n• Wild: «En 8 años, ¿en qué habéis mejorado la vivienda en España?».\n• Sánchez compara Manresa (1.500 €/m²) con Málaga (4.000 €/m²). Wild: «Has estudiado antes de venir».\n\nFuente: The Wild Project #393 (13-11), min. 1:24-1:26. Citas transcritas del vídeo.\n\n#Sánchez #vivienda #Colau #JordiWild #29N",
+ "portada": {
+  "serie": "WILD x SÁNCHEZ",
+  "titulo": "Wild a Sánchez: *«¿En qué habéis mejorado la vivienda?»*",
+  "mini": {
+   "texto": "Wild a Sánchez:",
+   "rojo": "«CERO EN 8 AÑOS»",
+   "emoji": "🏠",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 86
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Jordi Wild a Sánchez: Colau «ha dicho que vosotros habéis hecho cero en 8 años» en vivienda.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Sánchez y *la vivienda*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "mesa",
+       "type": "prop",
+       "kind": "mesa",
+       "x": 50,
+       "y": 60,
+       "w": 900,
+       "at": 0,
+       "text": "THE WILD PROJECT"
+      },
+      {
+       "id": "s0",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 26,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "label": "Sánchez"
+      },
+      {
+       "id": "w0",
+       "type": "mono",
+       "who": "wild",
+       "x": 74,
+       "y": 47,
+       "w": 280,
+       "at": 4,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«Habéis hecho cero en 8 años»",
+       "tf": [
+        0.5,
+        1
+       ],
+       "bub": "l",
+       "bw": 320,
+       "bfs": 34,
+       "gesto": "senala",
+       "label": "Jordi Wild",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Y le pregunta: «En 8 años, ¿en qué habéis mejorado la vivienda en España?».",
+     "show": [
+      {
+       "id": "w1",
+       "type": "mono",
+       "who": "wild",
+       "x": 50,
+       "y": 47,
+       "w": 280,
+       "at": 0,
+       "habla": true,
+       "cara": "enfado",
+       "say": "«¿En qué habéis mejorado la vivienda?»",
+       "tf": [
+        0.3,
+        1
+       ],
+       "bub": "up",
+       "bw": 360,
+       "bfs": 34,
+       "gesto": "senala",
+       "label": "Jordi Wild",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "casa",
+       "type": "prop",
+       "kind": "casa",
+       "x": 78,
+       "y": 50,
+       "w": 280,
+       "at": 0,
+       "text": "8 AÑOS",
+       "tag": 0.3
+      }
+     ],
+     "hide": [
+      "h1",
+      "mesa",
+      "s0",
+      "w0"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Sánchez compara Manresa, a 1.500 euros el metro cuadrado, con Málaga, a 4.000. Wild: «Has estudiado antes de venir».",
+     "show": [
+      {
+       "id": "c1",
+       "type": "cap",
+       "n": "1",
+       "text": "El ejemplo",
+       "at": 0
+      },
+      {
+       "id": "k2",
+       "type": "card",
+       "text": "Manresa 1.500 €/m² · Málaga 4.000 €/m²",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 2
+      },
+      {
+       "id": "s2",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 26,
+       "y": 47,
+       "w": 270,
+       "at": 2,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "label": "Sánchez"
+      },
+      {
+       "id": "w2",
+       "type": "mono",
+       "who": "wild",
+       "x": 74,
+       "y": 47,
+       "w": 280,
+       "at": 2,
+       "habla": true,
+       "cara": "risa",
+       "say": "«Has estudiado antes de venir»",
+       "tf": [
+        0.7,
+        1
+       ],
+       "bub": "up",
+       "bw": 300,
+       "bfs": 34,
+       "gesto": "senala",
+       "label": "Jordi Wild",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": [
+      "w1",
+      "casa"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Quién tiene razón? Comenta y síguenos.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿QUIÉN GANA?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "k2",
+      "s2",
+      "w2"
+     ]
+    }
+   ]
+  }
+ ]
+}

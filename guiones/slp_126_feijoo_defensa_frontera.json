@@ -1,0 +1,198 @@
+{
+ "id": "slp_126_feijoo_defensa_frontera",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "DEFENSA",
+  "LA FRONTERA",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "FEIJÓO EN THE WILD PROJECT",
+  "source": "Fuente: The Wild Project #392 (13-11)"
+ },
+ "caption": "¿Estás de acuerdo? 👇\n\nFeijóo (PP), sobre el gasto en defensa y las fronteras de Europa.\n\n• Critica que se hable del gasto en defensa «con tanta frivolidad y tanto populismo».\n• «¿Has de dejar que te invadan? ¿Has de dejar ciudadanos provenientes de cualquier otra nación del mundo que rompan tus tradiciones, tus lenguas, tus leyes?».\n• «La frontera sur, en mi opinión, tiene un riesgo potencial mayor que la frontera este».\n\nFuente: The Wild Project #392 (13-11), min. 1:20-1:21. Citas transcritas del vídeo.\n\n#Feijóo #defensa #fronteras #JordiWild #29N",
+ "portada": {
+  "serie": "WILD x FEIJÓO",
+  "titulo": "Feijóo: *«¿Has de dejar que te invadan?»*",
+  "mini": {
+   "texto": "Feijóo:",
+   "rojo": "«LA FRONTERA SUR»",
+   "emoji": "🛡️",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 86
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Feijóo critica que se hable del gasto en defensa «con tanta frivolidad y tanto populismo».",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Feijóo y *las fronteras*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "f0",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 5,
+       "habla": true,
+       "cara": "enfado",
+       "say": "«Con tanta frivolidad y tanto populismo»",
+       "tf": [
+        0.5,
+        1
+       ],
+       "bub": "r",
+       "bw": 380,
+       "bfs": 34,
+       "gesto": "senala",
+       "label": "Feijóo"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Y pregunta: «¿Has de dejar que te invadan? ¿Has de dejar ciudadanos provenientes de cualquier otra nación del mundo que rompan tus tradiciones, tus lenguas, tus leyes?».",
+     "show": [
+      {
+       "id": "f1",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 0,
+       "habla": true,
+       "cara": "enfado",
+       "say": "«¿Has de dejar que te invadan?»",
+       "tf": [
+        0.05,
+        0.35
+       ],
+       "bub": "up",
+       "bw": 340,
+       "bfs": 38,
+       "gesto": "puno",
+       "label": "Feijóo"
+      },
+      {
+       "id": "k1",
+       "type": "card",
+       "text": "«…que rompan tus tradiciones, tus lenguas, tus leyes»",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 8
+      }
+     ],
+     "hide": [
+      "h1",
+      "f0"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Para él, «la frontera sur tiene un riesgo potencial mayor que la frontera este».",
+     "show": [
+      {
+       "id": "c1",
+       "type": "cap",
+       "n": "1",
+       "text": "La frontera",
+       "at": 0
+      },
+      {
+       "id": "k2",
+       "type": "card",
+       "text": "🧭 Sur > Este",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 2
+      },
+      {
+       "id": "f2",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 2,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«La frontera sur… un riesgo mayor»",
+       "tf": [
+        0.3,
+        1
+       ],
+       "bub": "up",
+       "bw": 360,
+       "bfs": 34,
+       "gesto": "senala",
+       "label": "Feijóo"
+      }
+     ],
+     "hide": [
+      "f1",
+      "k1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Estás de acuerdo? Comenta y síguenos.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿DE ACUERDO?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "k2",
+      "f2"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,194 @@
+{
+ "id": "slp_124_feijoo_inmigracion",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL DATO",
+  "SU PLAN",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "FEIJÓO EN THE WILD PROJECT",
+  "source": "Fuente: The Wild Project #392 (13-11)"
+ },
+ "caption": "¿Estás de acuerdo? 👇\n\nFeijóo (PP) explica a Jordi Wild su política migratoria.\n\n• «España es el país donde hay más inmigración irregular desde hace algunos años de toda Europa».\n• Con permiso de trabajo: «Finalizado su contrato de trabajo, le vamos a expulsar del país»; habla de dar «otros plazos» para encontrar otro empleo.\n• «Si usted entra de forma irregular […] usted se tiene que ir». Cita como modelo parcial el acuerdo de Italia con Albania.\n\nFuente: The Wild Project #392 (13-11), min. 53-54. Citas transcritas del vídeo.\n\n#Feijóo #inmigración #PP #JordiWild #29N",
+ "portada": {
+  "serie": "WILD x FEIJÓO",
+  "titulo": "Feijóo: *«Usted se tiene que ir»*",
+  "mini": {
+   "texto": "Feijóo, inmigración:",
+   "rojo": "«SE TIENE QUE IR»",
+   "emoji": "🛂",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 86
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Feijóo, en The Wild Project: «España es el país donde hay más inmigración irregular de toda Europa».",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Feijóo y *la inmigración*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "f0",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 4,
+       "habla": true,
+       "cara": "enfado",
+       "say": "«Más inmigración irregular de toda Europa»",
+       "tf": [
+        0.4,
+        1
+       ],
+       "bub": "r",
+       "bw": 380,
+       "bfs": 34,
+       "gesto": "senala",
+       "label": "Feijóo"
+      }
+     ],
+     "hide": []
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Su plan: con permiso de trabajo, «finalizado su contrato de trabajo, le vamos a expulsar del país», con plazos para buscar otro empleo.",
+     "show": [
+      {
+       "id": "c1",
+       "type": "cap",
+       "n": "1",
+       "text": "Su plan",
+       "at": 0
+      },
+      {
+       "id": "doc",
+       "type": "prop",
+       "kind": "doc",
+       "x": 34,
+       "y": 42,
+       "w": 420,
+       "at": 2,
+       "kicker": "PERMISO",
+       "text": "Contrato de trabajo",
+       "sello": "FINALIZADO",
+       "st": 0.6
+      },
+      {
+       "id": "f1",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 74,
+       "y": 47,
+       "w": 270,
+       "at": 2,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«Le vamos a expulsar del país»",
+       "tf": [
+        0.5,
+        0.8
+       ],
+       "bub": "up",
+       "bw": 300,
+       "bfs": 34,
+       "gesto": "manos",
+       "label": "Feijóo",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": [
+      "h1",
+      "f0"
+     ]
+    },
+    {
+     "text": "Y si entra de forma irregular: «Usted se tiene que ir».",
+     "show": [
+      {
+       "id": "f2",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 0,
+       "habla": true,
+       "cara": "enfado",
+       "say": "«Usted se tiene que ir»",
+       "tf": [
+        0.5,
+        1
+       ],
+       "bub": "up",
+       "bw": 300,
+       "bfs": 40,
+       "gesto": "senala",
+       "label": "Feijóo"
+      }
+     ],
+     "hide": [
+      "doc",
+      "f1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Estás de acuerdo? Comenta y síguenos.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿DE ACUERDO?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "f2"
+     ]
+    }
+   ]
+  }
+ ]
+}

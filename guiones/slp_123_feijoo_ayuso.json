@@ -1,0 +1,249 @@
+{
+ "id": "slp_123_feijoo_ayuso",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL AVISO",
+  "AYUSO",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "FEIJÓO EN THE WILD PROJECT",
+  "source": "Fuente: The Wild Project #392 (13-11)"
+ },
+ "caption": "¿Te lo crees? 👇\n\nJordi Wild pregunta a Feijóo (PP) por Isabel Díaz Ayuso y una posible «guerra callada por el liderato».\n\n• Wild: «Es un aviso incluso para ti». Feijóo: «Qué aviso, hombre, Jordi, por favor».\n• Feijóo: Ayuso «es un activo de mi partido». Wild: «¿Te cae bien?». Feijóo: «A mí me cae bien personalmente».\n• Y añade: «El PP no es una secta, ¿eh? Ni yo soy Sánchez. Yo no me cargo a la gente si me cae bien o mal».\n\nFuente: The Wild Project #392 (13-11), min. 1:12-1:14. Citas transcritas del vídeo.\n\n#Feijóo #Ayuso #PP #JordiWild #29N",
+ "portada": {
+  "serie": "WILD x FEIJÓO",
+  "titulo": "Feijóo sobre Ayuso: *«Ni yo soy Sánchez»*",
+  "mini": {
+   "texto": "Feijóo sobre Ayuso:",
+   "rojo": "«NI YO SOY SÁNCHEZ»",
+   "emoji": "👑",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 86
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Jordi Wild a Feijóo, sobre Ayuso: «Es un aviso incluso para ti». Feijóo: «Qué aviso, hombre, Jordi, por favor».",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Feijóo y *Ayuso*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "mesa",
+       "type": "prop",
+       "kind": "mesa",
+       "x": 50,
+       "y": 60,
+       "w": 900,
+       "at": 0,
+       "text": "THE WILD PROJECT"
+      },
+      {
+       "id": "w0",
+       "type": "mono",
+       "who": "wild",
+       "x": 74,
+       "y": 47,
+       "w": 280,
+       "at": 4,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«Es un aviso incluso para ti»",
+       "tf": [
+        0.1,
+        0.5
+       ],
+       "bub": "l",
+       "bw": 320,
+       "bfs": 34,
+       "gesto": "senala",
+       "label": "Jordi Wild",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "f0",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 26,
+       "y": 47,
+       "w": 270,
+       "at": 4,
+       "habla": true,
+       "cara": "risa",
+       "say": "«Qué aviso, hombre, Jordi»",
+       "tf": [
+        0.55,
+        1
+       ],
+       "bub": "r",
+       "bw": 300,
+       "bfs": 34,
+       "gesto": "manos",
+       "label": "Feijóo"
+      }
+     ],
+     "hide": []
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Feijóo: Ayuso «es un activo de mi partido». «¿Te cae bien?». «A mí me cae bien personalmente».",
+     "show": [
+      {
+       "id": "c1",
+       "type": "cap",
+       "n": "1",
+       "text": "Ayuso",
+       "at": 0
+      },
+      {
+       "id": "f1",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 1,
+       "habla": true,
+       "cara": "sonrie",
+       "say": "«A mí me cae bien personalmente»",
+       "tf": [
+        0.6,
+        1
+       ],
+       "bub": "up",
+       "bw": 340,
+       "bfs": 34,
+       "gesto": "manos",
+       "label": "Feijóo"
+      },
+      {
+       "id": "k1",
+       "type": "card",
+       "text": "Ayuso, «un activo de mi partido»",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "h1",
+      "mesa",
+      "w0",
+      "f0"
+     ]
+    },
+    {
+     "text": "Y remata: «El PP no es una secta, ni yo soy Sánchez. Yo no me cargo a la gente si me cae bien o mal».",
+     "show": [
+      {
+       "id": "f2",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 28,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": true,
+       "cara": "enfado",
+       "say": "«Ni yo soy Sánchez»",
+       "tf": [
+        0.2,
+        0.55
+       ],
+       "bub": "up",
+       "bw": 280,
+       "bfs": 40,
+       "gesto": "senala",
+       "label": "Feijóo"
+      },
+      {
+       "id": "s2",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 74,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "sorpresa",
+       "label": "Sánchez",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "st",
+       "type": "stamp",
+       "text": "«EL PP NO ES UNA SECTA»",
+       "color": "red",
+       "x": 50,
+       "y": 22,
+       "rot": -5,
+       "at": 3
+      }
+     ],
+     "hide": [
+      "f1",
+      "k1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Te lo crees? Comenta y síguenos.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TE LO CREES?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "f2",
+      "s2",
+      "st"
+     ]
+    }
+   ]
+  }
+ ]
+}

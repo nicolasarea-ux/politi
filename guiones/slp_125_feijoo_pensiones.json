@@ -1,0 +1,222 @@
+{
+ "id": "slp_125_feijoo_pensiones",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "LA PREGUNTA",
+  "SU RESPUESTA",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "FEIJÓO EN THE WILD PROJECT",
+  "source": "Fuente: The Wild Project #392 (13-11)"
+ },
+ "caption": "¿Peligran tus pensiones? 👇\n\nJordi Wild pregunta a Feijóo (PP) si el sistema de pensiones «va a petar».\n\n• Feijóo: la economía ha crecido «dopada».\n• Atribuye el crecimiento a «un incremento masivo de población» y a un 22% más de gasto público, no a la productividad.\n• «Lo que se ha incrementado son más de 4 millones de ciudadanos, mayoritariamente inmigrantes».\n\nFuente: The Wild Project #392 (13-11), min. 19-20. Citas transcritas del vídeo.\n\n#Feijóo #pensiones #economía #JordiWild #29N",
+ "portada": {
+  "serie": "WILD x FEIJÓO",
+  "titulo": "¿Van a petar *las pensiones*?",
+  "mini": {
+   "texto": "Feijóo:",
+   "rojo": "«ECONOMÍA DOPADA»",
+   "emoji": "💶",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 86
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Jordi Wild a Feijóo: «¿Va a petar el sistema de pensiones?».",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "¿Van a petar *las pensiones*?",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "mesa",
+       "type": "prop",
+       "kind": "mesa",
+       "x": 50,
+       "y": 60,
+       "w": 900,
+       "at": 0,
+       "text": "THE WILD PROJECT"
+      },
+      {
+       "id": "f0",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 26,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "label": "Feijóo"
+      },
+      {
+       "id": "w0",
+       "type": "mono",
+       "who": "wild",
+       "x": 74,
+       "y": 47,
+       "w": 280,
+       "at": 3,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«¿Va a petar el sistema de pensiones?»",
+       "tf": [
+        0.1,
+        1
+       ],
+       "bub": "l",
+       "bw": 360,
+       "bfs": 34,
+       "gesto": "senala",
+       "label": "Jordi Wild",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": []
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Feijóo: la economía ha crecido «dopada», por «un incremento masivo de población», no por productividad.",
+     "show": [
+      {
+       "id": "c1",
+       "type": "cap",
+       "n": "1",
+       "text": "Su respuesta",
+       "at": 0
+      },
+      {
+       "id": "f1",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 1,
+       "habla": true,
+       "cara": "enfado",
+       "say": "«Dopada»",
+       "tf": [
+        0.3,
+        0.6
+       ],
+       "bub": "up",
+       "bw": 200,
+       "bfs": 46,
+       "gesto": "senala",
+       "label": "Feijóo"
+      },
+      {
+       "id": "k1",
+       "type": "card",
+       "text": "Crecimiento por población, no por productividad",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 6
+      }
+     ],
+     "hide": [
+      "h1",
+      "mesa",
+      "f0",
+      "w0"
+     ]
+    },
+    {
+     "text": "«Lo que se ha incrementado son más de 4 millones de ciudadanos, mayoritariamente inmigrantes».",
+     "show": [
+      {
+       "id": "tv",
+       "type": "prop",
+       "kind": "tele",
+       "x": 50,
+       "y": 40,
+       "w": 480,
+       "at": 0,
+       "text": "+{n} M",
+       "count": 4,
+       "fmt": "+{n} M",
+       "dur": 1.2,
+       "sub": "habitantes",
+       "fs": 120
+      },
+      {
+       "id": "f2",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 62,
+       "w": 220,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "label": "Feijóo"
+      }
+     ],
+     "hide": [
+      "f1",
+      "k1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Peligran tus pensiones? Comenta y síguenos.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿PELIGRAN?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "tv",
+      "f2"
+     ]
+    }
+   ]
+  }
+ ]
+}

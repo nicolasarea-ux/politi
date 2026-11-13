@@ -1,0 +1,229 @@
+{
+ "id": "slp_119_sanchez_movil_marruecos",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "LA PREGUNTA",
+  "EL MÓVIL",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "SÁNCHEZ EN THE WILD PROJECT",
+  "source": "Fuente: The Wild Project #393 (13-11)"
+ },
+ "caption": "¿Qué opinas? 👇\n\nJordi Wild le plantea a Pedro Sánchez (PSOE) la sensación de «pleitesía» del Gobierno hacia Marruecos.\n\n• Sánchez: «A mí me hackearon el móvil, lo denuncié ante la Audiencia Nacional».\n• «Lo que no te voy a decir es mi contraseña».\n• Sobre Pegasus: «es un sistema informático de Israel» y cita la crítica de Abascal: «que mi rey es el rey Mohamed».\n\nFuente: The Wild Project #393 (13-11), min. 41-42. Citas transcritas del vídeo.\n\n#Sánchez #Marruecos #Pegasus #JordiWild #29N",
+ "portada": {
+  "serie": "WILD x SÁNCHEZ",
+  "titulo": "Sánchez, el móvil *y Marruecos*",
+  "mini": {
+   "texto": "Sánchez a Wild:",
+   "rojo": "«NO TE DIGO MI CONTRASEÑA»",
+   "emoji": "📱",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 86
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Jordi Wild a Sánchez: hay una sensación de «pleitesía» del Gobierno hacia Marruecos.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Sánchez, el móvil *y Marruecos*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "mesa",
+       "type": "prop",
+       "kind": "mesa",
+       "x": 50,
+       "y": 60,
+       "w": 900,
+       "at": 0,
+       "text": "THE WILD PROJECT"
+      },
+      {
+       "id": "s0",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 26,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "label": "Sánchez"
+      },
+      {
+       "id": "w0",
+       "type": "mono",
+       "who": "wild",
+       "x": 74,
+       "y": 47,
+       "w": 280,
+       "at": 5,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«Una especie de pleitesía»",
+       "tf": [
+        0.4,
+        1
+       ],
+       "bub": "l",
+       "bw": 320,
+       "bfs": 34,
+       "gesto": "senala",
+       "label": "Jordi Wild",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": []
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Sánchez: «A mí me hackearon el móvil». Y bromea: «Lo que no te voy a decir es mi contraseña».",
+     "show": [
+      {
+       "id": "c1",
+       "type": "cap",
+       "n": "1",
+       "text": "El móvil",
+       "at": 0
+      },
+      {
+       "id": "s1",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 1,
+       "habla": true,
+       "cara": "sonrie",
+       "say": "«Lo que no te voy a decir es mi contraseña»",
+       "tf": [
+        0.45,
+        1
+       ],
+       "bub": "up",
+       "bw": 400,
+       "bfs": 34,
+       "gesto": "manos",
+       "label": "Sánchez"
+      },
+      {
+       "id": "k1",
+       "type": "card",
+       "text": "📱 «Me hackearon el móvil»",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "h1",
+      "mesa",
+      "s0",
+      "w0"
+     ]
+    },
+    {
+     "text": "Pegasus, dice, «es un sistema informático de Israel». Y cita a Abascal: «que mi rey es el rey Mohamed».",
+     "show": [
+      {
+       "id": "s2",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": true,
+       "cara": "risa",
+       "say": "«Mi rey es el rey Mohamed», dice Abascal",
+       "tf": [
+        0.55,
+        1
+       ],
+       "bub": "up",
+       "bw": 380,
+       "bfs": 32,
+       "gesto": "senala",
+       "label": "Sánchez"
+      },
+      {
+       "id": "ab",
+       "type": "mono",
+       "who": "abascal",
+       "x": 72,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "enfado",
+       "label": "Abascal",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": [
+      "s1",
+      "k1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Qué opinas? Comenta y síguenos.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿QUÉ OPINAS?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "s2",
+      "ab"
+     ]
+    }
+   ]
+  }
+ ]
+}

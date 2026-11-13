@@ -1,0 +1,226 @@
+{
+ "id": "slp_118_sanchez_amigos_theone",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "LOS AMIGOS",
+  "THE ONE",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "SÁNCHEZ EN THE WILD PROJECT",
+  "source": "Fuente: The Wild Project #393 (13-11)"
+ },
+ "caption": "¿Le crees? 👇\n\nJordi Wild pregunta a Pedro Sánchez (PSOE) por Ábalos, Koldo y Leire Díez.\n\n• Wild: «¿Han sido amigos tuyos?». Sánchez: «Creía que sí, porque un amigo le conoces, sabes cómo vive».\n• Wild: «¿Sabes que la UCO interpreta que Leire Díez se refería a ti como The One?».\n• Sánchez: «Con Leire Díez no he tenido ninguna reunión como presidente del gobierno».\n\nFuente: The Wild Project #393 (13-11), min. 1:08 y 1:20-1:21. Citas transcritas del vídeo.\n\n#Sánchez #LeireDíez #Ábalos #JordiWild #29N",
+ "portada": {
+  "serie": "WILD x SÁNCHEZ",
+  "titulo": "Wild a Sánchez: *¿eres «The One»?*",
+  "mini": {
+   "texto": "Wild a Sánchez:",
+   "rojo": "«THE ONE»",
+   "emoji": "☝️",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 86
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Jordi Wild a Sánchez, sobre Ábalos y Koldo: «¿Han sido amigos tuyos?». Sánchez: «Creía que sí».",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Wild a Sánchez: *¿eres «The One»?*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "mesa",
+       "type": "prop",
+       "kind": "mesa",
+       "x": 50,
+       "y": 60,
+       "w": 900,
+       "at": 0,
+       "text": "THE WILD PROJECT"
+      },
+      {
+       "id": "w0",
+       "type": "mono",
+       "who": "wild",
+       "x": 74,
+       "y": 47,
+       "w": 280,
+       "at": 6,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«¿Han sido amigos tuyos?»",
+       "tf": [
+        0.2,
+        0.65
+       ],
+       "bub": "l",
+       "bw": 300,
+       "bfs": 34,
+       "gesto": "senala",
+       "label": "Jordi Wild",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "s0",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 26,
+       "y": 47,
+       "w": 270,
+       "at": 6,
+       "habla": true,
+       "cara": "duda",
+       "say": "«Creía que sí»",
+       "tf": [
+        0.7,
+        1
+       ],
+       "bub": "r",
+       "bw": 240,
+       "bfs": 40,
+       "gesto": "manos",
+       "label": "Sánchez"
+      }
+     ],
+     "hide": []
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Y le suelta: «¿Sabes que la UCO interpreta que Leire Díez se refería a ti como The One?».",
+     "show": [
+      {
+       "id": "c1",
+       "type": "cap",
+       "n": "1",
+       "text": "«The One»",
+       "at": 0
+      },
+      {
+       "id": "w1",
+       "type": "mono",
+       "who": "wild",
+       "x": 50,
+       "y": 47,
+       "w": 280,
+       "at": 0,
+       "habla": true,
+       "cara": "duda",
+       "say": "«…se refería a ti como The One?»",
+       "tf": [
+        0.5,
+        1
+       ],
+       "bub": "up",
+       "bw": 360,
+       "bfs": 34,
+       "gesto": "senala",
+       "label": "Jordi Wild",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "st",
+       "type": "stamp",
+       "text": "☝️ «THE ONE»",
+       "color": "red",
+       "x": 50,
+       "y": 22,
+       "rot": -5,
+       "at": 12
+      }
+     ],
+     "hide": [
+      "h1",
+      "mesa",
+      "w0",
+      "s0"
+     ]
+    },
+    {
+     "text": "Sánchez: «Con Leire Díez no he tenido ninguna reunión como presidente del gobierno».",
+     "show": [
+      {
+       "id": "s1",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 0,
+       "habla": true,
+       "cara": "enfado",
+       "say": "«No he tenido ninguna reunión»",
+       "tf": [
+        0.3,
+        1
+       ],
+       "bub": "up",
+       "bw": 340,
+       "bfs": 34,
+       "gesto": "puno",
+       "label": "Sánchez"
+      }
+     ],
+     "hide": [
+      "w1",
+      "st"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Le crees? Comenta y síguenos.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿LE CREES?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "s1"
+     ]
+    }
+   ]
+  }
+ ]
+}

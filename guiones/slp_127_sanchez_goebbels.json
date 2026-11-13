@@ -1,0 +1,190 @@
+{
+ "id": "slp_127_sanchez_goebbels",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "GOEBBELS",
+  "LA RESPUESTA",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "SÁNCHEZ EN THE WILD PROJECT",
+  "source": "Fuente: The Wild Project #393 (13-11)"
+ },
+ "caption": "¿Estás de acuerdo? 👇\n\nPedro Sánchez (PSOE) responde a Jordi Wild sobre los insultos y la crispación.\n\n• «Si uno googlea […] los 11 puntos de la comunicación fascista de Goebbels, hay tres que me gustaría compartir contigo».\n• «El problema de este país es esta persona y si quitamos esta persona se resuelven los problemas. Eso es técnica fascista, propaganda fascista».\n• Wild le responde que eso lo han dado «las dos partes».\n\nFuente: The Wild Project #393 (13-11), min. 10-11. Citas transcritas del vídeo.\n\n#Sánchez #polarización #JordiWild #29N",
+ "portada": {
+  "serie": "WILD x SÁNCHEZ",
+  "titulo": "Sánchez saca *a Goebbels*",
+  "mini": {
+   "texto": "Sánchez a Wild:",
+   "rojo": "«PROPAGANDA FASCISTA»",
+   "emoji": "📢",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 86
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Sánchez, en The Wild Project, cita «los 11 puntos de la comunicación fascista de Goebbels».",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Sánchez saca *a Goebbels*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "s0",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 3,
+       "habla": true,
+       "cara": "enfado",
+       "say": "«Los 11 puntos de la comunicación fascista»",
+       "tf": [
+        0.3,
+        1
+       ],
+       "bub": "r",
+       "bw": 400,
+       "bfs": 34,
+       "gesto": "senala",
+       "label": "Sánchez"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "«El problema de este país es esta persona y si quitamos esta persona se resuelven los problemas. Eso es técnica fascista, propaganda fascista».",
+     "show": [
+      {
+       "id": "s1",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 0,
+       "habla": true,
+       "cara": "enfado",
+       "say": "«Eso es técnica fascista»",
+       "tf": [
+        0.65,
+        1
+       ],
+       "bub": "up",
+       "bw": 320,
+       "bfs": 38,
+       "gesto": "puno",
+       "label": "Sánchez"
+      },
+      {
+       "id": "k1",
+       "type": "card",
+       "text": "«Si quitamos esta persona se resuelven los problemas»",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "h1",
+      "s0"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Wild le responde: eso lo han dado «las dos partes».",
+     "show": [
+      {
+       "id": "c1",
+       "type": "cap",
+       "n": "1",
+       "text": "La respuesta",
+       "at": 0
+      },
+      {
+       "id": "w2",
+       "type": "mono",
+       "who": "wild",
+       "x": 50,
+       "y": 47,
+       "w": 280,
+       "at": 2,
+       "habla": true,
+       "cara": "duda",
+       "say": "«Las dos partes»",
+       "tf": [
+        0.5,
+        1
+       ],
+       "bub": "up",
+       "bw": 260,
+       "bfs": 42,
+       "gesto": "brazos",
+       "label": "Jordi Wild",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": [
+      "s1",
+      "k1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Estás de acuerdo? Comenta y síguenos.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿DE ACUERDO?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "w2"
+     ]
+    }
+   ]
+  }
+ ]
+}

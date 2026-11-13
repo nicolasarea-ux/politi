@@ -1,0 +1,198 @@
+{
+ "id": "slp_130_sanchez_puigdemont",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "PUIGDEMONT",
+  "IGLESIAS",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "SÁNCHEZ EN THE WILD PROJECT",
+  "source": "Fuente: The Wild Project #393 (13-11)"
+ },
+ "caption": "¿Qué opinas? 👇\n\nPedro Sánchez (PSOE), sobre Feijóo, Puigdemont y Pablo Iglesias.\n\n• Que se especulara con que «Feijóo iba a llamar a Puigdemont para hacer una moción de censura junto con Vox» es, dice, «un reconocimiento implícito del éxito de la ley de amnistía».\n• Sobre Iglesias: «Yo fui a una repetición electoral por no pactar con Pablo Iglesias, pero lo que no voy a hacer es una tercera repetición electoral».\n\nFuente: The Wild Project #393 (13-11), min. 1:46-1:47. Citas transcritas del vídeo.\n\n#Sánchez #Puigdemont #Feijóo #amnistía #JordiWild #29N",
+ "portada": {
+  "serie": "WILD x SÁNCHEZ",
+  "titulo": "Sánchez: *¿Feijóo llamando a Puigdemont?*",
+  "mini": {
+   "texto": "Sánchez:",
+   "rojo": "«ÉXITO DE LA AMNISTÍA»",
+   "emoji": "☎️",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 86
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Sánchez, en The Wild Project: se especuló con que «Feijóo iba a llamar a Puigdemont para hacer una moción de censura junto con Vox».",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Feijóo, *Puigdemont y Vox*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "s0",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 4,
+       "habla": true,
+       "cara": "sonrie",
+       "say": "«Feijóo iba a llamar a Puigdemont»",
+       "tf": [
+        0.3,
+        0.8
+       ],
+       "bub": "r",
+       "bw": 340,
+       "bfs": 34,
+       "gesto": "senala",
+       "label": "Sánchez"
+      },
+      {
+       "id": "k0",
+       "type": "card",
+       "text": "☎️ Moción de censura PP + Vox + Junts",
+       "x": 50,
+       "y": 64,
+       "w": 920,
+       "at": 14
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Para él, es «un reconocimiento implícito del éxito de la ley de amnistía».",
+     "show": [
+      {
+       "id": "s1",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 0,
+       "habla": true,
+       "cara": "sonrie",
+       "say": "«Éxito de la ley de amnistía»",
+       "tf": [
+        0.5,
+        1
+       ],
+       "bub": "up",
+       "bw": 320,
+       "bfs": 34,
+       "gesto": "manos",
+       "label": "Sánchez"
+      }
+     ],
+     "hide": [
+      "h1",
+      "s0",
+      "k0"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Y sobre Iglesias: «Yo fui a una repetición electoral por no pactar con Pablo Iglesias, pero lo que no voy a hacer es una tercera».",
+     "show": [
+      {
+       "id": "c1",
+       "type": "cap",
+       "n": "1",
+       "text": "Iglesias",
+       "at": 0
+      },
+      {
+       "id": "s2",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 2,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«Lo que no voy a hacer es una tercera»",
+       "tf": [
+        0.6,
+        1
+       ],
+       "bub": "up",
+       "bw": 360,
+       "bfs": 34,
+       "gesto": "puno",
+       "label": "Sánchez"
+      },
+      {
+       "id": "k2",
+       "type": "card",
+       "text": "🗳️ Repetición electoral",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 2
+      }
+     ],
+     "hide": [
+      "s1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Qué opinas? Comenta y síguenos.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿QUÉ OPINAS?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "s2",
+      "k2"
+     ]
+    }
+   ]
+  }
+ ]
+}

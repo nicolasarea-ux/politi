@@ -1,0 +1,210 @@
+{
+ "id": "slp_122_feijoo_verificadores",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL DATO",
+  "LA CORRECCIÓN",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "FEIJÓO EN THE WILD PROJECT",
+  "source": "Fuente: The Wild Project #392 (13-11)"
+ },
+ "caption": "¿Qué te parece? 👇\n\nLos verificadores de The Wild Project corrigen un dato de Feijóo (PP) en directo.\n\n• Feijóo, sobre el absentismo: «¿Por qué el lunes y el viernes son los días de la semana con mayor absentismo?».\n• Pone a los autónomos como ejemplo: su absentismo «si no recuerdo mal está en el entorno del 4%».\n• Verificador: «La incidencia de bajas médicas entre los trabajadores autónomos está en torno al 1%». Feijóo: «Le agradezco esa rectificación».\n\nFuente: The Wild Project #392 (13-11), min. 25-28. Citas transcritas del vídeo.\n\n#Feijóo #absentismo #autónomos #JordiWild #29N",
+ "portada": {
+  "serie": "WILD x FEIJÓO",
+  "titulo": "Los verificadores *corrigen a Feijóo*",
+  "mini": {
+   "texto": "Verificador a Feijóo:",
+   "rojo": "«EN TORNO AL 1%»",
+   "emoji": "✅",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 86
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Feijóo habla de absentismo: «¿Por qué el lunes y el viernes son los días de la semana con mayor absentismo?».",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Los verificadores *corrigen a Feijóo*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "f0",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 3,
+       "habla": true,
+       "cara": "duda",
+       "say": "«¿Por qué el lunes y el viernes?»",
+       "tf": [
+        0.3,
+        1
+       ],
+       "bub": "r",
+       "bw": 340,
+       "bfs": 34,
+       "gesto": "senala",
+       "label": "Feijóo"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Y pone a los autónomos de ejemplo: «si no recuerdo mal está en el entorno del 4%».",
+     "show": [
+      {
+       "id": "tv",
+       "type": "prop",
+       "kind": "tele",
+       "x": 50,
+       "y": 42,
+       "w": 480,
+       "at": 3,
+       "text": "4%",
+       "sub": "absentismo autónomos",
+       "fs": 140
+      },
+      {
+       "id": "f1",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 26,
+       "y": 50,
+       "w": 240,
+       "at": 3,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "label": "Feijóo"
+      }
+     ],
+     "hide": [
+      "h1",
+      "f0"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Los verificadores le corrigen: las bajas de los autónomos están «en torno al 1%». Feijóo: «Le agradezco esa rectificación».",
+     "show": [
+      {
+       "id": "c1",
+       "type": "cap",
+       "n": "1",
+       "text": "La corrección",
+       "at": 0
+      },
+      {
+       "id": "tv2",
+       "type": "prop",
+       "kind": "tele",
+       "x": 50,
+       "y": 40,
+       "w": 480,
+       "at": 3,
+       "text": "{n}%",
+       "count": 1,
+       "fmt": "{n}%",
+       "dur": 0.8,
+       "sub": "dato real",
+       "fs": 140
+      },
+      {
+       "id": "st",
+       "type": "stamp",
+       "text": "✅ VERIFICADO: 1%",
+       "color": "red",
+       "x": 50,
+       "y": 22,
+       "rot": -5,
+       "at": 5
+      },
+      {
+       "id": "f2",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 62,
+       "w": 220,
+       "at": 10,
+       "habla": true,
+       "cara": "sonrie",
+       "say": "«Le agradezco esa rectificación»",
+       "tf": [
+        0.6,
+        1
+       ],
+       "bub": "up",
+       "bw": 340,
+       "bfs": 32,
+       "gesto": "manos",
+       "label": "Feijóo"
+      }
+     ],
+     "hide": [
+      "tv",
+      "f1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Qué te parece? Comenta y síguenos.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿QUÉ TE PARECE?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "tv2",
+      "st",
+      "f2"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,198 @@
+{
+ "id": "slp_132_sanchez_involucion",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL MENSAJE",
+  "TRUMP",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "SÁNCHEZ EN THE WILD PROJECT",
+  "source": "Fuente: The Wild Project #393 (13-11)"
+ },
+ "caption": "¿Estás de acuerdo? 👇\n\nEl alegato final de Pedro Sánchez (PSOE) en The Wild Project.\n\n• «No nos estamos jugando solamente la alternancia, nos estamos jugando la involución».\n• «Yo no veo que Trump haya sido alternancia en Estados Unidos sino involución», y lo mismo de Bolsonaro y Milei.\n• «Hay que responder a la involución con movilización».\n\nFuente: The Wild Project #393 (13-11), min. 1:51-1:52. Citas transcritas del vídeo.\n\n#Sánchez #29N #elecciones #JordiWild",
+ "portada": {
+  "serie": "WILD x SÁNCHEZ",
+  "titulo": "El alegato de Sánchez: *«Nos jugamos la involución»*",
+  "mini": {
+   "texto": "Sánchez:",
+   "rojo": "«INVOLUCIÓN»",
+   "emoji": "🗳️",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 86
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "El alegato final de Sánchez: «No nos estamos jugando solamente la alternancia, nos estamos jugando la involución».",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "El alegato *de Sánchez*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "s0",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 5,
+       "habla": true,
+       "cara": "enfado",
+       "say": "«Nos estamos jugando la involución»",
+       "tf": [
+        0.55,
+        1
+       ],
+       "bub": "r",
+       "bw": 360,
+       "bfs": 34,
+       "gesto": "puno",
+       "label": "Sánchez"
+      }
+     ],
+     "hide": []
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "«Yo no veo que Trump haya sido alternancia en Estados Unidos sino involución». Y lo mismo, dice, Bolsonaro y Milei.",
+     "show": [
+      {
+       "id": "c1",
+       "type": "cap",
+       "n": "1",
+       "text": "Trump",
+       "at": 0
+      },
+      {
+       "id": "k1",
+       "type": "card",
+       "text": "Trump · Bolsonaro · Milei",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 2
+      },
+      {
+       "id": "s1",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 2,
+       "habla": true,
+       "cara": "enfado",
+       "say": "«Sino involución»",
+       "tf": [
+        0.45,
+        0.7
+       ],
+       "bub": "up",
+       "bw": 260,
+       "bfs": 42,
+       "gesto": "senala",
+       "label": "Sánchez"
+      }
+     ],
+     "hide": [
+      "s0"
+     ]
+    },
+    {
+     "text": "Su conclusión: «Hay que responder a la involución con movilización».",
+     "show": [
+      {
+       "id": "s2",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 0,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«Responder a la involución con movilización»",
+       "tf": [
+        0.3,
+        1
+       ],
+       "bub": "up",
+       "bw": 380,
+       "bfs": 34,
+       "gesto": "puno",
+       "label": "Sánchez"
+      },
+      {
+       "id": "st",
+       "type": "stamp",
+       "text": "🗳️ 29-N",
+       "color": "red",
+       "x": 50,
+       "y": 22,
+       "rot": -5,
+       "at": 6
+      }
+     ],
+     "hide": [
+      "k1",
+      "s1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Estás de acuerdo? Comenta y síguenos.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿DE ACUERDO?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "s2",
+      "st"
+     ]
+    }
+   ]
+  }
+ ]
+}
