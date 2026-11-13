@@ -1,0 +1,365 @@
+{
+ "id": "slp_099_colau_wild",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 4,
+ "clauseLabels": [
+  "EL CHOQUE",
+  "LA IZQUIERDA",
+  "IMPUESTOS",
+  "TWITTER",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "COLAU EN THE WILD PROJECT",
+  "source": "Fuente: The Wild Project (13-11) vía El Plural"
+ },
+ "caption": "¿Te convence su respuesta? 👇\n\nAda Colau (Frente Amplio) abre la ronda de entrevistas de Jordi Wild con los candidatos al 29-N, publicada hoy 13-N. Abascal canceló la suya.\n• Wild: «¿Por qué al final estás?» — hace un año dijo que no se presentaría.\n• Colau: «El ser humano puede cambiar de opinión».\n• Sobre la izquierda: «En Podemos no quisieron sentarse a hablar».\n• Sobre impuestos: «Quien tiene mucho dinero puede pagar más».\n• Dejó Twitter porque «estaba premiando la polarización»; vuelve como candidata.\n\nFuente: The Wild Project (13-11), citas recogidas por El Plural.\n\n#Colau #JordiWild #TheWildProject #FrenteAmplio #29N",
+ "portada": {
+  "serie": "WILD x COLAU",
+  "titulo": "Wild a Colau: *«¿Por qué al final estás?»*",
+  "mini": {
+   "texto": "Hace un año dijo que no:",
+   "rojo": "¿POR QUÉ AL FINAL ESTÁS?",
+   "emoji": "🎙️",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 86
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Jordi Wild a Ada Colau: «¿Por qué al final estás?».",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "*«¿Por qué al final estás?»*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "mesa",
+       "type": "prop",
+       "kind": "mesa",
+       "x": 50,
+       "y": 60,
+       "w": 900,
+       "at": 0,
+       "text": "THE WILD PROJECT"
+      },
+      {
+       "id": "wi",
+       "type": "mono",
+       "who": "wild",
+       "x": 74,
+       "y": 46,
+       "w": 280,
+       "at": 0,
+       "habla": true,
+       "tf": [
+        0,
+        1
+       ],
+       "flip": true,
+       "mira": "l",
+       "label": "Jordi Wild",
+       "say": "«¿Por qué al final estás?»",
+       "bub": "up",
+       "bw": 380,
+       "bfs": 38,
+       "cara": "duda",
+       "gesto": "senala"
+      },
+      {
+       "id": "co",
+       "type": "mono",
+       "who": "colau",
+       "x": 26,
+       "y": 46,
+       "w": 260,
+       "at": 0,
+       "habla": false,
+       "label": "Ada Colau",
+       "cara": "sorpresa",
+       "from": "left"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Hace un año dijo que no se presentaría a nada.",
+     "show": [
+      {
+       "id": "doc",
+       "type": "prop",
+       "kind": "doc",
+       "x": 50,
+       "y": 40,
+       "w": 540,
+       "at": 0,
+       "kicker": "HACE UN AÑO",
+       "text": "«No me voy a presentar a nada»",
+       "sello": "¿Y AHORA?",
+       "st": 0.75
+      }
+     ],
+     "hide": [
+      "mesa",
+      "wi",
+      "co"
+     ]
+    },
+    {
+     "text": "Su respuesta: «El ser humano puede cambiar de opinión».",
+     "show": [
+      {
+       "id": "co2",
+       "type": "mono",
+       "who": "colau",
+       "x": 50,
+       "y": 46,
+       "w": 290,
+       "at": 0,
+       "habla": true,
+       "tf": [
+        0.2,
+        1
+       ],
+       "say": "«El ser humano puede cambiar de opinión»",
+       "bub": "up",
+       "bw": 440,
+       "bfs": 36,
+       "cara": "sonrie",
+       "gesto": "manos",
+       "label": "Ada Colau"
+      }
+     ],
+     "hide": [
+      "doc"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Tres momentos de la entrevista. Uno: la izquierda dividida.",
+     "show": [
+      {
+       "id": "cap1",
+       "type": "cap",
+       "n": "1",
+       "text": "La izquierda dividida",
+       "at": 4
+      }
+     ],
+     "hide": [
+      "h1",
+      "co2"
+     ]
+    },
+    {
+     "text": "«En Podemos no quisieron sentarse a hablar».",
+     "show": [
+      {
+       "id": "k1",
+       "type": "card",
+       "text": "Frente Amplio vs Podemos: por separado al 29-N",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      },
+      {
+       "id": "co3",
+       "type": "mono",
+       "who": "colau",
+       "x": 30,
+       "y": 48,
+       "w": 270,
+       "at": 0,
+       "habla": true,
+       "tf": [
+        0,
+        1
+       ],
+       "say": "«En Podemos no quisieron sentarse a hablar»",
+       "bub": "r",
+       "bw": 400,
+       "bfs": 36,
+       "cara": "enfado",
+       "gesto": "senala",
+       "label": "Ada Colau"
+      },
+      {
+       "id": "sil",
+       "type": "prop",
+       "kind": "silla",
+       "x": 76,
+       "y": 52,
+       "w": 210,
+       "at": 1,
+       "c": "#6B2E68",
+       "vacia": "PODEMOS",
+       "tag": 0.5
+      }
+     ],
+     "hide": []
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Dos: impuestos. «Quien tiene mucho dinero puede pagar más».",
+     "show": [
+      {
+       "id": "cap2",
+       "type": "cap",
+       "n": "2",
+       "text": "Impuestos",
+       "at": 0
+      },
+      {
+       "id": "k2",
+       "type": "card",
+       "text": "Propone una reforma fiscal",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 2
+      },
+      {
+       "id": "co4",
+       "type": "mono",
+       "who": "colau",
+       "x": 50,
+       "y": 48,
+       "w": 280,
+       "at": 2,
+       "habla": true,
+       "tf": [
+        0.2,
+        1
+       ],
+       "say": "«Quien tiene mucho dinero puede pagar más»",
+       "bub": "up",
+       "bw": 420,
+       "bfs": 36,
+       "cara": "neutral",
+       "gesto": "puno",
+       "label": "Ada Colau"
+      }
+     ],
+     "hide": [
+      "k1",
+      "co3",
+      "sil"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 3,
+   "segments": [
+    {
+     "text": "Tres: Twitter. Lo dejó porque estaba «premiando la polarización». Ahora vuelve como candidata.",
+     "show": [
+      {
+       "id": "cap3",
+       "type": "cap",
+       "n": "3",
+       "text": "Twitter",
+       "at": 0
+      },
+      {
+       "id": "tele",
+       "type": "prop",
+       "kind": "tele",
+       "x": 66,
+       "y": 44,
+       "w": 460,
+       "at": 2,
+       "text": "X",
+       "sub": "«premiando la polarización»",
+       "fs": 150
+      },
+      {
+       "id": "co5",
+       "type": "mono",
+       "who": "colau",
+       "x": 26,
+       "y": 48,
+       "w": 260,
+       "at": 2,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "brazos",
+       "label": "Ada Colau"
+      },
+      {
+       "id": "st",
+       "type": "stamp",
+       "text": "VUELVE COMO CANDIDATA",
+       "color": "red",
+       "x": 50,
+       "y": 64,
+       "rot": -5,
+       "at": 8
+      }
+     ],
+     "hide": [
+      "k2",
+      "co4"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Te convence su respuesta? Comenta y síguenos.",
+     "show": [
+      {
+       "id": "tu",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TE CONVENCE?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "tele",
+      "co5",
+      "st"
+     ]
+    }
+   ]
+  }
+ ]
+}
