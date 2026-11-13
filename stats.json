@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 31,
-  "media_count": 81,
+  "media_count": 82,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_099_colau_wild",
+   "ig": "17966433165231227",
+   "fecha": "2026-11-13T11:27:39+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfrhZ3_Ca7J/",
+   "titulo": "¿Te convence su respuesta? 👇\n\nAda Colau (Frente Amplio) abre",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
   {
    "id": "slp_097_wild_silla_vacia",
    "ig": "18111124190191985",
@@ -14,7 +30,7 @@
    "comentarios": 3,
    "url": "https://www.instagram.com/reel/DfpuuV4jY7O/",
    "titulo": "¿Quién sale peor parado mañana con Jordi Wild? Comenta el no",
-   "views": 1340,
+   "views": 1342,
    "reach": 1123,
    "saved": 1,
    "shares": 0,
@@ -206,13 +222,13 @@
    "comentarios": 4,
    "url": "https://www.instagram.com/reel/Dfl-Z0AAtn4/",
    "titulo": "¿Quién ganó la noche: Abascal o Sánchez? 👇\n\nLa noche del 9-N",
-   "views": 1459,
-   "reach": 1185,
+   "views": 1460,
+   "reach": 1186,
    "saved": 2,
    "shares": 1,
    "total_interactions": 15,
-   "ig_reels_avg_watch_time": 12558,
-   "ig_reels_video_view_total_time": 14906802
+   "ig_reels_avg_watch_time": 12548,
+   "ig_reels_video_view_total_time": 14907735
   },
   {
    "id": "slp_083_huelga_diaz_feijoo",
@@ -398,13 +414,13 @@
    "comentarios": 1,
    "url": "https://www.instagram.com/reel/DfiU80wFJDk/",
    "titulo": "¿Remonta Sánchez? Sí o no 👇\n\nTres encuestas publicadas tras ",
-   "views": 563,
-   "reach": 491,
+   "views": 565,
+   "reach": 492,
    "saved": 0,
    "shares": 0,
    "total_interactions": 3,
-   "ig_reels_avg_watch_time": 11191,
-   "ig_reels_video_view_total_time": 5427750
+   "ig_reels_avg_watch_time": 11173,
+   "ig_reels_video_view_total_time": 5430345
   },
   {
    "id": "slp_071_tele_esta_noche",
@@ -590,13 +606,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfdLWXvk622/",
    "titulo": "¿Debieron ir juntas? Sí o no 👇\n\nColau y Montero: la candidat",
-   "views": 1407,
-   "reach": 1168,
+   "views": 1408,
+   "reach": 1169,
    "saved": 2,
    "shares": 0,
    "total_interactions": 13,
-   "ig_reels_avg_watch_time": 16660,
-   "ig_reels_video_view_total_time": 19393133
+   "ig_reels_avg_watch_time": 16651,
+   "ig_reels_video_view_total_time": 19399289
   },
   {
    "id": "slp_059_abascal_broncano",
@@ -654,13 +670,13 @@
    "comentarios": 2,
    "url": "https://www.instagram.com/reel/DfbrSbUGRKG/",
    "titulo": "¿Retirarías a España del Mundial? Sí o no 👇\n\nFeijóo en El Ch",
-   "views": 140,
-   "reach": 120,
+   "views": 141,
+   "reach": 121,
    "saved": 0,
    "shares": 0,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 10609,
-   "ig_reels_video_view_total_time": 1315541
+   "ig_reels_avg_watch_time": 10575,
+   "ig_reels_video_view_total_time": 1321944
   },
   {
    "id": "slp_052_netanyahu_mayoria",
@@ -846,13 +862,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfVWFM4FS8l/",
    "titulo": "Quién es quién 5/5: Pedro Sánchez en 30 segundos. Trayectori",
-   "views": 123,
-   "reach": 112,
+   "views": 124,
+   "reach": 113,
    "saved": 0,
    "shares": 0,
    "total_interactions": 3,
-   "ig_reels_avg_watch_time": 8414,
-   "ig_reels_video_view_total_time": 967629
+   "ig_reels_avg_watch_time": 8397,
+   "ig_reels_video_view_total_time": 974105
   },
   {
    "id": "slp_037_bulos_derecha_1",
@@ -862,13 +878,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfVJgGLlSNL/",
    "titulo": "Si gobierna la derecha… ¿qué es verdad y qué es bulo? Parte ",
-   "views": 129,
-   "reach": 119,
+   "views": 130,
+   "reach": 120,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 6705,
-   "ig_reels_video_view_total_time": 804669
+   "ig_reels_avg_watch_time": 6668,
+   "ig_reels_video_view_total_time": 806914
   },
   {
    "id": "slp_029_wild_13n",
@@ -1006,13 +1022,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfSolw5gBFu/",
    "titulo": "Urda, minuto a minuto: la señal que falla, la orden de segui",
-   "views": 122,
-   "reach": 111,
+   "views": 123,
+   "reach": 112,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 3975,
-   "ig_reels_video_view_total_time": 453193
+   "ig_reels_avg_watch_time": 3957,
+   "ig_reels_video_view_total_time": 455094
   },
   {
    "id": "slp_035_redes_delito",
@@ -1038,13 +1054,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfSUqVVkrdI/",
    "titulo": "La muerte de Jesús de Miguel tras el choque con el portero d",
-   "views": 211,
-   "reach": 181,
+   "views": 212,
+   "reach": 182,
    "saved": 0,
    "shares": 1,
    "total_interactions": 6,
-   "ig_reels_avg_watch_time": 8688,
-   "ig_reels_video_view_total_time": 1650819
+   "ig_reels_avg_watch_time": 8693,
+   "ig_reels_video_view_total_time": 1660436
   },
   {
    "id": "slp_028_urda_puente_hoy",
@@ -1166,13 +1182,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfNdVUgkfo4/",
    "titulo": "Quién es quién 3/5: Alberto Núñez Feijóo en 30 segundos. Tra",
-   "views": 307,
-   "reach": 265,
+   "views": 308,
+   "reach": 267,
    "saved": 1,
    "shares": 1,
    "total_interactions": 5,
-   "ig_reels_avg_watch_time": 10747,
-   "ig_reels_video_view_total_time": 2966271
+   "ig_reels_avg_watch_time": 10734,
+   "ig_reels_video_view_total_time": 2973507
   },
   {
    "id": "slp_008_calendario",
@@ -1198,13 +1214,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfLJvacgJN3/",
    "titulo": "Pensión de viudedad sin estar casados: requisitos y el plazo",
-   "views": 124,
-   "reach": 107,
+   "views": 125,
+   "reach": 108,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 5251,
-   "ig_reels_video_view_total_time": 577702
+   "ig_reels_avg_watch_time": 5218,
+   "ig_reels_video_view_total_time": 579241
   },
   {
    "id": "slp_006_quien_colau",
@@ -1214,13 +1230,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfK4ly_kmx8/",
    "titulo": "Quién es quién 2/5: Ada Colau en 30 segundos. Trayectoria, p",
-   "views": 42,
-   "reach": 40,
+   "views": 43,
+   "reach": 41,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 4835,
-   "ig_reels_video_view_total_time": 193407
+   "ig_reels_avg_watch_time": 4734,
+   "ig_reels_video_view_total_time": 194127
   },
   {
    "id": "slp_007_mesas",
