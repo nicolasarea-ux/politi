@@ -2,18 +2,18 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 34,
-  "media_count": 90,
+  "media_count": 91,
   "id": "29046307255021601"
  },
  "reels": [
   {
-   "id": "slp_106_feijoo_define_rivales",
-   "ig": "17978090508173263",
-   "fecha": "2026-11-13T20:00:33+0000",
+   "id": "slp_115_sanchez_insulto_fruta",
+   "ig": "18100364507386885",
+   "fecha": "2026-11-13T21:16:33+0000",
    "likes": 0,
    "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfscGoTDkzJ/",
-   "titulo": "¿Qué te parece? 👇\n\nJordi Wild pide a Feijóo (PP) que defina ",
+   "url": "https://www.instagram.com/reel/DfskyUdEvcx/",
+   "titulo": "¿Estás de acuerdo? 👇\n\nJordi Wild pregunta a Pedro Sánchez (P",
    "views": 0,
    "reach": 0,
    "saved": 0,
@@ -23,6 +23,22 @@
    "ig_reels_video_view_total_time": 0
   },
   {
+   "id": "slp_106_feijoo_define_rivales",
+   "ig": "17978090508173263",
+   "fecha": "2026-11-13T20:00:33+0000",
+   "likes": 4,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfscGoTDkzJ/",
+   "titulo": "¿Qué te parece? 👇\n\nJordi Wild pide a Feijóo (PP) que defina ",
+   "views": 742,
+   "reach": 292,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 4,
+   "ig_reels_avg_watch_time": 13587,
+   "ig_reels_video_view_total_time": 3926678
+  },
+  {
    "id": "slp_112_sanchez_1o_wild",
    "ig": "18013743635996186",
    "fecha": "2026-11-13T18:45:32+0000",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfsThaEAYKJ/",
    "titulo": "¿Quién tiene razón? 👇\n\nJordi Wild critica a los políticos po",
-   "views": 1274,
-   "reach": 775,
+   "views": 1636,
+   "reach": 1171,
    "saved": 1,
    "shares": 0,
    "total_interactions": 10,
-   "ig_reels_avg_watch_time": 13352,
-   "ig_reels_video_view_total_time": 10414998
+   "ig_reels_avg_watch_time": 13492,
+   "ig_reels_video_view_total_time": 16137306
   },
   {
    "id": "slp_102_colau_define_rivales",
@@ -46,13 +62,13 @@
    "comentarios": 1,
    "url": "https://www.instagram.com/reel/DfsK8HtCBS0/",
    "titulo": "¿Estás de acuerdo con ella? 👇\n\nAl final de la entrevista, Jo",
-   "views": 1503,
-   "reach": 1121,
+   "views": 1551,
+   "reach": 1161,
    "saved": 1,
    "shares": 1,
    "total_interactions": 33,
-   "ig_reels_avg_watch_time": 16445,
-   "ig_reels_video_view_total_time": 18534108
+   "ig_reels_avg_watch_time": 16436,
+   "ig_reels_video_view_total_time": 19247643
   },
   {
    "id": "slp_108_sanchez_abalos",
@@ -62,29 +78,29 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfsD6A_FJvo/",
    "titulo": "¿Le crees? 👇\n\nJordi Wild pregunta a Pedro Sánchez (PSOE) por",
-   "views": 1708,
-   "reach": 1295,
+   "views": 1719,
+   "reach": 1311,
    "saved": 3,
    "shares": 0,
    "total_interactions": 20,
-   "ig_reels_avg_watch_time": 16991,
-   "ig_reels_video_view_total_time": 22513812
+   "ig_reels_avg_watch_time": 18850,
+   "ig_reels_video_view_total_time": 25278415
   },
   {
    "id": "slp_105_feijoo_ingles",
    "ig": "18158565058523421",
    "fecha": "2026-11-13T15:29:50+0000",
-   "likes": 28,
+   "likes": 29,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfr9H0vj3Cn/",
    "titulo": "¿Te importa que no sepa inglés? 👇\n\nJordi Wild pregunta a Fei",
-   "views": 1659,
-   "reach": 1251,
+   "views": 1692,
+   "reach": 1284,
    "saved": 1,
    "shares": 2,
-   "total_interactions": 31,
-   "ig_reels_avg_watch_time": 14120,
-   "ig_reels_video_view_total_time": 17593812
+   "total_interactions": 32,
+   "ig_reels_avg_watch_time": 14006,
+   "ig_reels_video_view_total_time": 17942516
   },
   {
    "id": "slp_098_alquiler_decreto",
@@ -94,13 +110,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfr3QGuiaXm/",
    "titulo": "¿Te afecta? Cuéntanoslo 👇\n\nEl Congreso (Diputación Permanent",
-   "views": 273,
-   "reach": 226,
+   "views": 281,
+   "reach": 233,
    "saved": 0,
    "shares": 1,
    "total_interactions": 6,
-   "ig_reels_avg_watch_time": 7686,
-   "ig_reels_video_view_total_time": 1760253
+   "ig_reels_avg_watch_time": 7499,
+   "ig_reels_video_view_total_time": 1769968
   },
   {
    "id": "slp_109_sanchez_abascal_sastre",
@@ -110,13 +126,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfrxMDvDMy0/",
    "titulo": "¿Qué te parece? 👇\n\nAl final de la entrevista, Jordi Wild pid",
-   "views": 1589,
-   "reach": 1221,
+   "views": 1603,
+   "reach": 1232,
    "saved": 0,
    "shares": 1,
    "total_interactions": 25,
-   "ig_reels_avg_watch_time": 11240,
-   "ig_reels_video_view_total_time": 13758472
+   "ig_reels_avg_watch_time": 11258,
+   "ig_reels_video_view_total_time": 13871004
   },
   {
    "id": "slp_100_feijoo_wild_foto",
@@ -126,13 +142,13 @@
    "comentarios": 3,
    "url": "https://www.instagram.com/reel/DfrqU0dCKz_/",
    "titulo": "¿Te convence su respuesta? 👇\n\nJordi Wild pregunta a Feijóo (",
-   "views": 1655,
-   "reach": 1242,
+   "views": 1672,
+   "reach": 1258,
    "saved": 2,
    "shares": 0,
    "total_interactions": 26,
-   "ig_reels_avg_watch_time": 16479,
-   "ig_reels_video_view_total_time": 20599847
+   "ig_reels_avg_watch_time": 16455,
+   "ig_reels_video_view_total_time": 20783392
   },
   {
    "id": "slp_099_colau_wild",
@@ -142,7 +158,7 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfrhZ3_Ca7J/",
    "titulo": "¿Te convence su respuesta? 👇\n\nAda Colau (Frente Amplio) abre",
-   "views": 1300,
+   "views": 1301,
    "reach": 1090,
    "saved": 0,
    "shares": 1,
@@ -158,7 +174,7 @@
    "comentarios": 3,
    "url": "https://www.instagram.com/reel/DfpuuV4jY7O/",
    "titulo": "¿Quién sale peor parado mañana con Jordi Wild? Comenta el no",
-   "views": 1361,
+   "views": 1362,
    "reach": 1137,
    "saved": 1,
    "shares": 0,
@@ -287,12 +303,12 @@
    "url": "https://www.instagram.com/reel/DfmrCDNAJJ3/",
    "titulo": "¿Tenía que pedir perdón Broncano? Sí o no 👇\n\nAl día siguient",
    "views": 2320,
-   "reach": 1812,
+   "reach": 1813,
    "saved": 2,
    "shares": 0,
    "total_interactions": 16,
-   "ig_reels_avg_watch_time": 14637,
-   "ig_reels_video_view_total_time": 26346868
+   "ig_reels_avg_watch_time": 14633,
+   "ig_reels_video_view_total_time": 26355563
   },
   {
    "id": "slp_079_abascal_bandera_ceuta",
@@ -478,13 +494,13 @@
    "comentarios": 11,
    "url": "https://www.instagram.com/reel/DfjZm5ACsyU/",
    "titulo": "¿Se pasó Broncano o tenía razón? 👇\n\nEl momento más tenso de ",
-   "views": 3696,
-   "reach": 2929,
+   "views": 3697,
+   "reach": 2930,
    "saved": 4,
    "shares": 0,
    "total_interactions": 48,
-   "ig_reels_avg_watch_time": 14174,
-   "ig_reels_video_view_total_time": 41532002
+   "ig_reels_avg_watch_time": 14170,
+   "ig_reels_video_view_total_time": 41532909
   },
   {
    "id": "slp_075_abascal_deconstruir",
@@ -783,7 +799,7 @@
    "url": "https://www.instagram.com/reel/DfcNleSHJwb/",
    "titulo": "Más de 50 partidos estarán en las papeletas del 29-N. Solo c",
    "views": 318,
-   "reach": 260,
+   "reach": 261,
    "saved": 2,
    "shares": 0,
    "total_interactions": 6,
@@ -819,8 +835,8 @@
    "saved": 2,
    "shares": 0,
    "total_interactions": 15,
-   "ig_reels_avg_watch_time": 29974,
-   "ig_reels_video_view_total_time": 9441820
+   "ig_reels_avg_watch_time": 29882,
+   "ig_reels_video_view_total_time": 9442752
   },
   {
    "id": "slp_053_trump_senado",
@@ -847,12 +863,12 @@
    "url": "https://www.instagram.com/reel/DfaR9KLjj1O/",
    "titulo": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la derecha…",
    "views": 148,
-   "reach": 126,
+   "reach": 127,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 8721,
-   "ig_reels_video_view_total_time": 1116318
+   "ig_reels_avg_watch_time": 8660,
+   "ig_reels_video_view_total_time": 1117268
   },
   {
    "id": "slp_054_murcia_non_grata",
@@ -867,8 +883,8 @@
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 7544,
-   "ig_reels_video_view_total_time": 905315
+   "ig_reels_avg_watch_time": 7487,
+   "ig_reels_video_view_total_time": 906017
   },
   {
    "id": "slp_056_sanchez_feijoo_koldo",
