@@ -2,18 +2,18 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 31,
-  "media_count": 83,
+  "media_count": 84,
   "id": "29046307255021601"
  },
  "reels": [
   {
-   "id": "slp_100_feijoo_wild_foto",
-   "ig": "18220570087359061",
-   "fecha": "2026-11-13T12:45:32+0000",
+   "id": "slp_109_sanchez_abascal_sastre",
+   "ig": "17936561703408601",
+   "fecha": "2026-11-13T13:45:32+0000",
    "likes": 0,
    "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfrqU0dCKz_/",
-   "titulo": "¿Te convence su respuesta? 👇\n\nJordi Wild pregunta a Feijóo (",
+   "url": "https://www.instagram.com/reel/DfrxMDvDMy0/",
+   "titulo": "¿Qué te parece? 👇\n\nAl final de la entrevista, Jordi Wild pid",
    "views": 0,
    "reach": 0,
    "saved": 0,
@@ -23,20 +23,36 @@
    "ig_reels_video_view_total_time": 0
   },
   {
+   "id": "slp_100_feijoo_wild_foto",
+   "ig": "18220570087359061",
+   "fecha": "2026-11-13T12:45:32+0000",
+   "likes": 1,
+   "comentarios": 1,
+   "url": "https://www.instagram.com/reel/DfrqU0dCKz_/",
+   "titulo": "¿Te convence su respuesta? 👇\n\nJordi Wild pregunta a Feijóo (",
+   "views": 254,
+   "reach": 56,
+   "saved": 1,
+   "shares": 0,
+   "total_interactions": 3,
+   "ig_reels_avg_watch_time": 16692,
+   "ig_reels_video_view_total_time": 934774
+  },
+  {
    "id": "slp_099_colau_wild",
    "ig": "17966433165231227",
    "fecha": "2026-11-13T11:27:39+0000",
-   "likes": 1,
+   "likes": 4,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfrhZ3_Ca7J/",
    "titulo": "¿Te convence su respuesta? 👇\n\nAda Colau (Frente Amplio) abre",
-   "views": 132,
-   "reach": 100,
+   "views": 297,
+   "reach": 209,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 1,
-   "ig_reels_avg_watch_time": 10862,
-   "ig_reels_video_view_total_time": 1097140
+   "total_interactions": 4,
+   "ig_reels_avg_watch_time": 11597,
+   "ig_reels_video_view_total_time": 2389011
   },
   {
    "id": "slp_097_wild_silla_vacia",
@@ -46,7 +62,7 @@
    "comentarios": 3,
    "url": "https://www.instagram.com/reel/DfpuuV4jY7O/",
    "titulo": "¿Quién sale peor parado mañana con Jordi Wild? Comenta el no",
-   "views": 1344,
+   "views": 1348,
    "reach": 1126,
    "saved": 1,
    "shares": 0,
@@ -62,13 +78,13 @@
    "comentarios": 1,
    "url": "https://www.instagram.com/reel/DfoodO0iUx3/",
    "titulo": "¿Cobardía o estrategia? 👇\n\nPablo Motos, en El Hormiguero (11",
-   "views": 598,
+   "views": 601,
    "reach": 497,
    "saved": 0,
    "shares": 2,
    "total_interactions": 7,
-   "ig_reels_avg_watch_time": 10324,
-   "ig_reels_video_view_total_time": 5162005
+   "ig_reels_avg_watch_time": 10318,
+   "ig_reels_video_view_total_time": 5169670
   },
   {
    "id": "slp_090_audiencia_colau_feijoo",
@@ -94,13 +110,13 @@
    "comentarios": 3,
    "url": "https://www.instagram.com/reel/Dfnh90niswa/",
    "titulo": "¿Quién tiene razón: Vox o Jordi Wild? 👇\n\nLas dos versiones d",
-   "views": 1534,
-   "reach": 1241,
+   "views": 1535,
+   "reach": 1242,
    "saved": 2,
    "shares": 0,
    "total_interactions": 14,
-   "ig_reels_avg_watch_time": 13214,
-   "ig_reels_video_view_total_time": 16359088
+   "ig_reels_avg_watch_time": 13205,
+   "ig_reels_video_view_total_time": 16361364
   },
   {
    "id": "slp_094_abascal_planta_wild",
@@ -334,13 +350,13 @@
    "comentarios": 12,
    "url": "https://www.instagram.com/reel/Dfj7826HcKP/",
    "titulo": "¿Cuál fue el mejor momento? Comenta el número 👇\n\nLos 5 momen",
-   "views": 3550,
-   "reach": 2788,
+   "views": 3551,
+   "reach": 2792,
    "saved": 2,
    "shares": 2,
    "total_interactions": 61,
-   "ig_reels_avg_watch_time": 17744,
-   "ig_reels_video_view_total_time": 51334002
+   "ig_reels_avg_watch_time": 17738,
+   "ig_reels_video_view_total_time": 51336133
   },
   {
    "id": "slp_077_abascal_fondo_buitre",
@@ -623,7 +639,7 @@
    "url": "https://www.instagram.com/reel/DfdLWXvk622/",
    "titulo": "¿Debieron ir juntas? Sí o no 👇\n\nColau y Montero: la candidat",
    "views": 1408,
-   "reach": 1169,
+   "reach": 1170,
    "saved": 2,
    "shares": 0,
    "total_interactions": 13,
@@ -798,13 +814,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfXrBxanOr-/",
    "titulo": "Si gobierna la derecha… ¿qué es verdad y qué es bulo? Parte ",
-   "views": 145,
-   "reach": 130,
+   "views": 147,
+   "reach": 131,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 9029,
-   "ig_reels_video_view_total_time": 1173824
+   "ig_reels_avg_watch_time": 8978,
+   "ig_reels_video_view_total_time": 1176235
   },
   {
    "id": "slp_051_uco_abalos",
@@ -846,13 +862,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfW8NP4gg-z/",
    "titulo": "Primer cara a cara entre Pedro Sánchez y Javier Milei tras l",
-   "views": 361,
-   "reach": 296,
+   "views": 362,
+   "reach": 298,
    "saved": 0,
    "shares": 1,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 9360,
-   "ig_reels_video_view_total_time": 2789465
+   "ig_reels_avg_watch_time": 9334,
+   "ig_reels_video_view_total_time": 2790890
   },
   {
    "id": "slp_043_puente_papeleta",
