@@ -58,3 +58,12 @@ Formato fijo, IGUAL para todos (neutralidad):
 - Caption: fuente de cada medida y fecha; si el programa oficial no está publicado, decirlo.
 Orden y horas (19:45, la mejor franja): 14-N PSOE · 15-N PP · 16-N Vox · 17-N Frente Amplio (Colau) · 18-N Podemos (Montero) · 19-N SALF (Alvise) · 20-N Junts. Bildu NO (decisión de Nicks, 12-N 13:59). Si publican programa oficial antes de su día, usar el programa.
 Fuentes de partida: DatosClaros (comparador 29N, vivienda), Forbes 5-10 (batallas económicas), politicaelectoral.com, Politicheck. Contrastar cada cifra con una 2.ª fuente o con el documento del partido.
+
+## 13-N 15:40 — PENDIENTE (para retomar en una sesión nueva)
+Enlace con el portátil caído (remote-devices 502). Falta poner voz (ElevenLabs, voz «Mateo - News & Digital Stories», modelo v4) a:
+- Tanda 2 (puede que ya estén en C:\Users\nicol\Downloads como ElevenLabs_2026-11-13T13_1*.mp3, en este orden): slp_118_sanchez_amigos_theone, slp_119_sanchez_movil_marruecos, slp_120_sanchez_ceutis, slp_121_sanchez_ego_penalti, slp_122_feijoo_verificadores, slp_123_feijoo_ayuso, slp_124_feijoo_inmigracion, slp_125_feijoo_pensiones, slp_126_feijoo_defensa_frontera. Textos: guiones/_pendiente_voz_tanda2.json
+- Tanda 3 (sin generar): slp_127_sanchez_goebbels, slp_128_sanchez_bebe_wild, slp_129_sanchez_fari, slp_130_sanchez_puigdemont, slp_131_sanchez_vivienda_colau, slp_132_sanchez_involucion. Textos: guiones/_pendiente_voz_tanda3.json
+Flujo: copiar mp3 a audio/<id>.mp3 → ./crear.sh <id> → revisar work/<id>/check.png → programar.
+Calendario propuesto: 14-N 20:45, 22:15, 23:30; 15-N 08:00, 09:30, 11:00, 12:30, 14:00, 15:30, 17:00, 18:30, 21:00, 22:30; 16-N mañana el resto. Prioridad Sánchez > Feijóo. Colau: no más.
+Portadas: engine/cover_mono.js (cara a cara con monigotes); se aplica sola en crear.sh.
+Generador de guiones: engine/mk_guion.py.
