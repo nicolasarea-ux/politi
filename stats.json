@@ -2,18 +2,18 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 31,
-  "media_count": 84,
+  "media_count": 85,
   "id": "29046307255021601"
  },
  "reels": [
   {
-   "id": "slp_109_sanchez_abascal_sastre",
-   "ig": "17936561703408601",
-   "fecha": "2026-11-13T13:45:32+0000",
+   "id": "slp_098_alquiler_decreto",
+   "ig": "18084715598357196",
+   "fecha": "2026-11-13T14:38:32+0000",
    "likes": 0,
    "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfrxMDvDMy0/",
-   "titulo": "¿Qué te parece? 👇\n\nAl final de la entrevista, Jordi Wild pid",
+   "url": "https://www.instagram.com/reel/Dfr3QGuiaXm/",
+   "titulo": "¿Te afecta? Cuéntanoslo 👇\n\nEl Congreso (Diputación Permanent",
    "views": 0,
    "reach": 0,
    "saved": 0,
@@ -23,36 +23,52 @@
    "ig_reels_video_view_total_time": 0
   },
   {
+   "id": "slp_109_sanchez_abascal_sastre",
+   "ig": "17936561703408601",
+   "fecha": "2026-11-13T13:45:32+0000",
+   "likes": 3,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfrxMDvDMy0/",
+   "titulo": "¿Qué te parece? 👇\n\nAl final de la entrevista, Jordi Wild pid",
+   "views": 137,
+   "reach": 49,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 3,
+   "ig_reels_avg_watch_time": 8501,
+   "ig_reels_video_view_total_time": 408095
+  },
+  {
    "id": "slp_100_feijoo_wild_foto",
    "ig": "18220570087359061",
    "fecha": "2026-11-13T12:45:32+0000",
-   "likes": 1,
-   "comentarios": 1,
+   "likes": 20,
+   "comentarios": 3,
    "url": "https://www.instagram.com/reel/DfrqU0dCKz_/",
    "titulo": "¿Te convence su respuesta? 👇\n\nJordi Wild pregunta a Feijóo (",
-   "views": 254,
-   "reach": 56,
+   "views": 1512,
+   "reach": 1059,
    "saved": 1,
    "shares": 0,
-   "total_interactions": 3,
-   "ig_reels_avg_watch_time": 16692,
-   "ig_reels_video_view_total_time": 934774
+   "total_interactions": 24,
+   "ig_reels_avg_watch_time": 16553,
+   "ig_reels_video_view_total_time": 17629971
   },
   {
    "id": "slp_099_colau_wild",
    "ig": "17966433165231227",
    "fecha": "2026-11-13T11:27:39+0000",
-   "likes": 4,
+   "likes": 5,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfrhZ3_Ca7J/",
    "titulo": "¿Te convence su respuesta? 👇\n\nAda Colau (Frente Amplio) abre",
-   "views": 297,
-   "reach": 209,
+   "views": 648,
+   "reach": 440,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 4,
-   "ig_reels_avg_watch_time": 11597,
-   "ig_reels_video_view_total_time": 2389011
+   "total_interactions": 5,
+   "ig_reels_avg_watch_time": 12682,
+   "ig_reels_video_view_total_time": 5427935
   },
   {
    "id": "slp_097_wild_silla_vacia",
@@ -63,12 +79,12 @@
    "url": "https://www.instagram.com/reel/DfpuuV4jY7O/",
    "titulo": "¿Quién sale peor parado mañana con Jordi Wild? Comenta el no",
    "views": 1348,
-   "reach": 1126,
+   "reach": 1128,
    "saved": 1,
    "shares": 0,
    "total_interactions": 11,
-   "ig_reels_avg_watch_time": 13498,
-   "ig_reels_video_view_total_time": 15091112
+   "ig_reels_avg_watch_time": 13501,
+   "ig_reels_video_view_total_time": 15108298
   },
   {
    "id": "slp_096_motos_sanchez_cobardia",
@@ -83,8 +99,8 @@
    "saved": 0,
    "shares": 2,
    "total_interactions": 7,
-   "ig_reels_avg_watch_time": 10318,
-   "ig_reels_video_view_total_time": 5169670
+   "ig_reels_avg_watch_time": 10299,
+   "ig_reels_video_view_total_time": 5170586
   },
   {
    "id": "slp_090_audiencia_colau_feijoo",
@@ -126,13 +142,13 @@
    "comentarios": 4,
    "url": "https://www.instagram.com/reel/DfnZdnNj68u/",
    "titulo": "¿Hace bien Abascal en no ir? Sí o no 👇\n\nVox suspende la entr",
-   "views": 1080,
-   "reach": 892,
+   "views": 1081,
+   "reach": 893,
    "saved": 0,
    "shares": 0,
    "total_interactions": 19,
-   "ig_reels_avg_watch_time": 16281,
-   "ig_reels_video_view_total_time": 14539414
+   "ig_reels_avg_watch_time": 16269,
+   "ig_reels_video_view_total_time": 14544668
   },
   {
    "id": "slp_086_huelga_top5_frases",
