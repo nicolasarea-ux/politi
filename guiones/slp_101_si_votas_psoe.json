@@ -1,0 +1,341 @@
+{
+ "id": "slp_101_si_votas_psoe",
+ "brand": "Politízate Hoy",
+ "formato": "top5",
+ "serie": "si_votas_a",
+ "tono": "normal",
+ "clauses": 3,
+ "clauseLabels": [
+  "EL CANDIDATO",
+  "5 MEDIDAS",
+  "LA LETRA PEQUEÑA",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "SI VOTAS A… PSOE",
+  "source": "Fuente: 41.º Congreso Federal del PSOE y anuncios del partido, vía Telecinco y politicaelectoral.com (13-11)"
+ },
+ "portada": {
+  "serie": "SI VOTAS A… 1/7",
+  "titulo": "Si votas al *PSOE*, esto es lo que propone",
+  "mini": {
+   "texto": "Si votas al PSOE,",
+   "rojo": "ESTO ES LO QUE PROPONE",
+   "cara": "sanchez",
+   "flecha": false,
+   "tam": 84
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Si votas al PSOE, esto es lo que propone. Cinco medidas.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Si votas al *PSOE*…",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "k",
+       "type": "cara",
+       "foto": "sanchez",
+       "h": 600,
+       "w": 520,
+       "x": 50,
+       "y": 50,
+       "at": 0,
+       "keep": 0,
+       "label": "Pedro Sánchez · PSOE"
+      },
+      {
+       "id": "st0",
+       "type": "stamp",
+       "text": "5 MEDIDAS",
+       "color": "red",
+       "x": 50,
+       "y": 72,
+       "rot": -4,
+       "at": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cinco: 7.000 millones para el Plan Estatal de Vivienda.",
+     "show": [
+      {
+       "id": "f5",
+       "type": "flash",
+       "text": "5",
+       "bg": "mark",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c5",
+       "type": "card",
+       "text": "Plan Estatal de Vivienda 2026-2030",
+       "x": 50,
+       "y": 56,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s5",
+       "type": "sticker",
+       "text": "🏗️",
+       "x": 82,
+       "y": 40,
+       "at": 2
+      },
+      {
+       "id": "n5",
+       "type": "card",
+       "text": "{7000} millones €",
+       "x": 50,
+       "y": 74,
+       "w": 600,
+       "at": 3
+      }
+     ]
+    },
+    {
+     "text": "Cuatro: una empresa estatal para más alquiler público.",
+     "show": [
+      {
+       "id": "f4",
+       "type": "flash",
+       "text": "4",
+       "bg": "ink",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "text": "Empresa estatal de vivienda: Casa 47",
+       "x": 50,
+       "y": 56,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s4",
+       "type": "sticker",
+       "text": "🏠",
+       "x": 82,
+       "y": 40,
+       "at": 2
+      },
+      {
+       "id": "n4",
+       "type": "card",
+       "text": "Más alquiler público",
+       "x": 50,
+       "y": 74,
+       "w": 600,
+       "at": 3
+      }
+     ]
+    },
+    {
+     "text": "Tres: pensiones que suben con el IPC.",
+     "show": [
+      {
+       "id": "f3",
+       "type": "flash",
+       "text": "3",
+       "bg": "red",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "Pensiones revalorizadas con el IPC",
+       "x": 50,
+       "y": 56,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s3",
+       "type": "sticker",
+       "text": "👵",
+       "x": 82,
+       "y": 40,
+       "at": 2
+      },
+      {
+       "id": "n3",
+       "type": "card",
+       "text": "Cada año, con la inflación",
+       "x": 50,
+       "y": 74,
+       "w": 600,
+       "at": 3
+      }
+     ]
+    },
+    {
+     "text": "Dos: salario mínimo de al menos el 60 % del salario medio.",
+     "show": [
+      {
+       "id": "f2",
+       "type": "flash",
+       "text": "2",
+       "bg": "ink",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "Salario mínimo ≥ 60 % del salario medio",
+       "x": 50,
+       "y": 56,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s2",
+       "type": "sticker",
+       "text": "💶",
+       "x": 82,
+       "y": 40,
+       "at": 2
+      },
+      {
+       "id": "n2",
+       "type": "card",
+       "text": "Hoy: 1.221 € en 14 pagas",
+       "x": 50,
+       "y": 74,
+       "w": 600,
+       "at": 3
+      }
+     ]
+    },
+    {
+     "text": "Y uno: jornada de 36 horas semanales en 2030.",
+     "show": [
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "1",
+       "bg": "mark",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "Jornada de 36 horas a la semana",
+       "x": 50,
+       "y": 56,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s1",
+       "type": "sticker",
+       "text": "⏰",
+       "x": 82,
+       "y": 40,
+       "at": 2
+      },
+      {
+       "id": "n1",
+       "type": "card",
+       "text": "Meta: {2030}",
+       "x": 50,
+       "y": 74,
+       "w": 600,
+       "at": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Ojo: su programa aún no está publicado. Esto sale de su congreso y sus anuncios.",
+     "show": [
+      {
+       "id": "doc",
+       "type": "prop",
+       "kind": "doc",
+       "x": 50,
+       "y": 44,
+       "w": 520,
+       "at": 0,
+       "kicker": "PROGRAMA 29-N",
+       "text": "Aún sin publicar",
+       "sello": "PENDIENTE",
+       "st": 0.5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Te convence? Sí o no. Comenta y síguenos. Mañana: el PP.",
+     "show": [
+      {
+       "id": "k2",
+       "type": "cara",
+       "foto": "sanchez",
+       "h": 420,
+       "w": 380,
+       "x": 50,
+       "y": 40,
+       "at": 0,
+       "keep": 1
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TE CONVENCE?",
+       "color": "ink",
+       "x": 50,
+       "y": 66,
+       "rot": -4,
+       "at": 1
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "caption": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (1/7): las 5 medidas más concretas y con cifra del PSOE. Mismo criterio para todos los partidos.\n5. Plan Estatal de Vivienda 2026-2030: 7.000 millones (Telecinco, politicaelectoral.com).\n4. Empresa estatal de vivienda (Casa 47) para ampliar el alquiler público (Telecinco, politicaelectoral.com).\n3. Revalorizar las pensiones con el IPC (Telecinco).\n2. Salario mínimo de al menos el 60 % del salario medio (41.º Congreso Federal, vía Telecinco y politicaelectoral.com). Hoy: 1.221 € en 14 pagas.\n1. Jornada de 36 horas semanales en 2030 (41.º Congreso Federal, vía Telecinco y politicaelectoral.com).\n\nOjo: el PSOE no ha publicado aún su programa para el 29-N (13-11). Estas medidas salen de su 41.º Congreso Federal (2024) y de anuncios del partido.\nFotos: Vlada Republike Slovenije (dominio público), Wikimedia Commons.\n\n#elecciones #29N #eleccionesgenerales #vivienda #salariominimo"
+}

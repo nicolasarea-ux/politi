@@ -13,9 +13,9 @@
  ],
  "header": {
   "tag": "COLAU EN THE WILD PROJECT",
-  "source": "Fuente: The Wild Project (13-11) vía El Plural"
+  "source": "Fuente: The Wild Project (13-11) vía El Plural y Vozpópuli"
  },
- "caption": "¿Te convence su respuesta? 👇\n\nAda Colau (Frente Amplio) abre la ronda de entrevistas de Jordi Wild con los candidatos al 29-N, publicada hoy 13-N. Abascal canceló la suya.\n• Wild: «¿Por qué al final estás?» — hace un año dijo que no se presentaría.\n• Colau: «El ser humano puede cambiar de opinión».\n• Sobre la izquierda: «En Podemos no quisieron sentarse a hablar».\n• Sobre impuestos: «Quien tiene mucho dinero puede pagar más».\n• Dejó Twitter porque «estaba premiando la polarización»; vuelve como candidata.\n\nFuente: The Wild Project (13-11), citas recogidas por El Plural.\n\n#Colau #JordiWild #TheWildProject #FrenteAmplio #29N",
+ "caption": "¿Te convence su respuesta? 👇\n\nAda Colau (Frente Amplio) abre la ronda de entrevistas de Jordi Wild con los candidatos al 29-N, publicada hoy 13-N. Abascal canceló la suya.\n• Wild: «No está Podemos ni Rufián. ¿Por qué al final estás?». Hace un año dijo que no se presentaría a nada.\n• Colau: «El ser humano puede cambiar de opinión».\n• Sobre la izquierda: «En Podemos no quisieron sentarse a hablar».\n• Sobre impuestos: «Quien tiene mucho dinero puede pagar más».\n• Dejó Twitter porque «estaba premiando la polarización»; vuelve como candidata.\n\nFuente: The Wild Project (13-11), citas recogidas por El Plural y Vozpópuli.\n\n#Colau #JordiWild #TheWildProject #FrenteAmplio #29N",
  "portada": {
   "serie": "WILD x COLAU",
   "titulo": "Wild a Colau: *«¿Por qué al final estás?»*",
@@ -34,7 +34,7 @@
    "clause": 0,
    "segments": [
     {
-     "text": "Jordi Wild a Ada Colau: «¿Por qué al final estás?».",
+     "text": "Jordi Wild a Ada Colau: «¿Por qué al final estás?», sin Podemos ni Rufián.",
      "show": [
       {
        "id": "h1",
@@ -94,7 +94,7 @@
      "hide": []
     },
     {
-     "text": "Hace un año dijo que no se presentaría a nada.",
+     "text": "Y hace un año dijo que no se presentaría a nada.",
      "show": [
       {
        "id": "doc",
@@ -104,8 +104,8 @@
        "y": 40,
        "w": 540,
        "at": 0,
-       "kicker": "HACE UN AÑO",
-       "text": "«No me voy a presentar a nada»",
+       "kicker": "HACE UN AÑO DIJO",
+       "text": "Que no se presentaría a nada",
        "sello": "¿Y AHORA?",
        "st": 0.75
       }

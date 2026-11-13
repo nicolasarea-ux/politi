@@ -1,0 +1,288 @@
+{
+ "id": "slp_100_feijoo_wild",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 4,
+ "clauseLabels": [
+  "EL PLANTÓN",
+  "VOX",
+  "TU PENSIÓN",
+  "IMPUESTOS",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "FEIJÓO EN THE WILD PROJECT",
+  "source": "Fuente: The Wild Project (13-11) vía El Plural e Infobae"
+ },
+ "portada": {
+  "serie": "WILD x FEIJÓO",
+  "titulo": "Feijóo, sobre Abascal: *«Yo mantengo mi palabra»*",
+  "mini": {
+   "texto": "Feijóo, sobre el plantón:",
+   "rojo": "«YO MANTENGO MI PALABRA»",
+   "emoji": "🎙️",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 86
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Feijóo, ante Jordi Wild, sobre el plantón de Abascal: «Yo mantengo mi palabra».",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "*«Yo mantengo mi palabra»*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "mesa",
+       "type": "prop",
+       "kind": "mesa",
+       "x": 50,
+       "y": 60,
+       "w": 900,
+       "at": 0,
+       "text": "THE WILD PROJECT"
+      },
+      {
+       "id": "fe",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 28,
+       "y": 46,
+       "w": 270,
+       "at": 0,
+       "habla": true,
+       "tf": [
+        0.6,
+        1
+       ],
+       "label": "Alberto Núñez Feijóo",
+       "cara": "neutral",
+       "gesto": "senala",
+       "say": "«Yo mantengo mi palabra»",
+       "bub": "up",
+       "bw": 380,
+       "bfs": 38
+      },
+      {
+       "id": "sil",
+       "type": "prop",
+       "kind": "silla",
+       "x": 74,
+       "y": 52,
+       "w": 210,
+       "at": 5,
+       "c": "#5E8C31",
+       "vacia": "ABASCAL",
+       "tag": 0.5
+      }
+     ]
+    },
+    {
+     "text": "«Respeto lo que quiera hacer cada uno en campaña electoral».",
+     "show": [
+      {
+       "id": "k0",
+       "type": "card",
+       "text": "Abascal canceló su entrevista con Wild",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Uno: Vox. Lo que no comparte con ellos: «la idea de Europa» y el Estado de las autonomías.",
+     "show": [
+      {
+       "id": "cap1",
+       "type": "cap",
+       "n": "1",
+       "text": "Vox",
+       "at": 0
+      },
+      {
+       "id": "fe2",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 46,
+       "w": 270,
+       "at": 2,
+       "habla": true,
+       "tf": [
+        0.1,
+        1
+       ],
+       "label": "Alberto Núñez Feijóo",
+       "cara": "duda",
+       "gesto": "manos",
+       "say": "«La idea de Europa no la comparto»",
+       "bub": "up",
+       "bw": 420,
+       "bfs": 36
+      },
+      {
+       "id": "st1",
+       "type": "stamp",
+       "text": "AUTONOMÍAS: SÍ",
+       "color": "green",
+       "x": 50,
+       "y": 64,
+       "rot": -4,
+       "at": 13
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Dos: tu pensión. Garantiza subirla con el IPC y no retrasar la edad de jubilación.",
+     "show": [
+      {
+       "id": "cap2",
+       "type": "cap",
+       "n": "2",
+       "text": "Tu pensión",
+       "at": 0
+      },
+      {
+       "id": "k2",
+       "type": "card",
+       "text": "Pensiones con el IPC",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 3
+      },
+      {
+       "id": "tu",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 46,
+       "w": 280,
+       "at": 3,
+       "habla": false,
+       "cara": "sonrie",
+       "gesto": "manos"
+      },
+      {
+       "id": "st2",
+       "type": "stamp",
+       "text": "JUBILACIÓN: SIN RETRASAR",
+       "color": "green",
+       "x": 50,
+       "y": 64,
+       "rot": -4,
+       "at": 10
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 3,
+   "segments": [
+    {
+     "text": "Tres: impuestos. Quiere bajarlos, pero no lo asegura: «Creo que hay una ocultación de gastos».",
+     "show": [
+      {
+       "id": "cap3",
+       "type": "cap",
+       "n": "3",
+       "text": "Impuestos",
+       "at": 0
+      },
+      {
+       "id": "doc",
+       "type": "prop",
+       "kind": "doc",
+       "x": 72,
+       "y": 40,
+       "w": 380,
+       "at": 2,
+       "kicker": "PRIMERO",
+       "text": "Auditar las cuentas",
+       "sello": "¿BAJADA?",
+       "st": 0.6
+      },
+      {
+       "id": "fe3",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 28,
+       "y": 46,
+       "w": 270,
+       "at": 8,
+       "habla": true,
+       "tf": [
+        0.6,
+        1
+       ],
+       "label": "Alberto Núñez Feijóo",
+       "cara": "duda",
+       "gesto": "habla",
+       "say": "«Creo que hay una ocultación de gastos»",
+       "bub": "r",
+       "bw": 380,
+       "bfs": 36
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Te convence? Sí o no. Comenta y síguenos.",
+     "show": [
+      {
+       "id": "tu2",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TE CONVENCE?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "caption": "¿Te convence? Sí o no 👇\n\nAlberto Núñez Feijóo (PP), segundo candidato entrevistado por Jordi Wild, publicada hoy 13-N a las 10:00. Abascal canceló la suya.\n• Sobre el plantón: «Respeto lo que quiera hacer cada uno en campaña electoral (…) yo mantengo mi palabra» (El Plural).\n• Con Vox no comparte «la idea de Europa» ni el Estado de las autonomías (Infobae).\n• Pensiones: garantiza la revalorización con el IPC y no ampliar la edad de jubilación (Infobae).\n• Impuestos: quiere bajarlos pero no lo garantiza: «Creo que hay una ocultación de gastos» (Infobae).\n\nFuente: The Wild Project (13-11), citas recogidas por El Plural e Infobae.\n\n#Feijóo #JordiWild #TheWildProject #pensiones #29N"
+}
