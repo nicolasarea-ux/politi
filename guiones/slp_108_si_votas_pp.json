@@ -1,5 +1,5 @@
 {
- "id": "slp_102_si_votas_pp",
+ "id": "slp_108_si_votas_pp",
  "brand": "Politízate Hoy",
  "formato": "top5",
  "serie": "si_votas_a",
@@ -89,7 +89,7 @@
        "type": "card",
        "text": "Pensiones revalorizadas con el IPC",
        "x": 50,
-       "y": 56,
+       "y": 58,
        "w": 900,
        "at": 1
       },
@@ -97,23 +97,23 @@
        "id": "s5",
        "type": "sticker",
        "text": "👵",
-       "x": 82,
-       "y": 40,
+       "x": 86,
+       "y": 30,
        "at": 2
       },
       {
        "id": "n5",
        "type": "card",
        "text": "Cada año, con la inflación",
-       "x": 50,
-       "y": 74,
-       "w": 600,
+       "x": 44,
+       "y": 40,
+       "w": 560,
        "at": 3
       }
      ]
     },
     {
-     "text": "Cuatro: IVA de la luz y el gas, del 21 al 10 %.",
+     "text": "Cuatro: IVA de la luz y el gas, del 21|veintiuno al 10%|diez_por_ciento.",
      "show": [
       {
        "id": "f4",
@@ -131,7 +131,7 @@
        "type": "card",
        "text": "IVA de luz y gas: del 21 % al 10 %",
        "x": 50,
-       "y": 56,
+       "y": 58,
        "w": 900,
        "at": 1
       },
@@ -139,23 +139,28 @@
        "id": "s4",
        "type": "sticker",
        "text": "💡",
-       "x": 82,
-       "y": 40,
+       "x": 86,
+       "y": 30,
        "at": 2
       },
       {
        "id": "n4",
        "type": "card",
        "text": "{10} %",
-       "x": 50,
-       "y": 74,
-       "w": 600,
+       "x": 44,
+       "y": 40,
+       "w": 560,
        "at": 3
       }
+     ],
+     "hide": [
+      "c5",
+      "s5",
+      "n5"
      ]
     },
     {
-     "text": "Tres: duplicar el mínimo por el primer hijo, de 2.400 a 4.800 euros.",
+     "text": "Tres: duplicar el mínimo por el primer hijo, de 2.400|dos_mil_cuatrocientos a 4.800|cuatro_mil_ochocientos euros.",
      "show": [
       {
        "id": "f3",
@@ -173,7 +178,7 @@
        "type": "card",
        "text": "Mínimo por el primer hijo en el IRPF",
        "x": 50,
-       "y": 56,
+       "y": 58,
        "w": 900,
        "at": 1
       },
@@ -181,23 +186,28 @@
        "id": "s3",
        "type": "sticker",
        "text": "👶",
-       "x": 82,
-       "y": 40,
+       "x": 86,
+       "y": 30,
        "at": 2
       },
       {
        "id": "n3",
        "type": "card",
-       "text": "{4800} €",
-       "x": 50,
-       "y": 74,
-       "w": 600,
+       "text": "4.800 € (antes 2.400)",
+       "x": 44,
+       "y": 40,
+       "w": 560,
        "at": 3
       }
+     ],
+     "hide": [
+      "c4",
+      "s4",
+      "n4"
      ]
     },
     {
-     "text": "Dos: IVA del 0 % para alimentos básicos.",
+     "text": "Dos: IVA del 0%|cero_por_ciento para alimentos básicos.",
      "show": [
       {
        "id": "f2",
@@ -215,7 +225,7 @@
        "type": "card",
        "text": "IVA 0 %: carne, pescado, leche, aceite, fruta…",
        "x": 50,
-       "y": 56,
+       "y": 58,
        "w": 900,
        "at": 1
       },
@@ -223,19 +233,24 @@
        "id": "s2",
        "type": "sticker",
        "text": "🛒",
-       "x": 82,
-       "y": 40,
+       "x": 86,
+       "y": 30,
        "at": 2
       },
       {
        "id": "n2",
        "type": "card",
        "text": "{0} % de IVA",
-       "x": 50,
-       "y": 74,
-       "w": 600,
+       "x": 44,
+       "y": 40,
+       "w": 560,
        "at": 3
       }
+     ],
+     "hide": [
+      "c3",
+      "s3",
+      "n3"
      ]
     },
     {
@@ -257,7 +272,7 @@
        "type": "card",
        "text": "Un millón de viviendas",
        "x": 50,
-       "y": 56,
+       "y": 58,
        "w": 900,
        "at": 1
       },
@@ -265,19 +280,24 @@
        "id": "s1",
        "type": "sticker",
        "text": "🏗️",
-       "x": 82,
-       "y": 40,
+       "x": 86,
+       "y": 30,
        "at": 2
       },
       {
        "id": "n1",
        "type": "card",
-       "text": "{1000000} viviendas",
-       "x": 50,
-       "y": 74,
-       "w": 600,
+       "text": "1.000.000 en 4 años",
+       "x": 44,
+       "y": 40,
+       "w": 560,
        "at": 3
       }
+     ],
+     "hide": [
+      "c2",
+      "s2",
+      "n2"
      ]
     }
    ]

@@ -71,7 +71,7 @@
    "clause": 1,
    "segments": [
     {
-     "text": "Cinco: 7.000 millones para el Plan Estatal de Vivienda.",
+     "text": "Cinco: 7.000|siete_mil millones para el Plan Estatal de Vivienda.",
      "show": [
       {
        "id": "f5",
@@ -89,7 +89,7 @@
        "type": "card",
        "text": "Plan Estatal de Vivienda 2026-2030",
        "x": 50,
-       "y": 56,
+       "y": 58,
        "w": 900,
        "at": 1
       },
@@ -97,17 +97,17 @@
        "id": "s5",
        "type": "sticker",
        "text": "🏗️",
-       "x": 82,
-       "y": 40,
+       "x": 86,
+       "y": 30,
        "at": 2
       },
       {
        "id": "n5",
        "type": "card",
-       "text": "{7000} millones €",
-       "x": 50,
-       "y": 74,
-       "w": 600,
+       "text": "7.000 millones €",
+       "x": 44,
+       "y": 40,
+       "w": 560,
        "at": 3
       }
      ]
@@ -131,7 +131,7 @@
        "type": "card",
        "text": "Empresa estatal de vivienda: Casa 47",
        "x": 50,
-       "y": 56,
+       "y": 58,
        "w": 900,
        "at": 1
       },
@@ -139,19 +139,24 @@
        "id": "s4",
        "type": "sticker",
        "text": "🏠",
-       "x": 82,
-       "y": 40,
+       "x": 86,
+       "y": 30,
        "at": 2
       },
       {
        "id": "n4",
        "type": "card",
        "text": "Más alquiler público",
-       "x": 50,
-       "y": 74,
-       "w": 600,
+       "x": 44,
+       "y": 40,
+       "w": 560,
        "at": 3
       }
+     ],
+     "hide": [
+      "c5",
+      "s5",
+      "n5"
      ]
     },
     {
@@ -173,7 +178,7 @@
        "type": "card",
        "text": "Pensiones revalorizadas con el IPC",
        "x": 50,
-       "y": 56,
+       "y": 58,
        "w": 900,
        "at": 1
       },
@@ -181,23 +186,28 @@
        "id": "s3",
        "type": "sticker",
        "text": "👵",
-       "x": 82,
-       "y": 40,
+       "x": 86,
+       "y": 30,
        "at": 2
       },
       {
        "id": "n3",
        "type": "card",
        "text": "Cada año, con la inflación",
-       "x": 50,
-       "y": 74,
-       "w": 600,
+       "x": 44,
+       "y": 40,
+       "w": 560,
        "at": 3
       }
+     ],
+     "hide": [
+      "c4",
+      "s4",
+      "n4"
      ]
     },
     {
-     "text": "Dos: salario mínimo de al menos el 60 % del salario medio.",
+     "text": "Dos: salario mínimo de al menos el 60%|sesenta_por_ciento del salario medio.",
      "show": [
       {
        "id": "f2",
@@ -215,7 +225,7 @@
        "type": "card",
        "text": "Salario mínimo ≥ 60 % del salario medio",
        "x": 50,
-       "y": 56,
+       "y": 58,
        "w": 900,
        "at": 1
       },
@@ -223,23 +233,28 @@
        "id": "s2",
        "type": "sticker",
        "text": "💶",
-       "x": 82,
-       "y": 40,
+       "x": 86,
+       "y": 30,
        "at": 2
       },
       {
        "id": "n2",
        "type": "card",
        "text": "Hoy: 1.221 € en 14 pagas",
-       "x": 50,
-       "y": 74,
-       "w": 600,
+       "x": 44,
+       "y": 40,
+       "w": 560,
        "at": 3
       }
+     ],
+     "hide": [
+      "c3",
+      "s3",
+      "n3"
      ]
     },
     {
-     "text": "Y uno: jornada de 36 horas semanales en 2030.",
+     "text": "Y uno: jornada de 36|treinta_y_seis horas semanales en 2030.|dos_mil_treinta.",
      "show": [
       {
        "id": "f1",
@@ -257,7 +272,7 @@
        "type": "card",
        "text": "Jornada de 36 horas a la semana",
        "x": 50,
-       "y": 56,
+       "y": 58,
        "w": 900,
        "at": 1
       },
@@ -265,19 +280,24 @@
        "id": "s1",
        "type": "sticker",
        "text": "⏰",
-       "x": 82,
-       "y": 40,
+       "x": 86,
+       "y": 30,
        "at": 2
       },
       {
        "id": "n1",
        "type": "card",
-       "text": "Meta: {2030}",
-       "x": 50,
-       "y": 74,
-       "w": 600,
+       "text": "Meta: 2030",
+       "x": 44,
+       "y": 40,
+       "w": 560,
        "at": 3
       }
+     ],
+     "hide": [
+      "c2",
+      "s2",
+      "n2"
      ]
     }
    ]
