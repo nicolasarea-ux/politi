@@ -2,18 +2,18 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 31,
-  "media_count": 82,
+  "media_count": 83,
   "id": "29046307255021601"
  },
  "reels": [
   {
-   "id": "slp_099_colau_wild",
-   "ig": "17966433165231227",
-   "fecha": "2026-11-13T11:27:39+0000",
+   "id": "slp_100_feijoo_wild_foto",
+   "ig": "18220570087359061",
+   "fecha": "2026-11-13T12:45:32+0000",
    "likes": 0,
    "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfrhZ3_Ca7J/",
-   "titulo": "¿Te convence su respuesta? 👇\n\nAda Colau (Frente Amplio) abre",
+   "url": "https://www.instagram.com/reel/DfrqU0dCKz_/",
+   "titulo": "¿Te convence su respuesta? 👇\n\nJordi Wild pregunta a Feijóo (",
    "views": 0,
    "reach": 0,
    "saved": 0,
@@ -23,6 +23,22 @@
    "ig_reels_video_view_total_time": 0
   },
   {
+   "id": "slp_099_colau_wild",
+   "ig": "17966433165231227",
+   "fecha": "2026-11-13T11:27:39+0000",
+   "likes": 1,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfrhZ3_Ca7J/",
+   "titulo": "¿Te convence su respuesta? 👇\n\nAda Colau (Frente Amplio) abre",
+   "views": 132,
+   "reach": 100,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 1,
+   "ig_reels_avg_watch_time": 10862,
+   "ig_reels_video_view_total_time": 1097140
+  },
+  {
    "id": "slp_097_wild_silla_vacia",
    "ig": "18111124190191985",
    "fecha": "2026-11-12T18:45:32+0000",
@@ -30,13 +46,13 @@
    "comentarios": 3,
    "url": "https://www.instagram.com/reel/DfpuuV4jY7O/",
    "titulo": "¿Quién sale peor parado mañana con Jordi Wild? Comenta el no",
-   "views": 1342,
-   "reach": 1123,
+   "views": 1344,
+   "reach": 1126,
    "saved": 1,
    "shares": 0,
    "total_interactions": 11,
-   "ig_reels_avg_watch_time": 13494,
-   "ig_reels_video_view_total_time": 15032613
+   "ig_reels_avg_watch_time": 13498,
+   "ig_reels_video_view_total_time": 15091112
   },
   {
    "id": "slp_096_motos_sanchez_cobardia",
@@ -46,13 +62,13 @@
    "comentarios": 1,
    "url": "https://www.instagram.com/reel/DfoodO0iUx3/",
    "titulo": "¿Cobardía o estrategia? 👇\n\nPablo Motos, en El Hormiguero (11",
-   "views": 596,
-   "reach": 494,
+   "views": 598,
+   "reach": 497,
    "saved": 0,
    "shares": 2,
    "total_interactions": 7,
-   "ig_reels_avg_watch_time": 10271,
-   "ig_reels_video_view_total_time": 5115102
+   "ig_reels_avg_watch_time": 10324,
+   "ig_reels_video_view_total_time": 5162005
   },
   {
    "id": "slp_090_audiencia_colau_feijoo",
@@ -62,13 +78,13 @@
    "comentarios": 3,
    "url": "https://www.instagram.com/reel/DfojM9uAEWb/",
    "titulo": "¿Quién ganó la noche: Colau o Feijóo? 👇\n\nMartes 10-N: Colau ",
-   "views": 1625,
+   "views": 1627,
    "reach": 1362,
    "saved": 0,
    "shares": 0,
    "total_interactions": 18,
-   "ig_reels_avg_watch_time": 13482,
-   "ig_reels_video_view_total_time": 18848064
+   "ig_reels_avg_watch_time": 13473,
+   "ig_reels_video_view_total_time": 18862635
   },
   {
    "id": "slp_095_wild_vs_vox",
@@ -78,13 +94,13 @@
    "comentarios": 3,
    "url": "https://www.instagram.com/reel/Dfnh90niswa/",
    "titulo": "¿Quién tiene razón: Vox o Jordi Wild? 👇\n\nLas dos versiones d",
-   "views": 1533,
-   "reach": 1240,
+   "views": 1534,
+   "reach": 1241,
    "saved": 2,
    "shares": 0,
    "total_interactions": 14,
-   "ig_reels_avg_watch_time": 13222,
-   "ig_reels_video_view_total_time": 16356202
+   "ig_reels_avg_watch_time": 13214,
+   "ig_reels_video_view_total_time": 16359088
   },
   {
    "id": "slp_094_abascal_planta_wild",
@@ -94,13 +110,13 @@
    "comentarios": 4,
    "url": "https://www.instagram.com/reel/DfnZdnNj68u/",
    "titulo": "¿Hace bien Abascal en no ir? Sí o no 👇\n\nVox suspende la entr",
-   "views": 1079,
-   "reach": 890,
+   "views": 1080,
+   "reach": 892,
    "saved": 0,
    "shares": 0,
    "total_interactions": 19,
-   "ig_reels_avg_watch_time": 16298,
-   "ig_reels_video_view_total_time": 14538169
+   "ig_reels_avg_watch_time": 16281,
+   "ig_reels_video_view_total_time": 14539414
   },
   {
    "id": "slp_086_huelga_top5_frases",
@@ -127,7 +143,7 @@
    "url": "https://www.instagram.com/reel/DfnGgNsCKUv/",
    "titulo": "¿Deberían hacerles estas preguntas a todos los candidatos? S",
    "views": 155,
-   "reach": 127,
+   "reach": 128,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
@@ -783,7 +799,7 @@
    "url": "https://www.instagram.com/reel/DfXrBxanOr-/",
    "titulo": "Si gobierna la derecha… ¿qué es verdad y qué es bulo? Parte ",
    "views": 145,
-   "reach": 129,
+   "reach": 130,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
