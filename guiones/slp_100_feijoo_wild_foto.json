@@ -1,0 +1,360 @@
+{
+ "id": "slp_100_feijoo_wild_foto",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 4,
+ "clauseLabels": [
+  "LA FOTO",
+  "SU RESPUESTA",
+  "ATAQUE",
+  "GÜRTEL",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "FEIJÓO EN THE WILD PROJECT",
+  "source": "Fuente: The Wild Project #392 (13-11)"
+ },
+ "caption": "¿Te convence su respuesta? 👇\n\nJordi Wild pregunta a Feijóo (PP) por sus fotos de los años 90 con Marcial Dorado, después condenado por narcotráfico.\n• Wild: «Es curioso que en esas fotos no salga nadie más».\n• Feijóo: «Yo soy responsable de mi biografía, respondo por ella». Dice que lo conoció en un contexto político en Vilanova de Arousa y que entonces «no había nada de narcotráfico»; que lo explicó en el Parlamento gallego en 2013.\n• Contraataca en alusión a Sánchez: no tiene fotos «con prostitutas financiadas con fondos públicos».\n• Sobre la Gürtel: «Me avergoncé y lo dije».\n\nFuente: The Wild Project #392 (13-11), min. 57-1:05. Citas transcritas del vídeo.\n\n#Feijóo #JordiWild #TheWildProject #PP #29N",
+ "portada": {
+  "serie": "WILD x FEIJÓO",
+  "titulo": "Wild le saca a Feijóo *la foto con el narco*",
+  "mini": {
+   "texto": "Wild a Feijóo:",
+   "rojo": "«NO SALE NADIE MÁS»",
+   "emoji": "📸",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 86
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Jordi Wild le saca a Feijóo la foto con el narco Marcial Dorado.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "*La foto con el narco*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "mesa",
+       "type": "prop",
+       "kind": "mesa",
+       "x": 50,
+       "y": 60,
+       "w": 900,
+       "at": 0,
+       "text": "THE WILD PROJECT"
+      },
+      {
+       "id": "fe",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 26,
+       "y": 46,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "label": "Feijóo",
+       "cara": "neutral",
+       "from": "left"
+      },
+      {
+       "id": "wi",
+       "type": "mono",
+       "who": "wild",
+       "x": 74,
+       "y": 46,
+       "w": 280,
+       "at": 0,
+       "habla": false,
+       "flip": true,
+       "mira": "l",
+       "label": "Jordi Wild",
+       "cara": "duda"
+      },
+      {
+       "id": "tv",
+       "type": "prop",
+       "kind": "tele",
+       "x": 50,
+       "y": 40,
+       "w": 440,
+       "at": 7,
+       "text": "📸",
+       "sub": "Feijóo y Marcial Dorado",
+       "fs": 120
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Wild: «Es curioso que en esas fotos no salga nadie más».",
+     "show": [
+      {
+       "id": "wi2",
+       "type": "mono",
+       "who": "wild",
+       "x": 72,
+       "y": 46,
+       "w": 290,
+       "at": 0,
+       "habla": true,
+       "tf": [
+        0.1,
+        1
+       ],
+       "flip": true,
+       "mira": "l",
+       "label": "Jordi Wild",
+       "say": "«Es curioso que en esas fotos no salga nadie más»",
+       "bub": "up",
+       "bw": 420,
+       "bfs": 34,
+       "cara": "duda",
+       "gesto": "senala"
+      },
+      {
+       "id": "fe2",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 26,
+       "y": 46,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "label": "Feijóo",
+       "cara": "sorpresa"
+      }
+     ],
+     "hide": [
+      "mesa",
+      "fe",
+      "wi",
+      "tv",
+      "h1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Feijóo: «Yo soy responsable de mi biografía, respondo por ella».",
+     "show": [
+      {
+       "id": "fe3",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 46,
+       "w": 300,
+       "at": 0,
+       "habla": true,
+       "tf": [
+        0.1,
+        1
+       ],
+       "label": "Feijóo",
+       "say": "«Yo soy responsable de mi biografía, respondo por ella»",
+       "bub": "up",
+       "bw": 460,
+       "bfs": 34,
+       "cara": "neutral",
+       "gesto": "manos"
+      }
+     ],
+     "hide": [
+      "wi2",
+      "fe2"
+     ]
+    },
+    {
+     "text": "Dice que cuando lo conoció «no había nada de narcotráfico».",
+     "show": [
+      {
+       "id": "doc",
+       "type": "prop",
+       "kind": "doc",
+       "x": 50,
+       "y": 42,
+       "w": 560,
+       "at": 0,
+       "kicker": "SU VERSIÓN",
+       "text": "«No había nada de narcotráfico»",
+       "sello": "EXPLICADO EN 2013",
+       "st": 0.8
+      }
+     ],
+     "hide": [
+      "fe3"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Y contraataca contra Sánchez: él no tiene fotos «con prostitutas financiadas con fondos públicos».",
+     "show": [
+      {
+       "id": "cap1",
+       "type": "cap",
+       "n": "1",
+       "text": "El contraataque",
+       "at": 0
+      },
+      {
+       "id": "fe4",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 28,
+       "y": 47,
+       "w": 270,
+       "at": 3,
+       "habla": true,
+       "tf": [
+        0.3,
+        1
+       ],
+       "label": "Feijóo",
+       "say": "«…con prostitutas financiadas con fondos públicos»",
+       "bub": "up",
+       "bw": 420,
+       "bfs": 32,
+       "cara": "enfado",
+       "gesto": "senala"
+      },
+      {
+       "id": "sa",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 74,
+       "y": 47,
+       "w": 270,
+       "at": 3,
+       "habla": false,
+       "flip": true,
+       "mira": "l",
+       "label": "Sánchez",
+       "cara": "sorpresa"
+      },
+      {
+       "id": "st1",
+       "type": "stamp",
+       "text": "ATAQUE A SÁNCHEZ",
+       "color": "red",
+       "x": 50,
+       "y": 22,
+       "rot": -5,
+       "at": 8
+      }
+     ],
+     "hide": [
+      "doc"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 3,
+   "segments": [
+    {
+     "text": "Wild le saca entonces la Gürtel. Feijóo: «Me avergoncé y lo dije».",
+     "show": [
+      {
+       "id": "cap2",
+       "type": "cap",
+       "n": "2",
+       "text": "La Gürtel",
+       "at": 0
+      },
+      {
+       "id": "doc2",
+       "type": "prop",
+       "kind": "doc",
+       "x": 66,
+       "y": 42,
+       "w": 440,
+       "at": 3,
+       "kicker": "CASO",
+       "text": "Gürtel"
+      },
+      {
+       "id": "fe5",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 28,
+       "y": 47,
+       "w": 270,
+       "at": 5,
+       "habla": true,
+       "tf": [
+        0.55,
+        1
+       ],
+       "label": "Feijóo",
+       "say": "«Me avergoncé y lo dije»",
+       "bub": "up",
+       "bw": 380,
+       "bfs": 36,
+       "cara": "duda",
+       "gesto": "manos"
+      }
+     ],
+     "hide": [
+      "fe4",
+      "sa",
+      "st1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Te convence su respuesta? Comenta y síguenos.",
+     "show": [
+      {
+       "id": "tu",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TE CONVENCE?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "doc2",
+      "fe5"
+     ]
+    }
+   ]
+  }
+ ]
+}
