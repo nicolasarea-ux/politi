@@ -24,7 +24,14 @@
    "cara": "feijoo",
    "flecha": false,
    "tam": 84
-  }
+  },
+  "monos": [
+   {
+    "who": "feijoo",
+    "cara": "sonrie",
+    "gesto": "manos"
+   }
+  ]
  },
  "scenes": [
   {

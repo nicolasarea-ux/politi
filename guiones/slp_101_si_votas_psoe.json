@@ -24,7 +24,14 @@
    "cara": "sanchez",
    "flecha": false,
    "tam": 84
-  }
+  },
+  "monos": [
+   {
+    "who": "sanchez",
+    "cara": "sonrie",
+    "gesto": "manos"
+   }
+  ]
  },
  "scenes": [
   {
