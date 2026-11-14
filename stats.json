@@ -2,18 +2,18 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 35,
-  "media_count": 102,
+  "media_count": 103,
   "id": "29046307255021601"
  },
  "reels": [
   {
-   "id": "slp_118_sanchez_amigos_theone",
-   "ig": "17993791454887912",
-   "fecha": "2026-11-14T19:45:32+0000",
+   "id": "slp_122_feijoo_verificadores",
+   "ig": "18070676492685941",
+   "fecha": "2026-11-14T21:15:47+0000",
    "likes": 0,
    "comentarios": 0,
-   "url": "https://www.instagram.com/reel/Dfu_LfSDdSY/",
-   "titulo": "¿Le crees? 👇\n\nJordi Wild pregunta a Pedro Sánchez (PSOE) por",
+   "url": "https://www.instagram.com/reel/DfvJgqCFwon/",
+   "titulo": "¿Qué te parece? 👇\n\nLos verificadores de The Wild Project cor",
    "views": 0,
    "reach": 0,
    "saved": 0,
@@ -23,36 +23,52 @@
    "ig_reels_video_view_total_time": 0
   },
   {
+   "id": "slp_118_sanchez_amigos_theone",
+   "ig": "17993791454887912",
+   "fecha": "2026-11-14T19:45:32+0000",
+   "likes": 1,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/Dfu_LfSDdSY/",
+   "titulo": "¿Le crees? 👇\n\nJordi Wild pregunta a Pedro Sánchez (PSOE) por",
+   "views": 192,
+   "reach": 136,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 1,
+   "ig_reels_avg_watch_time": 9194,
+   "ig_reels_video_view_total_time": 1342464
+  },
+  {
    "id": "slp_101_si_votas_psoe",
    "ig": "18129459241922283",
    "fecha": "2026-11-14T18:57:40+0000",
-   "likes": 2,
+   "likes": 4,
    "comentarios": 1,
    "url": "https://www.instagram.com/reel/Dfu5q5lDaLQ/",
    "titulo": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (1/7): las 5 me",
-   "views": 119,
-   "reach": 71,
+   "views": 195,
+   "reach": 164,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 3,
-   "ig_reels_avg_watch_time": 6893,
-   "ig_reels_video_view_total_time": 475684
+   "total_interactions": 5,
+   "ig_reels_avg_watch_time": 8676,
+   "ig_reels_video_view_total_time": 1405525
   },
   {
    "id": "slp_117_sanchez_no_lo_veo_claro",
    "ig": "18130379263868760",
    "fecha": "2026-11-14T17:32:45+0000",
-   "likes": 5,
+   "likes": 6,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfuv-4DmXsX/",
    "titulo": "¿Gana o no gana? 👇\n\nEl cierre de la entrevista de Jordi Wild",
-   "views": 1804,
-   "reach": 1225,
+   "views": 2498,
+   "reach": 1892,
    "saved": 0,
    "shares": 6,
-   "total_interactions": 11,
-   "ig_reels_avg_watch_time": 13214,
-   "ig_reels_video_view_total_time": 16214517
+   "total_interactions": 12,
+   "ig_reels_avg_watch_time": 12816,
+   "ig_reels_video_view_total_time": 24043282
   },
   {
    "id": "slp_116_sanchez_bildu_mordor",
@@ -62,13 +78,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfuh_1AmVLv/",
    "titulo": "¿Pacto o acuerdos puntuales? 👇\n\nJordi Wild recuerda a Pedro ",
-   "views": 1397,
-   "reach": 1078,
+   "views": 1403,
+   "reach": 1086,
    "saved": 0,
    "shares": 1,
    "total_interactions": 5,
-   "ig_reels_avg_watch_time": 12768,
-   "ig_reels_video_view_total_time": 13930920
+   "ig_reels_avg_watch_time": 12766,
+   "ig_reels_video_view_total_time": 14005083
   },
   {
    "id": "slp_113_sanchez_vacaciones_ceuta",
@@ -78,13 +94,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfuURF5AFtx/",
    "titulo": "¿Le convence su respuesta? 👇\n\nJordi Wild pregunta a Pedro Sá",
-   "views": 1555,
-   "reach": 1121,
+   "views": 1558,
+   "reach": 1124,
    "saved": 1,
    "shares": 0,
    "total_interactions": 12,
-   "ig_reels_avg_watch_time": 13366,
-   "ig_reels_video_view_total_time": 14809569
+   "ig_reels_avg_watch_time": 13340,
+   "ig_reels_video_view_total_time": 14821354
   },
   {
    "id": "slp_114_sanchez_zapatero",
@@ -94,13 +110,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfuDGZrkgOc/",
    "titulo": "¿Tú pondrías la mano en el fuego? 👇\n\nJordi Wild pregunta a P",
-   "views": 1421,
-   "reach": 1107,
+   "views": 1422,
+   "reach": 1108,
    "saved": 1,
    "shares": 0,
    "total_interactions": 10,
-   "ig_reels_avg_watch_time": 11606,
-   "ig_reels_video_view_total_time": 12802136
+   "ig_reels_avg_watch_time": 11612,
+   "ig_reels_video_view_total_time": 12819998
   },
   {
    "id": "slp_104_colau_okupas",
@@ -110,13 +126,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dft8O3-jan9/",
    "titulo": "¿Te parece bien? 👇\n\nJordi Wild aprieta a Ada Colau (Frente A",
-   "views": 1797,
-   "reach": 1345,
+   "views": 1804,
+   "reach": 1353,
    "saved": 1,
    "shares": 0,
    "total_interactions": 19,
-   "ig_reels_avg_watch_time": 14268,
-   "ig_reels_video_view_total_time": 19448341
+   "ig_reels_avg_watch_time": 14254,
+   "ig_reels_video_view_total_time": 19500110
   },
   {
    "id": "slp_110_sanchez_falcon",
@@ -126,13 +142,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dft1XeRkWiw/",
    "titulo": "Comenta 👇\n\nEl momento más distendido de la entrevista de Jor",
-   "views": 1594,
-   "reach": 1291,
+   "views": 1597,
+   "reach": 1292,
    "saved": 1,
    "shares": 0,
    "total_interactions": 7,
-   "ig_reels_avg_watch_time": 13042,
-   "ig_reels_video_view_total_time": 16824641
+   "ig_reels_avg_watch_time": 13048,
+   "ig_reels_video_view_total_time": 16845529
   },
   {
    "id": "slp_107_feijoo_vox_trump",
@@ -142,13 +158,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dftujc6nE3z/",
    "titulo": "¿Te convence? 👇\n\nJordi Wild pregunta a Feijóo (PP) si tiene ",
-   "views": 1376,
-   "reach": 1128,
+   "views": 1378,
+   "reach": 1129,
    "saved": 0,
    "shares": 0,
    "total_interactions": 6,
    "ig_reels_avg_watch_time": 11818,
-   "ig_reels_video_view_total_time": 13271833
+   "ig_reels_video_view_total_time": 13284424
   },
   {
    "id": "slp_111_sanchez_hemeroteca",
@@ -158,13 +174,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dftnof_Cavr/",
    "titulo": "¿Cambio de opinión o promesa rota? 👇\n\nJordi Wild repasa «la ",
-   "views": 1481,
-   "reach": 1100,
+   "views": 1490,
+   "reach": 1107,
    "saved": 1,
    "shares": 0,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 14302,
-   "ig_reels_video_view_total_time": 15846619
+   "ig_reels_avg_watch_time": 14284,
+   "ig_reels_video_view_total_time": 15940964
   },
   {
    "id": "slp_103_colau_inmigracion",
@@ -174,13 +190,13 @@
    "comentarios": 2,
    "url": "https://www.instagram.com/reel/DfsrjucCo8b/",
    "titulo": "¿Quién tiene razón? 👇\n\nEl choque más largo de la entrevista:",
-   "views": 1500,
-   "reach": 1175,
+   "views": 1501,
+   "reach": 1177,
    "saved": 1,
    "shares": 0,
    "total_interactions": 12,
-   "ig_reels_avg_watch_time": 13856,
-   "ig_reels_video_view_total_time": 16337137
+   "ig_reels_avg_watch_time": 13852,
+   "ig_reels_video_view_total_time": 16346483
   },
   {
    "id": "slp_115_sanchez_insulto_fruta",
@@ -227,8 +243,8 @@
    "saved": 1,
    "shares": 0,
    "total_interactions": 12,
-   "ig_reels_avg_watch_time": 12942,
-   "ig_reels_video_view_total_time": 23813807
+   "ig_reels_avg_watch_time": 12936,
+   "ig_reels_video_view_total_time": 23815527
   },
   {
    "id": "slp_102_colau_define_rivales",
@@ -254,13 +270,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfsD6A_FJvo/",
    "titulo": "¿Le crees? 👇\n\nJordi Wild pregunta a Pedro Sánchez (PSOE) por",
-   "views": 1889,
-   "reach": 1464,
+   "views": 1890,
+   "reach": 1466,
    "saved": 3,
    "shares": 0,
    "total_interactions": 22,
-   "ig_reels_avg_watch_time": 18293,
-   "ig_reels_video_view_total_time": 27092437
+   "ig_reels_avg_watch_time": 18282,
+   "ig_reels_video_view_total_time": 27093934
   },
   {
    "id": "slp_105_feijoo_ingles",
@@ -318,7 +334,7 @@
    "comentarios": 3,
    "url": "https://www.instagram.com/reel/DfrqU0dCKz_/",
    "titulo": "¿Te convence su respuesta? 👇\n\nJordi Wild pregunta a Feijóo (",
-   "views": 1864,
+   "views": 1865,
    "reach": 1422,
    "saved": 2,
    "shares": 0,
@@ -718,13 +734,13 @@
    "comentarios": 54,
    "url": "https://www.instagram.com/reel/DfiirEkEmez/",
    "titulo": "¿Quién ganó la entrevista: Abascal o Broncano? 👇\n\nAsí acabó ",
-   "views": 5246,
-   "reach": 4016,
+   "views": 5247,
+   "reach": 4017,
    "saved": 6,
    "shares": 2,
    "total_interactions": 140,
    "ig_reels_avg_watch_time": 16566,
-   "ig_reels_video_view_total_time": 66300543
+   "ig_reels_video_view_total_time": 66315071
   },
   {
    "id": "slp_070_encuestas_sanchez_feijoo",
@@ -1070,13 +1086,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfZowZEHVRZ/",
    "titulo": "¿Debe Feijóo dar explicaciones? Sí o no 👇\n\nSánchez contra Fe",
-   "views": 171,
-   "reach": 147,
+   "views": 172,
+   "reach": 148,
    "saved": 0,
    "shares": 0,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 10584,
-   "ig_reels_video_view_total_time": 1577033
+   "ig_reels_avg_watch_time": 10526,
+   "ig_reels_video_view_total_time": 1579002
   },
   {
    "id": "slp_048_smi_2027",
@@ -1327,12 +1343,12 @@
    "url": "https://www.instagram.com/reel/DfSuvDJksWN/",
    "titulo": "Óscar Puente ha dado hoy en el Congreso su versión de Urda, ",
    "views": 155,
-   "reach": 137,
+   "reach": 138,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 14293,
-   "ig_reels_video_view_total_time": 1958216
+   "ig_reels_avg_watch_time": 14199,
+   "ig_reels_video_view_total_time": 1959521
   },
   {
    "id": "slp_033_urda_minuto",
@@ -1503,12 +1519,12 @@
    "url": "https://www.instagram.com/reel/DfNdVUgkfo4/",
    "titulo": "Quién es quién 3/5: Alberto Núñez Feijóo en 30 segundos. Tra",
    "views": 309,
-   "reach": 267,
+   "reach": 268,
    "saved": 1,
    "shares": 1,
    "total_interactions": 5,
-   "ig_reels_avg_watch_time": 10734,
-   "ig_reels_video_view_total_time": 2973507
+   "ig_reels_avg_watch_time": 10703,
+   "ig_reels_video_view_total_time": 2975662
   },
   {
    "id": "slp_008_calendario",
@@ -1589,22 +1605,6 @@
    "total_interactions": 2,
    "ig_reels_avg_watch_time": 6568,
    "ig_reels_video_view_total_time": 788198
-  },
-  {
-   "id": "slp_005_quien_abascal",
-   "ig": "17897125482681692",
-   "fecha": "2026-10-30T18:57:01+0000",
-   "likes": 1,
-   "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfIRtYvioua/",
-   "titulo": "Quién es quién 1/5: Santiago Abascal en 30 segundos. Trayect",
-   "views": 131,
-   "reach": 114,
-   "saved": 0,
-   "shares": 0,
-   "total_interactions": 1,
-   "ig_reels_avg_watch_time": 8942,
-   "ig_reels_video_view_total_time": 1055158
   }
  ]
 }
