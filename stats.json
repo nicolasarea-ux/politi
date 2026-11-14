@@ -2,25 +2,41 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 35,
-  "media_count": 92,
+  "media_count": 93,
   "id": "29046307255021601"
  },
  "reels": [
   {
+   "id": "slp_111_sanchez_hemeroteca",
+   "ig": "18146222263721381",
+   "fecha": "2026-11-14T07:00:33+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/Dftnof_Cavr/",
+   "titulo": "¿Cambio de opinión o promesa rota? 👇\n\nJordi Wild repasa «la ",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
+  {
    "id": "slp_103_colau_inmigracion",
    "ig": "17881656369562497",
    "fecha": "2026-11-13T22:15:33+0000",
-   "likes": 6,
+   "likes": 7,
    "comentarios": 1,
    "url": "https://www.instagram.com/reel/DfsrjucCo8b/",
    "titulo": "¿Quién tiene razón? 👇\n\nEl choque más largo de la entrevista:",
-   "views": 1393,
-   "reach": 1100,
-   "saved": 0,
+   "views": 1409,
+   "reach": 1110,
+   "saved": 1,
    "shares": 0,
-   "total_interactions": 7,
-   "ig_reels_avg_watch_time": 13722,
-   "ig_reels_video_view_total_time": 14998785
+   "total_interactions": 9,
+   "ig_reels_avg_watch_time": 13773,
+   "ig_reels_video_view_total_time": 15205820
   },
   {
    "id": "slp_115_sanchez_insulto_fruta",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfskyUdEvcx/",
    "titulo": "¿Estás de acuerdo? 👇\n\nJordi Wild pregunta a Pedro Sánchez (P",
-   "views": 1575,
-   "reach": 1193,
+   "views": 1577,
+   "reach": 1194,
    "saved": 0,
    "shares": 1,
    "total_interactions": 16,
-   "ig_reels_avg_watch_time": 12166,
-   "ig_reels_video_view_total_time": 14793902
+   "ig_reels_avg_watch_time": 12170,
+   "ig_reels_video_view_total_time": 14823484
   },
   {
    "id": "slp_106_feijoo_define_rivales",
@@ -94,13 +110,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfsD6A_FJvo/",
    "titulo": "¿Le crees? 👇\n\nJordi Wild pregunta a Pedro Sánchez (PSOE) por",
-   "views": 1861,
-   "reach": 1442,
+   "views": 1880,
+   "reach": 1458,
    "saved": 3,
    "shares": 0,
    "total_interactions": 22,
-   "ig_reels_avg_watch_time": 18372,
-   "ig_reels_video_view_total_time": 26695324
+   "ig_reels_avg_watch_time": 18288,
+   "ig_reels_video_view_total_time": 26957450
   },
   {
    "id": "slp_105_feijoo_ingles",
@@ -110,13 +126,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfr9H0vj3Cn/",
    "titulo": "¿Te importa que no sepa inglés? 👇\n\nJordi Wild pregunta a Fei",
-   "views": 1829,
-   "reach": 1398,
+   "views": 1865,
+   "reach": 1422,
    "saved": 1,
    "shares": 2,
    "total_interactions": 33,
-   "ig_reels_avg_watch_time": 14102,
-   "ig_reels_video_view_total_time": 19644166
+   "ig_reels_avg_watch_time": 14190,
+   "ig_reels_video_view_total_time": 20136520
   },
   {
    "id": "slp_098_alquiler_decreto",
@@ -126,13 +142,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfr3QGuiaXm/",
    "titulo": "¿Te afecta? Cuéntanoslo 👇\n\nEl Congreso (Diputación Permanent",
-   "views": 294,
-   "reach": 246,
+   "views": 296,
+   "reach": 247,
    "saved": 0,
    "shares": 1,
    "total_interactions": 6,
-   "ig_reels_avg_watch_time": 7331,
-   "ig_reels_video_view_total_time": 1825664
+   "ig_reels_avg_watch_time": 7349,
+   "ig_reels_video_view_total_time": 1837427
   },
   {
    "id": "slp_109_sanchez_abascal_sastre",
@@ -142,13 +158,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfrxMDvDMy0/",
    "titulo": "¿Qué te parece? 👇\n\nAl final de la entrevista, Jordi Wild pid",
-   "views": 1623,
-   "reach": 1249,
+   "views": 1624,
+   "reach": 1251,
    "saved": 0,
    "shares": 1,
    "total_interactions": 26,
-   "ig_reels_avg_watch_time": 11259,
-   "ig_reels_video_view_total_time": 14063601
+   "ig_reels_avg_watch_time": 11260,
+   "ig_reels_video_view_total_time": 14076233
   },
   {
    "id": "slp_100_feijoo_wild_foto",
@@ -158,13 +174,13 @@
    "comentarios": 3,
    "url": "https://www.instagram.com/reel/DfrqU0dCKz_/",
    "titulo": "¿Te convence su respuesta? 👇\n\nJordi Wild pregunta a Feijóo (",
-   "views": 1743,
-   "reach": 1314,
+   "views": 1787,
+   "reach": 1349,
    "saved": 2,
    "shares": 0,
    "total_interactions": 27,
-   "ig_reels_avg_watch_time": 16593,
-   "ig_reels_video_view_total_time": 21853919
+   "ig_reels_avg_watch_time": 16683,
+   "ig_reels_video_view_total_time": 22405571
   },
   {
    "id": "slp_099_colau_wild",
@@ -174,13 +190,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfrhZ3_Ca7J/",
    "titulo": "¿Te convence su respuesta? 👇\n\nAda Colau (Frente Amplio) abre",
-   "views": 1310,
-   "reach": 1100,
+   "views": 1320,
+   "reach": 1107,
    "saved": 0,
    "shares": 1,
    "total_interactions": 20,
-   "ig_reels_avg_watch_time": 13508,
-   "ig_reels_video_view_total_time": 14602843
+   "ig_reels_avg_watch_time": 13554,
+   "ig_reels_video_view_total_time": 14733642
   },
   {
    "id": "slp_097_wild_silla_vacia",
@@ -238,13 +254,13 @@
    "comentarios": 3,
    "url": "https://www.instagram.com/reel/Dfnh90niswa/",
    "titulo": "¿Quién tiene razón: Vox o Jordi Wild? 👇\n\nLas dos versiones d",
-   "views": 1538,
-   "reach": 1246,
+   "views": 1540,
+   "reach": 1248,
    "saved": 2,
    "shares": 0,
    "total_interactions": 14,
-   "ig_reels_avg_watch_time": 13185,
-   "ig_reels_video_view_total_time": 16376612
+   "ig_reels_avg_watch_time": 13169,
+   "ig_reels_video_view_total_time": 16382562
   },
   {
    "id": "slp_094_abascal_planta_wild",
