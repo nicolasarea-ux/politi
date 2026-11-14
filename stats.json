@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 35,
-  "media_count": 99,
+  "media_count": 100,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_117_sanchez_no_lo_veo_claro",
+   "ig": "18130379263868760",
+   "fecha": "2026-11-14T17:32:45+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/Dfuv-4DmXsX/",
+   "titulo": "¿Gana o no gana? 👇\n\nEl cierre de la entrevista de Jordi Wild",
+   "views": 89,
+   "reach": 1,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 10650,
+   "ig_reels_video_view_total_time": 21301
+  },
   {
    "id": "slp_116_sanchez_bildu_mordor",
    "ig": "18122701010001414",
@@ -14,13 +30,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfuh_1AmVLv/",
    "titulo": "¿Pacto o acuerdos puntuales? 👇\n\nJordi Wild recuerda a Pedro ",
-   "views": 949,
-   "reach": 668,
+   "views": 1144,
+   "reach": 855,
    "saved": 0,
    "shares": 0,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 12237,
-   "ig_reels_video_view_total_time": 8052035
+   "ig_reels_avg_watch_time": 12370,
+   "ig_reels_video_view_total_time": 10626400
   },
   {
    "id": "slp_113_sanchez_vacaciones_ceuta",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfuURF5AFtx/",
    "titulo": "¿Le convence su respuesta? 👇\n\nJordi Wild pregunta a Pedro Sá",
-   "views": 1552,
-   "reach": 1118,
+   "views": 1553,
+   "reach": 1120,
    "saved": 1,
    "shares": 0,
    "total_interactions": 12,
-   "ig_reels_avg_watch_time": 13388,
-   "ig_reels_video_view_total_time": 14807424
+   "ig_reels_avg_watch_time": 13376,
+   "ig_reels_video_view_total_time": 14807477
   },
   {
    "id": "slp_114_sanchez_zapatero",
@@ -46,7 +62,7 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfuDGZrkgOc/",
    "titulo": "¿Tú pondrías la mano en el fuego? 👇\n\nJordi Wild pregunta a P",
-   "views": 1417,
+   "views": 1418,
    "reach": 1104,
    "saved": 1,
    "shares": 0,
@@ -62,8 +78,8 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dft8O3-jan9/",
    "titulo": "¿Te parece bien? 👇\n\nJordi Wild aprieta a Ada Colau (Frente A",
-   "views": 1791,
-   "reach": 1339,
+   "views": 1792,
+   "reach": 1341,
    "saved": 1,
    "shares": 0,
    "total_interactions": 19,
@@ -94,13 +110,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dftujc6nE3z/",
    "titulo": "¿Te convence? 👇\n\nJordi Wild pregunta a Feijóo (PP) si tiene ",
-   "views": 1372,
-   "reach": 1126,
+   "views": 1373,
+   "reach": 1127,
    "saved": 0,
    "shares": 0,
    "total_interactions": 6,
-   "ig_reels_avg_watch_time": 11857,
-   "ig_reels_video_view_total_time": 13256466
+   "ig_reels_avg_watch_time": 11850,
+   "ig_reels_video_view_total_time": 13260336
   },
   {
    "id": "slp_111_sanchez_hemeroteca",
@@ -110,13 +126,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dftnof_Cavr/",
    "titulo": "¿Cambio de opinión o promesa rota? 👇\n\nJordi Wild repasa «la ",
-   "views": 1466,
-   "reach": 1083,
+   "views": 1467,
+   "reach": 1085,
    "saved": 1,
    "shares": 0,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 14276,
-   "ig_reels_video_view_total_time": 15646743
+   "ig_reels_avg_watch_time": 14258,
+   "ig_reels_video_view_total_time": 15655302
   },
   {
    "id": "slp_103_colau_inmigracion",
@@ -126,7 +142,7 @@
    "comentarios": 2,
    "url": "https://www.instagram.com/reel/DfsrjucCo8b/",
    "titulo": "¿Quién tiene razón? 👇\n\nEl choque más largo de la entrevista:",
-   "views": 1498,
+   "views": 1499,
    "reach": 1173,
    "saved": 1,
    "shares": 0,
@@ -270,13 +286,13 @@
    "comentarios": 3,
    "url": "https://www.instagram.com/reel/DfrqU0dCKz_/",
    "titulo": "¿Te convence su respuesta? 👇\n\nJordi Wild pregunta a Feijóo (",
-   "views": 1859,
-   "reach": 1421,
+   "views": 1862,
+   "reach": 1422,
    "saved": 2,
    "shares": 0,
    "total_interactions": 28,
-   "ig_reels_avg_watch_time": 16920,
-   "ig_reels_video_view_total_time": 23689100
+   "ig_reels_avg_watch_time": 16935,
+   "ig_reels_video_view_total_time": 23743665
   },
   {
    "id": "slp_099_colau_wild",
@@ -623,12 +639,12 @@
    "url": "https://www.instagram.com/reel/DfjZm5ACsyU/",
    "titulo": "¿Se pasó Broncano o tenía razón? 👇\n\nEl momento más tenso de ",
    "views": 3700,
-   "reach": 2931,
+   "reach": 2932,
    "saved": 4,
    "shares": 0,
    "total_interactions": 48,
-   "ig_reels_avg_watch_time": 14166,
-   "ig_reels_video_view_total_time": 41535668
+   "ig_reels_avg_watch_time": 14162,
+   "ig_reels_video_view_total_time": 41537218
   },
   {
    "id": "slp_075_abascal_deconstruir",
@@ -658,7 +674,7 @@
    "reach": 1956,
    "saved": 2,
    "shares": 0,
-   "total_interactions": 41,
+   "total_interactions": 40,
    "ig_reels_avg_watch_time": 13769,
    "ig_reels_video_view_total_time": 27195306
   },
@@ -734,13 +750,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfhXJAPnZLr/",
    "titulo": "¿Debería haber público normal? Sí o no 👇\n\nAbascal va hoy a L",
-   "views": 222,
-   "reach": 166,
+   "views": 223,
+   "reach": 167,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 12405,
-   "ig_reels_video_view_total_time": 2096472
+   "ig_reels_avg_watch_time": 12339,
+   "ig_reels_video_view_total_time": 2097666
   },
   {
    "id": "slp_064_feijoo_huelga_11n",

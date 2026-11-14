@@ -856,10 +856,12 @@
   {
    "id": "slp_117_sanchez_no_lo_veo_claro",
    "fecha": "2026-11-14T18:30",
-   "estado": "pendiente",
+   "estado": "publicado",
    "copy": "¿Gana o no gana? 👇\n\nEl cierre de la entrevista de Jordi Wild a Pedro Sánchez (PSOE).\n\n• A mitad, Wild le avisa: «Me han dado un tope de tiempo, que lo sepas».\n• Al despedirse, Sánchez: «Espero que me invites otra vez». Wild: «Hombre, claro que sí. Gana las elecciones».\n• Y remata: «No lo veo tan claro, Pedro».\n\nFuente: The Wild Project #393 (13-11), min. 1:25 y 1:51. Citas transcritas del vídeo.\n\n#Sánchez #JordiWild #29N #elecciones",
    "intentos": 1,
-   "ultimo_error": "contenedor ERROR"
+   "ultimo_error": "contenedor ERROR",
+   "ig_media_id": "18130379263868760",
+   "publicado_en": "2026-11-14T19:03"
   },
   {
    "id": "slp_118_sanchez_amigos_theone",
