@@ -147,7 +147,7 @@
        "x": 50,
        "y": 47,
        "w": 300,
-       "at": 1,
+       "at": 0,
        "habla": true,
        "cara": "risa",
        "say": "«Pero Menudo es mi padre»",

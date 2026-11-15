@@ -157,7 +157,7 @@
        "x": 50,
        "y": 20,
        "w": 920,
-       "at": 2
+       "at": 0
       },
       {
        "id": "s2",
@@ -166,7 +166,7 @@
        "x": 26,
        "y": 47,
        "w": 270,
-       "at": 2,
+       "at": 0,
        "habla": false,
        "cara": "neutral",
        "gesto": "manos",
@@ -179,7 +179,7 @@
        "x": 74,
        "y": 47,
        "w": 280,
-       "at": 2,
+       "at": 0,
        "habla": true,
        "cara": "risa",
        "say": "«Has estudiado antes de venir»",

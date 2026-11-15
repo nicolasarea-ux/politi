@@ -127,7 +127,7 @@
        "x": 50,
        "y": 20,
        "w": 920,
-       "at": 2
+       "at": 0
       },
       {
        "id": "f2",
@@ -136,7 +136,7 @@
        "x": 50,
        "y": 47,
        "w": 300,
-       "at": 2,
+       "at": 0,
        "habla": true,
        "cara": "neutral",
        "say": "«La frontera sur… un riesgo mayor»",

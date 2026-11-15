@@ -189,3 +189,4 @@ Dato: 41.000 visualizaciones de las entrevistas de Wild → solo +6 seguidores. 
 - CTA del caption (publicar.py) reforzado.
 - Ritmo: 5 al día (más no suma: 11 y 12 vídeos/día dieron lo mismo). Horas: 08:30, 13:30, 16:30, 18:30, 23:00.
 - Pide a Nicks: fijar en el perfil los 3 mejores reels y bio con promesa clara («La campaña del 29-N explicada en 60 s, cada día»).
+- CÁMARA v2 (15-N): punch-in en cada segmento, encuadre suave hacia el monigote que habla y latigazo con desenfoque entre segmentos. Regla: tras un capítulo («cap») los personajes ya están debajo (at 0), nunca pantalla vacía.

@@ -16,6 +16,10 @@ def FIN(q,stamp,hide): return {"clause":-1,"segments":[{"text":q+" Comenta y sí
 def build(id,tag,src,caption,portada,labels,scenes):
     for sc in scenes:
         for sg in sc['segments']:
+            if any(e['type']=='cap' for e in sg['show']):
+                for e in sg['show']:
+                    if e['type'] not in ('cap','stamp') and e.get('at',0)<=4: e['at']=0
+        for sg in sc['segments']:
             if any(e['type']=='headline' for e in sg['show']):
                 for e in sg['show']:
                     if e['type']=='mono' and e.get('say') and e.get('bub','up')=='up': e['bub']='l' if e['x']>55 else 'r'
