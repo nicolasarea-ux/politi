@@ -2,18 +2,18 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 37,
-  "media_count": 106,
+  "media_count": 107,
   "id": "29046307255021601"
  },
  "reels": [
   {
-   "id": "slp_123_feijoo_ayuso",
-   "ig": "18119176223083093",
-   "fecha": "2026-11-15T08:31:02+0000",
+   "id": "slp_121_sanchez_ego_penalti",
+   "ig": "18114507557144364",
+   "fecha": "2026-11-15T10:00:32+0000",
    "likes": 0,
    "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfwWxHjCeGr/",
-   "titulo": "¿Te lo crees? 👇\n\nJordi Wild pregunta a Feijóo (PP) por Isabe",
+   "url": "https://www.instagram.com/reel/DfwhBtZjnR4/",
+   "titulo": "¿Ego o servicio? 👇\n\nLa primera pregunta de Jordi Wild a Pedr",
    "views": 0,
    "reach": 0,
    "saved": 0,
@@ -23,6 +23,22 @@
    "ig_reels_video_view_total_time": 0
   },
   {
+   "id": "slp_123_feijoo_ayuso",
+   "ig": "18119176223083093",
+   "fecha": "2026-11-15T08:31:02+0000",
+   "likes": 5,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfwWxHjCeGr/",
+   "titulo": "¿Te lo crees? 👇\n\nJordi Wild pregunta a Feijóo (PP) por Isabe",
+   "views": 1613,
+   "reach": 1188,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 5,
+   "ig_reels_avg_watch_time": 13309,
+   "ig_reels_video_view_total_time": 15664748
+  },
+  {
    "id": "slp_120_sanchez_ceutis",
    "ig": "18020168597745254",
    "fecha": "2026-11-15T07:00:32+0000",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfwMbR6lw9a/",
    "titulo": "¿Se gestionó bien? 👇\n\nJordi Wild pregunta a Pedro Sánchez (P",
-   "views": 1526,
-   "reach": 1102,
+   "views": 1573,
+   "reach": 1193,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 10705,
-   "ig_reels_video_view_total_time": 11839763
+   "ig_reels_avg_watch_time": 10798,
+   "ig_reels_video_view_total_time": 13001144
   },
   {
    "id": "slp_119_sanchez_movil_marruecos",
@@ -51,8 +67,8 @@
    "saved": 1,
    "shares": 0,
    "total_interactions": 8,
-   "ig_reels_avg_watch_time": 12282,
-   "ig_reels_video_view_total_time": 14027002
+   "ig_reels_avg_watch_time": 12274,
+   "ig_reels_video_view_total_time": 14030260
   },
   {
    "id": "slp_122_feijoo_verificadores",
@@ -78,13 +94,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfu_LfSDdSY/",
    "titulo": "¿Le crees? 👇\n\nJordi Wild pregunta a Pedro Sánchez (PSOE) por",
-   "views": 1290,
+   "views": 1291,
    "reach": 1037,
    "saved": 0,
    "shares": 0,
    "total_interactions": 6,
-   "ig_reels_avg_watch_time": 10500,
-   "ig_reels_video_view_total_time": 10762911
+   "ig_reels_avg_watch_time": 10508,
+   "ig_reels_video_view_total_time": 10781509
   },
   {
    "id": "slp_101_si_votas_psoe",
@@ -94,13 +110,13 @@
    "comentarios": 4,
    "url": "https://www.instagram.com/reel/Dfu5q5lDaLQ/",
    "titulo": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (1/7): las 5 me",
-   "views": 1331,
-   "reach": 1131,
+   "views": 1338,
+   "reach": 1145,
    "saved": 3,
    "shares": 1,
    "total_interactions": 29,
-   "ig_reels_avg_watch_time": 33517,
-   "ig_reels_video_view_total_time": 38008893
+   "ig_reels_avg_watch_time": 33147,
+   "ig_reels_video_view_total_time": 38086572
   },
   {
    "id": "slp_117_sanchez_no_lo_veo_claro",
@@ -110,13 +126,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfuv-4DmXsX/",
    "titulo": "¿Gana o no gana? 👇\n\nEl cierre de la entrevista de Jordi Wild",
-   "views": 2886,
-   "reach": 2207,
+   "views": 2896,
+   "reach": 2222,
    "saved": 0,
    "shares": 6,
    "total_interactions": 12,
-   "ig_reels_avg_watch_time": 12669,
-   "ig_reels_video_view_total_time": 28329664
+   "ig_reels_avg_watch_time": 12667,
+   "ig_reels_video_view_total_time": 28439234
   },
   {
    "id": "slp_116_sanchez_bildu_mordor",
@@ -126,13 +142,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfuh_1AmVLv/",
    "titulo": "¿Pacto o acuerdos puntuales? 👇\n\nJordi Wild recuerda a Pedro ",
-   "views": 1409,
+   "views": 1410,
    "reach": 1091,
    "saved": 0,
    "shares": 1,
    "total_interactions": 5,
-   "ig_reels_avg_watch_time": 12730,
-   "ig_reels_video_view_total_time": 14016062
+   "ig_reels_avg_watch_time": 12728,
+   "ig_reels_video_view_total_time": 14040076
   },
   {
    "id": "slp_113_sanchez_vacaciones_ceuta",
@@ -190,13 +206,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dft1XeRkWiw/",
    "titulo": "Comenta 👇\n\nEl momento más distendido de la entrevista de Jor",
-   "views": 1607,
-   "reach": 1301,
+   "views": 1609,
+   "reach": 1302,
    "saved": 1,
    "shares": 0,
    "total_interactions": 7,
-   "ig_reels_avg_watch_time": 13045,
-   "ig_reels_video_view_total_time": 16959291
+   "ig_reels_avg_watch_time": 13052,
+   "ig_reels_video_view_total_time": 16981022
   },
   {
    "id": "slp_107_feijoo_vox_trump",
@@ -270,13 +286,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfscGoTDkzJ/",
    "titulo": "¿Qué te parece? 👇\n\nJordi Wild pide a Feijóo (PP) que defina ",
-   "views": 1739,
+   "views": 1740,
    "reach": 1380,
    "saved": 0,
    "shares": 0,
    "total_interactions": 13,
-   "ig_reels_avg_watch_time": 14134,
-   "ig_reels_video_view_total_time": 19816383
+   "ig_reels_avg_watch_time": 14126,
+   "ig_reels_video_view_total_time": 19819172
   },
   {
    "id": "slp_112_sanchez_1o_wild",
@@ -702,13 +718,13 @@
    "comentarios": 12,
    "url": "https://www.instagram.com/reel/Dfj7826HcKP/",
    "titulo": "¿Cuál fue el mejor momento? Comenta el número 👇\n\nLos 5 momen",
-   "views": 3553,
+   "views": 3554,
    "reach": 2792,
    "saved": 2,
    "shares": 2,
    "total_interactions": 61,
-   "ig_reels_avg_watch_time": 17727,
-   "ig_reels_video_view_total_time": 51339794
+   "ig_reels_avg_watch_time": 17721,
+   "ig_reels_video_view_total_time": 51340472
   },
   {
    "id": "slp_077_abascal_fondo_buitre",
@@ -1054,7 +1070,7 @@
    "comentarios": 2,
    "url": "https://www.instagram.com/reel/DfbrSbUGRKG/",
    "titulo": "¿Retirarías a España del Mundial? Sí o no 👇\n\nFeijóo en El Ch",
-   "views": 142,
+   "views": 143,
    "reach": 122,
    "saved": 0,
    "shares": 0,
@@ -1589,22 +1605,6 @@
    "total_interactions": 4,
    "ig_reels_avg_watch_time": 6647,
    "ig_reels_video_view_total_time": 711284
-  },
-  {
-   "id": "slp_001_viudedad",
-   "ig": "17907811605668222",
-   "fecha": "2026-10-31T21:45:24+0000",
-   "likes": 1,
-   "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfLJvacgJN3/",
-   "titulo": "Pensión de viudedad sin estar casados: requisitos y el plazo",
-   "views": 125,
-   "reach": 108,
-   "saved": 0,
-   "shares": 0,
-   "total_interactions": 1,
-   "ig_reels_avg_watch_time": 5218,
-   "ig_reels_video_view_total_time": 579241
   }
  ]
 }
