@@ -70,7 +70,8 @@ function monoSVG(name, opts={}){
     </g>
     ${p.pend?`<circle cx="${L+1}" cy="136" r="4.5" fill="${p.pend}"/><circle cx="${R-1}" cy="136" r="4.5" fill="${p.pend}"/>`:''}
     <g class="hairf" style="transform-origin:152px 60px">${_hair(p,false)}</g></g>`;
-  return `<svg viewBox="40 20 224 450" class="mono" style="overflow:visible;width:100%;height:100%"><ellipse class="shadow" cx="152" cy="462" rx="78" ry="12" fill="#000" opacity=".14"/><g class="ink">${legs}<g class="mbody">${torso}${arm('l')}${arm('r')}</g>${head}</g></svg>`;
+  const headT=p.toon?`<g class="mhead" style="transform-origin:152px 192px"><image href="../fotos/${p.toon}_toon.png" x="${152-p.tw/2}" y="${p.ty}" width="${p.tw}" height="${p.th}" preserveAspectRatio="xMidYMax meet"/><g class="eyes" style="display:none"></g><g class="brows" style="display:none"><path class="brow l"/><path class="brow r"/></g><g class="mouth" style="display:none"><path class="mclosed"/><g class="mopen"></g></g><g class="hairf"></g></g>`:null;
+  return `<svg viewBox="40 20 224 450" class="mono" style="overflow:visible;width:100%;height:100%"><ellipse class="shadow" cx="152" cy="462" rx="78" ry="12" fill="#000" opacity=".14"/><g class="ink">${legs}<g class="mbody">${torso}${arm('l')}${arm('r')}</g>${headT||head}</g></svg>`;
 }
 // expresiones: neutral, sonrie, enfado, sorpresa, risa, duda
 const EXPR={neutral:{bl:0,br:0,by:0,sq:0,mo:0},sonrie:{bl:-4,br:4,by:-2,sq:.15,mo:.15},enfado:{bl:14,br:-14,by:4,sq:.25,mo:0},sorpresa:{bl:-8,br:8,by:-9,sq:-.15,mo:.55},risa:{bl:-6,br:6,by:-5,sq:.75,mo:.75},duda:{bl:10,br:-4,by:-6,sq:.1,mo:0}};
