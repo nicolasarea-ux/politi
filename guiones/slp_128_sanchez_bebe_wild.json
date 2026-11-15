@@ -181,7 +181,7 @@
    "clause": -1,
    "segments": [
     {
-     "text": "¿Te gustaría ver a Wild con un bebé? Comenta y síguenos.",
+     "text": "¿Te gustaría ver a Wild con un bebé? Síguenos: mañana, más del cara a cara.",
      "show": [
       {
        "id": "tu9",
@@ -213,5 +213,10 @@
     }
    ]
   }
- ]
+ ],
+ "serie": {
+  "n": 16,
+  "de": 20,
+  "next": "Mañana: Sánchez y el Fari"
+ }
 }

@@ -155,7 +155,7 @@
    "clause": -1,
    "segments": [
     {
-     "text": "¿Estás de acuerdo? Comenta y síguenos.",
+     "text": "¿Estás de acuerdo? Síguenos: mañana, más del cara a cara.",
      "show": [
       {
        "id": "tu9",
@@ -186,5 +186,10 @@
     }
    ]
   }
- ]
+ ],
+ "serie": {
+  "n": 15,
+  "de": 20,
+  "next": "Mañana: Sánchez y el bebé de Wild"
+ }
 }

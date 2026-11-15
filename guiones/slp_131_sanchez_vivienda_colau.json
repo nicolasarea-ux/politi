@@ -207,7 +207,7 @@
    "clause": -1,
    "segments": [
     {
-     "text": "¿Quién tiene razón? Comenta y síguenos.",
+     "text": "¿Quién tiene razón? Síguenos: mañana, más del cara a cara.",
      "show": [
       {
        "id": "tu9",
@@ -240,5 +240,10 @@
     }
    ]
   }
- ]
+ ],
+ "serie": {
+  "n": 19,
+  "de": 20,
+  "next": "Mañana: el alegato final de Sánchez"
+ }
 }

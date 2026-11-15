@@ -162,7 +162,7 @@
    "clause": -1,
    "segments": [
     {
-     "text": "¿Estás de acuerdo? Comenta y síguenos.",
+     "text": "¿Estás de acuerdo? Síguenos: mañana, más del cara a cara.",
      "show": [
       {
        "id": "tu9",
@@ -194,5 +194,10 @@
     }
    ]
   }
- ]
+ ],
+ "serie": {
+  "n": 20,
+  "de": 20,
+  "next": "Mañana: el ranking de las frases de Wild"
+ }
 }

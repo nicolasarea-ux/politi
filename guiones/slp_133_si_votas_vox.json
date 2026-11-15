@@ -1,0 +1,387 @@
+{
+ "id": "slp_133_si_votas_vox",
+ "brand": "Politízate Hoy",
+ "formato": "top5",
+ "serie": {
+  "n": 3,
+  "de": 7,
+  "next": "Mañana: si votas al Frente Amplio"
+ },
+ "tono": "normal",
+ "clauses": 3,
+ "clauseLabels": [
+  "EL CANDIDATO",
+  "5 MEDIDAS",
+  "LA LETRA PEQUEÑA",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "SI VOTAS A… VOX",
+  "source": "Fuente: programa de Vox para el 29-N (12-11), vía Infobae (12 y 15-11)"
+ },
+ "portada": {
+  "serie": "SI VOTAS A… 3/7",
+  "titulo": "Si votas a *Vox*, esto es lo que propone",
+  "mini": {
+   "texto": "Si votas a Vox,",
+   "rojo": "ESTO ES LO QUE PROPONE",
+   "flecha": false,
+   "tam": 84
+  },
+  "monos": [
+   {
+    "who": "abascal",
+    "cara": "sonrie",
+    "gesto": "manos"
+   }
+  ]
+ },
+ "caption": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (3/7): 5 medidas concretas del programa de Vox para el 29-N (66 páginas, 115 medidas). Mismo criterio para todos los partidos.\n5. Cuota de autónomos de 0 € si se ingresa menos del salario mínimo; progresiva «desde 50 euros» por encima.\n4. IVA del 0 % en la compra de la primera vivienda nueva y bonificación del 100 % del ITP en la primera usada.\n3. «Desalojo de viviendas ocupadas en menos de 24 horas», con asistencia jurídica gratuita al propietario.\n2. «Prioridad nacional»: acceso preferente de los españoles a vivienda pública, guarderías, becas de comedor y servicios sociales.\n1. «Remigración» de extranjeros que no «contribuyan económicamente» o dependan de ayudas, y «militarizar las fronteras de Ceuta y Melilla».\n\nLa letra pequeña: propone bajar IRPF, IVA y Sociedades, pero el programa no da porcentajes ni cómo se financia.\n\nFuente: programa de Vox (12-11), vía Infobae (12-11 y 15-11).\n\n#Vox #Abascal #29N #elecciones #SiVotasA",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Si votas a Vox, esto es lo que propone. Cinco medidas.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Si votas a *Vox*…",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "ab",
+       "type": "mono",
+       "who": "abascal",
+       "x": 50,
+       "y": 46,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "sonrie",
+       "gesto": "manos",
+       "label": "Santiago Abascal · Vox"
+      },
+      {
+       "id": "st0",
+       "type": "stamp",
+       "text": "5 MEDIDAS",
+       "color": "red",
+       "x": 50,
+       "y": 72,
+       "rot": -4,
+       "at": 8
+      }
+     ],
+     "hide": []
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cinco: los autónomos que ingresen menos del salario mínimo pagarían cero euros de cuota.",
+     "show": [
+      {
+       "id": "f5",
+       "type": "flash",
+       "text": "5",
+       "bg": "mark",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c5",
+       "type": "card",
+       "text": "Autónomos: cuota de 0 € si ganas menos del SMI",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s5",
+       "type": "sticker",
+       "text": "🧾",
+       "x": 86,
+       "y": 30,
+       "at": 2
+      },
+      {
+       "id": "n5",
+       "type": "card",
+       "text": "Desde 50 € si ganas más",
+       "x": 44,
+       "y": 40,
+       "w": 560,
+       "at": 3
+      }
+     ],
+     "hide": [
+      "h1",
+      "ab",
+      "st0"
+     ]
+    },
+    {
+     "text": "Cuatro: IVA del cero por ciento al comprar tu primera vivienda nueva.",
+     "show": [
+      {
+       "id": "f4",
+       "type": "flash",
+       "text": "4",
+       "bg": "ink",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "text": "IVA 0 % en la primera vivienda nueva",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s4",
+       "type": "sticker",
+       "text": "🏠",
+       "x": 86,
+       "y": 30,
+       "at": 2
+      },
+      {
+       "id": "n4",
+       "type": "card",
+       "text": "Y 0 % de ITP en la usada",
+       "x": 44,
+       "y": 40,
+       "w": 560,
+       "at": 3
+      }
+     ],
+     "hide": [
+      "c5",
+      "s5",
+      "n5"
+     ]
+    },
+    {
+     "text": "Tres: desalojar viviendas ocupadas «en menos de 24 horas».",
+     "show": [
+      {
+       "id": "f3",
+       "type": "flash",
+       "text": "3",
+       "bg": "red",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "Okupas: desalojo «en menos de 24 horas»",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s3",
+       "type": "sticker",
+       "text": "🚪",
+       "x": 86,
+       "y": 30,
+       "at": 2
+      },
+      {
+       "id": "n3",
+       "type": "card",
+       "text": "Con abogado gratis al dueño",
+       "x": 44,
+       "y": 40,
+       "w": 560,
+       "at": 3
+      }
+     ],
+     "hide": [
+      "c4",
+      "s4",
+      "n4"
+     ]
+    },
+    {
+     "text": "Dos: «prioridad nacional». Los españoles, primero en vivienda pública, guarderías y becas de comedor.",
+     "show": [
+      {
+       "id": "f2",
+       "type": "flash",
+       "text": "2",
+       "bg": "ink",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "«Prioridad nacional» en ayudas públicas",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s2",
+       "type": "sticker",
+       "text": "🇪🇸",
+       "x": 86,
+       "y": 30,
+       "at": 2
+      },
+      {
+       "id": "n2",
+       "type": "card",
+       "text": "Vivienda, guarderías, comedor",
+       "x": 44,
+       "y": 40,
+       "w": 560,
+       "at": 3
+      }
+     ],
+     "hide": [
+      "c3",
+      "s3",
+      "n3"
+     ]
+    },
+    {
+     "text": "Y uno: «remigración». Repatriar a extranjeros que no «contribuyan económicamente», y militarizar las fronteras de Ceuta y Melilla.",
+     "show": [
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "1",
+       "bg": "mark",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "Repatriar a quien no «contribuya económicamente»",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s1",
+       "type": "sticker",
+       "text": "✈️",
+       "x": 86,
+       "y": 30,
+       "at": 2
+      },
+      {
+       "id": "n1",
+       "type": "card",
+       "text": "Fronteras de Ceuta y Melilla, militarizadas",
+       "x": 44,
+       "y": 40,
+       "w": 560,
+       "at": 3
+      }
+     ],
+     "hide": [
+      "c2",
+      "s2",
+      "n2"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "La letra pequeña: promete bajar el IRPF, el IVA y Sociedades, pero no dice cuánto ni cómo lo paga.",
+     "show": [
+      {
+       "id": "doc",
+       "type": "prop",
+       "kind": "doc",
+       "x": 50,
+       "y": 44,
+       "w": 520,
+       "at": 0,
+       "kicker": "PROGRAMA 29-N",
+       "text": "Bajar IRPF, IVA y Sociedades",
+       "sello": "¿CUÁNTO?",
+       "st": 0.6
+      }
+     ],
+     "hide": [
+      "c1",
+      "s1",
+      "n1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Te convence? Sí o no. Síguenos: mañana, el Frente Amplio.",
+     "show": [
+      {
+       "id": "ab2",
+       "type": "mono",
+       "who": "abascal",
+       "x": 50,
+       "y": 42,
+       "w": 280,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "brazos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TE CONVENCE?",
+       "color": "ink",
+       "x": 50,
+       "y": 64,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "doc"
+     ]
+    }
+   ]
+  }
+ ]
+}

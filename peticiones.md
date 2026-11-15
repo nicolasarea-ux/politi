@@ -70,3 +70,9 @@ Generador de guiones: engine/mk_guion.py.
 
 ## 13-N 17:05 — estado
 Tanda 2 montada y programada (118-125). ElevenLabs sin créditos (plan free agotado): quedan SIN VOZ slp_126_feijoo_defensa_frontera y 127-132 (Sánchez). Textos en guiones/_pendiente_voz_tanda2.json (último) y _tanda3.json. Opciones: Clipchamp si vuelve, o plan Creator de ElevenLabs. Huecos libres sugeridos: 15-N 15:30, 17:00, 18:30, 21:00, 22:30; 16-N 08:00, 10:00.
+
+## 15-N 18:00 — plan próximos días (5/día: 08:30, 13:30, 16:30, 19:45 serie, 23:00)
+- Esta noche (Clipchamp): voz de los 7 Wild (guiones/_pendiente_voz_wild7.json, ya con serie n/20 y cierre «Síguenos: mañana…») + slp_133_si_votas_vox (16-N 19:45).
+- 16-N: 08:30 Goebbels · 13:30 bebé Wild · 16:30 Feijóo frontera · 19:45 Si votas Vox · 23:00 Fari
+- 17-N: 08:30 Puigdemont · 13:30 vivienda · 16:30 actualidad · 19:45 Si votas FA · 23:00 alegato final
+- 18-20N: 2 de actualidad/día (pasada de mañana) + Si votas (Podemos, SALF, Junts) + ranking «Las 5 frases más fuertes de Wild».
