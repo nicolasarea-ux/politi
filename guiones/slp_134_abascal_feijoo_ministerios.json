@@ -1,0 +1,209 @@
+{
+ "id": "slp_134_abascal_feijoo_ministerios",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "ABASCAL",
+  "FEIJÓO",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "ABASCAL VS FEIJÓO",
+  "source": "Fuentes: elDiario.es (13-11) y Vozpópuli (14-11)"
+ },
+ "caption": "¿Tiene razón Abascal? Sí o no 👇\n\nSantiago Abascal (Vox) avisa a Alberto Núñez Feijóo (PP) en plena campaña del 29-N.\n\n• Sábado 14-N: «Cuando veo a Feijóo hablando de los ministerios que va a tener […] me echo a temblar». Debería estar «concentrado en echar a Pedro Sánchez y no en repartir ministerios» (Vozpópuli, 14-11).\n• Viernes 13-N, Toledo: «Que no cometamos el error del año 2023 de empezar a vender la piel del oso antes de cazarlo» (elDiario.es, 13-11).\n• Feijóo, el sábado en Galicia: la vivienda iría a una vicepresidencia y «lo importante» es construir «un millón» de hogares (Vozpópuli, 14-11).\n\nFuentes: elDiario.es (13-11) y Vozpópuli (14-11).\n\n#elecciones #29N #eleccionesgenerales #Abascal #Feijóo",
+ "portada": {
+  "serie": "LA FRASE DEL DÍA",
+  "titulo": "Abascal a Feijóo: *«Me echo a temblar»*",
+  "mini": {
+   "texto": "Abascal a Feijóo:",
+   "rojo": "«ME ECHO A TEMBLAR»",
+   "emoji": "😬",
+   "emojiX": 780,
+   "emojiY": 760,
+   "flecha": false,
+   "tam": 86
+  }
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Abascal, a Feijóo: «Me echo a temblar».",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Abascal: «Me echo *a temblar*»",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "a0",
+       "type": "mono",
+       "who": "abascal",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 0,
+       "habla": true,
+       "cara": "enfado",
+       "say": "«Me echo a temblar»",
+       "tf": [
+        0.3,
+        1
+       ],
+       "bub": "r",
+       "bw": 380,
+       "bfs": 40,
+       "gesto": "senala",
+       "label": "Abascal"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Ve a Feijóo hablando de ministerios y le pide centrarse «en echar a Pedro Sánchez y no en repartir ministerios».",
+     "show": [
+      {
+       "id": "k1",
+       "type": "card",
+       "text": "«Echar a Sánchez y no repartir ministerios»",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      },
+      {
+       "id": "a1",
+       "type": "mono",
+       "who": "abascal",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "enfado",
+       "gesto": "manos",
+       "label": "Abascal"
+      }
+     ],
+     "hide": [
+      "h1",
+      "a0"
+     ]
+    },
+    {
+     "text": "Y en Toledo: «Que no cometamos el error del año 2023».",
+     "show": [
+      {
+       "id": "k2",
+       "type": "card",
+       "text": "«El error del año 2023»",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      },
+      {
+       "id": "s23",
+       "type": "stamp",
+       "text": "ERROR DE 2023",
+       "color": "red",
+       "x": 50,
+       "y": 62,
+       "rot": -5,
+       "at": 6
+      }
+     ],
+     "hide": [
+      "k1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Feijóo, el mismo sábado: la vivienda, a una vicepresidencia, y «lo importante», dice, «un millón» de hogares.",
+     "show": [
+      {
+       "id": "c1",
+       "type": "cap",
+       "n": "2",
+       "text": "Feijóo",
+       "at": 0
+      },
+      {
+       "id": "f1",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 47,
+       "w": 290,
+       "at": 0,
+       "habla": true,
+       "cara": "sonrie",
+       "say": "«Un millón» de hogares",
+       "tf": [
+        0.6,
+        1
+       ],
+       "bub": "up",
+       "bw": 360,
+       "bfs": 40,
+       "gesto": "habla",
+       "label": "Feijóo"
+      }
+     ],
+     "hide": [
+      "a1",
+      "k2",
+      "s23"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Tiene razón Abascal? Sí o no. Síguenos: mañana, más del cara a cara de Wild.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿SÍ O NO?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "f1"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-15T23:00:00+01:00"
+}
