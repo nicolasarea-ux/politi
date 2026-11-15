@@ -190,3 +190,4 @@ Dato: 41.000 visualizaciones de las entrevistas de Wild → solo +6 seguidores. 
 - Ritmo: 5 al día (más no suma: 11 y 12 vídeos/día dieron lo mismo). Horas: 08:30, 13:30, 16:30, 18:30, 23:00.
 - Pide a Nicks: fijar en el perfil los 3 mejores reels y bio con promesa clara («La campaña del 29-N explicada en 60 s, cada día»).
 - CÁMARA v2 (15-N): punch-in en cada segmento, encuadre suave hacia el monigote que habla y latigazo con desenfoque entre segmentos. Regla: tras un capítulo («cap») los personajes ya están debajo (at 0), nunca pantalla vacía.
+- ANATOMÍA v2 (15-N): cabeza más proporcionada (escala 1.06 en vez de 1.24), cuello con trapecio, hombros/deltoides, brazos cónicos con puño de camisa, manos con pulgar y dedos, perneras con raya, zapatos con suela, sombras laterales en el torso, párpados, aletas de la nariz y pómulos. Copia de seguridad del monos.js anterior en el historial de git.
