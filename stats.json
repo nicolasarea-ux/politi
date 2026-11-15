@@ -2,25 +2,41 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 37,
-  "media_count": 110,
+  "media_count": 111,
   "id": "29046307255021601"
  },
  "reels": [
   {
+   "id": "slp_134_abascal_feijoo_ministerios",
+   "ig": "18650639473010730",
+   "fecha": "2026-11-15T22:01:32+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfxzgbvErtJ/",
+   "titulo": "¿Tiene razón Abascal? Sí o no 👇\n\nSantiago Abascal (Vox) avis",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
+  {
    "id": "slp_108_si_votas_pp",
    "ig": "18090426764293666",
    "fecha": "2026-11-15T18:45:47+0000",
-   "likes": 1,
+   "likes": 2,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfxdG5ejbK2/",
    "titulo": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (2/7): las 5 me",
-   "views": 154,
-   "reach": 133,
+   "views": 171,
+   "reach": 158,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 1,
-   "ig_reels_avg_watch_time": 6370,
-   "ig_reels_video_view_total_time": 847331
+   "total_interactions": 2,
+   "ig_reels_avg_watch_time": 6115,
+   "ig_reels_video_view_total_time": 966222
   },
   {
    "id": "slp_125_feijoo_pensiones",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfw1vNfAVwU/",
    "titulo": "¿Peligran tus pensiones? 👇\n\nJordi Wild pregunta a Feijóo (PP",
-   "views": 1750,
-   "reach": 1340,
+   "views": 1758,
+   "reach": 1346,
    "saved": 1,
    "shares": 1,
    "total_interactions": 13,
-   "ig_reels_avg_watch_time": 10708,
-   "ig_reels_video_view_total_time": 14220470
+   "ig_reels_avg_watch_time": 10686,
+   "ig_reels_video_view_total_time": 14255452
   },
   {
    "id": "slp_124_feijoo_inmigracion",
@@ -62,7 +78,7 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfwhBtZjnR4/",
    "titulo": "¿Ego o servicio? 👇\n\nLa primera pregunta de Jordi Wild a Pedr",
-   "views": 1362,
+   "views": 1363,
    "reach": 1069,
    "saved": 0,
    "shares": 0,
@@ -78,13 +94,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfwWxHjCeGr/",
    "titulo": "¿Te lo crees? 👇\n\nJordi Wild pregunta a Feijóo (PP) por Isabe",
-   "views": 1765,
-   "reach": 1367,
+   "views": 1767,
+   "reach": 1368,
    "saved": 0,
    "shares": 0,
    "total_interactions": 6,
-   "ig_reels_avg_watch_time": 13178,
-   "ig_reels_video_view_total_time": 17936160
+   "ig_reels_avg_watch_time": 13175,
+   "ig_reels_video_view_total_time": 17945021
   },
   {
    "id": "slp_120_sanchez_ceutis",
@@ -94,13 +110,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfwMbR6lw9a/",
    "titulo": "¿Se gestionó bien? 👇\n\nJordi Wild pregunta a Pedro Sánchez (P",
-   "views": 1599,
-   "reach": 1220,
+   "views": 1600,
+   "reach": 1221,
    "saved": 0,
    "shares": 0,
    "total_interactions": 3,
-   "ig_reels_avg_watch_time": 19449,
-   "ig_reels_video_view_total_time": 24019630
+   "ig_reels_avg_watch_time": 19433,
+   "ig_reels_video_view_total_time": 24020297
   },
   {
    "id": "slp_119_sanchez_movil_marruecos",
@@ -110,13 +126,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfvSEBjAX64/",
    "titulo": "¿Qué opinas? 👇\n\nJordi Wild le plantea a Pedro Sánchez (PSOE)",
-   "views": 1428,
-   "reach": 1143,
+   "views": 1430,
+   "reach": 1145,
    "saved": 1,
    "shares": 0,
    "total_interactions": 9,
-   "ig_reels_avg_watch_time": 12266,
-   "ig_reels_video_view_total_time": 14033078
+   "ig_reels_avg_watch_time": 12257,
+   "ig_reels_video_view_total_time": 14035182
   },
   {
    "id": "slp_122_feijoo_verificadores",
@@ -158,13 +174,13 @@
    "comentarios": 7,
    "url": "https://www.instagram.com/reel/Dfu5q5lDaLQ/",
    "titulo": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (1/7): las 5 me",
-   "views": 1380,
-   "reach": 1173,
+   "views": 1387,
+   "reach": 1175,
    "saved": 3,
-   "shares": 1,
-   "total_interactions": 34,
-   "ig_reels_avg_watch_time": 32342,
-   "ig_reels_video_view_total_time": 38422820
+   "shares": 3,
+   "total_interactions": 36,
+   "ig_reels_avg_watch_time": 32323,
+   "ig_reels_video_view_total_time": 38497355
   },
   {
    "id": "slp_117_sanchez_no_lo_veo_claro",
@@ -174,13 +190,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfuv-4DmXsX/",
    "titulo": "¿Gana o no gana? 👇\n\nEl cierre de la entrevista de Jordi Wild",
-   "views": 2950,
+   "views": 2951,
    "reach": 2273,
    "saved": 0,
    "shares": 6,
    "total_interactions": 13,
-   "ig_reels_avg_watch_time": 12687,
-   "ig_reels_video_view_total_time": 29016394
+   "ig_reels_avg_watch_time": 12689,
+   "ig_reels_video_view_total_time": 29034090
   },
   {
    "id": "slp_116_sanchez_bildu_mordor",
@@ -238,13 +254,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dft8O3-jan9/",
    "titulo": "¿Te parece bien? 👇\n\nJordi Wild aprieta a Ada Colau (Frente A",
-   "views": 1815,
-   "reach": 1362,
+   "views": 1816,
+   "reach": 1364,
    "saved": 1,
    "shares": 0,
    "total_interactions": 19,
-   "ig_reels_avg_watch_time": 14194,
-   "ig_reels_video_view_total_time": 19545593
+   "ig_reels_avg_watch_time": 14185,
+   "ig_reels_video_view_total_time": 19546965
   },
   {
    "id": "slp_110_sanchez_falcon",
@@ -254,13 +270,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dft1XeRkWiw/",
    "titulo": "Comenta 👇\n\nEl momento más distendido de la entrevista de Jor",
-   "views": 1610,
-   "reach": 1303,
+   "views": 1611,
+   "reach": 1304,
    "saved": 1,
    "shares": 0,
    "total_interactions": 7,
-   "ig_reels_avg_watch_time": 13046,
-   "ig_reels_video_view_total_time": 16986041
+   "ig_reels_avg_watch_time": 13038,
+   "ig_reels_video_view_total_time": 16989679
   },
   {
    "id": "slp_107_feijoo_vox_trump",
@@ -270,13 +286,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dftujc6nE3z/",
    "titulo": "¿Te convence? 👇\n\nJordi Wild pregunta a Feijóo (PP) si tiene ",
-   "views": 1383,
-   "reach": 1133,
+   "views": 1385,
+   "reach": 1134,
    "saved": 0,
    "shares": 0,
    "total_interactions": 6,
-   "ig_reels_avg_watch_time": 11795,
-   "ig_reels_video_view_total_time": 13305330
+   "ig_reels_avg_watch_time": 11786,
+   "ig_reels_video_view_total_time": 13307373
   },
   {
    "id": "slp_111_sanchez_hemeroteca",
@@ -318,13 +334,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfskyUdEvcx/",
    "titulo": "¿Estás de acuerdo? 👇\n\nJordi Wild pregunta a Pedro Sánchez (P",
-   "views": 1603,
-   "reach": 1209,
+   "views": 1604,
+   "reach": 1211,
    "saved": 0,
    "shares": 1,
    "total_interactions": 16,
-   "ig_reels_avg_watch_time": 12193,
-   "ig_reels_video_view_total_time": 15107998
+   "ig_reels_avg_watch_time": 12186,
+   "ig_reels_video_view_total_time": 15111190
   },
   {
    "id": "slp_106_feijoo_define_rivales",
@@ -350,13 +366,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfsThaEAYKJ/",
    "titulo": "¿Quién tiene razón? 👇\n\nJordi Wild critica a los políticos po",
-   "views": 2397,
+   "views": 2398,
    "reach": 1820,
    "saved": 1,
    "shares": 0,
    "total_interactions": 12,
-   "ig_reels_avg_watch_time": 12947,
-   "ig_reels_video_view_total_time": 23887857
+   "ig_reels_avg_watch_time": 12943,
+   "ig_reels_video_view_total_time": 23893615
   },
   {
    "id": "slp_102_colau_define_rivales",
@@ -430,13 +446,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfrxMDvDMy0/",
    "titulo": "¿Qué te parece? 👇\n\nAl final de la entrevista, Jordi Wild pid",
-   "views": 1683,
-   "reach": 1288,
+   "views": 1685,
+   "reach": 1290,
    "saved": 0,
    "shares": 1,
    "total_interactions": 26,
-   "ig_reels_avg_watch_time": 11366,
-   "ig_reels_video_view_total_time": 14663315
+   "ig_reels_avg_watch_time": 11359,
+   "ig_reels_video_view_total_time": 14665458
   },
   {
    "id": "slp_100_feijoo_wild_foto",
@@ -654,13 +670,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfmN2VWDcCH/",
    "titulo": "¿La vivienda justifica una huelga general? Sí o no 👇\n\nLa his",
-   "views": 122,
-   "reach": 113,
+   "views": 124,
+   "reach": 114,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 3278,
-   "ig_reels_video_view_total_time": 376979
+   "ig_reels_avg_watch_time": 3270,
+   "ig_reels_video_view_total_time": 379424
   },
   {
    "id": "slp_088_audiencia_abascal_sanchez",
@@ -958,13 +974,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dffl2MZk6T7/",
    "titulo": "¿Tiene razón Rufián con el PSOE? Sí o no 👇\n\nRufián, su libro",
-   "views": 126,
-   "reach": 114,
+   "views": 127,
+   "reach": 115,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 7746,
-   "ig_reels_video_view_total_time": 898589
+   "ig_reels_avg_watch_time": 7694,
+   "ig_reels_video_view_total_time": 900216
   },
   {
    "id": "slp_061_bulos_izquierda_2",
@@ -1230,13 +1246,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfXrBxanOr-/",
    "titulo": "Si gobierna la derecha… ¿qué es verdad y qué es bulo? Parte ",
-   "views": 147,
+   "views": 149,
    "reach": 132,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 8978,
-   "ig_reels_video_view_total_time": 1176235
+   "ig_reels_avg_watch_time": 8925,
+   "ig_reels_video_view_total_time": 1178206
   },
   {
    "id": "slp_051_uco_abalos",
@@ -1422,13 +1438,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfS0dN_DEFN/",
    "titulo": "Óscar Puente dimite como ministro de Transportes al final de",
-   "views": 116,
-   "reach": 99,
+   "views": 118,
+   "reach": 100,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 8139,
-   "ig_reels_video_view_total_time": 830194
+   "ig_reels_avg_watch_time": 8080,
+   "ig_reels_video_view_total_time": 832278
   },
   {
    "id": "?",
@@ -1486,13 +1502,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfSbeH7kS18/",
    "titulo": "Tras la muerte de Jesús de Miguel, el portero del Andorra ha",
-   "views": 139,
-   "reach": 117,
+   "views": 141,
+   "reach": 118,
    "saved": 1,
    "shares": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 7098,
-   "ig_reels_video_view_total_time": 858925
+   "ig_reels_avg_watch_time": 7063,
+   "ig_reels_video_view_total_time": 861691
   },
   {
    "id": "slp_034_de_miguel_ley",
@@ -1589,22 +1605,6 @@
    "total_interactions": 2,
    "ig_reels_avg_watch_time": 5332,
    "ig_reels_video_view_total_time": 597247
-  },
-  {
-   "id": "slp_010_176",
-   "ig": "18117931154604470",
-   "fecha": "2026-11-01T21:46:00+0000",
-   "likes": 1,
-   "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfNuonrgv6X/",
-   "titulo": "176: el número que decide quién gobierna, y qué pasa si nadi",
-   "views": 111,
-   "reach": 106,
-   "saved": 0,
-   "shares": 0,
-   "total_interactions": 1,
-   "ig_reels_avg_watch_time": 7706,
-   "ig_reels_video_view_total_time": 824575
   }
  ]
 }
