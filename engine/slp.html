@@ -33,6 +33,13 @@ html,body{width:1080px;height:1920px;overflow:hidden;background:var(--paper);col
 .fine{background:var(--card);border:4px solid var(--ink);border-radius:12px;padding:30px 36px;font:700 27px/1.35 T;position:relative;overflow:visible;min-height:230px}
 .lens{position:absolute;width:600px;height:330px;border-radius:165px;border:14px solid var(--ink);background:var(--card);display:flex;align-items:center;justify-content:center;text-align:center;font:900 62px/1.02 F;letter-spacing:-1px;padding:0 40px;box-shadow:0 18px 0 -6px rgba(20,33,61,.18)}
 .lens:after{content:"";position:absolute;right:-74px;bottom:-56px;width:110px;height:30px;background:var(--ink);border-radius:15px;transform:rotate(38deg)}
+#endc{position:absolute;left:40px;right:40px;top:1160px;background:var(--ink);border-radius:40px;padding:34px 30px 30px;text-align:center;opacity:0;box-shadow:0 14px 0 var(--mark);z-index:70}
+#endc .h{font:900 74px/1 I;color:#F3EEE3;letter-spacing:1px}
+#endc .r{font:700 40px/1.2 I;color:#F3EEE3;margin-top:14px}
+#endc .r b{background:var(--mark);color:var(--ink);padding:0 10px;border-radius:8px}
+#endc .btn{display:inline-block;margin-top:22px;background:#0095F6;color:#fff;font:900 50px I;padding:14px 64px;border-radius:18px}
+#endc .nx{font:900 36px I;color:var(--mark);margin-top:18px}
+#nudge{position:absolute;top:300px;left:50%;transform:translateX(-50%);background:#0095F6;color:#fff;font:900 36px I;padding:12px 26px;border-radius:999px;white-space:nowrap;opacity:0;z-index:65;box-shadow:0 8px 0 rgba(0,0,0,.25)}
 #follow{position:absolute;top:1450px;left:50%;transform:translateX(-50%);background:var(--ink);color:#F3EEE3;font:900 40px/1.15 I;padding:16px 30px 18px;border-radius:26px;white-space:nowrap;opacity:0;box-shadow:0 10px 0 var(--mark)}
 #follow b{background:var(--mark);color:var(--ink);padding:0 12px;border-radius:10px;margin-left:8px}
 #caps{position:absolute;top:1330px;left:40px;right:40px;text-align:center;font:900 60px/1.25 I;white-space:nowrap}
@@ -93,7 +100,7 @@ body.th-pixel{--ink:#F7F1FF;--paper:#1A0F3A;--card:#2B1B5E;--mark:#39FF14;--red:
 <body><div id="stage"><div id="bgfx"></div><div id="margin"></div>
 <div id="hdr"><div id="htag"></div><div id="hand"><span id="handle">@politizatehoy</span><span id="ast"></span></div></div>
 <div id="src"></div><div id="clauses"></div><div id="prog"><i></i></div>
-<div id="els"></div><div id="caps"></div><div id="follow"></div></div>
+<div id="els"></div><div id="caps"></div><div id="follow"></div><div id="endc"></div><div id="nudge"></div></div>
 <script src="monos.js"></script>
 <script src="props.js"></script>
 <script>
@@ -233,6 +240,11 @@ function init(d){D=d;DATA_BRAND=d.brand||DATA_BRAND;if(d.tema){document.body.cla
  document.getElementById('src').textContent=d.header.source||'';
  document.getElementById('ast').innerHTML=AST(44);
  const fo=document.getElementById('follow');D.followTxt=(d.follow===false)?'':(typeof d.follow==='string'?d.follow:FOLLOW_DEF);fo.innerHTML=D.followTxt;
+
+ {const se=d.serie||null;const dias=Math.max(0,Math.round((new Date('2026-11-29T12:00:00')-new Date())/864e5));D.dias=dias;
+  const ec=document.getElementById('endc');D.endOn=(d.follow!==false);
+  ec.innerHTML=`<div class="h">🔔 SÍGUENOS</div><div class="r">Cada día, lo más fuerte de la campaña.<br>Quedan <b>${dias} días</b> para el 29-N</div><div class="btn">Seguir</div>${se&&se.next?`<div class="nx">${se.next}</div>`:''}`;
+  const nu=document.getElementById('nudge');nu.innerHTML=se&&se.n?`🔔 Parte ${se.n}${se.de?'/'+se.de:''} · sigue para no perderte nada`:'🔔 Sigue @politizatehoy · campaña día a día';}
  const cb=document.getElementById('clauses');
  const L=d.clauseLabels||[];let h='';for(let i=1;i<=d.clauses;i++)h+=`<div class="cl" data-c="${i}"><i></i><b>${L[i-1]||'CLÁUSULA '+i}</b></div>`;
  h+=`<div class="cl" data-c="-1" style="flex:1.3"><i></i><b>${L[d.clauses]||'LETRA PEQUEÑA*'}</b></div>`;cb.innerHTML=h;
@@ -254,7 +266,10 @@ function render(t){
   if(sIdx>=0){const s=sc[sIdx];f=clamp((t-s.t0)/(s.t1-s.t0));}
   c.querySelector('i').style.transform=`scaleX(${f})`;});
  document.querySelector('#prog i').style.width=clamp(t/D.duration)*100+'%';
- if(D.followTxt){const fo=document.getElementById('follow'),a=t-(D.duration-3.2);const q=back(clamp(a/0.35));fo.style.opacity=a>0?1:0;fo.style.transform=`translateX(-50%) translateY(${(1-q)*60}px) scale(${0.7+0.3*q}) rotate(${-1.5+Math.sin(t*6)*0.6*(a>0?1:0)}deg)`;}
+
+ if(D.endOn){const ec=document.getElementById('endc'),a=t-(D.duration-3.0);const q=back(clamp(a/0.35));ec.style.opacity=a>0?1:0;ec.style.transform=`translateY(${(1-q)*120}px) scale(${0.8+0.2*q})`;const b=ec.querySelector('.btn');if(b)b.style.transform=`scale(${1+0.06*Math.sin(t*9)*(a>0.4?1:0)})`;
+  const nu=document.getElementById('nudge'),m=D.duration*0.45,u=t-m;const on=u>0&&u<2.2;nu.style.opacity=on?Math.min(1,u/0.2,(2.2-u)/0.2):0;nu.style.transform=`translateX(-50%) translateY(${on?0:-30}px)`;}
+ if(false&&D.followTxt){const fo=document.getElementById('follow'),a=t-(D.duration-3.2);const q=back(clamp(a/0.35));fo.style.opacity=a>0?1:0;fo.style.transform=`translateX(-50%) translateY(${(1-q)*60}px) scale(${0.7+0.3*q}) rotate(${-1.5+Math.sin(t*6)*0.6*(a>0?1:0)}deg)`;}
  // asterisco esquina
  let kick=0;sc.forEach(s=>s.segments.forEach(g=>g.show.forEach(e=>{if(e.type==='stamp'&&t>=e.t&&t<e.t+0.4)kick=Math.max(kick,1-(t-e.t)/0.4)})));
  document.getElementById('ast').style.transform=`rotate(${t*40}deg) scale(${1+kick*0.5})`;

@@ -179,3 +179,13 @@ Referencia: canal @que.cambia («Lo que pasa y cómo te afecta, sin bandos»). N
 - ZONAS (nada tapa el texto): ARRIBA y 16–22 % titular/tarjetas · MEDIO 24–66 % personajes y objetos · subtítulos fijos abajo. Personajes w 240–320.
 - Mismo estilo y trato para todos los políticos. Siempre algo moviéndose: cada 2–3 s cambia algo (entra un personaje, objeto, gesto, expresión, transición).
 - Intercalar: ~1 de cada 3 vídeos en monigotes; comparar números cada domingo.
+
+## CONVERTIR VISITAS EN SEGUIDORES (15-N)
+Dato: 41.000 visualizaciones de las entrevistas de Wild → solo +6 seguidores. Cambios aplicados:
+- Cierre nuevo en todos los vídeos (slp.html #endc): «🔔 SÍGUENOS», motivo («cada día, lo más fuerte de la campaña»), cuenta atrás «Quedan N días para el 29-N», botón azul «Seguir» y, si es serie, «Mañana: …».
+- Aviso a mitad de vídeo (#nudge, al 45 %): «🔔 Parte X/Y · sigue para no perderte nada».
+- Todo en SERIES numeradas: guion con "serie": {"n":3,"de":7,"next":"Mañana: …"}. La portada lleva «n/de».
+- Locución: cerrar con «Mañana, [lo siguiente]. Síguenos para no perdértelo» en vez de «Comenta y síguenos».
+- CTA del caption (publicar.py) reforzado.
+- Ritmo: 5 al día (más no suma: 11 y 12 vídeos/día dieron lo mismo). Horas: 08:30, 13:30, 16:30, 18:30, 23:00.
+- Pide a Nicks: fijar en el perfil los 3 mejores reels y bio con promesa clara («La campaña del 29-N explicada en 60 s, cada día»).

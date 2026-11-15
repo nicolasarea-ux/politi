@@ -15,7 +15,7 @@ USER = os.environ["IG_USER_ID"]
 
 
 # Línea "sígueme" que se añade al final del copy (cambiar tras el 14-N; vacío = nada)
-CTA = "👉 Síguenos: te contamos la campaña día a día hasta el 29-N."
+CTA = "🔔 Síguenos: cada día lo más fuerte de la campaña hasta el 29-N. Si te lo pierdes, te lo contamos aquí."
 
 def con_cta(c):
     if not CTA or CTA in c:

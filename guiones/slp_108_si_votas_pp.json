@@ -2,7 +2,11 @@
  "id": "slp_108_si_votas_pp",
  "brand": "Politízate Hoy",
  "formato": "top5",
- "serie": "si_votas_a",
+ "serie": {
+  "n": 2,
+  "de": 7,
+  "next": "Mañana: si votas a Vox"
+ },
  "tono": "normal",
  "clauses": 3,
  "clauseLabels": [
