@@ -2,18 +2,18 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 37,
-  "media_count": 105,
+  "media_count": 106,
   "id": "29046307255021601"
  },
  "reels": [
   {
-   "id": "slp_120_sanchez_ceutis",
-   "ig": "18020168597745254",
-   "fecha": "2026-11-15T07:00:32+0000",
+   "id": "slp_123_feijoo_ayuso",
+   "ig": "18119176223083093",
+   "fecha": "2026-11-15T08:31:02+0000",
    "likes": 0,
    "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfwMbR6lw9a/",
-   "titulo": "¿Se gestionó bien? 👇\n\nJordi Wild pregunta a Pedro Sánchez (P",
+   "url": "https://www.instagram.com/reel/DfwWxHjCeGr/",
+   "titulo": "¿Te lo crees? 👇\n\nJordi Wild pregunta a Feijóo (PP) por Isabe",
    "views": 0,
    "reach": 0,
    "saved": 0,
@@ -23,6 +23,22 @@
    "ig_reels_video_view_total_time": 0
   },
   {
+   "id": "slp_120_sanchez_ceutis",
+   "ig": "18020168597745254",
+   "fecha": "2026-11-15T07:00:32+0000",
+   "likes": 2,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfwMbR6lw9a/",
+   "titulo": "¿Se gestionó bien? 👇\n\nJordi Wild pregunta a Pedro Sánchez (P",
+   "views": 1454,
+   "reach": 840,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 2,
+   "ig_reels_avg_watch_time": 10308,
+   "ig_reels_video_view_total_time": 8638897
+  },
+  {
    "id": "slp_119_sanchez_movil_marruecos",
    "ig": "17990602686113869",
    "fecha": "2026-11-14T22:30:31+0000",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfvSEBjAX64/",
    "titulo": "¿Qué opinas? 👇\n\nJordi Wild le plantea a Pedro Sánchez (PSOE)",
-   "views": 1423,
-   "reach": 1141,
+   "views": 1428,
+   "reach": 1143,
    "saved": 1,
    "shares": 0,
    "total_interactions": 8,
-   "ig_reels_avg_watch_time": 12291,
-   "ig_reels_video_view_total_time": 14000222
+   "ig_reels_avg_watch_time": 12282,
+   "ig_reels_video_view_total_time": 14027002
   },
   {
    "id": "slp_122_feijoo_verificadores",
@@ -74,17 +90,17 @@
    "id": "slp_101_si_votas_psoe",
    "ig": "18129459241922283",
    "fecha": "2026-11-14T18:57:40+0000",
-   "likes": 18,
-   "comentarios": 3,
+   "likes": 20,
+   "comentarios": 4,
    "url": "https://www.instagram.com/reel/Dfu5q5lDaLQ/",
    "titulo": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (1/7): las 5 me",
-   "views": 1258,
-   "reach": 1073,
+   "views": 1321,
+   "reach": 1126,
    "saved": 3,
    "shares": 1,
-   "total_interactions": 26,
-   "ig_reels_avg_watch_time": 32333,
-   "ig_reels_video_view_total_time": 34499600
+   "total_interactions": 29,
+   "ig_reels_avg_watch_time": 33549,
+   "ig_reels_video_view_total_time": 37944204
   },
   {
    "id": "slp_117_sanchez_no_lo_veo_claro",
@@ -94,13 +110,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfuv-4DmXsX/",
    "titulo": "¿Gana o no gana? 👇\n\nEl cierre de la entrevista de Jordi Wild",
-   "views": 2854,
-   "reach": 2190,
+   "views": 2884,
+   "reach": 2207,
    "saved": 0,
    "shares": 6,
    "total_interactions": 12,
-   "ig_reels_avg_watch_time": 12650,
-   "ig_reels_video_view_total_time": 27944208
+   "ig_reels_avg_watch_time": 12669,
+   "ig_reels_video_view_total_time": 28329664
   },
   {
    "id": "slp_116_sanchez_bildu_mordor",
@@ -110,13 +126,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfuh_1AmVLv/",
    "titulo": "¿Pacto o acuerdos puntuales? 👇\n\nJordi Wild recuerda a Pedro ",
-   "views": 1406,
+   "views": 1407,
    "reach": 1091,
    "saved": 0,
    "shares": 1,
    "total_interactions": 5,
-   "ig_reels_avg_watch_time": 12739,
-   "ig_reels_video_view_total_time": 14013934
+   "ig_reels_avg_watch_time": 12730,
+   "ig_reels_video_view_total_time": 14016062
   },
   {
    "id": "slp_113_sanchez_vacaciones_ceuta",
@@ -158,13 +174,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dft8O3-jan9/",
    "titulo": "¿Te parece bien? 👇\n\nJordi Wild aprieta a Ada Colau (Frente A",
-   "views": 1810,
-   "reach": 1357,
+   "views": 1811,
+   "reach": 1358,
    "saved": 1,
    "shares": 0,
    "total_interactions": 19,
-   "ig_reels_avg_watch_time": 14225,
-   "ig_reels_video_view_total_time": 19532158
+   "ig_reels_avg_watch_time": 14215,
+   "ig_reels_video_view_total_time": 19532708
   },
   {
    "id": "slp_110_sanchez_falcon",
@@ -174,13 +190,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dft1XeRkWiw/",
    "titulo": "Comenta 👇\n\nEl momento más distendido de la entrevista de Jor",
-   "views": 1604,
-   "reach": 1298,
+   "views": 1607,
+   "reach": 1301,
    "saved": 1,
    "shares": 0,
    "total_interactions": 7,
-   "ig_reels_avg_watch_time": 13058,
-   "ig_reels_video_view_total_time": 16936746
+   "ig_reels_avg_watch_time": 13045,
+   "ig_reels_video_view_total_time": 16959291
   },
   {
    "id": "slp_107_feijoo_vox_trump",
@@ -686,7 +702,7 @@
    "comentarios": 12,
    "url": "https://www.instagram.com/reel/Dfj7826HcKP/",
    "titulo": "¿Cuál fue el mejor momento? Comenta el número 👇\n\nLos 5 momen",
-   "views": 3552,
+   "views": 3553,
    "reach": 2792,
    "saved": 2,
    "shares": 2,
@@ -702,7 +718,7 @@
    "comentarios": 3,
    "url": "https://www.instagram.com/reel/DfjuQ9FDEBu/",
    "titulo": "¿Tiene razón Abascal con la vivienda? Sí o no 👇\n\nEn La Revue",
-   "views": 162,
+   "views": 164,
    "reach": 136,
    "saved": 0,
    "shares": 0,
@@ -750,7 +766,7 @@
    "comentarios": 14,
    "url": "https://www.instagram.com/reel/Dfin0h_FrdC/",
    "titulo": "¿Debe el invitado poder elegir el público? Sí o no 👇\n\nEn La ",
-   "views": 2580,
+   "views": 2581,
    "reach": 1956,
    "saved": 2,
    "shares": 0,
@@ -1589,22 +1605,6 @@
    "total_interactions": 1,
    "ig_reels_avg_watch_time": 5218,
    "ig_reels_video_view_total_time": 579241
-  },
-  {
-   "id": "slp_006_quien_colau",
-   "ig": "18495718330108874",
-   "fecha": "2026-10-31T19:15:14+0000",
-   "likes": 1,
-   "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfK4ly_kmx8/",
-   "titulo": "Quién es quién 2/5: Ada Colau en 30 segundos. Trayectoria, p",
-   "views": 44,
-   "reach": 42,
-   "saved": 0,
-   "shares": 0,
-   "total_interactions": 1,
-   "ig_reels_avg_watch_time": 4691,
-   "ig_reels_video_view_total_time": 197046
   }
  ]
 }
