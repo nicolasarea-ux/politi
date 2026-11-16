@@ -1,0 +1,243 @@
+{
+ "id": "slp_135_diaz_oit",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "1 LA RETIRADA",
+  "2 Y AHORA QUÉ",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "YOLANDA DÍAZ · OIT",
+  "source": "Fuentes: elDiario.es y Euronews (16-11)"
+ },
+ "fechaPub": "2026-11-16T16:30:00+01:00",
+ "follow": "El jueves 19: el cara a cara Sánchez–Feijóo",
+ "portada": {
+  "serie": "ÚLTIMA HORA",
+  "titulo": "Yolanda Díaz *se retira* de la OIT",
+  "mini": {
+   "texto": "Yolanda Díaz deja la OIT:",
+   "rojo": "«NO VOY A DIVIDIR»",
+   "emoji": "🏳️",
+   "flecha": false,
+   "tam": 86
+  },
+  "monos": [
+   {
+    "who": "diaz",
+    "cara": "duda",
+    "gesto": "manos"
+   }
+  ]
+ },
+ "caption": "¿Ha hecho bien en retirarse? Sí o no 👇\n\nYolanda Díaz (vicepresidenta segunda y ministra de Trabajo) retiró este lunes 16-N, a unas horas de la votación en Ginebra, su candidatura a dirigir la Organización Internacional del Trabajo (OIT), donde se enfrentaba al actual director, Gilbert F. Houngbo.\n\n• «No voy a dividir al movimiento sindical, voy a preservar su unidad».\n• Sobre la dirección actual: la ha llevado a «la peor crisis de su historia».\n• Díaz no va en las listas del 29-N: renunció a ser candidata en febrero.\n\nFuentes: elDiario.es y Euronews (16-11); Euronews (25-02) sobre su renuncia a ser candidata.\n\n#elecciones #29N #eleccionesgenerales #YolandaDíaz #OIT",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Yolanda Díaz tira la toalla: retira su candidatura a dirigir la OIT.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Yolanda Díaz *se retira*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "d0",
+       "type": "mono",
+       "who": "diaz",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "label": "Yolanda Díaz"
+      },
+      {
+       "id": "s0",
+       "type": "stamp",
+       "text": "SE RETIRA",
+       "color": "red",
+       "x": 50,
+       "y": 33,
+       "rot": -5,
+       "at": 5
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "A horas de votar en Ginebra contra el director actual, Gilbert Houngbo.",
+     "show": [
+      {
+       "id": "k1",
+       "type": "card",
+       "text": "OIT · Ginebra · votación hoy",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      },
+      {
+       "id": "t1",
+       "type": "sticker",
+       "text": "🇨🇭",
+       "x": 86,
+       "y": 30,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "h1",
+      "s0"
+     ]
+    },
+    {
+     "text": "Su frase: «No voy a dividir al movimiento sindical».",
+     "show": [
+      {
+       "id": "d1",
+       "type": "mono",
+       "who": "diaz",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 0,
+       "habla": true,
+       "cara": "neutral",
+       "gesto": "habla",
+       "say": "«No voy a dividir al movimiento sindical»",
+       "tf": [
+        0.2,
+        1
+       ],
+       "bub": "r",
+       "bw": 380,
+       "bfs": 38,
+       "label": "Yolanda Díaz"
+      }
+     ],
+     "hide": [
+      "d0",
+      "k1",
+      "t1"
+     ]
+    },
+    {
+     "text": "Y acusa a la dirección de la OIT de llevarla a «la peor crisis de su historia».",
+     "show": [
+      {
+       "id": "k2",
+       "type": "card",
+       "text": "«La peor crisis de su historia»",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      },
+      {
+       "id": "t2",
+       "type": "sticker",
+       "text": "⚠️",
+       "x": 86,
+       "y": 30,
+       "at": 2
+      }
+     ],
+     "hide": []
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "¿Y ahora? Díaz no va en las listas del 29-N|veintinueve y sigue como ministra de Trabajo.",
+     "show": [
+      {
+       "id": "k3",
+       "type": "card",
+       "text": "No va en las listas del 29-N",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      },
+      {
+       "id": "d2",
+       "type": "mono",
+       "who": "diaz",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "quieto",
+       "label": "Ministra de Trabajo"
+      },
+      {
+       "id": "t3",
+       "type": "sticker",
+       "text": "🗳️",
+       "x": 86,
+       "y": 30,
+       "at": 3
+      }
+     ],
+     "hide": [
+      "d1",
+      "k2",
+      "t2"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Ha hecho bien en retirarse? Sí o no. Síguenos: el jueves, el cara a cara.",
+     "show": [
+      {
+       "id": "d3",
+       "type": "mono",
+       "who": "diaz",
+       "x": 50,
+       "y": 44,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "brazos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿SÍ O NO?",
+       "color": "ink",
+       "x": 50,
+       "y": 64,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "k3",
+      "d2",
+      "t3"
+     ]
+    }
+   ]
+  }
+ ]
+}

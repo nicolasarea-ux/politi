@@ -1,0 +1,296 @@
+{
+ "id": "slp_137_cara_a_cara_previa",
+ "brand": "Politízate Hoy",
+ "formato": "vs",
+ "tono": "normal",
+ "clauses": 3,
+ "clauseLabels": [
+  "1 CUÁNDO",
+  "2 LOS 5 TEMAS",
+  "3 Y DESPUÉS",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "CARA A CARA · 19-N",
+  "source": "Fuentes: OKDIARIO (13-11) e Infobae (16-11)"
+ },
+ "fechaPub": "2026-11-18T13:30:00+01:00",
+ "follow": "Mañana 19-N: lo que dijeron en el cara a cara",
+ "portada": {
+  "serie": "CARA A CARA",
+  "titulo": "Sánchez vs Feijóo: *mañana, cara a cara*",
+  "mini": {
+   "texto": "Sánchez vs Feijóo",
+   "rojo": "CARA A CARA",
+   "emoji": "🥊",
+   "flecha": false,
+   "tam": 86
+  },
+  "monos": [
+   {
+    "who": "feijoo",
+    "cara": "neutral",
+    "gesto": "manos"
+   },
+   {
+    "who": "sanchez",
+    "cara": "neutral",
+    "gesto": "manos"
+   }
+  ]
+ },
+ "caption": "¿Quién gana: Feijóo o Sánchez? 👇\n\nEl único cara a cara de la campaña del 29-N:\n• Jueves 19-N, a las 22:00 (Infobae, 16-11).\n• Lo produce la Academia de la Televisión con una señal común para todas las cadenas que quieran emitirlo, sin exclusiva; modera María Casado (OKDIARIO, 13-11).\n• Cinco bloques, en este orden: vivienda; economía y fiscalidad; política social y servicios públicos; corrupción y regeneración; migración y política exterior.\n• Por sorteo, abre Feijóo y cierra Sánchez.\n• El 26-N, debate a cuatro con Abascal y Colau (Infobae).\n\nFuentes: OKDIARIO (13-11) e Infobae (16-11).\n\n#elecciones #29N #eleccionesgenerales #debate #caraacara",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Mañana, Feijóo y Sánchez, cara a cara. Lo que tienes que saber.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Mañana: *cara a cara*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "fe",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 28,
+       "y": 47,
+       "w": 260,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "senala",
+       "label": "Feijóo"
+      },
+      {
+       "id": "sa",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 72,
+       "y": 47,
+       "w": 260,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "senala",
+       "label": "Sánchez",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "vs",
+       "type": "stamp",
+       "text": "VS",
+       "color": "red",
+       "x": 50,
+       "y": 46,
+       "rot": 0,
+       "at": 4
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Jueves diecinueve, a las diez de la noche. En todas las cadenas que quieran: la señal es de la Academia de la Televisión.",
+     "show": [
+      {
+       "id": "k1",
+       "type": "card",
+       "text": "Jueves 19 · 22:00",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      },
+      {
+       "id": "t1",
+       "type": "sticker",
+       "text": "📺",
+       "x": 86,
+       "y": 30,
+       "at": 3
+      }
+     ],
+     "hide": [
+      "h1",
+      "vs"
+     ]
+    },
+    {
+     "text": "Modera María Casado.",
+     "show": [
+      {
+       "id": "k2",
+       "type": "card",
+       "text": "Modera: María Casado",
+       "x": 50,
+       "y": 30,
+       "w": 920,
+       "at": 0
+      }
+     ],
+     "hide": []
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cinco bloques, por este orden: vivienda, economía, servicios públicos, corrupción y migración.",
+     "show": [
+      {
+       "id": "k3",
+       "type": "card",
+       "text": "🏠 Vivienda · 💶 Economía · 🏥 Servicios · ⚖️ Corrupción · 🌍 Migración",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      },
+      {
+       "id": "s5",
+       "type": "stamp",
+       "text": "5 TEMAS",
+       "color": "ink",
+       "x": 50,
+       "y": 46,
+       "rot": -5,
+       "at": 2
+      }
+     ],
+     "hide": [
+      "k1",
+      "t1",
+      "k2",
+      "fe",
+      "sa"
+     ]
+    },
+    {
+     "text": "Por sorteo, abre Feijóo y cierra Sánchez.",
+     "show": [
+      {
+       "id": "k4",
+       "type": "card",
+       "text": "Abre Feijóo · Cierra Sánchez",
+       "x": 50,
+       "y": 46,
+       "w": 920,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "k3",
+      "s5"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Y el veintiséis, debate a cuatro con Abascal y Colau.",
+     "show": [
+      {
+       "id": "k5",
+       "type": "card",
+       "text": "26-N: debate a cuatro",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      },
+      {
+       "id": "ab",
+       "type": "mono",
+       "who": "abascal",
+       "x": 28,
+       "y": 50,
+       "w": 230,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "quieto",
+       "label": "Abascal"
+      },
+      {
+       "id": "cl",
+       "type": "mono",
+       "who": "colau",
+       "x": 72,
+       "y": 50,
+       "w": 230,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "quieto",
+       "label": "Colau"
+      }
+     ],
+     "hide": [
+      "k4"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Quién gana: Feijóo o Sánchez? Síguenos: el jueves, lo que dijeron.",
+     "show": [
+      {
+       "id": "fe2",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 28,
+       "y": 44,
+       "w": 250,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "brazos"
+      },
+      {
+       "id": "sa2",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 72,
+       "y": 44,
+       "w": 250,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "brazos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿QUIÉN GANA?",
+       "color": "ink",
+       "x": 50,
+       "y": 66,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "k5",
+      "ab",
+      "cl"
+     ]
+    }
+   ]
+  }
+ ]
+}

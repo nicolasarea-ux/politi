@@ -1,0 +1,388 @@
+{
+ "id": "slp_136_si_votas_frente_amplio",
+ "brand": "Politízate Hoy",
+ "formato": "top5",
+ "serie": {
+  "n": 4,
+  "de": 7,
+  "next": "Mañana: si votas a Podemos"
+ },
+ "tono": "normal",
+ "clauses": 3,
+ "clauseLabels": [
+  "EL CANDIDATO",
+  "5 MEDIDAS",
+  "LA LETRA PEQUEÑA",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "SI VOTAS A… FRENTE AMPLIO",
+  "source": "Fuente: notas del Frente Amplio (24-10 a 6-11), vía Politicareal y Libre Mercado"
+ },
+ "fechaPub": "2026-11-17T19:45:00+01:00",
+ "portada": {
+  "serie": "SI VOTAS A… 4/7",
+  "titulo": "Si votas al *Frente Amplio*, esto es lo que propone",
+  "mini": {
+   "texto": "Si votas al Frente Amplio,",
+   "rojo": "PENSIÓN MÍNIMA GARANTIZADA",
+   "flecha": false,
+   "tam": 80
+  },
+  "monos": [
+   {
+    "who": "colau",
+    "cara": "sonrie",
+    "gesto": "manos"
+   }
+  ]
+ },
+ "caption": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (4/7): 5 medidas concretas del Frente Amplio (Ada Colau) para el 29-N. Mismo criterio para todos los partidos. El programa completo se presenta el 16-N; estas medidas salen de las notas del propio partido (frenteamplio.info, 24-10 a 6-11).\n5. Pensión Mínima Garantizada: ninguna pensión por debajo del salario mínimo (coste estimado por el partido: unos 10.000 millones al año).\n4. Jubilación efectiva a los 65 años.\n3. Impuesto a la acumulación de vivienda: empresas desde la primera vivienda; particulares, desde la cuarta (nota del 28-10).\n2. Impuesto anual al patrimonio neto: 2 % desde un millón de euros y 3 % desde 50 millones (nota del 5-11); y tributación mínima efectiva del 15 % para grandes empresas (24-10).\n1. Expropiar viviendas a grandes propietarios corporativos en tres fases: primero, los de más de 1.000 viviendas (nota del 6-11).\n\nLa letra pequeña: el partido calcula 10.000 millones más al año con sus impuestos (Libre Mercado cuestiona la cifra). Las medidas salen de sus notas oficiales: el programa completo se presentó el 16-N.\n\nFuentes: Politicareal (15-11) y Libre Mercado (10-11), con las notas oficiales del Frente Amplio.\n\n#FrenteAmplio #Colau #29N #elecciones #SiVotasA",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Si votas al Frente Amplio, esto es lo que propone. Cinco medidas.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Si votas al *Frente Amplio*…",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "co",
+       "type": "mono",
+       "who": "colau",
+       "x": 50,
+       "y": 46,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "sonrie",
+       "gesto": "manos",
+       "label": "Ada Colau · Frente Amplio"
+      },
+      {
+       "id": "st0",
+       "type": "stamp",
+       "text": "5 MEDIDAS",
+       "color": "red",
+       "x": 50,
+       "y": 72,
+       "rot": -4,
+       "at": 8
+      }
+     ],
+     "hide": []
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cinco: ninguna pensión por debajo del salario mínimo.",
+     "show": [
+      {
+       "id": "f5",
+       "type": "flash",
+       "text": "5",
+       "bg": "mark",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c5",
+       "type": "card",
+       "text": "Ninguna pensión por debajo del SMI",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s5",
+       "type": "sticker",
+       "text": "👵",
+       "x": 86,
+       "y": 30,
+       "at": 2
+      },
+      {
+       "id": "n5",
+       "type": "card",
+       "text": "Pensión Mínima Garantizada",
+       "x": 44,
+       "y": 40,
+       "w": 560,
+       "at": 3
+      }
+     ],
+     "hide": [
+      "h1",
+      "co",
+      "st0"
+     ]
+    },
+    {
+     "text": "Cuatro: jubilarse a los sesenta y cinco, de verdad.",
+     "show": [
+      {
+       "id": "f4",
+       "type": "flash",
+       "text": "4",
+       "bg": "ink",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "text": "Jubilación efectiva a los 65",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s4",
+       "type": "sticker",
+       "text": "⏰",
+       "x": 86,
+       "y": 30,
+       "at": 2
+      },
+      {
+       "id": "n4",
+       "type": "card",
+       "text": "Para todos",
+       "x": 44,
+       "y": 40,
+       "w": 560,
+       "at": 3
+      }
+     ],
+     "hide": [
+      "c5",
+      "s5",
+      "n5"
+     ]
+    },
+    {
+     "text": "Tres: impuesto a quien acumula casas. Empresas, desde la primera; particulares, desde la cuarta.",
+     "show": [
+      {
+       "id": "f3",
+       "type": "flash",
+       "text": "3",
+       "bg": "red",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "Impuesto a acumular vivienda",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s3",
+       "type": "sticker",
+       "text": "🏠",
+       "x": 86,
+       "y": 30,
+       "at": 2
+      },
+      {
+       "id": "n3",
+       "type": "card",
+       "text": "Empresas: desde la 1.ª casa",
+       "x": 44,
+       "y": 40,
+       "w": 560,
+       "at": 3
+      }
+     ],
+     "hide": [
+      "c4",
+      "s4",
+      "n4"
+     ]
+    },
+    {
+     "text": "Dos: un dos por ciento a los patrimonios de más de un millón.",
+     "show": [
+      {
+       "id": "f2",
+       "type": "flash",
+       "text": "2",
+       "bg": "ink",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "Fortunas: 2 % desde 1 millón",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s2",
+       "type": "sticker",
+       "text": "💰",
+       "x": 86,
+       "y": 30,
+       "at": 2
+      },
+      {
+       "id": "n2",
+       "type": "card",
+       "text": "3 % desde 50 millones",
+       "x": 44,
+       "y": 40,
+       "w": 560,
+       "at": 3
+      }
+     ],
+     "hide": [
+      "c3",
+      "s3",
+      "n3"
+     ]
+    },
+    {
+     "text": "Y uno: expropiar pisos a empresas con más de mil viviendas.",
+     "show": [
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "1",
+       "bg": "mark",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "Expropiar a quien tenga +1.000 casas",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s1",
+       "type": "sticker",
+       "text": "🏢",
+       "x": 86,
+       "y": 30,
+       "at": 2
+      },
+      {
+       "id": "n1",
+       "type": "card",
+       "text": "Primera de tres fases",
+       "x": 44,
+       "y": 40,
+       "w": 560,
+       "at": 3
+      }
+     ],
+     "hide": [
+      "c2",
+      "s2",
+      "n2"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "La letra pequeña: salen de sus notas oficiales; el programa completo se presentó el lunes.",
+     "show": [
+      {
+       "id": "doc",
+       "type": "prop",
+       "kind": "doc",
+       "x": 50,
+       "y": 44,
+       "w": 520,
+       "at": 0,
+       "kicker": "FRENTE AMPLIO",
+       "text": "Programa completo: lunes 16-N",
+       "sello": "NOTAS OFICIALES",
+       "st": 0.6
+      }
+     ],
+     "hide": [
+      "c1",
+      "s1",
+      "n1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Te convence? Sí o no. Síguenos: mañana, Podemos.",
+     "show": [
+      {
+       "id": "co2",
+       "type": "mono",
+       "who": "colau",
+       "x": 50,
+       "y": 42,
+       "w": 280,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "brazos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TE CONVENCE?",
+       "color": "ink",
+       "x": 50,
+       "y": 64,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "doc"
+     ]
+    }
+   ]
+  }
+ ]
+}
