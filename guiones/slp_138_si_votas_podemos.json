@@ -1,0 +1,388 @@
+{
+ "id": "slp_138_si_votas_podemos",
+ "brand": "Politízate Hoy",
+ "formato": "top5",
+ "serie": {
+  "n": 5,
+  "de": 7,
+  "next": "Mañana: si votas a SALF"
+ },
+ "tono": "normal",
+ "clauses": 3,
+ "clauseLabels": [
+  "LA CANDIDATA",
+  "5 MEDIDAS",
+  "LA LETRA PEQUEÑA",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "SI VOTAS A… PODEMOS",
+  "source": "Fuentes: Europa Press (6-11), Canal Sur (15-11), Telecinco (10-11), politicaelectoral.com"
+ },
+ "fechaPub": "2026-11-18T19:45:00+01:00",
+ "portada": {
+  "serie": "SI VOTAS A… 5/7",
+  "titulo": "Si votas a *Podemos*, esto es lo que propone",
+  "mini": {
+   "texto": "Si votas a Podemos,",
+   "rojo": "UN SMI A 1.800 €",
+   "flecha": false,
+   "tam": 84
+  },
+  "monos": [
+   {
+    "who": "montero",
+    "cara": "sonrie",
+    "gesto": "manos"
+   }
+  ]
+ },
+ "caption": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (5/7): 5 medidas concretas de Podemos (Irene Montero) para el 29-N. Mismo criterio para todos los partidos. Podemos no ha publicado programa oficial: las medidas salen de lo que ha anunciado Montero en campaña.\n5. Bajar por ley el precio de los alquileres y prohibir comprar vivienda para especular (Canal Sur 15-11, Europa Press 6-11).\n4. No subir el gasto militar: «ni un euro más a armas» (Europa Press 6-11, politicaelectoral.com).\n3. Jornada laboral de 30 horas semanales (Europa Press 6-11, Canal Sur 15-11, Telecinco 10-11).\n2. Bajar la edad de jubilación a 63 años (Europa Press 6-11, politicaelectoral.com).\n1. Salario mínimo de 1.800 euros al mes (Europa Press 6-11, Canal Sur 15-11, Telecinco 10-11).\n\nLa letra pequeña: sin programa publicado, no hay cálculo de cuánto cuestan estas medidas.\n\nFuentes: Europa Press vía Pressdigital (6-11), Canal Sur (15-11), Telecinco (10-11), politicaelectoral.com.\n\n#Podemos #IreneMontero #29N #elecciones #SiVotasA",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Si votas a Podemos, esto es lo que propone. Cinco medidas.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Si votas a *Podemos*…",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "mo",
+       "type": "mono",
+       "who": "montero",
+       "x": 50,
+       "y": 46,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "sonrie",
+       "gesto": "manos",
+       "label": "Irene Montero · Podemos"
+      },
+      {
+       "id": "st0",
+       "type": "stamp",
+       "text": "5 MEDIDAS",
+       "color": "red",
+       "x": 50,
+       "y": 72,
+       "rot": -4,
+       "at": 8
+      }
+     ],
+     "hide": []
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cinco: bajar por ley el precio del alquiler.",
+     "show": [
+      {
+       "id": "f5",
+       "type": "flash",
+       "text": "5",
+       "bg": "mark",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c5",
+       "type": "card",
+       "text": "Bajar el alquiler por ley",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s5",
+       "type": "sticker",
+       "text": "🏠",
+       "x": 86,
+       "y": 30,
+       "at": 2
+      },
+      {
+       "id": "n5",
+       "type": "card",
+       "text": "Y prohibir comprar para especular",
+       "x": 44,
+       "y": 40,
+       "w": 560,
+       "at": 3
+      }
+     ],
+     "hide": [
+      "h1",
+      "mo",
+      "st0"
+     ]
+    },
+    {
+     "text": "Cuatro: ni un euro más para armas.",
+     "show": [
+      {
+       "id": "f4",
+       "type": "flash",
+       "text": "4",
+       "bg": "ink",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "text": "No subir el gasto militar",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s4",
+       "type": "sticker",
+       "text": "🛡️",
+       "x": 86,
+       "y": 30,
+       "at": 2
+      },
+      {
+       "id": "n4",
+       "type": "card",
+       "text": "«Ni un euro más a armas»",
+       "x": 44,
+       "y": 40,
+       "w": 560,
+       "at": 3
+      }
+     ],
+     "hide": [
+      "c5",
+      "s5",
+      "n5"
+     ]
+    },
+    {
+     "text": "Tres: jornada laboral de treinta horas a la semana.",
+     "show": [
+      {
+       "id": "f3",
+       "type": "flash",
+       "text": "3",
+       "bg": "red",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "Jornada de 30 horas",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s3",
+       "type": "sticker",
+       "text": "⏰",
+       "x": 86,
+       "y": 30,
+       "at": 2
+      },
+      {
+       "id": "n3",
+       "type": "card",
+       "text": "Hoy: 40 horas",
+       "x": 44,
+       "y": 40,
+       "w": 560,
+       "at": 3
+      }
+     ],
+     "hide": [
+      "c4",
+      "s4",
+      "n4"
+     ]
+    },
+    {
+     "text": "Dos: jubilarse a los sesenta y tres años.",
+     "show": [
+      {
+       "id": "f2",
+       "type": "flash",
+       "text": "2",
+       "bg": "ink",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "Jubilación a los 63",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s2",
+       "type": "sticker",
+       "text": "👵",
+       "x": 86,
+       "y": 30,
+       "at": 2
+      },
+      {
+       "id": "n2",
+       "type": "card",
+       "text": "Hoy: entre 65 y 67",
+       "x": 44,
+       "y": 40,
+       "w": 560,
+       "at": 3
+      }
+     ],
+     "hide": [
+      "c3",
+      "s3",
+      "n3"
+     ]
+    },
+    {
+     "text": "Y uno: salario mínimo de mil ochocientos euros al mes.",
+     "show": [
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "1",
+       "bg": "mark",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "Salario mínimo: 1.800 €",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s1",
+       "type": "sticker",
+       "text": "💶",
+       "x": 86,
+       "y": 30,
+       "at": 2
+      },
+      {
+       "id": "n1",
+       "type": "card",
+       "text": "Al mes",
+       "x": 44,
+       "y": 40,
+       "w": 560,
+       "at": 3
+      }
+     ],
+     "hide": [
+      "c2",
+      "s2",
+      "n2"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "La letra pequeña: Podemos no ha publicado programa, así que no hay cálculo de cuánto cuesta.",
+     "show": [
+      {
+       "id": "doc",
+       "type": "prop",
+       "kind": "doc",
+       "x": 50,
+       "y": 44,
+       "w": 520,
+       "at": 0,
+       "kicker": "PODEMOS · 29-N",
+       "text": "Programa oficial",
+       "sello": "SIN PUBLICAR",
+       "st": 0.6
+      }
+     ],
+     "hide": [
+      "c1",
+      "s1",
+      "n1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Te convence? Sí o no. Síguenos: mañana, Se Acabó La Fiesta.",
+     "show": [
+      {
+       "id": "mo2",
+       "type": "mono",
+       "who": "montero",
+       "x": 50,
+       "y": 42,
+       "w": 280,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "brazos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TE CONVENCE?",
+       "color": "ink",
+       "x": 50,
+       "y": 64,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "doc"
+     ]
+    }
+   ]
+  }
+ ]
+}
