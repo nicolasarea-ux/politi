@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 38,
-  "media_count": 115,
+  "media_count": 116,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_129_sanchez_fari",
+   "ig": "17878097997586916",
+   "fecha": "2026-11-16T22:00:33+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/Df0YOH-me2M/",
+   "titulo": "Comenta 👇\n\nEl cierre más inesperado de la entrevista de Jord",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
   {
    "id": "slp_133_si_votas_vox",
    "ig": "18080959976723482",
@@ -14,13 +30,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df0B6TEAbUW/",
    "titulo": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (3/7): 5 medida",
-   "views": 134,
-   "reach": 120,
+   "views": 140,
+   "reach": 129,
    "saved": 0,
    "shares": 1,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 7957,
-   "ig_reels_video_view_total_time": 954844
+   "ig_reels_avg_watch_time": 7503,
+   "ig_reels_video_view_total_time": 967986
   },
   {
    "id": "slp_135_diaz_oit",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfzsPpOjgM_/",
    "titulo": "¿Ha hecho bien en retirarse? Sí o no 👇\n\nYolanda Díaz (vicepr",
-   "views": 143,
-   "reach": 125,
+   "views": 145,
+   "reach": 126,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 9541,
-   "ig_reels_video_view_total_time": 1202271
+   "ig_reels_avg_watch_time": 9482,
+   "ig_reels_video_view_total_time": 1204284
   },
   {
    "id": "slp_128_sanchez_bebe_wild",
@@ -238,13 +254,13 @@
    "comentarios": 7,
    "url": "https://www.instagram.com/reel/Dfu5q5lDaLQ/",
    "titulo": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (1/7): las 5 me",
-   "views": 1392,
+   "views": 1395,
    "reach": 1177,
    "saved": 3,
    "shares": 3,
    "total_interactions": 36,
-   "ig_reels_avg_watch_time": 32190,
-   "ig_reels_video_view_total_time": 38532465
+   "ig_reels_avg_watch_time": 32140,
+   "ig_reels_video_view_total_time": 38536003
   },
   {
    "id": "slp_117_sanchez_no_lo_veo_claro",
@@ -254,13 +270,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfuv-4DmXsX/",
    "titulo": "¿Gana o no gana? 👇\n\nEl cierre de la entrevista de Jordi Wild",
-   "views": 2953,
+   "views": 2954,
    "reach": 2276,
    "saved": 0,
    "shares": 6,
    "total_interactions": 13,
-   "ig_reels_avg_watch_time": 12686,
-   "ig_reels_video_view_total_time": 29053050
+   "ig_reels_avg_watch_time": 12684,
+   "ig_reels_video_view_total_time": 29059920
   },
   {
    "id": "slp_116_sanchez_bildu_mordor",
@@ -687,12 +703,12 @@
    "url": "https://www.instagram.com/reel/DfmrCDNAJJ3/",
    "titulo": "¿Tenía que pedir perdón Broncano? Sí o no 👇\n\nAl día siguient",
    "views": 2327,
-   "reach": 1816,
+   "reach": 1817,
    "saved": 2,
    "shares": 0,
    "total_interactions": 16,
-   "ig_reels_avg_watch_time": 14641,
-   "ig_reels_video_view_total_time": 26413813
+   "ig_reels_avg_watch_time": 14635,
+   "ig_reels_video_view_total_time": 26416947
   },
   {
    "id": "slp_079_abascal_bandera_ceuta",
@@ -750,13 +766,13 @@
    "comentarios": 4,
    "url": "https://www.instagram.com/reel/Dfl-Z0AAtn4/",
    "titulo": "¿Quién ganó la noche: Abascal o Sánchez? 👇\n\nLa noche del 9-N",
-   "views": 1462,
-   "reach": 1189,
+   "views": 1463,
+   "reach": 1190,
    "saved": 2,
    "shares": 1,
    "total_interactions": 15,
-   "ig_reels_avg_watch_time": 12530,
-   "ig_reels_video_view_total_time": 14911362
+   "ig_reels_avg_watch_time": 12520,
+   "ig_reels_video_view_total_time": 14912272
   },
   {
    "id": "slp_083_huelga_diaz_feijoo",
@@ -862,13 +878,13 @@
    "comentarios": 3,
    "url": "https://www.instagram.com/reel/DfjuQ9FDEBu/",
    "titulo": "¿Tiene razón Abascal con la vivienda? Sí o no 👇\n\nEn La Revue",
-   "views": 165,
-   "reach": 139,
+   "views": 166,
+   "reach": 140,
    "saved": 0,
    "shares": 0,
    "total_interactions": 5,
-   "ig_reels_avg_watch_time": 8631,
-   "ig_reels_video_view_total_time": 1251536
+   "ig_reels_avg_watch_time": 8591,
+   "ig_reels_video_view_total_time": 1254381
   },
   {
    "id": "slp_076_broncano_huevos",
@@ -1589,22 +1605,6 @@
    "total_interactions": 6,
    "ig_reels_avg_watch_time": 8693,
    "ig_reels_video_view_total_time": 1660436
-  },
-  {
-   "id": "slp_028_urda_puente_hoy",
-   "ig": "18121197061748776",
-   "fecha": "2026-11-03T13:53:17+0000",
-   "likes": 1,
-   "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfSCH3IDX1t/",
-   "titulo": "Urda: lo que se sabe antes de que Puente hable hoy en el Con",
-   "views": 78,
-   "reach": 68,
-   "saved": 0,
-   "shares": 0,
-   "total_interactions": 1,
-   "ig_reels_avg_watch_time": 6856,
-   "ig_reels_video_view_total_time": 466240
   }
  ]
 }
