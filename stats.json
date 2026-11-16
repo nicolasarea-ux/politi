@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 38,
-  "media_count": 114,
+  "media_count": 115,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_133_si_votas_vox",
+   "ig": "18080959976723482",
+   "fecha": "2026-11-16T18:46:03+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/Df0B6TEAbUW/",
+   "titulo": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (3/7): 5 medida",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
   {
    "id": "slp_135_diaz_oit",
    "ig": "18123332566945494",
@@ -14,13 +30,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfzsPpOjgM_/",
    "titulo": "¿Ha hecho bien en retirarse? Sí o no 👇\n\nYolanda Díaz (vicepr",
-   "views": 128,
-   "reach": 112,
+   "views": 142,
+   "reach": 123,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 9255,
-   "ig_reels_video_view_total_time": 934846
+   "ig_reels_avg_watch_time": 9647,
+   "ig_reels_video_view_total_time": 1196326
   },
   {
    "id": "slp_128_sanchez_bebe_wild",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfzW_jqgsbM/",
    "titulo": "😂 Comenta 👇\n\nSánchez (PSOE) defiende ante Jordi Wild la ampl",
-   "views": 138,
-   "reach": 116,
+   "views": 139,
+   "reach": 117,
    "saved": 1,
    "shares": 0,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 10407,
-   "ig_reels_video_view_total_time": 1217674
+   "ig_reels_avg_watch_time": 10440,
+   "ig_reels_video_view_total_time": 1231983
   },
   {
    "id": "slp_127_sanchez_goebbels",
@@ -46,13 +62,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfy0p73iUHt/",
    "titulo": "¿Estás de acuerdo? 👇\n\nPedro Sánchez (PSOE) responde a Jordi ",
-   "views": 129,
-   "reach": 112,
+   "views": 130,
+   "reach": 113,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 7974,
-   "ig_reels_video_view_total_time": 917101
+   "ig_reels_avg_watch_time": 7923,
+   "ig_reels_video_view_total_time": 919169
   },
   {
    "id": "slp_134_abascal_feijoo_ministerios",
@@ -78,13 +94,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfxdG5ejbK2/",
    "titulo": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (2/7): las 5 me",
-   "views": 481,
-   "reach": 426,
+   "views": 490,
+   "reach": 438,
    "saved": 1,
    "shares": 0,
    "total_interactions": 5,
-   "ig_reels_avg_watch_time": 9682,
-   "ig_reels_video_view_total_time": 4211828
+   "ig_reels_avg_watch_time": 9840,
+   "ig_reels_video_view_total_time": 4359212
   },
   {
    "id": "slp_125_feijoo_pensiones",
@@ -142,13 +158,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfwWxHjCeGr/",
    "titulo": "¿Te lo crees? 👇\n\nJordi Wild pregunta a Feijóo (PP) por Isabe",
-   "views": 1767,
-   "reach": 1368,
+   "views": 1768,
+   "reach": 1369,
    "saved": 0,
    "shares": 0,
    "total_interactions": 6,
-   "ig_reels_avg_watch_time": 13167,
-   "ig_reels_video_view_total_time": 17946861
+   "ig_reels_avg_watch_time": 13158,
+   "ig_reels_video_view_total_time": 17948163
   },
   {
    "id": "slp_120_sanchez_ceutis",
@@ -222,13 +238,13 @@
    "comentarios": 7,
    "url": "https://www.instagram.com/reel/Dfu5q5lDaLQ/",
    "titulo": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (1/7): las 5 me",
-   "views": 1391,
+   "views": 1392,
    "reach": 1177,
    "saved": 3,
    "shares": 3,
    "total_interactions": 36,
-   "ig_reels_avg_watch_time": 32217,
-   "ig_reels_video_view_total_time": 38531681
+   "ig_reels_avg_watch_time": 32190,
+   "ig_reels_video_view_total_time": 38532465
   },
   {
    "id": "slp_117_sanchez_no_lo_veo_claro",
@@ -847,7 +863,7 @@
    "url": "https://www.instagram.com/reel/DfjuQ9FDEBu/",
    "titulo": "¿Tiene razón Abascal con la vivienda? Sí o no 👇\n\nEn La Revue",
    "views": 165,
-   "reach": 138,
+   "reach": 139,
    "saved": 0,
    "shares": 0,
    "total_interactions": 5,
@@ -1589,22 +1605,6 @@
    "total_interactions": 1,
    "ig_reels_avg_watch_time": 6856,
    "ig_reels_video_view_total_time": 466240
-  },
-  {
-   "id": "slp_002_voto_correo",
-   "ig": "18647619808046572",
-   "fecha": "2026-11-02T21:25:12+0000",
-   "likes": 1,
-   "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfQRC-QFO5y/",
-   "titulo": "Voto por correo para el 29-N: hasta cuándo pedirlo, hasta cu",
-   "views": 121,
-   "reach": 111,
-   "saved": 1,
-   "shares": 0,
-   "total_interactions": 2,
-   "ig_reels_avg_watch_time": 5271,
-   "ig_reels_video_view_total_time": 595704
   }
  ]
 }
