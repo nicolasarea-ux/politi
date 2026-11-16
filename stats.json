@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 38,
-  "media_count": 112,
+  "media_count": 113,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_128_sanchez_bebe_wild",
+   "ig": "17998071960106526",
+   "fecha": "2026-11-16T12:30:32+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfzW_jqgsbM/",
+   "titulo": "😂 Comenta 👇\n\nSánchez (PSOE) defiende ante Jordi Wild la ampl",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
   {
    "id": "slp_127_sanchez_goebbels",
    "ig": "18110377490243335",
@@ -46,13 +62,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfxdG5ejbK2/",
    "titulo": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (2/7): las 5 me",
-   "views": 416,
-   "reach": 372,
+   "views": 440,
+   "reach": 390,
    "saved": 1,
    "shares": 0,
    "total_interactions": 5,
-   "ig_reels_avg_watch_time": 9184,
-   "ig_reels_video_view_total_time": 3444219
+   "ig_reels_avg_watch_time": 9298,
+   "ig_reels_video_view_total_time": 3691608
   },
   {
    "id": "slp_125_feijoo_pensiones",
@@ -143,7 +159,7 @@
    "url": "https://www.instagram.com/reel/DfvSEBjAX64/",
    "titulo": "¿Qué opinas? 👇\n\nJordi Wild le plantea a Pedro Sánchez (PSOE)",
    "views": 1431,
-   "reach": 1145,
+   "reach": 1147,
    "saved": 1,
    "shares": 0,
    "total_interactions": 9,
@@ -1230,13 +1246,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfZowZEHVRZ/",
    "titulo": "¿Debe Feijóo dar explicaciones? Sí o no 👇\n\nSánchez contra Fe",
-   "views": 172,
-   "reach": 148,
+   "views": 173,
+   "reach": 149,
    "saved": 0,
    "shares": 0,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 10526,
-   "ig_reels_video_view_total_time": 1579002
+   "ig_reels_avg_watch_time": 10465,
+   "ig_reels_video_view_total_time": 1580334
   },
   {
    "id": "slp_048_smi_2027",
@@ -1589,22 +1605,6 @@
    "total_interactions": 2,
    "ig_reels_avg_watch_time": 9769,
    "ig_reels_video_view_total_time": 1221214
-  },
-  {
-   "id": "slp_019_encuestas_urda",
-   "ig": "18152875459549380",
-   "fecha": "2026-11-02T16:56:18+0000",
-   "likes": 2,
-   "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfPyPgyDcpD/",
-   "titulo": "Las primeras encuestas tras Urda: qué dicen, qué ha cambiado",
-   "views": 125,
-   "reach": 112,
-   "saved": 0,
-   "shares": 0,
-   "total_interactions": 2,
-   "ig_reels_avg_watch_time": 10241,
-   "ig_reels_video_view_total_time": 1188046
   }
  ]
 }
