@@ -2,18 +2,18 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 38,
-  "media_count": 113,
+  "media_count": 114,
   "id": "29046307255021601"
  },
  "reels": [
   {
-   "id": "slp_128_sanchez_bebe_wild",
-   "ig": "17998071960106526",
-   "fecha": "2026-11-16T12:30:32+0000",
+   "id": "slp_135_diaz_oit",
+   "ig": "18123332566945494",
+   "fecha": "2026-11-16T15:36:17+0000",
    "likes": 0,
    "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfzW_jqgsbM/",
-   "titulo": "😂 Comenta 👇\n\nSánchez (PSOE) defiende ante Jordi Wild la ampl",
+   "url": "https://www.instagram.com/reel/DfzsPpOjgM_/",
+   "titulo": "¿Ha hecho bien en retirarse? Sí o no 👇\n\nYolanda Díaz (vicepr",
    "views": 0,
    "reach": 0,
    "saved": 0,
@@ -21,6 +21,22 @@
    "total_interactions": 0,
    "ig_reels_avg_watch_time": 0,
    "ig_reels_video_view_total_time": 0
+  },
+  {
+   "id": "slp_128_sanchez_bebe_wild",
+   "ig": "17998071960106526",
+   "fecha": "2026-11-16T12:30:32+0000",
+   "likes": 3,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DfzW_jqgsbM/",
+   "titulo": "😂 Comenta 👇\n\nSánchez (PSOE) defiende ante Jordi Wild la ampl",
+   "views": 138,
+   "reach": 116,
+   "saved": 1,
+   "shares": 0,
+   "total_interactions": 4,
+   "ig_reels_avg_watch_time": 10489,
+   "ig_reels_video_view_total_time": 1216835
   },
   {
    "id": "slp_127_sanchez_goebbels",
@@ -35,8 +51,8 @@
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 8084,
-   "ig_reels_video_view_total_time": 913573
+   "ig_reels_avg_watch_time": 8037,
+   "ig_reels_video_view_total_time": 916270
   },
   {
    "id": "slp_134_abascal_feijoo_ministerios",
@@ -62,13 +78,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfxdG5ejbK2/",
    "titulo": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (2/7): las 5 me",
-   "views": 440,
-   "reach": 390,
+   "views": 472,
+   "reach": 422,
    "saved": 1,
    "shares": 0,
    "total_interactions": 5,
-   "ig_reels_avg_watch_time": 9298,
-   "ig_reels_video_view_total_time": 3691608
+   "ig_reels_avg_watch_time": 9634,
+   "ig_reels_video_view_total_time": 4114023
   },
   {
    "id": "slp_125_feijoo_pensiones",
@@ -286,13 +302,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dft8O3-jan9/",
    "titulo": "¿Te parece bien? 👇\n\nJordi Wild aprieta a Ada Colau (Frente A",
-   "views": 1816,
-   "reach": 1364,
+   "views": 1817,
+   "reach": 1366,
    "saved": 1,
    "shares": 0,
    "total_interactions": 19,
-   "ig_reels_avg_watch_time": 14185,
-   "ig_reels_video_view_total_time": 19546965
+   "ig_reels_avg_watch_time": 14178,
+   "ig_reels_video_view_total_time": 19552307
   },
   {
    "id": "slp_110_sanchez_falcon",
@@ -654,13 +670,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfmrCDNAJJ3/",
    "titulo": "¿Tenía que pedir perdón Broncano? Sí o no 👇\n\nAl día siguient",
-   "views": 2324,
-   "reach": 1815,
+   "views": 2325,
+   "reach": 1816,
    "saved": 2,
    "shares": 0,
    "total_interactions": 16,
-   "ig_reels_avg_watch_time": 14648,
-   "ig_reels_video_view_total_time": 26410859
+   "ig_reels_avg_watch_time": 14641,
+   "ig_reels_video_view_total_time": 26413813
   },
   {
    "id": "slp_079_abascal_bandera_ceuta",
@@ -1589,22 +1605,6 @@
    "total_interactions": 2,
    "ig_reels_avg_watch_time": 5271,
    "ig_reels_video_view_total_time": 595704
-  },
-  {
-   "id": "slp_011_quien_montero",
-   "ig": "18111379415156503",
-   "fecha": "2026-11-02T18:49:07+0000",
-   "likes": 2,
-   "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfP_I7WDduU/",
-   "titulo": "Quién es quién 4/5: Irene Montero en 30 segundos. Trayectori",
-   "views": 140,
-   "reach": 124,
-   "saved": 0,
-   "shares": 0,
-   "total_interactions": 2,
-   "ig_reels_avg_watch_time": 9769,
-   "ig_reels_video_view_total_time": 1221214
   }
  ]
 }
