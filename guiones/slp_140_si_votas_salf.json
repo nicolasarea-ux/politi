@@ -1,0 +1,389 @@
+{
+ "id": "slp_140_si_votas_salf",
+ "brand": "Politízate Hoy",
+ "formato": "top5",
+ "serie": {
+  "n": 6,
+  "de": 7,
+  "next": "Mañana: si votas a Junts"
+ },
+ "tono": "normal",
+ "clauses": 3,
+ "clauseLabels": [
+  "EL CANDIDATO",
+  "5 MEDIDAS",
+  "LA LETRA PEQUEÑA",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "SI VOTAS A… SALF",
+  "source": "Fuentes: The Objective (10-11, «contrato electoral»), politicaelectoral.com, Demócrata"
+ },
+ "fechaPub": "2026-11-19T19:45:00+01:00",
+ "portada": {
+  "serie": "SI VOTAS A… 6/7",
+  "titulo": "Si votas a *SALF*, esto es lo que propone",
+  "mini": {
+   "texto": "Si votas a SALF,",
+   "rojo": "IRPF 0 % HASTA 35.000 €",
+   "flecha": false,
+   "tam": 84
+  },
+  "monos": [
+   {
+    "who": "alvise",
+    "cara": "sonrie",
+    "gesto": "manos"
+   }
+  ],
+  "cartel": true
+ },
+ "caption": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (6/7): 5 medidas concretas de Se Acabó La Fiesta (Alvise Pérez) para el 29-N. Mismo criterio para todos los partidos: las más concretas y con cifra.\n5. Pasar de 22 a 10 ministerios y de 1.255 a 400 asesores (The Objective 10-11; politicaelectoral.com y eleccionesespaña.com hablan de recortar un 70 % de altos cargos y asesores).\n4. Mili voluntaria de 6 meses a 1 año con 1.600 € netos al mes (The Objective 10-11).\n3. Cárcel de máxima seguridad de 3.000 millones, pagada con lo decomisado al narco (coste: The Objective 10-11; la cárcel también en politicaelectoral.com y Demócrata).\n2. Rebaja de 5 puntos de IRPF por hijo (politicaelectoral.com, Demócrata).\n1. 0 % de IRPF para los primeros 35.000 € de sueldo al año (The Objective 10-11, politicaelectoral.com, Demócrata).\n\nLa letra pequeña: las cifras salen del «contrato electoral» que SALF presentó el 10-N, según The Objective. No hemos podido leer el documento completo en la web del partido.\n\nFuentes: The Objective (10-11), politicaelectoral.com, Demócrata.\n\n#SALF #Alvise #29N #elecciones #SiVotasA",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Si votas a Se Acabó La Fiesta, esto es lo que propone. Cinco medidas.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Si votas a *SALF*…",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "mo",
+       "type": "mono",
+       "who": "alvise",
+       "x": 50,
+       "y": 46,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "sonrie",
+       "gesto": "manos",
+       "label": "Alvise Pérez · SALF"
+      },
+      {
+       "id": "st0",
+       "type": "stamp",
+       "text": "5 MEDIDAS",
+       "color": "red",
+       "x": 50,
+       "y": 72,
+       "rot": -4,
+       "at": 8
+      }
+     ],
+     "hide": []
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cinco: pasar de veintidós a diez ministerios.",
+     "show": [
+      {
+       "id": "f5",
+       "type": "flash",
+       "text": "5",
+       "bg": "mark",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c5",
+       "type": "card",
+       "text": "De 22 a 10 ministerios",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s5",
+       "type": "sticker",
+       "text": "🏛️",
+       "x": 86,
+       "y": 30,
+       "at": 2
+      },
+      {
+       "id": "n5",
+       "type": "card",
+       "text": "Y de 1.255 a 400 asesores",
+       "x": 44,
+       "y": 40,
+       "w": 560,
+       "at": 3
+      }
+     ],
+     "hide": [
+      "h1",
+      "mo",
+      "st0"
+     ]
+    },
+    {
+     "text": "Cuatro: mili voluntaria, pagada a mil seiscientos euros al mes.",
+     "show": [
+      {
+       "id": "f4",
+       "type": "flash",
+       "text": "4",
+       "bg": "ink",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "text": "Mili voluntaria: 1.600 €/mes",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s4",
+       "type": "sticker",
+       "text": "🪖",
+       "x": 86,
+       "y": 30,
+       "at": 2
+      },
+      {
+       "id": "n4",
+       "type": "card",
+       "text": "De 6 meses a 1 año",
+       "x": 44,
+       "y": 40,
+       "w": 560,
+       "at": 3
+      }
+     ],
+     "hide": [
+      "c5",
+      "s5",
+      "n5"
+     ]
+    },
+    {
+     "text": "Tres: una megacárcel de tres mil millones de euros.",
+     "show": [
+      {
+       "id": "f3",
+       "type": "flash",
+       "text": "3",
+       "bg": "red",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "Megacárcel: 3.000 M€",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s3",
+       "type": "sticker",
+       "text": "🔒",
+       "x": 86,
+       "y": 30,
+       "at": 2
+      },
+      {
+       "id": "n3",
+       "type": "card",
+       "text": "Con lo decomisado al narco",
+       "x": 44,
+       "y": 40,
+       "w": 560,
+       "at": 3
+      }
+     ],
+     "hide": [
+      "c4",
+      "s4",
+      "n4"
+     ]
+    },
+    {
+     "text": "Dos: cinco puntos menos de IRPF por cada hijo.",
+     "show": [
+      {
+       "id": "f2",
+       "type": "flash",
+       "text": "2",
+       "bg": "ink",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "−5 puntos de IRPF por hijo",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s2",
+       "type": "sticker",
+       "text": "👶",
+       "x": 86,
+       "y": 30,
+       "at": 2
+      },
+      {
+       "id": "n2",
+       "type": "card",
+       "text": "Por cada hijo",
+       "x": 44,
+       "y": 40,
+       "w": 560,
+       "at": 3
+      }
+     ],
+     "hide": [
+      "c3",
+      "s3",
+      "n3"
+     ]
+    },
+    {
+     "text": "Y uno: cero IRPF por los primeros treinta y cinco mil euros.",
+     "show": [
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "1",
+       "bg": "mark",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "IRPF: 0 % hasta 35.000 €",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s1",
+       "type": "sticker",
+       "text": "💶",
+       "x": 86,
+       "y": 30,
+       "at": 2
+      },
+      {
+       "id": "n1",
+       "type": "card",
+       "text": "Al año",
+       "x": 44,
+       "y": 40,
+       "w": 560,
+       "at": 3
+      }
+     ],
+     "hide": [
+      "c2",
+      "s2",
+      "n2"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "La letra pequeña: las cifras salen de su «contrato electoral», según The Objective.",
+     "show": [
+      {
+       "id": "doc",
+       "type": "prop",
+       "kind": "doc",
+       "x": 50,
+       "y": 44,
+       "w": 520,
+       "at": 0,
+       "kicker": "SALF · 29-N",
+       "text": "Contrato electoral",
+       "sello": "10-N",
+       "st": 0.6
+      }
+     ],
+     "hide": [
+      "c1",
+      "s1",
+      "n1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Te convence? Sí o no. Síguenos: mañana, Junts.",
+     "show": [
+      {
+       "id": "mo2",
+       "type": "mono",
+       "who": "alvise",
+       "x": 50,
+       "y": 42,
+       "w": 280,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "brazos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TE CONVENCE?",
+       "color": "ink",
+       "x": 50,
+       "y": 64,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "doc"
+     ]
+    }
+   ]
+  }
+ ]
+}

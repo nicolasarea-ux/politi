@@ -1,0 +1,318 @@
+{
+ "id": "slp_141_wild_mas_vistas",
+ "brand": "Politízate Hoy",
+ "formato": "top5",
+ "tono": "normal",
+ "clauses": 3,
+ "clauseLabels": [
+  "EL RANKING",
+  "LAS 3 FRASES",
+  "LA LETRA PEQUEÑA",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "TOP 3 · WILD",
+  "source": "Fuente: The Wild Project #391, #392 y #393 (13-11)"
+ },
+ "fechaPub": "2026-11-18T23:00:00+01:00",
+ "portada": {
+  "serie": "TOP 3 · THE WILD PROJECT",
+  "titulo": "Las 3 frases de *Wild* que más visteis",
+  "mini": {
+   "texto": "Las 3 frases de Wild",
+   "rojo": "TOP 3 MÁS VISTAS",
+   "flecha": false,
+   "tam": 84
+  },
+  "monos": [
+   {
+    "who": "wild",
+    "cara": "risa",
+    "gesto": "senala"
+   }
+  ],
+  "cartel": true
+ },
+ "caption": "¿Estás de acuerdo con el top? Sí o no 👇\n\nLas 3 frases de las entrevistas de Jordi Wild (The Wild Project, 13-N) que más visteis en @politizatehoy, una por candidato (Abascal no fue). Ranking por visualizaciones de nuestros Reels, no por importancia.\n3. Ada Colau (Frente Amplio), sobre okupación: el pequeño propietario recuperaría el piso «en un mes o dos meses» (The Wild Project #391).\n2. Alberto Núñez Feijóo (PP): «Yo no sé inglés, pero sé gobernar» (The Wild Project #392).\n1. Despedida de Pedro Sánchez (PSOE). Wild: «Hombre, claro que sí. Gana las elecciones». Y remata: «No lo veo tan claro, Pedro» (The Wild Project #393).\n\nCitas transcritas de los vídeos originales (13-11).\n\n#JordiWild #TheWildProject #29N #elecciones #eleccionesgenerales",
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Las tres frases de Jordi Wild que más visteis aquí. Una por candidato.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Las 3 frases de *Wild* que más visteis",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "wi",
+       "type": "mono",
+       "who": "wild",
+       "x": 50,
+       "y": 46,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "sonrie",
+       "gesto": "manos",
+       "label": "Jordi Wild"
+      },
+      {
+       "id": "st0",
+       "type": "stamp",
+       "text": "TOP 3",
+       "color": "red",
+       "x": 50,
+       "y": 72,
+       "rot": -4,
+       "at": 6
+      }
+     ],
+     "hide": []
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Tres, Colau: con okupas, el pequeño propietario recuperaría el piso «en un mes o dos meses».",
+     "show": [
+      {
+       "id": "f3",
+       "type": "flash",
+       "text": "3",
+       "bg": "red",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "m3",
+       "type": "mono",
+       "who": "colau",
+       "x": 50,
+       "y": 48,
+       "w": 290,
+       "at": 1,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "habla",
+       "label": "Ada Colau · Frente Amplio"
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "«En un mes o dos meses»",
+       "x": 50,
+       "y": 22,
+       "w": 920,
+       "at": 2
+      },
+      {
+       "id": "n3",
+       "type": "card",
+       "text": "1.818 views",
+       "x": 50,
+       "y": 31,
+       "w": 360,
+       "at": 4
+      }
+     ],
+     "hide": [
+      "h1",
+      "wi",
+      "st0"
+     ]
+    },
+    {
+     "text": "Dos, Feijóo: «Yo no sé inglés, pero sé gobernar».",
+     "show": [
+      {
+       "id": "f2",
+       "type": "flash",
+       "text": "2",
+       "bg": "ink",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "m2",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 48,
+       "w": 290,
+       "at": 1,
+       "habla": false,
+       "cara": "sonrie",
+       "gesto": "senala",
+       "label": "Alberto Núñez Feijóo · PP"
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "«Yo no sé inglés, pero sé gobernar»",
+       "x": 50,
+       "y": 22,
+       "w": 920,
+       "at": 2
+      },
+      {
+       "id": "n2",
+       "type": "card",
+       "text": "1.904 views",
+       "x": 50,
+       "y": 31,
+       "w": 360,
+       "at": 4
+      }
+     ],
+     "hide": [
+      "m3",
+      "c3",
+      "n3"
+     ]
+    },
+    {
+     "text": "Y uno, la despedida de Sánchez. Wild le dice: «Gana las elecciones». Y remata: «No lo veo tan claro, Pedro».",
+     "show": [
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "1",
+       "bg": "mark",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "m1",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 30,
+       "y": 48,
+       "w": 260,
+       "at": 1,
+       "habla": false,
+       "cara": "sonrie",
+       "gesto": "habla",
+       "label": "Pedro Sánchez · PSOE"
+      },
+      {
+       "id": "w1",
+       "type": "mono",
+       "who": "wild",
+       "x": 72,
+       "y": 48,
+       "w": 260,
+       "at": 3,
+       "habla": false,
+       "cara": "risa",
+       "gesto": "senala",
+       "label": "Jordi Wild"
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "«No lo veo tan claro, Pedro»",
+       "x": 50,
+       "y": 22,
+       "w": 920,
+       "at": 8
+      },
+      {
+       "id": "n1",
+       "type": "card",
+       "text": "2.954 views",
+       "x": 50,
+       "y": 31,
+       "w": 360,
+       "at": 10
+      }
+     ],
+     "hide": [
+      "m2",
+      "c2",
+      "n2"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "La letra pequeña: es el ranking de visitas de este canal.",
+     "show": [
+      {
+       "id": "doc",
+       "type": "prop",
+       "kind": "tele",
+       "x": 50,
+       "y": 44,
+       "w": 560,
+       "at": 0,
+       "count": 2954,
+       "fmt": "{n} views",
+       "sub": "@politizatehoy"
+      }
+     ],
+     "hide": [
+      "m1",
+      "w1",
+      "c1",
+      "n1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Estás de acuerdo con el top? Sí o no. Síguenos: mañana, el cara a cara.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿DE ACUERDO?",
+       "color": "ink",
+       "x": 50,
+       "y": 64,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "doc"
+     ]
+    }
+   ]
+  }
+ ]
+}
