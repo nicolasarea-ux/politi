@@ -19,10 +19,11 @@
   "titulo": "¿Quién gana el *29-N*?",
   "mini": {
    "texto": "Las encuestas no coinciden:",
-   "rojo": "191, 199… O EL CIS",
+   "rojo": "PP+VOX 191 · CIS: PSOE 1.º",
    "flecha": false,
    "tam": 80
   },
+  "cartel": true,
   "monos": [
    {
     "who": "sanchez",
@@ -151,6 +152,34 @@
        "y": 20,
        "w": 920,
        "at": 0
+      },
+      {
+       "id": "s1",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 30,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "label": "Sánchez"
+      },
+      {
+       "id": "f1",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 70,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "sonrie",
+       "gesto": "manos",
+       "label": "Feijóo",
+       "flip": true,
+       "mira": "l"
       }
      ],
      "hide": [
@@ -176,13 +205,43 @@
        "text": "EL CIS DISCREPA",
        "color": "ink",
        "x": 50,
-       "y": 33,
+       "y": 29,
        "rot": -5,
        "at": 3
+      },
+      {
+       "id": "s2m",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 30,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "sonrie",
+       "gesto": "manos",
+       "label": "Sánchez"
+      },
+      {
+       "id": "f2",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 70,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "label": "Feijóo",
+       "flip": true,
+       "mira": "l"
       }
      ],
      "hide": [
-      "k3"
+      "k3",
+      "s1",
+      "f1"
      ]
     }
    ]
@@ -219,8 +278,8 @@
      "hide": [
       "k4",
       "s2",
-      "s0",
-      "f0"
+      "s2m",
+      "f2"
      ]
     }
    ]

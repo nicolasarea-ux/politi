@@ -35,6 +35,7 @@ async function renderCoverMono(g){
   [s1,s2].forEach(s=>{if(s){s.style.width='100%';s.style.height='auto';s.style.overflow='visible'}});
   const pose=(sel,p)=>{const n=document.querySelector(sel);if(!n)return;try{MONO_ANIM(n,0.35,1,p.habla!==false,{cara:p.cara,gesto:p.gesto,g:{t0:0,t1:1},habla:true,tf:[0,1]},0)}catch(e){console.log(e)}};
   pose('#m1',ppl[0]);if(ppl[1])pose('#m2',ppl[1]);
+  if(P.cartel){const b0=document.getElementById('bub');b0.querySelectorAll('i').forEach(x=>x.remove());b0.firstChild.textContent=quote;b0.style.background='#C8F03C'}
   // la cita no debe pisar a los monigotes
   const b=document.getElementById('bub');let fs=parseInt(getComputedStyle(b).fontSize);while(b.getBoundingClientRect().bottom>800&&fs>56){fs-=6;b.style.fontSize=fs+'px'}
 }
