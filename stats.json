@@ -2,25 +2,41 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 38,
-  "media_count": 116,
+  "media_count": 117,
   "id": "29046307255021601"
  },
  "reels": [
   {
+   "id": "slp_130_sanchez_puigdemont",
+   "ig": "18134368456841127",
+   "fecha": "2026-11-17T07:30:32+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/Df1ZdlIl2DM/",
+   "titulo": "¿Qué opinas? 👇\n\nPedro Sánchez (PSOE), sobre Feijóo, Puigdemo",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
+  {
    "id": "slp_129_sanchez_fari",
    "ig": "17878097997586916",
    "fecha": "2026-11-16T22:00:33+0000",
-   "likes": 1,
+   "likes": 2,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df0YOH-me2M/",
    "titulo": "Comenta 👇\n\nEl cierre más inesperado de la entrevista de Jord",
-   "views": 325,
-   "reach": 275,
+   "views": 611,
+   "reach": 497,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 1,
-   "ig_reels_avg_watch_time": 9335,
-   "ig_reels_video_view_total_time": 2585822
+   "total_interactions": 2,
+   "ig_reels_avg_watch_time": 10779,
+   "ig_reels_video_view_total_time": 5368285
   },
   {
    "id": "slp_133_si_votas_vox",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df0B6TEAbUW/",
    "titulo": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (3/7): 5 medida",
-   "views": 156,
-   "reach": 138,
+   "views": 164,
+   "reach": 144,
    "saved": 0,
    "shares": 1,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 7466,
-   "ig_reels_video_view_total_time": 1030318
+   "ig_reels_avg_watch_time": 7368,
+   "ig_reels_video_view_total_time": 1075792
   },
   {
    "id": "slp_135_diaz_oit",
@@ -46,13 +62,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfzsPpOjgM_/",
    "titulo": "¿Ha hecho bien en retirarse? Sí o no 👇\n\nYolanda Díaz (vicepr",
-   "views": 149,
-   "reach": 131,
+   "views": 159,
+   "reach": 138,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 9542,
-   "ig_reels_video_view_total_time": 1259661
+   "ig_reels_avg_watch_time": 9373,
+   "ig_reels_video_view_total_time": 1302972
   },
   {
    "id": "slp_128_sanchez_bebe_wild",
@@ -1589,22 +1605,6 @@
    "total_interactions": 2,
    "ig_reels_avg_watch_time": 7063,
    "ig_reels_video_view_total_time": 861691
-  },
-  {
-   "id": "slp_034_de_miguel_ley",
-   "ig": "18100519394539205",
-   "fecha": "2026-11-03T16:35:30+0000",
-   "likes": 5,
-   "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfSUqVVkrdI/",
-   "titulo": "La muerte de Jesús de Miguel tras el choque con el portero d",
-   "views": 212,
-   "reach": 182,
-   "saved": 0,
-   "shares": 1,
-   "total_interactions": 6,
-   "ig_reels_avg_watch_time": 8693,
-   "ig_reels_video_view_total_time": 1660436
   }
  ]
 }
