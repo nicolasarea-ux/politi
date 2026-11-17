@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 38,
-  "media_count": 120,
+  "media_count": 121,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_132_sanchez_involucion",
+   "ig": "17937402834145608",
+   "fecha": "2026-11-17T22:00:32+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/Df29A5bFUxQ/",
+   "titulo": "¿Estás de acuerdo? 👇\n\nEl alegato final de Pedro Sánchez (PSO",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
   {
    "id": "slp_136_si_votas_frente_amplio",
    "ig": "17911837128665714",
@@ -14,13 +30,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df2muAmCEBJ/",
    "titulo": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (4/7): 5 medida",
-   "views": 23,
-   "reach": 20,
+   "views": 92,
+   "reach": 55,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 6244,
-   "ig_reels_video_view_total_time": 124885
+   "ig_reels_avg_watch_time": 10996,
+   "ig_reels_video_view_total_time": 604831
   },
   {
    "id": "slp_139_encuestas_17n",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df2Qc4AggTa/",
    "titulo": "¿Quién crees que gana el 29-N? 👇\n\nLas encuestas, a 12 días d",
-   "views": 229,
-   "reach": 203,
+   "views": 259,
+   "reach": 230,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 12428,
-   "ig_reels_video_view_total_time": 2510596
+   "ig_reels_avg_watch_time": 12283,
+   "ig_reels_video_view_total_time": 2800618
   },
   {
    "id": "slp_131_sanchez_vivienda_colau",
@@ -78,13 +94,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df0YOH-me2M/",
    "titulo": "Comenta 👇\n\nEl cierre más inesperado de la entrevista de Jord",
-   "views": 1222,
-   "reach": 1031,
+   "views": 1227,
+   "reach": 1034,
    "saved": 0,
    "shares": 0,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 11595,
-   "ig_reels_video_view_total_time": 11931261
+   "ig_reels_avg_watch_time": 11607,
+   "ig_reels_video_view_total_time": 11966893
   },
   {
    "id": "slp_133_si_votas_vox",
@@ -1589,22 +1605,6 @@
    "total_interactions": 1,
    "ig_reels_avg_watch_time": 8080,
    "ig_reels_video_view_total_time": 832278
-  },
-  {
-   "id": "?",
-   "ig": "18080484491740696",
-   "fecha": "2026-11-03T20:25:20+0000",
-   "likes": 1,
-   "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfSu72Kiuo7/",
-   "titulo": "Óscar Puente ha dado hoy en el Congreso su versión de Urda, ",
-   "views": 131,
-   "reach": 122,
-   "saved": 0,
-   "shares": 0,
-   "total_interactions": 1,
-   "ig_reels_avg_watch_time": 8625,
-   "ig_reels_video_view_total_time": 1060889
   }
  ]
 }
