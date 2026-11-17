@@ -1,0 +1,231 @@
+{
+ "id": "slp_139_encuestas_17n",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "1 LOS ESCAÑOS",
+  "2 EL CIS DISCREPA",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "ENCUESTAS 29-N",
+  "source": "Fuentes: 40dB (17-11), GAD3, Sigma Dos, CIS (14-10)"
+ },
+ "caption": "¿Quién crees que gana el 29-N? 👇\n\nLas encuestas, a 12 días de las elecciones:\n• 40dB (El País/SER, tracking 17-N): PP 133 escaños, PSOE 120, Vox 58, Frente Amplio 5. PP+Vox: 191 (mayoría absoluta: 176).\n• GAD3 (ABC, 3-5 nov) y Sigma Dos (El Mundo, 9 nov): bloque PP+Vox en 199.\n• CIS (14 oct, solo % de voto): PSOE 34 %, PP 22,2 %, Vox 17,1 %.\n\nUna encuesta no es un resultado: es una estimación con margen de error.\n\nFuentes: Demócrata (40dB, 17-11), Qué! (resumen de encuestas, 12-11), Infobae (17-11).\n\n#elecciones #29N #eleccionesgenerales #encuestas #CIS",
+ "portada": {
+  "serie": "ENCUESTAS",
+  "titulo": "¿Quién gana el *29-N*?",
+  "mini": {
+   "texto": "Las encuestas no coinciden:",
+   "rojo": "191, 199… O EL CIS",
+   "flecha": false,
+   "tam": 80
+  },
+  "monos": [
+   {
+    "who": "sanchez",
+    "cara": "duda",
+    "gesto": "manos"
+   },
+   {
+    "who": "feijoo",
+    "cara": "duda",
+    "gesto": "manos"
+   }
+  ]
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Quién gana el 29-N?|veintinueve-N? Las encuestas no se ponen de acuerdo.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "¿Quién gana el *29-N*?",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "s0",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 30,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "label": "Sánchez"
+      },
+      {
+       "id": "f0",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 70,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "label": "Feijóo",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "La encuesta diaria de El País y la SER, hoy: PP, 133 escaños. PSOE, 120. Vox, 58.",
+     "show": [
+      {
+       "id": "k1",
+       "type": "card",
+       "text": "40dB hoy: PP 133 · PSOE 120 · Vox 58",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      },
+      {
+       "id": "t1",
+       "type": "sticker",
+       "text": "📊",
+       "x": 86,
+       "y": 30,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "h1"
+     ]
+    },
+    {
+     "text": "PP y Vox suman 191. La mayoría absoluta está en 176.",
+     "show": [
+      {
+       "id": "k2",
+       "type": "card",
+       "text": "PP + Vox = 191 · mayoría: 176",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      },
+      {
+       "id": "s1",
+       "type": "stamp",
+       "text": "MAYORÍA",
+       "color": "red",
+       "x": 50,
+       "y": 33,
+       "rot": -5,
+       "at": 3
+      }
+     ],
+     "hide": [
+      "k1",
+      "t1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "GAD3|Gad-tres y Sigma Dos dan a la derecha 199 escaños.",
+     "show": [
+      {
+       "id": "k3",
+       "type": "card",
+       "text": "GAD3 y Sigma Dos: derecha = 199",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "k2",
+      "s1"
+     ]
+    },
+    {
+     "text": "Pero el último CIS, de octubre, pone al PSOE primero: 34 % frente al 22 % del PP.",
+     "show": [
+      {
+       "id": "k4",
+       "type": "card",
+       "text": "CIS (octubre): PSOE 34 % · PP 22 %",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      },
+      {
+       "id": "s2",
+       "type": "stamp",
+       "text": "EL CIS DISCREPA",
+       "color": "ink",
+       "x": 50,
+       "y": 33,
+       "rot": -5,
+       "at": 3
+      }
+     ],
+     "hide": [
+      "k3"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "Quedan 12 días. ¿Quién crees que gana? Síguenos: cada día, lo más fuerte de la campaña.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿QUIÉN GANA?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "k4",
+      "s2",
+      "s0",
+      "f0"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-17T16:30:00+01:00",
+ "follow": "Mañana: la previa del cara a cara"
+}
