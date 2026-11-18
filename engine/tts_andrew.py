@@ -70,6 +70,8 @@ def main(vdir, mp3):
     for k in range(N - 1, 0, -1):
         j = back[k, j]; picks.append(j)
     picks = picks[::-1]
+    if sc.get("cuts") and len(sc["cuts"]) == N:  # cortes forzados (s), al silencio más cercano
+        picks = [int(np.argmin([abs((a0 + b0) / 2 - c) for a0, b0 in sil])) for c in sc["cuts"]]
     bounds = [(s0, None)] + [sil[p] for p in picks] + [(None, s1)]
     tl = {"brand": sc["brand"], "header": sc.get("header", {}), "clauses": sc.get("clauses", 0), "clauseLabels": sc.get("clauseLabels", []), "tono": sc.get("tono", "normal"), "tema": sc.get("tema"), "follow": sc.get("follow", True), "serie": sc.get("serie"), "fechaPub": sc.get("fechaPub"), "scenes": []}
     scenes = {}
