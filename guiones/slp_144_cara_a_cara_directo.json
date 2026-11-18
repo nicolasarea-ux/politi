@@ -1,0 +1,242 @@
+{
+ "id": "slp_144_cara_a_cara_directo",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "AHORA",
+  "5 BLOQUES",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "EN DIRECTO · CARA A CARA",
+  "source": "Fuentes: Europa Press (14-11) y elDiario.es"
+ },
+ "caption": "¿Quién está ganando? Sánchez o Feijóo 👇\n\nAhora mismo: cara a cara entre Pedro Sánchez (PSOE) y Alberto Núñez Feijóo (PP), desde las 22:00 en La 1, Canal 24 Horas, RNE y RTVE Play. Lo organiza la Academia de Televisión y modera María Casado.\nCinco bloques: vivienda; economía y fiscalidad; política social y servicios públicos; corrupción y regeneración; migración y política exterior. Por sorteo, abre Feijóo y cierra Sánchez.\n\nFuentes: Europa Press en Última Hora (14-11) y elDiario.es/Vertele.\n\n#elecciones #29N #eleccionesgenerales #debate #caraacara",
+ "portada": {
+  "serie": "EN DIRECTO",
+  "titulo": "¿Quién gana el *cara a cara*?",
+  "mini": {
+   "texto": "Cara a cara:",
+   "rojo": "¿QUIÉN GANA?",
+   "flecha": false,
+   "tam": 84
+  },
+  "monos": [
+   {
+    "who": "feijoo",
+    "cara": "neutral",
+    "gesto": "habla"
+   },
+   {
+    "who": "sanchez",
+    "cara": "neutral",
+    "gesto": "habla"
+   }
+  ],
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Ahora mismo: Feijóo y Sánchez, cara a cara.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Ahora: *cara a cara*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "f0",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 32,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "habla",
+       "label": "Feijóo"
+      },
+      {
+       "id": "s0",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 68,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "habla",
+       "label": "Sánchez",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "mesa",
+       "type": "prop",
+       "kind": "mesa",
+       "x": 50,
+       "y": 62,
+       "w": 900,
+       "at": 0,
+       "text": "LA 1 · 22:00"
+      },
+      {
+       "id": "st0",
+       "type": "stamp",
+       "text": "EN DIRECTO",
+       "color": "red",
+       "x": 50,
+       "y": 78,
+       "rot": -4,
+       "at": 4
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Desde las diez, en La 1. Modera María Casado.",
+     "show": [
+      {
+       "id": "k1",
+       "type": "card",
+       "text": "La 1 · RTVE Play · 22:00",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "h1",
+      "st0"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cinco bloques: vivienda, economía, servicios públicos, corrupción y migración.",
+     "show": [
+      {
+       "id": "c2",
+       "type": "cap",
+       "n": "2",
+       "text": "5 bloques",
+       "at": 0
+      },
+      {
+       "id": "k2",
+       "type": "card",
+       "text": "Vivienda · Economía · Servicios",
+       "x": 50,
+       "y": 22,
+       "w": 920,
+       "at": 0
+      },
+      {
+       "id": "k3",
+       "type": "card",
+       "text": "Corrupción · Migración",
+       "x": 50,
+       "y": 34,
+       "w": 920,
+       "at": 6
+      }
+     ],
+     "hide": [
+      "k1",
+      "mesa",
+      "f0",
+      "s0"
+     ]
+    },
+    {
+     "text": "Abrió Feijóo y cerrará Sánchez, por sorteo.",
+     "show": [
+      {
+       "id": "f2",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 32,
+       "y": 47,
+       "w": 260,
+       "at": 0,
+       "habla": false,
+       "cara": "sonrie",
+       "gesto": "senala",
+       "label": "Abre"
+      },
+      {
+       "id": "s2",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 68,
+       "y": 47,
+       "w": 260,
+       "at": 0,
+       "habla": false,
+       "cara": "sonrie",
+       "gesto": "manos",
+       "label": "Cierra",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": [
+      "k2",
+      "k3"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Quién está ganando? Sánchez o Feijóo. Comenta. Mañana, las frases del debate.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿SÁNCHEZ O FEIJÓO?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "f2",
+      "s2"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-19T23:00:00+01:00"
+}

@@ -1,0 +1,254 @@
+{
+ "id": "slp_142_feijoo_birra",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 3,
+ "clauseLabels": [
+  "VIVIENDA",
+  "EUTANASIA",
+  "VOX",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "FEIJÓO EN «EL SENTIDO DE LA BIRRA»",
+  "source": "Fuentes: Infobae, elDiario.es y EFE (18-11)"
+ },
+ "caption": "¿Buena idea poner a los parados a construir vivienda? Sí o no 👇\n\nAlberto Núñez Feijóo (PP), en el pódcast «El sentido de la birra» (publicado el 18-N):\n• Vivienda: «Tenemos tres millones de parados. ¿Es probable que en tres millones de parados no tengamos ninguna mano de obra?». De los albañiles, fontaneros o soldadores que cambiaron de oficio: «Hay que recuperarles» (Infobae; EFE en Última Hora).\n• Eutanasia: «¿Esa modificación puede ser una derogación total o parcial? Por supuesto» (elDiario.es).\n• Vox: «No quiero ser presidente, en el caso de ganar las elecciones y poder sumar con Vox, a cualquier precio» (Infobae; EFE en Última Hora).\n\nFuentes: Infobae, elDiario.es y Última Hora/EFE (18-11).\n\n#elecciones #29N #eleccionesgenerales #Feijóo #vivienda",
+ "portada": {
+  "serie": "LO QUE HA DICHO",
+  "titulo": "Feijóo: *«tres millones de parados»*",
+  "mini": {
+   "texto": "Feijóo, en un pódcast:",
+   "rojo": "«3 MILLONES DE PARADOS»",
+   "flecha": false,
+   "tam": 84
+  },
+  "monos": [
+   {
+    "who": "feijoo",
+    "cara": "neutral",
+    "gesto": "habla"
+   }
+  ],
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Feijóo, en un pódcast: «Tenemos tres millones de parados».",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Feijóo: «Tres millones *de parados*»",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "f0",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 0,
+       "habla": true,
+       "cara": "duda",
+       "say": "«Tres millones de parados»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "r",
+       "bw": 380,
+       "bfs": 40,
+       "gesto": "manos",
+       "label": "Feijóo · PP"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Su idea: que construyan las viviendas que faltan. De los albañiles y fontaneros que cambiaron de oficio: «Hay que recuperarles».",
+     "show": [
+      {
+       "id": "k1",
+       "type": "card",
+       "text": "«Hay que recuperarles»",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      },
+      {
+       "id": "ca",
+       "type": "prop",
+       "kind": "doc",
+       "x": 50,
+       "y": 46,
+       "w": 460,
+       "at": 0,
+       "kicker": "PP · VIVIENDA",
+       "text": "Albañiles, fontaneros, soldadores",
+       "sello": "PARO",
+       "st": 0.6
+      }
+     ],
+     "hide": [
+      "h1",
+      "f0"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Eutanasia. ¿Derogación total o parcial? «Por supuesto».",
+     "show": [
+      {
+       "id": "c2",
+       "type": "cap",
+       "n": "2",
+       "text": "Eutanasia",
+       "at": 0
+      },
+      {
+       "id": "f2",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 47,
+       "w": 290,
+       "at": 0,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«Por supuesto»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 340,
+       "bfs": 42,
+       "gesto": "senala",
+       "label": "Feijóo"
+      },
+      {
+       "id": "k2",
+       "type": "card",
+       "text": "¿Derogación total o parcial?",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "k1",
+      "ca"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Y con Vox: no quiere ser presidente «a cualquier precio».",
+     "show": [
+      {
+       "id": "c3",
+       "type": "cap",
+       "n": "3",
+       "text": "Vox",
+       "at": 0
+      },
+      {
+       "id": "f3",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 36,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«A cualquier precio», no",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 340,
+       "bfs": 36,
+       "gesto": "manos",
+       "label": "Feijóo"
+      },
+      {
+       "id": "a3",
+       "type": "mono",
+       "who": "abascal",
+       "x": 66,
+       "y": 47,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "quieto",
+       "label": "Abascal",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": [
+      "f2",
+      "k2"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Buena idea lo de los parados? Sí o no. Síguenos: mañana, el cara a cara con Sánchez.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿SÍ O NO?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "f3",
+      "a3"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-18T16:30:00+01:00"
+}

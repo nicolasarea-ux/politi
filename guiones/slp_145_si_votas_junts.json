@@ -1,0 +1,359 @@
+{
+ "id": "slp_145_si_votas_junts",
+ "brand": "Politízate Hoy",
+ "formato": "top5",
+ "tono": "normal",
+ "clauses": 3,
+ "clauseLabels": [
+  "LA CANDIDATA",
+  "5 MEDIDAS",
+  "LA LETRA PEQUEÑA",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "SI VOTAS A… JUNTS",
+  "source": "Fuentes: politicaelectoral.com, antesdevotar.org, testaquienvotar.es, doblelectura.es"
+ },
+ "caption": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (7/7): 5 medidas concretas de Junts (Míriam Nogueras) para el 29-N. Mismo criterio para todos los partidos: las más concretas y repetidas en sus propuestas.\n5. Desalojo de ocupantes sin título en 48 horas (politicaelectoral.com, antesdevotar.org, testaquienvotar.es).\n4. Suprimir el impuesto de sucesiones (politicaelectoral.com, antesdevotar.org, testaquienvotar.es).\n3. Oficialidad del catalán en la UE (politicaelectoral.com, doblelectura.es, antesdevotar.org, testaquienvotar.es, Catalunya Press 6-11).\n2. Competencias de inmigración para la Generalitat: permisos, expulsiones y Mossos en puertos y aeropuertos (mismas fuentes).\n1. Que la Generalitat recaude el 100 % de los impuestos pagados en Cataluña (antesdevotar.org; el concierto económico, en las 5 fuentes).\n\nLa letra pequeña: a la última comprobación que hemos encontrado (11-11), Junts no había publicado programa para el 29-N. Las medidas salen de sus propuestas en junts.cat, sus votaciones y su programa de 2023, según esos comparadores.\n\nFuentes: politicaelectoral.com, doblelectura.es, antesdevotar.org, testaquienvotar.es, Catalunya Press.\n\n#Junts #Nogueras #29N #elecciones #SiVotasA",
+ "portada": {
+  "serie": "SI VOTAS A… 7/7",
+  "titulo": "Si votas a *Junts*, esto es lo que propone",
+  "mini": {
+   "texto": "Si votas a Junts,",
+   "rojo": "EL 100 % DE LOS IMPUESTOS",
+   "flecha": false,
+   "tam": 84
+  },
+  "monos": [
+   {
+    "who": "nogueras",
+    "cara": "sonrie",
+    "gesto": "manos"
+   }
+  ],
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Si votas a Junts, esto es lo que propone. Cinco medidas.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Si votas a *Junts*…",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "mo",
+       "type": "mono",
+       "who": "nogueras",
+       "x": 50,
+       "y": 46,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "sonrie",
+       "gesto": "manos",
+       "label": "Míriam Nogueras · Junts"
+      },
+      {
+       "id": "st0",
+       "type": "stamp",
+       "text": "5 MEDIDAS",
+       "color": "red",
+       "x": 50,
+       "y": 72,
+       "rot": -4,
+       "at": 8
+      }
+     ],
+     "hide": []
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Cinco: desalojar a los okupas en cuarenta y ocho horas.",
+     "show": [
+      {
+       "id": "f5",
+       "type": "flash",
+       "text": "5",
+       "bg": "mark",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c5",
+       "type": "card",
+       "text": "Desalojo de okupas en 48 h",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s5",
+       "type": "sticker",
+       "text": "🔑",
+       "x": 86,
+       "y": 30,
+       "at": 2
+      }
+     ],
+     "hide": [
+      "h1",
+      "mo",
+      "st0"
+     ]
+    },
+    {
+     "text": "Cuatro: suprimir el impuesto de sucesiones.",
+     "show": [
+      {
+       "id": "f4",
+       "type": "flash",
+       "text": "4",
+       "bg": "ink",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c4",
+       "type": "card",
+       "text": "Adiós al impuesto de sucesiones",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s4",
+       "type": "sticker",
+       "text": "📜",
+       "x": 86,
+       "y": 30,
+       "at": 2
+      }
+     ],
+     "hide": [
+      "c5",
+      "s5"
+     ]
+    },
+    {
+     "text": "Tres: el catalán, lengua oficial en la Unión Europea.",
+     "show": [
+      {
+       "id": "f3",
+       "type": "flash",
+       "text": "3",
+       "bg": "red",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c3",
+       "type": "card",
+       "text": "Catalán oficial en la UE",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s3",
+       "type": "sticker",
+       "text": "🇪🇺",
+       "x": 86,
+       "y": 30,
+       "at": 2
+      }
+     ],
+     "hide": [
+      "c4",
+      "s4"
+     ]
+    },
+    {
+     "text": "Dos: inmigración en manos de la Generalitat, con los Mossos en puertos y aeropuertos.",
+     "show": [
+      {
+       "id": "f2",
+       "type": "flash",
+       "text": "2",
+       "bg": "ink",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c2",
+       "type": "card",
+       "text": "Inmigración: competencia catalana",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s2",
+       "type": "sticker",
+       "text": "🛂",
+       "x": 86,
+       "y": 30,
+       "at": 2
+      },
+      {
+       "id": "n2",
+       "type": "card",
+       "text": "Mossos en puertos y aeropuertos",
+       "x": 44,
+       "y": 40,
+       "w": 600,
+       "at": 4
+      }
+     ],
+     "hide": [
+      "c3",
+      "s3"
+     ]
+    },
+    {
+     "text": "Y uno: que la Generalitat recaude el cien por cien de los impuestos pagados en Cataluña.",
+     "show": [
+      {
+       "id": "f1",
+       "type": "flash",
+       "text": "1",
+       "bg": "red",
+       "size": 220,
+       "x": 50,
+       "y": 44,
+       "at": 0,
+       "dur": 0.9
+      },
+      {
+       "id": "c1",
+       "type": "card",
+       "text": "100 % de los impuestos",
+       "x": 50,
+       "y": 58,
+       "w": 900,
+       "at": 1
+      },
+      {
+       "id": "s1",
+       "type": "sticker",
+       "text": "💶",
+       "x": 86,
+       "y": 30,
+       "at": 2
+      },
+      {
+       "id": "n1",
+       "type": "card",
+       "text": "Concierto económico",
+       "x": 44,
+       "y": 40,
+       "w": 560,
+       "at": 4
+      }
+     ],
+     "hide": [
+      "c2",
+      "s2",
+      "n2"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "La letra pequeña: a 11 de noviembre, Junts no había publicado programa. Esto sale de sus propuestas y votaciones.",
+     "show": [
+      {
+       "id": "doc",
+       "type": "prop",
+       "kind": "doc",
+       "x": 50,
+       "y": 44,
+       "w": 520,
+       "at": 0,
+       "kicker": "JUNTS · 29-N",
+       "text": "Programa: sin publicar",
+       "sello": "11-N",
+       "st": 0.6
+      }
+     ],
+     "hide": [
+      "c1",
+      "s1",
+      "n1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Te convence? Sí o no. Síguenos: quedan nueve días para el veintinueve.",
+     "show": [
+      {
+       "id": "mo2",
+       "type": "mono",
+       "who": "nogueras",
+       "x": 50,
+       "y": 42,
+       "w": 280,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "brazos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TE CONVENCE?",
+       "color": "ink",
+       "x": 50,
+       "y": 64,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "doc"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-20T19:45:00+01:00",
+ "serie": {
+  "n": 7,
+  "de": 7,
+  "next": "Quedan 9 días para el 29-N"
+ }
+}

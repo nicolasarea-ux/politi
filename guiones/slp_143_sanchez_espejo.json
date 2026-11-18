@@ -1,0 +1,228 @@
+{
+ "id": "slp_143_sanchez_espejo",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 3,
+ "clauseLabels": [
+  "176",
+  "VIVIENDA",
+  "CORRUPCIÓN",
+  "TU TURNO"
+ ],
+ "header": {
+  "tag": "SÁNCHEZ EN «ESPEJO PÚBLICO»",
+  "source": "Fuentes: The Objective y El Independiente (18-11)"
+ },
+ "caption": "¿Llega Sánchez a 176? Sí o no 👇\n\nPedro Sánchez (PSOE), entrevistado por Susanna Griso en «Espejo Público» (Antena 3) el 18-N, la víspera del cara a cara:\n• «Voy a formar Gobierno con una mayoría más amplia progresista, vamos a por 176 escaños» (The Objective).\n• «Me han dado por jubilado muchos años y aquí sigo cotizando a la Seguridad Social» (The Objective).\n• Vivienda: «Puede haber votantes que se hayan sentido defraudados en temas como vivienda» (The Objective; El Independiente habla de votantes «decepcionados»).\n• Sobre los casos que afectan a su mujer y a su hermano: «Hay casos de corrupción reales y otros ficticios» (The Objective; El Independiente recoge «reales» y «ficticios»).\n\nFuentes: The Objective y El Independiente (18-11).\n\n#elecciones #29N #eleccionesgenerales #PedroSánchez #debate",
+ "portada": {
+  "serie": "LO QUE HA DICHO",
+  "titulo": "Sánchez: *«vamos a por 176»*",
+  "mini": {
+   "texto": "Sánchez, antes del debate:",
+   "rojo": "«VAMOS A POR 176»",
+   "flecha": false,
+   "tam": 84
+  },
+  "monos": [
+   {
+    "who": "sanchez",
+    "cara": "sonrie",
+    "gesto": "puno"
+   }
+  ],
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Sánchez, horas antes del cara a cara: «Vamos a por 176 escaños».",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Sánchez: «Vamos a por *176*»",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "s0",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 47,
+       "w": 300,
+       "at": 0,
+       "habla": true,
+       "cara": "sonrie",
+       "say": "«Vamos a por 176»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "r",
+       "bw": 360,
+       "bfs": 42,
+       "gesto": "puno",
+       "label": "Pedro Sánchez · PSOE"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Y presume: «Me han dado por jubilado muchos años y aquí sigo».",
+     "show": [
+      {
+       "id": "k1",
+       "type": "card",
+       "text": "«Me han dado por jubilado»",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      },
+      {
+       "id": "s1",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 47,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "risa",
+       "gesto": "brazos",
+       "label": "Sánchez"
+      }
+     ],
+     "hide": [
+      "h1",
+      "s0"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Admite que puede haber votantes «defraudados» con la vivienda.",
+     "show": [
+      {
+       "id": "c2",
+       "type": "cap",
+       "n": "2",
+       "text": "Vivienda",
+       "at": 0
+      },
+      {
+       "id": "s2",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 47,
+       "w": 290,
+       "at": 0,
+       "habla": true,
+       "cara": "duda",
+       "say": "«Defraudados»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 320,
+       "bfs": 42,
+       "gesto": "manos",
+       "label": "Sánchez"
+      }
+     ],
+     "hide": [
+      "k1",
+      "s1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Y sobre los casos de su mujer y su hermano: «Hay casos de corrupción reales y otros ficticios».",
+     "show": [
+      {
+       "id": "c3",
+       "type": "cap",
+       "n": "3",
+       "text": "Corrupción",
+       "at": 0
+      },
+      {
+       "id": "s3",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 47,
+       "w": 290,
+       "at": 0,
+       "habla": true,
+       "cara": "enfado",
+       "say": "«Reales y ficticios»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 360,
+       "bfs": 40,
+       "gesto": "senala",
+       "label": "Sánchez"
+      }
+     ],
+     "hide": [
+      "s2"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Llega a ciento setenta y seis? Sí o no. Síguenos: esta noche, el cara a cara.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿SÍ O NO?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "s3"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-19T08:30:00+01:00"
+}
