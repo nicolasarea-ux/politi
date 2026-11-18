@@ -1,0 +1,277 @@
+{
+ "id": "slp_147_quien_lo_dijo_2023",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 1,
+ "clauseLabels": [
+  "4 FRASES",
+  "TU NOTA"
+ ],
+ "header": {
+  "tag": "¿QUIÉN LO DIJO?",
+  "source": "Fuente: frases del debate del 10-07-2023 (Última Hora)"
+ },
+ "caption": "¿Quién lo dijo: Sánchez o Feijóo? 🤔 Frases literales del cara a cara de julio de 2023.\n\n1️⃣ «Esto no es el programa de El Hormiguero» → Feijóo\n2️⃣ «Me lo tomo con mucha deportividad» → Sánchez (sobre el «sanchismo»)\n3️⃣ «Yo no utilizaré ningún medio de transporte del Estado para ir a una boda» → Feijóo\n4️⃣ «Soy un presidente limpio, autónomo y libre» → Sánchez\n\n👇 ¿Cuántas acertaste? Mándaselo a quien se crea que lo sabe todo.\nEsta noche a las 22:00, el nuevo cara a cara.\n\nFuente: Última Hora, frases del debate (11-07-2023).\n#debate #caraacara #sanchez #feijoo #elecciones #29N #quiz",
+ "portada": {
+  "serie": "CARA A CARA",
+  "titulo": "¿*Quién lo dijo*?",
+  "mini": {
+   "rojo": "¿SÁNCHEZ O FEIJÓO?"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Quién lo dijo? Frases del último cara a cara, en 2023. Uno.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "¿*Quién lo dijo*?",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "sA",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fA",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "atr",
+       "type": "prop",
+       "kind": "atriles",
+       "x": 50,
+       "y": 60,
+       "w": 1000,
+       "at": 0,
+       "text": "JULIO 2023"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Esto no es el programa de El Hormiguero. ¿Sánchez o Feijóo?",
+     "show": [
+      {
+       "id": "q0",
+       "type": "card",
+       "text": "«Esto no es el programa de El Hormiguero»",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "h1"
+     ]
+    },
+    {
+     "text": "Feijóo. Dos.",
+     "show": [
+      {
+       "id": "r0",
+       "type": "stamp",
+       "text": "FEIJÓO",
+       "color": "ink",
+       "x": 50,
+       "y": 28,
+       "rot": -5,
+       "at": 0
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Me lo tomo con mucha deportividad. ¿Sánchez o Feijóo?",
+     "show": [
+      {
+       "id": "q1",
+       "type": "card",
+       "text": "«Me lo tomo con mucha deportividad»",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "q0",
+      "r0"
+     ]
+    },
+    {
+     "text": "Sánchez. Tres.",
+     "show": [
+      {
+       "id": "r1",
+       "type": "stamp",
+       "text": "SÁNCHEZ",
+       "color": "red",
+       "x": 50,
+       "y": 28,
+       "rot": -5,
+       "at": 0
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Yo no utilizaré ningún medio de transporte del Estado para ir a una boda. ¿Sánchez o Feijóo?",
+     "show": [
+      {
+       "id": "q2",
+       "type": "card",
+       "text": "«Yo no utilizaré ningún medio de transporte del Estado para ir a una boda»",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "q1",
+      "r1"
+     ]
+    },
+    {
+     "text": "Feijóo. Y cuatro.",
+     "show": [
+      {
+       "id": "r2",
+       "type": "stamp",
+       "text": "FEIJÓO",
+       "color": "ink",
+       "x": 50,
+       "y": 28,
+       "rot": -5,
+       "at": 0
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Soy un presidente limpio, autónomo y libre. ¿Sánchez o Feijóo?",
+     "show": [
+      {
+       "id": "q3",
+       "type": "card",
+       "text": "«Soy un presidente limpio, autónomo y libre»",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "q2",
+      "r2"
+     ]
+    },
+    {
+     "text": "Sánchez.",
+     "show": [
+      {
+       "id": "r3",
+       "type": "stamp",
+       "text": "SÁNCHEZ",
+       "color": "red",
+       "x": 50,
+       "y": 28,
+       "rot": -5,
+       "at": 0
+      }
+     ],
+     "hide": []
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Cuántas has acertado? Mándaselo a quien se crea que lo sabe todo. Esta noche, el nuevo cara a cara.",
+     "show": [
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿CUÁNTAS?",
+       "color": "ink",
+       "x": 50,
+       "y": 29,
+       "rot": -5,
+       "at": 0
+      },
+      {
+       "id": "sA",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "sonrie",
+       "gesto": "manos"
+      },
+      {
+       "id": "fA",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "sonrie",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "atr",
+       "type": "prop",
+       "kind": "atriles",
+       "x": 50,
+       "y": 60,
+       "w": 1000,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "q3",
+      "r3"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-19T13:30:00+01:00",
+ "trial": true
+}

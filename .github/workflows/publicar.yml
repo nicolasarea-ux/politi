@@ -28,11 +28,15 @@ jobs:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
         run: python3 estadisticas.py || true
+      - name: Contar votos en comentarios
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+        run: python3 votos.py || true
       - name: Guardar estado
         run: |
           git config user.name "politizatehoy-bot"
           git config user.email "politizatehoy-bot@users.noreply.github.com"
-          git add publicaciones.json stats.json 2>/dev/null || git add publicaciones.json
+          git add publicaciones.json stats.json votos.json 2>/dev/null || git add publicaciones.json
           git diff --cached --quiet || { git commit -m "Reels publicados"; for i in 1 2 3 4 5; do git pull --rebase && git push && break; sleep $((i*10)); done; }
 
   renovar-token:

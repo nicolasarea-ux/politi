@@ -12,6 +12,7 @@ def CAP(id,n,t,at=0): return {"id":id,"type":"cap","n":n,"text":t,"at":at}
 def ST(id,t,at,y=22,color='red',rot=-5): return {"id":id,"type":"stamp","text":t,"color":color,"x":50,"y":y,"rot":rot,"at":at}
 def P(id,kind,x=50,y=44,w=500,at=0,**k): e={"id":id,"type":"prop","kind":kind,"x":x,"y":y,"w":w,"at":at};e.update(k);return e
 def MESA(): return P('mesa','mesa',y=60,w=900,text='THE WILD PROJECT')
+def ATRILES(**k): return P('atr','atriles',y=60,w=1000,**k)
 def FIN(q,stamp,hide): return {"clause":-1,"segments":[{"text":q+" Comenta y síguenos.","show":[M('tu9','tu',50,y=44,w=290,cara='duda',gesto='manos'),ST('fol',stamp,1,y=62,color='ink',rot=-4)],"hide":hide}]}
 def build(id,tag,src,caption,portada,labels,scenes):
     for sc in scenes:

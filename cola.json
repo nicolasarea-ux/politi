@@ -1679,7 +1679,7 @@
   {
    "id": "slp_144_cara_a_cara_directo",
    "estado": "programado",
-   "fecha": "2026-11-19T23:00",
+   "fecha": "2026-11-19T22:05",
    "fecha_reels": "2026-11-19T23:00",
    "copy": "¿Quién está ganando? Sánchez o Feijóo 👇\n\nAhora mismo: cara a cara entre Pedro Sánchez (PSOE) y Alberto Núñez Feijóo (PP), desde las 22:00 en La 1, Canal 24 Horas, RNE y RTVE Play. Lo organiza la Academia de Televisión y modera María Casado.\nCinco bloques: vivienda; economía y fiscalidad; política social y servicios públicos; corrupción y regeneración; migración y política exterior. Por sorteo, abre Feijóo y cierra Sánchez.\n\nFuentes: Europa Press en Última Hora (14-11) y elDiario.es/Vertele.\n\n#elecciones #29N #eleccionesgenerales #debate #caraacara",
    "formato": "minuto",
@@ -1689,7 +1689,29 @@
     "PSOE"
    ],
    "portada_estilo": "mini",
-   "nota": "pasada 18-N"
+   "nota": "pasada 18-N",
+   "votos": true
+  },
+  {
+   "id": "slp_146_caraacara_esta_noche",
+   "tipo": "actualidad",
+   "formato": "monigotes",
+   "estado": "programado",
+   "fecha": "2026-11-19T08:30",
+   "fecha_reels": "2026-11-19T08:30",
+   "nota": "Entrevistas Wild 13-N; citas transcritas de YouTube; voz ElevenLabs",
+   "copy": "Esta noche a las 22:00, el único cara a cara entre Sánchez y Feijóo 🎙️\n\n📺 La 1, Antena 3, Telecinco, Cuatro y laSexta. Modera María Casado.\n🧱 5 bloques: vivienda · economía y fiscalidad · servicios públicos · corrupción · migración y política exterior.\n🎲 Abre Feijóo, cierra Sánchez (sorteo).\n\n👇 ¿Quién gana? Comenta SÁNCHEZ o FEIJÓO. Mañana contamos los votos.\nEsta noche subimos lo más fuerte del debate en directo.\n\nFuente: FormulaTV, Academia de Televisión.\n#debate #caraacara #sanchez #feijoo #elecciones #29N",
+   "votos": true
+  },
+  {
+   "id": "slp_147_quien_lo_dijo_2023",
+   "tipo": "actualidad",
+   "formato": "monigotes",
+   "estado": "programado",
+   "fecha": "2026-11-19T13:30",
+   "fecha_reels": "2026-11-19T13:30",
+   "nota": "Entrevistas Wild 13-N; citas transcritas de YouTube; voz ElevenLabs",
+   "copy": "¿Quién lo dijo: Sánchez o Feijóo? 🤔 Frases literales del cara a cara de julio de 2023.\n\n1️⃣ «Esto no es el programa de El Hormiguero» → Feijóo\n2️⃣ «Me lo tomo con mucha deportividad» → Sánchez (sobre el «sanchismo»)\n3️⃣ «Yo no utilizaré ningún medio de transporte del Estado para ir a una boda» → Feijóo\n4️⃣ «Soy un presidente limpio, autónomo y libre» → Sánchez\n\n👇 ¿Cuántas acertaste? Mándaselo a quien se crea que lo sabe todo.\nEsta noche a las 22:00, el nuevo cara a cara.\n\nFuente: Última Hora, frases del debate (11-07-2023).\n#debate #caraacara #sanchez #feijoo #elecciones #29N #quiz"
   }
  ]
 }
