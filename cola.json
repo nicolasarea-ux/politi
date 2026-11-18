@@ -969,21 +969,6 @@
    "portada_estilo": "mini"
   },
   {
-   "id": "slp_072_vivienda_feijoo_colau",
-   "estado": "programado",
-   "fecha": "2026-11-19T16:30",
-   "fecha_reels": "2026-11-19T16:30",
-   "copy": "¿Construir o expropiar? 👇\n\nVivienda: lo que proponen Feijóo y Colau, con sus palabras.\n\nFuentes: vídeo de compromisos de Feijóo (Europa Press vía Demócrata, 9-11) y programa del PP resumido por idealista (9-11); mitin de Colau en Barcelona (Europa Press vía PressDigital, 7-11). La cifra de 13 fondos y 100.000 viviendas es de Colau.\nFotos: European People's Party (CC BY 2.0) y Laura Guerrero (CC BY 4.0), Wikimedia Commons.\n\n#vivienda #Feijóo #Colau #elecciones #29N",
-   "formato": "vs",
-   "tipo": "atemporal",
-   "partidos": [
-    "Frente Amplio",
-    "PP"
-   ],
-   "portada_estilo": "mini",
-   "nota": "10-N: sale del 11-N 08:45 (lo ocupa slp_088; el 11-N ya tiene 4 Reels de huelga). Reutilizable. · sacado de reserva (pasada 17-N) · pasada 18-N: de 18-N 16:30 a 19-N 16:30 (su hueco lo ocupa slp_142, actualidad); re-render con fechaPub"
-  },
-  {
    "id": "slp_073_abascal_broncano_suerte",
    "tipo": "actualidad",
    "formato": "vs",
@@ -1668,18 +1653,6 @@
    "copy": "¿Quién gana: Feijóo o Sánchez? 👇\n\nEl único cara a cara de la campaña del 29-N:\n• Jueves 19-N, a las 22:00 (Infobae, 16-11).\n• Lo produce la Academia de la Televisión con una señal común para todas las cadenas que quieran emitirlo, sin exclusiva; modera María Casado (OKDIARIO, 13-11).\n• Cinco bloques, en este orden: vivienda; economía y fiscalidad; política social y servicios públicos; corrupción y regeneración; migración y política exterior.\n• Por sorteo, abre Feijóo y cierra Sánchez.\n• El 26-N, debate a cuatro con Abascal y Colau (Infobae).\n\nFuentes: OKDIARIO (13-11) e Infobae (16-11).\n\n#elecciones #29N #eleccionesgenerales #debate #caraacara"
   },
   {
-   "id": "slp_138_si_votas_podemos",
-   "tipo": "atemporal",
-   "formato": "top5",
-   "estado": "programado",
-   "fecha": "2026-11-18T19:45",
-   "fecha_reels": "2026-11-18T19:45",
-   "nota": "Serie Si votas a… 5/7; Europa Press, Canal Sur, Telecinco, politicaelectoral.com; sin programa oficial",
-   "partido": "podemos",
-   "portada_estilo": "mini",
-   "copy": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (5/7): 5 medidas concretas de Podemos (Irene Montero) para el 29-N. Mismo criterio para todos los partidos. Podemos no ha publicado programa oficial: las medidas salen de lo que ha anunciado Montero en campaña.\n5. Bajar por ley el precio de los alquileres y prohibir comprar vivienda para especular (Canal Sur 15-11, Europa Press 6-11).\n4. No subir el gasto militar: «ni un euro más a armas» (Europa Press 6-11, politicaelectoral.com).\n3. Jornada laboral de 30 horas semanales (Europa Press 6-11, Canal Sur 15-11, Telecinco 10-11).\n2. Bajar la edad de jubilación a 63 años (Europa Press 6-11, politicaelectoral.com).\n1. Salario mínimo de 1.800 euros al mes (Europa Press 6-11, Canal Sur 15-11, Telecinco 10-11).\n\nLa letra pequeña: sin programa publicado, no hay cálculo de cuánto cuestan estas medidas.\n\nFuentes: Europa Press vía Pressdigital (6-11), Canal Sur (15-11), Telecinco (10-11), politicaelectoral.com.\n\n#Podemos #IreneMontero #29N #elecciones #SiVotasA"
-  },
-  {
    "id": "slp_139_encuestas_17n",
    "tipo": "actualidad",
    "formato": "monigotes",
@@ -1688,30 +1661,6 @@
    "fecha_reels": "2026-11-17T16:30",
    "nota": "Entrevistas Wild 13-N; citas transcritas de YouTube; voz ElevenLabs",
    "copy": "¿Quién crees que gana el 29-N? 👇\n\nLas encuestas, a 12 días de las elecciones:\n• 40dB (El País/SER, tracking 17-N): PP 133 escaños, PSOE 120, Vox 58, Frente Amplio 5. PP+Vox: 191 (mayoría absoluta: 176).\n• GAD3 (ABC, 3-5 nov) y Sigma Dos (El Mundo, 9 nov): bloque PP+Vox en 199.\n• CIS (14 oct, solo % de voto): PSOE 34 %, PP 22,2 %, Vox 17,1 %.\n\nUna encuesta no es un resultado: es una estimación con margen de error.\n\nFuentes: Demócrata (40dB, 17-11), Qué! (resumen de encuestas, 12-11), Infobae (17-11).\n\n#elecciones #29N #eleccionesgenerales #encuestas #CIS"
-  },
-  {
-   "id": "slp_141_wild_mas_vistas",
-   "tipo": "atemporal",
-   "formato": "top5",
-   "estado": "programado",
-   "fecha": "2026-11-18T23:00",
-   "fecha_reels": "2026-11-18T23:00",
-   "nota": "Top 3 frases de Wild más vistas en el canal (una por candidato); The Wild Project #391-393",
-   "partido": "varios",
-   "portada_estilo": "mini",
-   "copy": "¿Estás de acuerdo con el top? Sí o no 👇\n\nLas 3 frases de las entrevistas de Jordi Wild (The Wild Project, 13-N) que más visteis en @politizatehoy, una por candidato (Abascal no fue). Ranking por visualizaciones de nuestros Reels, no por importancia.\n3. Ada Colau (Frente Amplio), sobre okupación: el pequeño propietario recuperaría el piso «en un mes o dos meses» (The Wild Project #391).\n2. Alberto Núñez Feijóo (PP): «Yo no sé inglés, pero sé gobernar» (The Wild Project #392).\n1. Despedida de Pedro Sánchez (PSOE). Wild: «Hombre, claro que sí. Gana las elecciones». Y remata: «No lo veo tan claro, Pedro» (The Wild Project #393).\n\nCitas transcritas de los vídeos originales (13-11).\n\n#JordiWild #TheWildProject #29N #elecciones #eleccionesgenerales"
-  },
-  {
-   "id": "slp_140_si_votas_salf",
-   "tipo": "atemporal",
-   "formato": "top5",
-   "estado": "programado",
-   "fecha": "2026-11-19T19:45",
-   "fecha_reels": "2026-11-19T19:45",
-   "nota": "Serie Si votas a… 6/7; The Objective 10-11 (contrato electoral), politicaelectoral.com, Demócrata",
-   "partido": "salf",
-   "portada_estilo": "mini",
-   "copy": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (6/7): 5 medidas concretas de Se Acabó La Fiesta (Alvise Pérez) para el 29-N. Mismo criterio para todos los partidos: las más concretas y con cifra.\n5. Pasar de 22 a 10 ministerios y de 1.255 a 400 asesores (The Objective 10-11; politicaelectoral.com y eleccionesespaña.com hablan de recortar un 70 % de altos cargos y asesores).\n4. Mili voluntaria de 6 meses a 1 año con 1.600 € netos al mes (The Objective 10-11).\n3. Cárcel de máxima seguridad de 3.000 millones, pagada con lo decomisado al narco (coste: The Objective 10-11; la cárcel también en politicaelectoral.com y Demócrata).\n2. Rebaja de 5 puntos de IRPF por hijo (politicaelectoral.com, Demócrata).\n1. 0 % de IRPF para los primeros 35.000 € de sueldo al año (The Objective 10-11, politicaelectoral.com, Demócrata).\n\nLa letra pequeña: las cifras salen del «contrato electoral» que SALF presentó el 10-N, según The Objective. No hemos podido leer el documento completo en la web del partido.\n\nFuentes: The Objective (10-11), politicaelectoral.com, Demócrata.\n\n#SALF #Alvise #29N #elecciones #SiVotasA"
   },
   {
    "id": "slp_142_feijoo_birra",
@@ -1723,20 +1672,6 @@
    "tipo": "actualidad",
    "partidos": [
     "PP"
-   ],
-   "portada_estilo": "mini",
-   "nota": "pasada 18-N"
-  },
-  {
-   "id": "slp_143_sanchez_espejo",
-   "estado": "programado",
-   "fecha": "2026-11-19T08:30",
-   "fecha_reels": "2026-11-19T08:30",
-   "copy": "¿Llega Sánchez a 176? Sí o no 👇\n\nPedro Sánchez (PSOE), entrevistado por Susanna Griso en «Espejo Público» (Antena 3) el 18-N, la víspera del cara a cara:\n• «Voy a formar Gobierno con una mayoría más amplia progresista, vamos a por 176 escaños» (The Objective).\n• «Me han dado por jubilado muchos años y aquí sigo cotizando a la Seguridad Social» (The Objective).\n• Vivienda: «Puede haber votantes que se hayan sentido defraudados en temas como vivienda» (The Objective; El Independiente habla de votantes «decepcionados»).\n• Sobre los casos que afectan a su mujer y a su hermano: «Hay casos de corrupción reales y otros ficticios» (The Objective; El Independiente recoge «reales» y «ficticios»).\n\nFuentes: The Objective y El Independiente (18-11).\n\n#elecciones #29N #eleccionesgenerales #PedroSánchez #debate",
-   "formato": "minuto",
-   "tipo": "actualidad",
-   "partidos": [
-    "PSOE"
    ],
    "portada_estilo": "mini",
    "nota": "pasada 18-N"
@@ -1755,20 +1690,6 @@
    ],
    "portada_estilo": "mini",
    "nota": "pasada 18-N"
-  },
-  {
-   "id": "slp_145_si_votas_junts",
-   "estado": "programado",
-   "fecha": "2026-11-20T19:45",
-   "fecha_reels": "2026-11-20T19:45",
-   "copy": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (7/7): 5 medidas concretas de Junts (Míriam Nogueras) para el 29-N. Mismo criterio para todos los partidos: las más concretas y repetidas en sus propuestas.\n5. Desalojo de ocupantes sin título en 48 horas (politicaelectoral.com, antesdevotar.org, testaquienvotar.es).\n4. Suprimir el impuesto de sucesiones (politicaelectoral.com, antesdevotar.org, testaquienvotar.es).\n3. Oficialidad del catalán en la UE (politicaelectoral.com, doblelectura.es, antesdevotar.org, testaquienvotar.es, Catalunya Press 6-11).\n2. Competencias de inmigración para la Generalitat: permisos, expulsiones y Mossos en puertos y aeropuertos (mismas fuentes).\n1. Que la Generalitat recaude el 100 % de los impuestos pagados en Cataluña (antesdevotar.org; el concierto económico, en las 5 fuentes).\n\nLa letra pequeña: a la última comprobación que hemos encontrado (11-11), Junts no había publicado programa para el 29-N. Las medidas salen de sus propuestas en junts.cat, sus votaciones y su programa de 2023, según esos comparadores.\n\nFuentes: politicaelectoral.com, doblelectura.es, antesdevotar.org, testaquienvotar.es, Catalunya Press.\n\n#Junts #Nogueras #29N #elecciones #SiVotasA",
-   "formato": "top5",
-   "tipo": "atemporal",
-   "partidos": [
-    "Junts"
-   ],
-   "portada_estilo": "mini",
-   "nota": "pasada 18-N · Serie Si votas a… 7/7"
   }
  ]
 }

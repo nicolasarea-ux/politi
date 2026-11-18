@@ -63,8 +63,17 @@ def publicar(reel):
         extra["cover_url"] = portada
     except Exception:
         extra["thumb_offset"] = 1000
-    c = call("POST", f"{USER}/media", media_type="REELS", video_url=REPO_RAW + reel["id"] + ".mp4",
-             caption=con_cta(reel.get("copy") or CAPTION), share_to_feed="true", **extra)
+    base = dict(media_type="REELS", video_url=REPO_RAW + reel["id"] + ".mp4",
+                caption=con_cta(reel.get("copy") or CAPTION), share_to_feed="true", **extra)
+    c = None
+    if reel.get("trial", True):  # reel de prueba: primero solo a no seguidores; se gradúa solo si funciona
+        try:
+            c = call("POST", f"{USER}/media", trial_params=json.dumps({"graduation_strategy": "SS_PERFORMANCE"}), **base)
+            print("Reel de prueba (trial):", reel["id"])
+        except Exception as e:
+            print("trial_params rechazado, publico normal:", e)
+    if c is None:
+        c = call("POST", f"{USER}/media", **base)
     cid = c["id"]
     for _ in range(40):  # hasta ~10 min procesando
         st = call("GET", cid, fields="status_code")["status_code"]
