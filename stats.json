@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 38,
-  "media_count": 121,
+  "media_count": 122,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_126_feijoo_defensa_frontera",
+   "ig": "17916804525287352",
+   "fecha": "2026-11-18T07:30:31+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/Df3-Px8gPzM/",
+   "titulo": "¿Estás de acuerdo? 👇\n\nFeijóo (PP), sobre el gasto en defensa",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
   {
    "id": "slp_132_sanchez_involucion",
    "ig": "17937402834145608",
@@ -19,8 +35,8 @@
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 6023,
-   "ig_reels_video_view_total_time": 632448
+   "ig_reels_avg_watch_time": 6032,
+   "ig_reels_video_view_total_time": 639440
   },
   {
    "id": "slp_136_si_votas_frente_amplio",
@@ -42,17 +58,17 @@
    "id": "slp_139_encuestas_17n",
    "ig": "18160471126510076",
    "fecha": "2026-11-17T15:31:34+0000",
-   "likes": 3,
+   "likes": 5,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df2Qc4AggTa/",
    "titulo": "¿Quién crees que gana el 29-N? 👇\n\nLas encuestas, a 12 días d",
-   "views": 360,
-   "reach": 326,
+   "views": 448,
+   "reach": 383,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 3,
-   "ig_reels_avg_watch_time": 12015,
-   "ig_reels_video_view_total_time": 3940972
+   "total_interactions": 5,
+   "ig_reels_avg_watch_time": 12527,
+   "ig_reels_video_view_total_time": 4960963
   },
   {
    "id": "slp_131_sanchez_vivienda_colau",
@@ -990,13 +1006,13 @@
    "comentarios": 6,
    "url": "https://www.instagram.com/reel/Dfis-KrnS5B/",
    "titulo": "¿Quién tenía razón: Abascal o Broncano? 👇\n\nEl choque más com",
-   "views": 2988,
-   "reach": 2478,
+   "views": 2989,
+   "reach": 2479,
    "saved": 3,
    "shares": 0,
    "total_interactions": 25,
-   "ig_reels_avg_watch_time": 16680,
-   "ig_reels_video_view_total_time": 41452184
+   "ig_reels_avg_watch_time": 16675,
+   "ig_reels_video_view_total_time": 41454937
   },
   {
    "id": "slp_074_revuelta_publico_vox",
@@ -1589,22 +1605,6 @@
    "total_interactions": 1,
    "ig_reels_avg_watch_time": 11650,
    "ig_reels_video_view_total_time": 1677636
-  },
-  {
-   "id": "slp_038_puente_dimite",
-   "ig": "18110542526189658",
-   "fecha": "2026-11-03T21:13:03+0000",
-   "likes": 1,
-   "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfS0dN_DEFN/",
-   "titulo": "Óscar Puente dimite como ministro de Transportes al final de",
-   "views": 118,
-   "reach": 100,
-   "saved": 0,
-   "shares": 0,
-   "total_interactions": 1,
-   "ig_reels_avg_watch_time": 8080,
-   "ig_reels_video_view_total_time": 832278
   }
  ]
 }
