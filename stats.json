@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 38,
-  "media_count": 123,
+  "media_count": 124,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_142_feijoo_birra",
+   "ig": "18114525044207076",
+   "fecha": "2026-11-18T15:30:32+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/Df41LjAE4Oz/",
+   "titulo": "¿Buena idea poner a los parados a construir vivienda? Sí o n",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
   {
    "id": "slp_137_cara_a_cara_previa",
    "ig": "18112513868241056",
@@ -14,13 +30,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df4gpjAjyzN/",
    "titulo": "¿Quién gana: Feijóo o Sánchez? 👇\n\nEl único cara a cara de la",
-   "views": 146,
-   "reach": 122,
+   "views": 152,
+   "reach": 133,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 9478,
-   "ig_reels_video_view_total_time": 1146954
+   "ig_reels_avg_watch_time": 9005,
+   "ig_reels_video_view_total_time": 1188703
   },
   {
    "id": "slp_126_feijoo_defensa_frontera",
@@ -74,17 +90,17 @@
    "id": "slp_139_encuestas_17n",
    "ig": "18160471126510076",
    "fecha": "2026-11-17T15:31:34+0000",
-   "likes": 9,
+   "likes": 10,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df2Qc4AggTa/",
    "titulo": "¿Quién crees que gana el 29-N? 👇\n\nLas encuestas, a 12 días d",
-   "views": 655,
-   "reach": 560,
+   "views": 713,
+   "reach": 605,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 9,
-   "ig_reels_avg_watch_time": 14481,
-   "ig_reels_video_view_total_time": 8124147
+   "total_interactions": 10,
+   "ig_reels_avg_watch_time": 14739,
+   "ig_reels_video_view_total_time": 8991018
   },
   {
    "id": "slp_131_sanchez_vivienda_colau",
@@ -974,13 +990,13 @@
    "comentarios": 12,
    "url": "https://www.instagram.com/reel/Dfj7826HcKP/",
    "titulo": "¿Cuál fue el mejor momento? Comenta el número 👇\n\nLos 5 momen",
-   "views": 3556,
+   "views": 3557,
    "reach": 2796,
    "saved": 2,
    "shares": 2,
    "total_interactions": 61,
-   "ig_reels_avg_watch_time": 17711,
-   "ig_reels_video_view_total_time": 51362016
+   "ig_reels_avg_watch_time": 17714,
+   "ig_reels_video_view_total_time": 51390428
   },
   {
    "id": "slp_077_abascal_fondo_buitre",
@@ -1589,22 +1605,6 @@
    "total_interactions": 1,
    "ig_reels_avg_watch_time": 9035,
    "ig_reels_video_view_total_time": 1165616
-  },
-  {
-   "id": "slp_040_puente_frases",
-   "ig": "18144512494720528",
-   "fecha": "2026-11-03T22:53:44+0000",
-   "likes": 2,
-   "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfS_8Gpndyn/",
-   "titulo": "Las 3 frases con las que Óscar Puente se despidió del Minist",
-   "views": 123,
-   "reach": 110,
-   "saved": 0,
-   "shares": 0,
-   "total_interactions": 2,
-   "ig_reels_avg_watch_time": 7431,
-   "ig_reels_video_view_total_time": 832301
   }
  ]
 }
