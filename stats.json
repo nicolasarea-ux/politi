@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 38,
-  "media_count": 122,
+  "media_count": 123,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_137_cara_a_cara_previa",
+   "ig": "18112513868241056",
+   "fecha": "2026-11-18T12:31:03+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/Df4gpjAjyzN/",
+   "titulo": "¿Quién gana: Feijóo o Sánchez? 👇\n\nEl único cara a cara de la",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
   {
    "id": "slp_126_feijoo_defensa_frontera",
    "ig": "17916804525287352",
@@ -14,13 +30,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df3-Px8gPzM/",
    "titulo": "¿Estás de acuerdo? 👇\n\nFeijóo (PP), sobre el gasto en defensa",
-   "views": 0,
-   "reach": 0,
+   "views": 1,
+   "reach": 1,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 0,
-   "ig_reels_video_view_total_time": 0
+   "ig_reels_avg_watch_time": 2455,
+   "ig_reels_video_view_total_time": 2455
   },
   {
    "id": "slp_132_sanchez_involucion",
@@ -58,17 +74,17 @@
    "id": "slp_139_encuestas_17n",
    "ig": "18160471126510076",
    "fecha": "2026-11-17T15:31:34+0000",
-   "likes": 8,
+   "likes": 9,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df2Qc4AggTa/",
    "titulo": "¿Quién crees que gana el 29-N? 👇\n\nLas encuestas, a 12 días d",
-   "views": 540,
-   "reach": 460,
+   "views": 622,
+   "reach": 515,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 8,
-   "ig_reels_avg_watch_time": 13985,
-   "ig_reels_video_view_total_time": 6489137
+   "total_interactions": 9,
+   "ig_reels_avg_watch_time": 14125,
+   "ig_reels_video_view_total_time": 7387633
   },
   {
    "id": "slp_131_sanchez_vivienda_colau",
@@ -1214,13 +1230,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfeyWDmHEoT/",
    "titulo": "¿Menos gasto militar para esto? Sí o no 👇\n\nIrene Montero en ",
-   "views": 140,
-   "reach": 116,
+   "views": 142,
+   "reach": 117,
    "saved": 0,
    "shares": 0,
    "total_interactions": 3,
-   "ig_reels_avg_watch_time": 9379,
-   "ig_reels_video_view_total_time": 1116172
+   "ig_reels_avg_watch_time": 9400,
+   "ig_reels_video_view_total_time": 1128068
   },
   {
    "id": "slp_031_mesas_excusas",
@@ -1589,22 +1605,6 @@
    "total_interactions": 2,
    "ig_reels_avg_watch_time": 7431,
    "ig_reels_video_view_total_time": 832301
-  },
-  {
-   "id": "slp_039_puente_y_ahora",
-   "ig": "18442656985179148",
-   "fecha": "2026-11-03T22:03:28+0000",
-   "likes": 1,
-   "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfS6OF3lE8L/",
-   "titulo": "Puente ha dimitido a 26 días de las elecciones. ¿Quién lleva",
-   "views": 166,
-   "reach": 142,
-   "saved": 0,
-   "shares": 0,
-   "total_interactions": 1,
-   "ig_reels_avg_watch_time": 11650,
-   "ig_reels_video_view_total_time": 1677636
   }
  ]
 }
