@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 38,
-  "media_count": 126,
+  "media_count": 127,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_148_ultimo_dia_voto_correo",
+   "ig": "18242589454317236",
+   "fecha": "2026-11-19T15:30:32+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/Df7Z-h7CGf6/",
+   "titulo": "📮 HOY es el último día para pedir el voto por correo. ¿Lo va",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
   {
    "id": "slp_147_quien_lo_dijo_2023",
    "ig": "18110243126196383",
@@ -14,13 +30,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df7FbBIky1Y/",
    "titulo": "¿Quién lo dijo: Sánchez o Feijóo? 🤔 Frases literales del car",
-   "views": 125,
-   "reach": 111,
+   "views": 126,
+   "reach": 113,
    "saved": 1,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 11682,
-   "ig_reels_video_view_total_time": 1296782
+   "ig_reels_avg_watch_time": 11689,
+   "ig_reels_video_view_total_time": 1332601
   },
   {
    "id": "slp_146_caraacara_esta_noche",
@@ -35,8 +51,8 @@
    "saved": 1,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 10179,
-   "ig_reels_video_view_total_time": 1140120
+   "ig_reels_avg_watch_time": 10099,
+   "ig_reels_video_view_total_time": 1141281
   },
   {
    "id": "slp_142_feijoo_birra",
@@ -62,13 +78,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df4gpjAjyzN/",
    "titulo": "¿Quién gana: Feijóo o Sánchez? 👇\n\nEl único cara a cara de la",
-   "views": 174,
-   "reach": 149,
+   "views": 175,
+   "reach": 150,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 8922,
-   "ig_reels_video_view_total_time": 1329431
+   "ig_reels_avg_watch_time": 8931,
+   "ig_reels_video_view_total_time": 1339675
   },
   {
    "id": "slp_126_feijoo_defensa_frontera",
@@ -1589,22 +1605,6 @@
    "total_interactions": 0,
    "ig_reels_avg_watch_time": 6651,
    "ig_reels_video_view_total_time": 811509
-  },
-  {
-   "id": "slp_029_wild_13n",
-   "ig": "18120057686002036",
-   "fecha": "2026-11-04T16:03:06+0000",
-   "likes": 1,
-   "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfU1x5yAvCq/",
-   "titulo": "Jordi Wild ya ha dicho cuándo salen las entrevistas a los ca",
-   "views": 116,
-   "reach": 109,
-   "saved": 0,
-   "shares": 0,
-   "total_interactions": 1,
-   "ig_reels_avg_watch_time": 10928,
-   "ig_reels_video_view_total_time": 1158411
   }
  ]
 }
