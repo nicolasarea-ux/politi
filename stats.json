@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 38,
-  "media_count": 124,
+  "media_count": 125,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_146_caraacara_esta_noche",
+   "ig": "18035188559677151",
+   "fecha": "2026-11-19T07:30:34+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/Df6jC5WgIdC/",
+   "titulo": "Esta noche a las 22:00, el único cara a cara entre Sánchez y",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
   {
    "id": "slp_142_feijoo_birra",
    "ig": "18114525044207076",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df4gpjAjyzN/",
    "titulo": "¿Quién gana: Feijóo o Sánchez? 👇\n\nEl único cara a cara de la",
-   "views": 170,
-   "reach": 145,
+   "views": 171,
+   "reach": 147,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 9068,
-   "ig_reels_video_view_total_time": 1314974
+   "ig_reels_avg_watch_time": 8978,
+   "ig_reels_video_view_total_time": 1319798
   },
   {
    "id": "slp_126_feijoo_defensa_frontera",
@@ -623,12 +639,12 @@
    "url": "https://www.instagram.com/reel/Dfr9H0vj3Cn/",
    "titulo": "¿Te importa que no sepa inglés? 👇\n\nJordi Wild pregunta a Fei",
    "views": 1909,
-   "reach": 1446,
+   "reach": 1448,
    "saved": 1,
    "shares": 2,
    "total_interactions": 33,
-   "ig_reels_avg_watch_time": 14200,
-   "ig_reels_video_view_total_time": 20561789
+   "ig_reels_avg_watch_time": 14192,
+   "ig_reels_video_view_total_time": 20564810
   },
   {
    "id": "slp_098_alquiler_decreto",
@@ -990,13 +1006,13 @@
    "comentarios": 12,
    "url": "https://www.instagram.com/reel/Dfj7826HcKP/",
    "titulo": "¿Cuál fue el mejor momento? Comenta el número 👇\n\nLos 5 momen",
-   "views": 3557,
+   "views": 3558,
    "reach": 2800,
    "saved": 2,
    "shares": 2,
    "total_interactions": 61,
-   "ig_reels_avg_watch_time": 17714,
-   "ig_reels_video_view_total_time": 51390428
+   "ig_reels_avg_watch_time": 17709,
+   "ig_reels_video_view_total_time": 51392270
   },
   {
    "id": "slp_077_abascal_fondo_buitre",
@@ -1589,22 +1605,6 @@
    "total_interactions": 0,
    "ig_reels_avg_watch_time": 8760,
    "ig_reels_video_view_total_time": 893552
-  },
-  {
-   "id": "?",
-   "ig": "18139344883645988",
-   "fecha": "2026-11-04T11:17:22+0000",
-   "likes": 1,
-   "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfUVEJxFHbD/",
-   "titulo": "Puente se va y empieza otra pelea: qué han dicho Frente Ampl",
-   "views": 142,
-   "reach": 128,
-   "saved": 0,
-   "shares": 0,
-   "total_interactions": 1,
-   "ig_reels_avg_watch_time": 9035,
-   "ig_reels_video_view_total_time": 1165616
   }
  ]
 }

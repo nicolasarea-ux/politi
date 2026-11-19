@@ -1047,9 +1047,11 @@
   {
    "id": "slp_146_caraacara_esta_noche",
    "fecha": "2026-11-19T08:30",
-   "estado": "pendiente",
+   "estado": "publicado",
    "copy": "Esta noche a las 22:00, el único cara a cara entre Sánchez y Feijóo 🎙️\n\n📺 La 1, Antena 3, Telecinco, Cuatro y laSexta. Modera María Casado.\n🧱 5 bloques: vivienda · economía y fiscalidad · servicios públicos · corrupción · migración y política exterior.\n🎲 Abre Feijóo, cierra Sánchez (sorteo).\n\n👇 ¿Quién gana? Comenta SÁNCHEZ o FEIJÓO. Mañana contamos los votos.\nEsta noche subimos lo más fuerte del debate en directo.\n\nFuente: FormulaTV, Academia de Televisión.\n#debate #caraacara #sanchez #feijoo #elecciones #29N",
-   "votos": true
+   "votos": true,
+   "ig_media_id": "18035188559677151",
+   "publicado_en": "2026-11-19T08:30"
   },
   {
    "id": "slp_147_quien_lo_dijo_2023",
