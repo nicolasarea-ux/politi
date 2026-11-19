@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 38,
-  "media_count": 125,
+  "media_count": 126,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_147_quien_lo_dijo_2023",
+   "ig": "18110243126196383",
+   "fecha": "2026-11-19T12:31:04+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/Df7FbBIky1Y/",
+   "titulo": "¿Quién lo dijo: Sánchez o Feijóo? 🤔 Frases literales del car",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
   {
    "id": "slp_146_caraacara_esta_noche",
    "ig": "18035188559677151",
@@ -398,7 +414,7 @@
    "comentarios": 7,
    "url": "https://www.instagram.com/reel/Dfu5q5lDaLQ/",
    "titulo": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (1/7): las 5 me",
-   "views": 1401,
+   "views": 1402,
    "reach": 1182,
    "saved": 3,
    "shares": 3,
@@ -1589,22 +1605,6 @@
    "total_interactions": 1,
    "ig_reels_avg_watch_time": 10928,
    "ig_reels_video_view_total_time": 1158411
-  },
-  {
-   "id": "slp_042_cuerpo_dos_ministerios",
-   "ig": "18375944398215326",
-   "fecha": "2026-11-04T13:00:36+0000",
-   "likes": 0,
-   "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfUg45TEf4d/",
-   "titulo": "Un solo ministro con la economía y los trenes, a 25 días de ",
-   "views": 116,
-   "reach": 102,
-   "saved": 0,
-   "shares": 0,
-   "total_interactions": 0,
-   "ig_reels_avg_watch_time": 8760,
-   "ig_reels_video_view_total_time": 893552
   }
  ]
 }
