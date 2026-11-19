@@ -1,0 +1,235 @@
+{
+ "id": "slp_148_ultimo_dia_voto_correo",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 3,
+ "clauseLabels": [
+  "HOY 19-N",
+  "EN CORREOS",
+  "DESPUÉS",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "29-N · VOTO POR CORREO",
+  "source": "Fuente: Correos / LOREG art. 72"
+ },
+ "caption": "📮 HOY es el último día para pedir el voto por correo. ¿Lo vas a usar? Sí o no 👇\n\nPara las generales del 29-N, la solicitud se puede presentar hasta hoy, 19 de noviembre, inclusive:\n• En cualquier oficina de Correos, con DNI, pasaporte o permiso de conducir originales.\n• En la web de Correos, con certificado digital o DNI electrónico.\nDespués recibes la documentación en casa y tienes hasta el 25 de noviembre para depositar el voto en Correos.\n\nFuentes: Demócrata (6-11) y Xataka Móvil (2-11); plazo de la LOREG (art. 72).\n\n#elecciones #29N #eleccionesgenerales #votoporcorreo #correos",
+ "portada": {
+  "serie": "29-N PRÁCTICO",
+  "titulo": "Voto por correo: *hoy, último día*",
+  "grande": "HOY",
+  "mini": {
+   "texto": "Voto por correo:",
+   "rojo": "HOY ÚLTIMO DÍA",
+   "emoji": "📮"
+  },
+  "cartel": true,
+  "monos": [
+   {
+    "who": "tu",
+    "cara": "sorpresa",
+    "gesto": "senala"
+   }
+  ]
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Si quieres votar por correo el 29-N|veintinueve_de_noviembre, hoy es el último día para pedirlo.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "*Hoy*, último día",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "t1",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 47,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "sorpresa",
+       "gesto": "brazos"
+      },
+      {
+       "id": "k1",
+       "type": "card",
+       "text": "📮 Voto por correo: hasta HOY 19-N",
+       "x": 50,
+       "y": 64,
+       "w": 920,
+       "at": 8
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Mañana ya no se puede. Hay dos formas de hacerlo.",
+     "show": [
+      {
+       "id": "s1",
+       "type": "stamp",
+       "text": "HOY",
+       "color": "red",
+       "x": 50,
+       "y": 22,
+       "rot": -5,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "h1",
+      "k1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Una: en cualquier oficina de Correos, con tu DNI, pasaporte o carnet de conducir originales.",
+     "show": [
+      {
+       "id": "c1",
+       "type": "cap",
+       "n": "1",
+       "text": "En Correos",
+       "at": 0
+      },
+      {
+       "id": "t2",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 47,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "senala"
+      },
+      {
+       "id": "k2",
+       "type": "card",
+       "text": "🏤 Oficina de Correos + DNI original",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "t1",
+      "s1"
+     ]
+    },
+    {
+     "text": "Dos: en la web de Correos, con certificado digital o DNI electrónico.",
+     "show": [
+      {
+       "id": "k3",
+       "type": "card",
+       "text": "💻 Web de Correos + certificado digital",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "k2"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 2,
+   "segments": [
+    {
+     "text": "Luego te llega todo a casa, y tienes hasta el 25 de noviembre para dejar el voto en Correos.",
+     "show": [
+      {
+       "id": "c2",
+       "type": "cap",
+       "n": "2",
+       "text": "Y después",
+       "at": 0
+      },
+      {
+       "id": "t3",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 47,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "sonrie",
+       "gesto": "manos"
+      },
+      {
+       "id": "k4",
+       "type": "card",
+       "text": "✉️ Dejar el voto: hasta el 25 de noviembre",
+       "x": 50,
+       "y": 20,
+       "w": 920,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "t2",
+      "k3"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Vas a votar por correo? Sí o no. Comenta y síguenos.",
+     "show": [
+      {
+       "id": "tu9",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 44,
+       "w": 290,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿SÍ O NO?",
+       "color": "ink",
+       "x": 50,
+       "y": 62,
+       "rot": -4,
+       "at": 1
+      }
+     ],
+     "hide": [
+      "t3",
+      "k4"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-19T16:30:00+01:00"
+}
