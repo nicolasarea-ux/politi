@@ -1,0 +1,319 @@
+{
+ "id": "slp_160_reconocio",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 1,
+ "clauseLabels": [
+  "EL MOMENTO",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "CARA A CARA · 19-N",
+  "source": "Fuente: elDiario.es y ESdiario, directo del debate (19-N)"
+ },
+ "caption": "Lo que Sánchez reconoció 👀 #CaraACara\n\nSánchez reconoció dos cosas en el debate. Una:\n🗣️ Sánchez: «No hemos logrado aún resolver el problema de la vivienda»\n▶️ Y dos: confió, dijo, en gente que no debía.\n🗣️ Feijóo: «Lo que quiero es que no vuelva a pasar»\n🗣️ Feijóo: «España merece un presidente decente y él no lo es»\n\n👇 ¿Le sirve reconocerlo? Comenta SÁNCHEZ o FEIJÓO.\n⏳ Quedan 9 días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: elDiario.es y ESdiario, directo del debate (19-N)\n#debate #caraacara #sanchez #feijoo #debateelectoral #elecciones #29N #vivienda #corrupcion",
+ "portada": {
+  "serie": "CARA A CARA",
+  "titulo": "Lo que *Sánchez* reconoció",
+  "mini": {
+   "rojo": "«NO HEMOS LOGRADO…»"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Sánchez reconoció dos cosas en el debate. Una:",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Lo que *Sánchez* reconoció",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "sB0",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "serio",
+       "gesto": "manos"
+      },
+      {
+       "id": "fB0",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "serio",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "atr",
+       "type": "prop",
+       "kind": "atriles",
+       "x": 50,
+       "y": 60,
+       "w": 1000,
+       "at": 0,
+       "text": "19-N"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "  No hemos logrado aún resolver el problema de la vivienda.",
+     "show": [
+      {
+       "id": "s1",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": true,
+       "cara": "serio",
+       "say": "«No hemos logrado aún resolver el problema de la vivienda»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 520,
+       "bfs": 38,
+       "gesto": "manos"
+      },
+      {
+       "id": "f1",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "brazos",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": [
+      "h1",
+      "sB0",
+      "fB0"
+     ]
+    },
+    {
+     "text": "Y dos: confió, dijo, en gente que no debía.",
+     "show": [
+      {
+       "id": "sB2",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fB2",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "st2",
+       "type": "stamp",
+       "text": "RECONOCE",
+       "color": "red",
+       "x": 50,
+       "y": 29,
+       "rot": -5,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "s1",
+      "f1"
+     ]
+    },
+    {
+     "text": "Feijóo, sobre la corrupción: Lo que quiero es que no vuelva a pasar.",
+     "show": [
+      {
+       "id": "f3",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": true,
+       "cara": "serio",
+       "say": "«Lo que quiero es que no vuelva a pasar»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 520,
+       "bfs": 38,
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "s3",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "brazos"
+      }
+     ],
+     "hide": [
+      "sB2",
+      "fB2",
+      "st2"
+     ]
+    },
+    {
+     "text": "Y fue a por él: España merece un presidente decente y él no lo es.",
+     "show": [
+      {
+       "id": "f4",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": true,
+       "cara": "enfadado",
+       "say": "«España merece un presidente decente y él no lo es»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 520,
+       "bfs": 38,
+       "gesto": "senala",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "s4",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "serio",
+       "gesto": "manos"
+      }
+     ],
+     "hide": [
+      "s3",
+      "f3"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Le sirve reconocerlo? Comenta Sánchez o Feijóo. Quedan nueve días: síguenos para no perderte nada.",
+     "show": [
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TÚ QUÉ DICES?",
+       "color": "red",
+       "x": 50,
+       "y": 29,
+       "rot": -5,
+       "at": 0
+      },
+      {
+       "id": "sB99",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fB99",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "atr",
+       "type": "prop",
+       "kind": "atriles",
+       "x": 50,
+       "y": 60,
+       "w": 1000,
+       "at": 0,
+       "text": "19-N"
+      }
+     ],
+     "hide": [
+      "s4",
+      "f4"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-20T09:00:00+01:00",
+ "trial": true
+}

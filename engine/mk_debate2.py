@@ -7,7 +7,7 @@ from mk_guion import *
 NOM={'sanchez':'Sánchez','feijoo':'Feijóo'}
 def base(i,cs='serio',cf='serio'):
     return [M(f'sB{i}','sanchez',27,y=44,cara=cs,gesto='manos'),M(f'fB{i}','feijoo',73,y=44,cara=cf,gesto='manos',flip=True)]
-def reel(id,titulo,hook,items,fecha,pregunta,cover_rojo,fuente,extra_cap='',tags='',cara_hook=('serio','serio')):
+def reel(id,titulo,hook,items,fecha,pregunta,cover_rojo,fuente,extra_cap='',tags='',cara_hook=('serio','serio'),dias='diez'):
     segs=[{"text":hook,"show":[H(titulo)]+base(0,*cara_hook)+[ATRILES(text='19-N')],"hide":[]}]
     prev=['h1','sB0','fB0']
     for i,it in enumerate(items,1):
@@ -20,7 +20,8 @@ def reel(id,titulo,hook,items,fecha,pregunta,cover_rojo,fuente,extra_cap='',tags
         tk=M(f'{w[0]}{i}',w,27 if w=='sanchez' else 73,y=44,flip=(w=='feijoo'),say=f'«{q}»',bub='up',bw=520,bfs=38,cara='enfadado' if i%2==0 else 'serio',gesto='senala' if i%2==0 else 'manos')
         ot=M(f'{o[0]}{i}',o,27 if o=='sanchez' else 73,y=44,flip=(o=='feijoo'),cara='duda' if i%2 else 'serio',gesto='brazos' if i%2 else 'manos')
         segs.append({"text":pre+q+('' if q[-1] in '.?!…' else '.'),"show":[tk,ot],"hide":prev});prev=[f's{i}',f'f{i}']
-    fin={"text":f"{pregunta} Comenta Sánchez o Feijóo. Quedan diez días: síguenos para no perderte nada.","show":[ST('fol','¿TÚ QUÉ DICES?',0,y=29,color='red')]+base(99,'duda','duda'),"hide":prev}
+    fin={"text":f"{pregunta} Comenta Sánchez o Feijóo. Quedan {dias} días: síguenos para no perderte nada.","show":[ST('fol','¿TÚ QUÉ DICES?',0,y=29,color='red')]+base(99,'duda','duda')+[ATRILES(text='19-N')],"hide":prev}
+    dnum={'diez':10,'nueve':9,'ocho':8,'siete':7}.get(dias,dias)
     def lin(it): return (f"🗣️ {NOM[it[0]]}: «{it[1]}»" if it[0]!='narr' else f"▶️ {it[1]}")
     cap=f"""{titulo.replace('*','')} 👀 #CaraACara
 
@@ -28,7 +29,7 @@ def reel(id,titulo,hook,items,fecha,pregunta,cover_rojo,fuente,extra_cap='',tags
 """+"\n".join(lin(it) for it in items)+f"""
 {extra_cap}
 👇 {pregunta} Comenta SÁNCHEZ o FEIJÓO.
-⏳ Quedan 10 días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.
+⏳ Quedan {dnum} días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.
 
 Fuente: {fuente}
 #debate #caraacara #sanchez #feijoo #debateelectoral #elecciones #29N {tags}"""

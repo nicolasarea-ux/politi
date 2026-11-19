@@ -1,0 +1,273 @@
+{
+ "id": "slp_158_inmigracion_choque",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 1,
+ "clauseLabels": [
+  "EL MOMENTO",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "CARA A CARA · 19-N",
+  "source": "Fuente: Libertad Digital y elDiario.es, directo del debate (19-N)"
+ },
+ "caption": "Inmigración: el choque 👀 #CaraACara\n\nLa inmigración era el problema número 10 cuando usted llegó a la Moncloa y ahora es el número 2.\n🗣️ Feijóo: «Legal, ordenada y con contrato de trabajo»\n🗣️ Sánchez: «Una gran oportunidad para nuestro país»\n🗣️ Feijóo: «¿Qué le debe usted a Marruecos, señor Sánchez?»\n\n👇 ¿Con quién estás? Comenta SÁNCHEZ o FEIJÓO.\n⏳ Quedan 9 días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: Libertad Digital y elDiario.es, directo del debate (19-N)\n#debate #caraacara #sanchez #feijoo #debateelectoral #elecciones #29N #inmigracion",
+ "portada": {
+  "serie": "CARA A CARA",
+  "titulo": "*Inmigración*: el choque",
+  "mini": {
+   "rojo": "«PROBLEMA» VS «OPORTUNIDAD»"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "La inmigración era el problema número 10 cuando usted llegó a la Moncloa y ahora es el número 2.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "*Inmigración*: el choque",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "sB0",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "serio",
+       "gesto": "manos"
+      },
+      {
+       "id": "fB0",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "serio",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "atr",
+       "type": "prop",
+       "kind": "atriles",
+       "x": 50,
+       "y": 60,
+       "w": 1000,
+       "at": 0,
+       "text": "19-N"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Así la quiere Feijóo: Legal, ordenada y con contrato de trabajo.",
+     "show": [
+      {
+       "id": "f1",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": true,
+       "cara": "serio",
+       "say": "«Legal, ordenada y con contrato de trabajo»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 520,
+       "bfs": 38,
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "s1",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "brazos"
+      }
+     ],
+     "hide": [
+      "h1",
+      "sB0",
+      "fB0"
+     ]
+    },
+    {
+     "text": "Para Sánchez, la inmigración es Una gran oportunidad para nuestro país.",
+     "show": [
+      {
+       "id": "s2",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": true,
+       "cara": "enfadado",
+       "say": "«Una gran oportunidad para nuestro país»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 520,
+       "bfs": 38,
+       "gesto": "senala"
+      },
+      {
+       "id": "f2",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "serio",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": [
+      "s1",
+      "f1"
+     ]
+    },
+    {
+     "text": "Y le preguntó: ¿Qué le debe usted a Marruecos, señor Sánchez?",
+     "show": [
+      {
+       "id": "f3",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": true,
+       "cara": "serio",
+       "say": "«¿Qué le debe usted a Marruecos, señor Sánchez?»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 520,
+       "bfs": 38,
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "s3",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "brazos"
+      }
+     ],
+     "hide": [
+      "s2",
+      "f2"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Con quién estás? Comenta Sánchez o Feijóo. Quedan nueve días: síguenos para no perderte nada.",
+     "show": [
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TÚ QUÉ DICES?",
+       "color": "red",
+       "x": 50,
+       "y": 29,
+       "rot": -5,
+       "at": 0
+      },
+      {
+       "id": "sB99",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fB99",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "atr",
+       "type": "prop",
+       "kind": "atriles",
+       "x": 50,
+       "y": 60,
+       "w": 1000,
+       "at": 0,
+       "text": "19-N"
+      }
+     ],
+     "hide": [
+      "s3",
+      "f3"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-20T11:00:00+01:00",
+ "trial": true
+}
