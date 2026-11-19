@@ -1,0 +1,306 @@
+{
+ "id": "slp_154_pelotas",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 1,
+ "clauseLabels": [
+  "EL MOMENTO",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "CARA A CARA · 19-N",
+  "source": "Fuente: elDiario.es y Libertad Digital, directo del debate (19-N)"
+ },
+ "caption": "«Lo ha llenado de pelotas» 👀 #CaraACara\n\nUsted ha llenado el gobierno de pelotas, de colegas, de partido. Yo no.\n🗣️ Feijóo: «Así gobierna cualquiera, con el dinero de los demás»\n🗣️ Feijóo: «El PIB no se come»\n🗣️ Sánchez: «Estamos mucho mejor que en 2018»\n🗣️ Sánchez: «Involución, mentiras y recortes»\n\n👇 ¿Quién tiene razón? Comenta SÁNCHEZ o FEIJÓO.\n⏳ Quedan 10 días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: elDiario.es y Libertad Digital, directo del debate (19-N)\n#debate #caraacara #sanchez #feijoo #debateelectoral #elecciones #29N #economia #impuestos",
+ "portada": {
+  "serie": "CARA A CARA",
+  "titulo": "«Lo ha llenado de *pelotas*»",
+  "mini": {
+   "rojo": "«PELOTAS, COLEGAS, PARTIDO»"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Usted ha llenado el gobierno de pelotas, de colegas, de partido. Yo no.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "«Lo ha llenado de *pelotas*»",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "sB0",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "serio",
+       "gesto": "manos"
+      },
+      {
+       "id": "fB0",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "serio",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "atr",
+       "type": "prop",
+       "kind": "atriles",
+       "x": 50,
+       "y": 60,
+       "w": 1000,
+       "at": 0,
+       "text": "19-N"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Feijóo siguió: Así gobierna cualquiera, con el dinero de los demás.",
+     "show": [
+      {
+       "id": "f1",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": true,
+       "cara": "serio",
+       "say": "«Así gobierna cualquiera, con el dinero de los demás»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 520,
+       "bfs": 38,
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "s1",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "brazos"
+      }
+     ],
+     "hide": [
+      "h1",
+      "sB0",
+      "fB0"
+     ]
+    },
+    {
+     "text": "Y sobre la economía: El PIB no se come.",
+     "show": [
+      {
+       "id": "f2",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": true,
+       "cara": "enfadado",
+       "say": "«El PIB no se come»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 520,
+       "bfs": 38,
+       "gesto": "senala",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "s2",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "serio",
+       "gesto": "manos"
+      }
+     ],
+     "hide": [
+      "s1",
+      "f1"
+     ]
+    },
+    {
+     "text": "Sánchez lo vio al revés: Estamos mucho mejor que en 2018.",
+     "show": [
+      {
+       "id": "s3",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": true,
+       "cara": "serio",
+       "say": "«Estamos mucho mejor que en 2018»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 520,
+       "bfs": 38,
+       "gesto": "manos"
+      },
+      {
+       "id": "f3",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "brazos",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": [
+      "s2",
+      "f2"
+     ]
+    },
+    {
+     "text": "Y definió un gobierno de PP y Vox así: Involución, mentiras y recortes.",
+     "show": [
+      {
+       "id": "s4",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": true,
+       "cara": "enfadado",
+       "say": "«Involución, mentiras y recortes»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 520,
+       "bfs": 38,
+       "gesto": "senala"
+      },
+      {
+       "id": "f4",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "serio",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": [
+      "s3",
+      "f3"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Quién tiene razón? Comenta Sánchez o Feijóo. Quedan diez días: síguenos para no perderte nada.",
+     "show": [
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TÚ QUÉ DICES?",
+       "color": "red",
+       "x": 50,
+       "y": 29,
+       "rot": -5,
+       "at": 0
+      },
+      {
+       "id": "sB99",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fB99",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": [
+      "s4",
+      "f4"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-20T01:20:00+01:00",
+ "trial": true
+}

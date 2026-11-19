@@ -1,0 +1,307 @@
+{
+ "id": "slp_155_es_verdad_debate",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 1,
+ "clauseLabels": [
+  "EL MOMENTO",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "CARA A CARA · 19-N",
+  "source": "Fuente: verificación de elDiario.es durante el debate (19-N)"
+ },
+ "caption": "¿Es verdad? Las cifras del debate 👀 #CaraACara\n\nSánchez dijo que se ha construido un millón de viviendas. ¿Es verdad?\n▶️ No. Desde 2018 se han construido unas 752.000. Un millón son los visados que cuenta el Gobierno.\n▶️ Feijóo dijo que ha habido más de cien subidas de impuestos.\n▶️ Ese recuento incluye ajustes como el IVA de la luz o de los alimentos. Con el mismo método, con Rajoy salen 137.\n▶️ Feijóo culpó a la okupación de que haya 400.000 viviendas menos en alquiler. La caída existe en Idealista, pero no hay datos que la atribuyan sobre todo a la okupación.\n\n👇 ¿Qué cifra te creías? Comenta SÁNCHEZ o FEIJÓO.\n⏳ Quedan 10 días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: verificación de elDiario.es durante el debate (19-N)\n#debate #caraacara #sanchez #feijoo #debateelectoral #elecciones #29N #verificacion #bulos",
+ "portada": {
+  "serie": "CARA A CARA",
+  "titulo": "¿Es *verdad*? Las cifras del debate",
+  "mini": {
+   "rojo": "3 CIFRAS DEL DEBATE, VERIFICADAS"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Sánchez dijo que se ha construido un millón de viviendas. ¿Es verdad?",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "¿Es *verdad*? Las cifras del debate",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "sB0",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "serio",
+       "gesto": "manos"
+      },
+      {
+       "id": "fB0",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "serio",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "atr",
+       "type": "prop",
+       "kind": "atriles",
+       "x": 50,
+       "y": 60,
+       "w": 1000,
+       "at": 0,
+       "text": "19-N"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "No. Desde 2018 se han construido unas 752.000. Un millón son los visados que cuenta el Gobierno.",
+     "show": [
+      {
+       "id": "sB1",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fB1",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "st1",
+       "type": "stamp",
+       "text": "ENGAÑOSO",
+       "color": "red",
+       "x": 50,
+       "y": 29,
+       "rot": -5,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "h1",
+      "sB0",
+      "fB0"
+     ]
+    },
+    {
+     "text": "Feijóo dijo que ha habido más de cien subidas de impuestos.",
+     "show": [
+      {
+       "id": "sB2",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fB2",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": [
+      "sB1",
+      "fB1",
+      "st1"
+     ]
+    },
+    {
+     "text": "Ese recuento incluye ajustes como el IVA de la luz o de los alimentos. Con el mismo método, con Rajoy salen 137.",
+     "show": [
+      {
+       "id": "sB3",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fB3",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "st3",
+       "type": "stamp",
+       "text": "MATIZ",
+       "color": "red",
+       "x": 50,
+       "y": 29,
+       "rot": -5,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "sB2",
+      "fB2"
+     ]
+    },
+    {
+     "text": "Feijóo culpó a la okupación de que haya 400.000 viviendas menos en alquiler. La caída existe en Idealista, pero no hay datos que la atribuyan sobre todo a la okupación.",
+     "show": [
+      {
+       "id": "sB4",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fB4",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "st4",
+       "type": "stamp",
+       "text": "SIN BASE",
+       "color": "red",
+       "x": 50,
+       "y": 29,
+       "rot": -5,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "sB3",
+      "fB3",
+      "st3"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Qué cifra te creías? Comenta Sánchez o Feijóo. Quedan diez días: síguenos para no perderte nada.",
+     "show": [
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TÚ QUÉ DICES?",
+       "color": "red",
+       "x": 50,
+       "y": 29,
+       "rot": -5,
+       "at": 0
+      },
+      {
+       "id": "sB99",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fB99",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 44,
+       "w": 270,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": [
+      "sB4",
+      "fB4",
+      "st4"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-20T01:40:00+01:00",
+ "trial": true
+}
