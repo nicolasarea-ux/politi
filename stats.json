@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 38,
-  "media_count": 127,
+  "media_count": 128,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_149_puigdemont_ambicion",
+   "ig": "18059364239802779",
+   "fecha": "2026-11-19T18:45:32+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/Df7wSjzD7MK/",
+   "titulo": "¿Saldrá esto en el cara a cara de esta noche? Sí o no 👇\n\nCar",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
   {
    "id": "slp_148_ultimo_dia_voto_correo",
    "ig": "18242589454317236",
@@ -15,12 +31,12 @@
    "url": "https://www.instagram.com/reel/Df7Z-h7CGf6/",
    "titulo": "📮 HOY es el último día para pedir el voto por correo. ¿Lo va",
    "views": 113,
-   "reach": 103,
+   "reach": 105,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 6886,
-   "ig_reels_video_view_total_time": 695546
+   "ig_reels_avg_watch_time": 7138,
+   "ig_reels_video_view_total_time": 735215
   },
   {
    "id": "slp_147_quien_lo_dijo_2023",
@@ -1038,13 +1054,13 @@
    "comentarios": 12,
    "url": "https://www.instagram.com/reel/Dfj7826HcKP/",
    "titulo": "¿Cuál fue el mejor momento? Comenta el número 👇\n\nLos 5 momen",
-   "views": 3558,
+   "views": 3559,
    "reach": 2800,
    "saved": 2,
    "shares": 2,
    "total_interactions": 61,
-   "ig_reels_avg_watch_time": 17709,
-   "ig_reels_video_view_total_time": 51392270
+   "ig_reels_avg_watch_time": 17704,
+   "ig_reels_video_view_total_time": 51394930
   },
   {
    "id": "slp_077_abascal_fondo_buitre",
@@ -1589,22 +1605,6 @@
    "total_interactions": 3,
    "ig_reels_avg_watch_time": 8397,
    "ig_reels_video_view_total_time": 974105
-  },
-  {
-   "id": "slp_037_bulos_derecha_1",
-   "ig": "17912830872572723",
-   "fecha": "2026-11-04T18:55:42+0000",
-   "likes": 0,
-   "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfVJgGLlSNL/",
-   "titulo": "Si gobierna la derecha… ¿qué es verdad y qué es bulo? Parte ",
-   "views": 131,
-   "reach": 121,
-   "saved": 0,
-   "shares": 0,
-   "total_interactions": 0,
-   "ig_reels_avg_watch_time": 6651,
-   "ig_reels_video_view_total_time": 811509
   }
  ]
 }
