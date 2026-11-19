@@ -1040,9 +1040,11 @@
   {
    "id": "slp_144_cara_a_cara_directo",
    "fecha": "2026-11-19T22:05",
-   "estado": "pendiente",
+   "estado": "publicado",
    "copy": "¿Quién está ganando? Sánchez o Feijóo 👇\n\nAhora mismo: cara a cara entre Pedro Sánchez (PSOE) y Alberto Núñez Feijóo (PP), desde las 22:00 en La 1, Canal 24 Horas, RNE y RTVE Play. Lo organiza la Academia de Televisión y modera María Casado.\nCinco bloques: vivienda; economía y fiscalidad; política social y servicios públicos; corrupción y regeneración; migración y política exterior. Por sorteo, abre Feijóo y cierra Sánchez.\n\nFuentes: Europa Press en Última Hora (14-11) y elDiario.es/Vertele.\n\n#elecciones #29N #eleccionesgenerales #debate #caraacara",
-   "votos": true
+   "votos": true,
+   "ig_media_id": "18109094906142001",
+   "publicado_en": "2026-11-19T23:59"
   },
   {
    "id": "slp_146_caraacara_esta_noche",

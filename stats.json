@@ -2,10 +2,26 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 38,
-  "media_count": 128,
+  "media_count": 129,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_144_cara_a_cara_directo",
+   "ig": "18109094906142001",
+   "fecha": "2026-11-19T22:59:22+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/Df8NVjvjlLD/",
+   "titulo": "¿Quién está ganando? Sánchez o Feijóo 👇\n\nAhora mismo: cara a",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
   {
    "id": "slp_149_puigdemont_ambicion",
    "ig": "18059364239802779",
@@ -14,13 +30,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df7wSjzD7MK/",
    "titulo": "¿Saldrá esto en el cara a cara de esta noche? Sí o no 👇\n\nCar",
-   "views": 32,
-   "reach": 0,
+   "views": 100,
+   "reach": 80,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 0,
-   "ig_reels_video_view_total_time": 0
+   "ig_reels_avg_watch_time": 6703,
+   "ig_reels_video_view_total_time": 536305
   },
   {
    "id": "slp_148_ultimo_dia_voto_correo",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df7Z-h7CGf6/",
    "titulo": "📮 HOY es el último día para pedir el voto por correo. ¿Lo va",
-   "views": 114,
-   "reach": 105,
+   "views": 115,
+   "reach": 107,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 7138,
-   "ig_reels_video_view_total_time": 735215
+   "ig_reels_avg_watch_time": 7042,
+   "ig_reels_video_view_total_time": 739477
   },
   {
    "id": "slp_147_quien_lo_dijo_2023",
@@ -62,13 +78,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df6jC5WgIdC/",
    "titulo": "Esta noche a las 22:00, el único cara a cara entre Sánchez y",
-   "views": 131,
-   "reach": 114,
+   "views": 132,
+   "reach": 116,
    "saved": 1,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 10099,
-   "ig_reels_video_view_total_time": 1141281
+   "ig_reels_avg_watch_time": 10049,
+   "ig_reels_video_view_total_time": 1145685
   },
   {
    "id": "slp_142_feijoo_birra",
@@ -126,13 +142,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df29A5bFUxQ/",
    "titulo": "¿Estás de acuerdo? 👇\n\nEl alegato final de Pedro Sánchez (PSO",
-   "views": 118,
-   "reach": 107,
+   "views": 119,
+   "reach": 108,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 6029,
-   "ig_reels_video_view_total_time": 651140
+   "ig_reels_avg_watch_time": 6017,
+   "ig_reels_video_view_total_time": 655926
   },
   {
    "id": "slp_136_si_votas_frente_amplio",
@@ -302,13 +318,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfxdG5ejbK2/",
    "titulo": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (2/7): las 5 me",
-   "views": 494,
-   "reach": 440,
+   "views": 495,
+   "reach": 441,
    "saved": 1,
    "shares": 0,
    "total_interactions": 5,
-   "ig_reels_avg_watch_time": 10009,
-   "ig_reels_video_view_total_time": 4474211
+   "ig_reels_avg_watch_time": 9996,
+   "ig_reels_video_view_total_time": 4478524
   },
   {
    "id": "slp_125_feijoo_pensiones",
@@ -686,13 +702,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfr9H0vj3Cn/",
    "titulo": "¿Te importa que no sepa inglés? 👇\n\nJordi Wild pregunta a Fei",
-   "views": 1909,
-   "reach": 1448,
+   "views": 1910,
+   "reach": 1450,
    "saved": 1,
    "shares": 2,
    "total_interactions": 33,
-   "ig_reels_avg_watch_time": 14192,
-   "ig_reels_video_view_total_time": 20564810
+   "ig_reels_avg_watch_time": 14184,
+   "ig_reels_video_view_total_time": 20566960
   },
   {
    "id": "slp_098_alquiler_decreto",
@@ -1054,13 +1070,13 @@
    "comentarios": 12,
    "url": "https://www.instagram.com/reel/Dfj7826HcKP/",
    "titulo": "¿Cuál fue el mejor momento? Comenta el número 👇\n\nLos 5 momen",
-   "views": 3560,
-   "reach": 2800,
+   "views": 3561,
+   "reach": 2803,
    "saved": 2,
    "shares": 2,
    "total_interactions": 61,
-   "ig_reels_avg_watch_time": 17704,
-   "ig_reels_video_view_total_time": 51394930
+   "ig_reels_avg_watch_time": 17693,
+   "ig_reels_video_view_total_time": 51399393
   },
   {
    "id": "slp_077_abascal_fondo_buitre",
@@ -1589,22 +1605,6 @@
    "total_interactions": 1,
    "ig_reels_avg_watch_time": 7323,
    "ig_reels_video_view_total_time": 849471
-  },
-  {
-   "id": "slp_012_quien_sanchez",
-   "ig": "17912147130592589",
-   "fecha": "2026-11-04T20:45:39+0000",
-   "likes": 3,
-   "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfVWFM4FS8l/",
-   "titulo": "Quién es quién 5/5: Pedro Sánchez en 30 segundos. Trayectori",
-   "views": 124,
-   "reach": 113,
-   "saved": 0,
-   "shares": 0,
-   "total_interactions": 3,
-   "ig_reels_avg_watch_time": 8397,
-   "ig_reels_video_view_total_time": 974105
   }
  ]
 }
