@@ -1,0 +1,37 @@
+name: Maratón (publica cada 4 min durante N horas)
+on:
+  workflow_dispatch:
+    inputs:
+      horas:
+        description: "Horas que dura el bucle (máx 5.5)"
+        default: "3.5"
+permissions:
+  contents: write
+concurrency:
+  group: maraton
+  cancel-in-progress: true
+jobs:
+  bucle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Bucle
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          HORAS: ${{ inputs.horas }}
+        run: |
+          git config user.name "politizatehoy-bot"
+          git config user.email "politizatehoy-bot@users.noreply.github.com"
+          FIN=$(( $(date +%s) + $(python3 -c "print(int(float('$HORAS')*3600))") ))
+          while [ $(date +%s) -lt $FIN ]; do
+            git pull -q --rebase || true
+            python3 publicar.py || true
+            git add publicaciones.json
+            git diff --cached --quiet || { git commit -qm "Reels publicados (maratón)"; for i in 1 2 3 4 5; do git pull -q --rebase && git push -q && break; sleep $((i*5)); done; }
+            sleep 240
+          done
