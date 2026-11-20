@@ -1207,10 +1207,12 @@
   {
    "id": "slp_164_frases_para_ti",
    "fecha": "2026-11-20T21:00",
-   "estado": "pendiente",
+   "estado": "publicado",
    "copy": "La frase que va por ti 👀\n\nEn el debate hubo una frase que no iba para Feijóo ni para Sánchez. Iba por ti. Primero, Feijóo apuntó a tu bolsillo: la gente no llega a fin de mes. Y se vendió: sé gestionar crisis. Sánchez, en cambio, reconoció: el Gobierno no ha sido perfecto. Y entonces soltó la frase: quieren que el 29 de noviembre no vayas a votar.\n\n👇 ¿Vas a ir a votar? Comenta sí o no.\n⏳ Quedan nueve días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: elDiario.es (análisis del debate, 20-11)\n#elecciones #29N #sanchez #feijoo #debate #votar #votaciones",
    "votos": true,
-   "nota": "post-debate 19-N"
+   "nota": "post-debate 19-N",
+   "ig_media_id": "18110228404957207",
+   "publicado_en": "2026-11-20T21:00"
   },
   {
    "id": "slp_165_debate_30s",
