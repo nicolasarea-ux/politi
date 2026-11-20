@@ -1,0 +1,203 @@
+{
+ "id": "slp_168_voto_correo",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL GANCHO",
+  "EL GIRO",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: El Diario de Madrid (20-11), ampliación de la Junta Electoral Central"
+ },
+ "caption": "¿Votas por correo? Ojo 👀\n\nSi votas por correo, apúntate esta hora, porque si llegas tarde tu voto no cuenta. El jueves 26 de noviembre, a las dos de la tarde. Antes el plazo acababa un día antes. La Junta Electoral Central lo ha ampliado. Es para votantes que estén en España, y dentro del horario de cada oficina. Mándaselo a quien vaya a votar por correo. Le salvas el voto.\n\n👇 ¿Vas a votar por correo? Comenta sí o no.\n⏳ Quedan ocho días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: El Diario de Madrid (20-11), ampliación de la Junta Electoral Central\n#elecciones #29N #sanchez #feijoo #debate #votoporcorreo #correos",
+ "portada": {
+  "serie": "CARA A CARA",
+  "titulo": "¿Votas por *correo*? Ojo",
+  "mini": {
+   "rojo": "26-N · 14:00 · NO TE LO PIERDAS"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Si votas por correo, apúntate esta hora, porque si llegas tarde tu voto no cuenta.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "¿Votas por *correo*? Ojo",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "c0",
+       "type": "prop",
+       "kind": "cifra",
+       "x": 50,
+       "y": 44,
+       "w": 940,
+       "at": 0,
+       "n": "⏰",
+       "text": "APÚNTATE ESTA HORA",
+       "bg": "ink",
+       "fs": 200
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "El jueves 26 de noviembre, a las dos de la tarde.",
+     "show": [
+      {
+       "id": "c1",
+       "type": "prop",
+       "kind": "cifra",
+       "x": 50,
+       "y": 44,
+       "w": 940,
+       "at": 0,
+       "n": "26-N · 14:00",
+       "text": "ÚLTIMO MOMENTO PARA DEJAR EL VOTO EN CORREOS",
+       "bg": "red",
+       "fs": 150
+      }
+     ],
+     "hide": [
+      "h1",
+      "c0"
+     ]
+    },
+    {
+     "text": "Antes el plazo acababa un día antes. La Junta Electoral Central lo ha ampliado.",
+     "show": [
+      {
+       "id": "d2",
+       "type": "prop",
+       "kind": "doc",
+       "x": 50,
+       "y": 45,
+       "w": 640,
+       "at": 0,
+       "kicker": "JUNTA ELECTORAL CENTRAL",
+       "text": "Plazo del voto por correo",
+       "sello": "+1 DÍA",
+       "st": 0.9
+      }
+     ],
+     "hide": [
+      "c1"
+     ]
+    },
+    {
+     "text": "Es para votantes que estén en España, y dentro del horario de cada oficina.",
+     "show": [
+      {
+       "id": "tv3",
+       "type": "prop",
+       "kind": "tele",
+       "x": 50,
+       "y": 44,
+       "w": 760,
+       "at": 0,
+       "text": "🏤 CORREOS",
+       "fs": 80,
+       "sub": "HORARIO DE TU OFICINA"
+      }
+     ],
+     "hide": [
+      "d2"
+     ]
+    },
+    {
+     "text": "Mándaselo a quien vaya a votar por correo. Le salvas el voto.",
+     "show": [
+      {
+       "id": "c4",
+       "type": "prop",
+       "kind": "cifra",
+       "x": 50,
+       "y": 44,
+       "w": 940,
+       "at": 0,
+       "n": "📲",
+       "text": "MÁNDASELO",
+       "bg": "mark",
+       "fs": 200
+      }
+     ],
+     "hide": [
+      "tv3"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Vas a votar por correo? Comenta sí o no. Síguenos: quedan ocho días.",
+     "show": [
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TÚ QUÉ DICES?",
+       "color": "red",
+       "x": 50,
+       "y": 29,
+       "rot": -5,
+       "at": 0
+      },
+      {
+       "id": "s99",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 52,
+       "w": 320,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "f99",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 52,
+       "w": 320,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "atr",
+       "type": "prop",
+       "kind": "atriles",
+       "x": 50,
+       "y": 60,
+       "w": 1000,
+       "at": 0,
+       "text": "19-N"
+      }
+     ],
+     "hide": [
+      "c4"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-21T13:00:00+01:00"
+}

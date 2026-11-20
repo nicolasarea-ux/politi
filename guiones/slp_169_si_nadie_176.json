@@ -1,0 +1,239 @@
+{
+ "id": "slp_169_si_nadie_176",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL GANCHO",
+  "EL GIRO",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: Constitución Española, artículo 99"
+ },
+ "caption": "¿Y si nadie llega a 176? 👀\n\nEl 29 de noviembre votas. Pero el presidente no sale esa noche. Sale de aquí. Primero, el rey se reúne con los partidos y propone un candidato. En la primera votación necesita mayoría absoluta: 176 de 350 diputados. Si no llega, 48 horas después le vale con más síes que noes. Y si en dos meses nadie lo consigue… se repiten las elecciones. Por eso importa tanto quién se suma con quién.\n\n👇 ¿Crees que habrá repetición? Comenta sí o no.\n⏳ Quedan ocho días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: Constitución Española, artículo 99\n#elecciones #29N #sanchez #feijoo #debate #investidura #congreso #constitucion",
+ "portada": {
+  "serie": "CARA A CARA",
+  "titulo": "¿Y si nadie llega a *176*?",
+  "mini": {
+   "rojo": "176 O REPETICIÓN"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "El 29 de noviembre votas. Pero el presidente no sale esa noche. Sale de aquí.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "¿Y si nadie llega a *176*?",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "cg",
+       "type": "prop",
+       "kind": "congreso",
+       "x": 50,
+       "y": 46,
+       "w": 900,
+       "at": 0
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Primero, el rey se reúne con los partidos y propone un candidato.",
+     "show": [
+      {
+       "id": "c1",
+       "type": "prop",
+       "kind": "cifra",
+       "x": 50,
+       "y": 44,
+       "w": 940,
+       "at": 0,
+       "n": "1",
+       "text": "EL REY PROPONE UN CANDIDATO",
+       "bg": "ink",
+       "fs": 200
+      }
+     ],
+     "hide": [
+      "h1",
+      "cg"
+     ]
+    },
+    {
+     "text": "En la primera votación necesita mayoría absoluta: 176 de 350 diputados.",
+     "show": [
+      {
+       "id": "c2",
+       "type": "prop",
+       "kind": "cifra",
+       "x": 50,
+       "y": 44,
+       "w": 940,
+       "at": 0,
+       "n": "176",
+       "text": "PRIMERA VOTACIÓN: MAYORÍA ABSOLUTA",
+       "bg": "red",
+       "fs": 230
+      }
+     ],
+     "hide": [
+      "c1"
+     ]
+    },
+    {
+     "text": "Si no llega, 48 horas después le vale con más síes que noes.",
+     "show": [
+      {
+       "id": "d3",
+       "type": "prop",
+       "kind": "duelo",
+       "x": 50,
+       "y": 46,
+       "w": 960,
+       "at": 0,
+       "text": "SEGUNDA VOTACIÓN",
+       "f": 51,
+       "s": 49,
+       "sub": "basta con más síes que noes",
+       "l1": "SÍ",
+       "l2": "NO",
+       "c1": "#2E9E5B",
+       "c2": "#E1251B"
+      }
+     ],
+     "hide": [
+      "c2"
+     ]
+    },
+    {
+     "text": "Y si en dos meses nadie lo consigue… se repiten las elecciones.",
+     "show": [
+      {
+       "id": "c4",
+       "type": "prop",
+       "kind": "cifra",
+       "x": 50,
+       "y": 44,
+       "w": 940,
+       "at": 0,
+       "n": "🔁",
+       "text": "REPETICIÓN ELECTORAL",
+       "bg": "ink",
+       "fs": 200
+      }
+     ],
+     "hide": [
+      "d3"
+     ]
+    },
+    {
+     "text": "Por eso importa tanto quién se suma con quién.",
+     "show": [
+      {
+       "id": "s5",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 56,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "f5",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 56,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": [
+      "c4"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Crees que habrá repetición? Comenta sí o no. Síguenos: quedan ocho días.",
+     "show": [
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TÚ QUÉ DICES?",
+       "color": "red",
+       "x": 50,
+       "y": 29,
+       "rot": -5,
+       "at": 0
+      },
+      {
+       "id": "s99",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 52,
+       "w": 320,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "f99",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 52,
+       "w": 320,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "atr",
+       "type": "prop",
+       "kind": "atriles",
+       "x": 50,
+       "y": 60,
+       "w": 1000,
+       "at": 0,
+       "text": "19-N"
+      }
+     ],
+     "hide": [
+      "s5",
+      "f5"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-21T15:00:00+01:00"
+}
