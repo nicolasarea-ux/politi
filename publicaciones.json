@@ -449,12 +449,6 @@
    "publicado_en": "2026-11-09T22:45"
   },
   {
-   "id": "slp_020_permiso_votar",
-   "fecha": "2026-11-10T08:45",
-   "estado": "reserva",
-   "copy": "¿Trabajas el 29-N? Cuántas horas pagadas te corresponden para ir a votar 🕘\nGuárdalo 📌 ¿Trabajas ese domingo? 👇\n\nFuente: Real Decreto 605/1999 (art. 13), Estatuto de los Trabajadores (art. 37.3.d), vía Demócrata y Consejo de Gestores.\n\n#elecciones #29N #eleccionesgenerales #derechoslaborales #comovotar"
-  },
-  {
    "id": "slp_017_senado",
    "fecha": "2026-11-10T13:45",
    "estado": "reserva",
@@ -1257,6 +1251,24 @@
    "copy": "Feijóo, ¿Cristiano Ronaldo? 👀\n\nEl vídeo más viral de un partido esta campaña es Feijóo… con el cuerpo de Cristiano Ronaldo. El PP lo hizo con inteligencia artificial en TikTok. Mensaje: number one, not number 7. Más de 300.000 visualizaciones y casi 59.000 interacciones. El más movido de todos los partidos. Segundo puesto: el PSOE, con la canción yo sí te voy a votar: casi 294.000. Esta campaña no se está ganando en los mítines. Se está ganando en tu móvil.\n\n👇 ¿Te influyen estos vídeos? Comenta sí o no.\n⏳ Quedan ocho días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: Demócrata con datos de Poder Digital (18-11)\n#elecciones #29N #sanchez #feijoo #debate #cristianoronaldo #ia #tiktok",
    "votos": true,
    "nota": "sábado 21-N, formato historia"
+  },
+  {
+   "id": "slp_025_donde_voto",
+   "fecha": "2026-11-22T09:00",
+   "estado": "pendiente",
+   "copy": "¿No sabes dónde te toca votar? Cómo mirarlo en dos minutos y qué pasa si no te llega la tarjeta censal 📍\n¿Te ha llegado ya la tuya? 👇\n\nFuente: Oficina del Censo Electoral (INE); Demócrata; Maldita.\n\n#elecciones #29N #eleccionesgenerales #censoelectoral #comovotar"
+  },
+  {
+   "id": "slp_021_dni_votar",
+   "fecha": "2026-11-22T13:00",
+   "estado": "pendiente",
+   "copy": "¿Con qué puedes votar el 29-N? DNI caducado, carnet de conducir y por qué no te fíes del móvil 🪪\n¿Sabías lo del DNI caducado? 👇\n\nFuente: LOREG art. 85; acuerdos de la Junta Electoral Central sobre MiDNI y MiDGT (marzo y abril de 2026), vía Xataka Móvil y El Debate; Demócrata.\n\n#elecciones #29N #eleccionesgenerales #DNI #comovotar"
+  },
+  {
+   "id": "slp_020_permiso_votar",
+   "fecha": "2026-11-22T19:00",
+   "estado": "pendiente",
+   "copy": "¿Trabajas el 29-N? Cuántas horas pagadas te corresponden para ir a votar 🕘\nGuárdalo 📌 ¿Trabajas ese domingo? 👇\n\nFuente: Real Decreto 605/1999 (art. 13), Estatuto de los Trabajadores (art. 37.3.d), vía Demócrata y Consejo de Gestores.\n\n#elecciones #29N #eleccionesgenerales #derechoslaborales #comovotar"
   }
  ]
 }

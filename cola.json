@@ -279,11 +279,11 @@
     "https://www.democrata.es/elecciones-generales-espana/permiso-trabajo-votar-29-noviembre-2026-horas/",
     "https://www.consejogestores.org/?p=11303"
    ],
-   "estado": "reserva",
+   "estado": "programado",
    "copy": "¿Trabajas el 29-N? Cuántas horas pagadas te corresponden para ir a votar 🕘\nGuárdalo 📌 ¿Trabajas ese domingo? 👇\n\nFuente: Real Decreto 605/1999 (art. 13), Estatuto de los Trabajadores (art. 37.3.d), vía Demócrata y Consejo de Gestores.\n\n#elecciones #29N #eleccionesgenerales #derechoslaborales #comovotar",
-   "fecha": "2026-11-10T08:45",
+   "fecha": "2026-11-22T19:00",
    "fecha_reels": "2026-11-10T08:45",
-   "nota": "9-N: a reserva (semana de prueba: solo actualidad; vuelven la última semana antes del 29-N)"
+   "nota": "22-N relleno de seguridad (explicativos vuelven 22–28-N); la pasada del 22-N puede cambiarlo por actualidad"
   },
   {
    "id": "slp_022_escanos_provincia",
@@ -310,8 +310,10 @@
     "https://www.xatakamovil.com/movil-y-sociedad/marcha-atras-uso-midni-al-ir-a-votar-dni-digital-no-documento-valido-para-elecciones",
     "https://www.eldebate.com/espana/20260423/junta-electoral-ratifica-dni-digital-no-podra-usar-votar-elecciones-andaluzas_410429.html"
    ],
-   "estado": "reserva",
-   "nota": "Vídeo hecho, listo para usar"
+   "estado": "programado",
+   "nota": "22-N relleno de seguridad (explicativos vuelven 22–28-N); la pasada del 22-N puede cambiarlo por actualidad",
+   "fecha": "2026-11-22T13:00",
+   "copy": "¿Con qué puedes votar el 29-N? DNI caducado, carnet de conducir y por qué no te fíes del móvil 🪪\n¿Sabías lo del DNI caducado? 👇\n\nFuente: LOREG art. 85; acuerdos de la Junta Electoral Central sobre MiDNI y MiDGT (marzo y abril de 2026), vía Xataka Móvil y El Debate; Demócrata.\n\n#elecciones #29N #eleccionesgenerales #DNI #comovotar"
   },
   {
    "id": "slp_023_reflexion",
@@ -353,9 +355,11 @@
    "fuentes": [
     "https://www.democrata.es/elecciones-generales-espana/donde-votar-29n-consultar-colegio-mesa-electoral/"
    ],
-   "estado": "reserva",
+   "estado": "programado",
    "copy": "¿No sabes dónde te toca votar? Cómo mirarlo en dos minutos y qué pasa si no te llega la tarjeta censal 📍\n¿Te ha llegado ya la tuya? 👇\n\nFuente: Oficina del Censo Electoral (INE); Demócrata; Maldita.\n\n#elecciones #29N #eleccionesgenerales #censoelectoral #comovotar",
-   "portada_estilo": "v2"
+   "portada_estilo": "v2",
+   "fecha": "2026-11-22T09:00",
+   "nota": "22-N relleno de seguridad (explicativos vuelven 22–28-N); la pasada del 22-N puede cambiarlo por actualidad"
   },
   {
    "id": "slp_026_barrera_3",
