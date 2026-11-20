@@ -1177,10 +1177,12 @@
   {
    "id": "slp_161_quien_gano_medios",
    "fecha": "2026-11-20T15:00",
-   "estado": "pendiente",
+   "estado": "publicado",
    "copy": "¿Quién ganó? Depende 👀\n\nFeijóo ganó el debate con un 82 por ciento. Y Sánchez lo ganó con un 58. Las dos cosas son verdad. ¿Cómo puede ser? Mira. En la votación de ABC: Feijóo 82, Sánchez 15. En El País, Feijóo también: 68 a 32. En elDiario.es, casi empate: 53 a 47. Y en el Sociómetro, giro total: gana Sánchez, 58 a 42. El truco: no son encuestas. Son votaciones abiertas. Vota quien lee cada medio. Así que cada periódico vio ganar a los suyos.\n\n👇 ¿Y tú, quién crees que ganó de verdad? Comenta Sánchez o Feijóo.\n⏳ Quedan nueve días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: El Plural (recopilación de votaciones de medios) y BilbaoHiria (Sociómetro), 20-11\n#elecciones #29N #sanchez #feijoo #debate #quienganoeldebate",
    "votos": true,
-   "nota": "post-debate 19-N"
+   "nota": "post-debate 19-N",
+   "ig_media_id": "18112867616608685",
+   "publicado_en": "2026-11-20T15:01"
   },
   {
    "id": "slp_162_verificadores",
