@@ -1163,10 +1163,12 @@
   {
    "id": "slp_158_inmigracion_choque",
    "fecha": "2026-11-20T11:00",
-   "estado": "pendiente",
+   "estado": "publicado",
    "copy": "Inmigración: problema u oportunidad 👀\n\nFeijóo le soltó a Sánchez este dato a la cara. Cuando usted llegó a la Moncloa, la inmigración era el problema número diez. Hoy es el número dos. Su receta, en tres palabras: legal, ordenada y con contrato de trabajo. Sánchez lo ve justo al revés. Para él es una gran oportunidad para nuestro país. Y Feijóo remató con Marruecos: ¿Qué le debe usted a Marruecos, señor Sánchez? Problema u oportunidad. Ahí está la elección.\n\n👇 ¿Tú con quién estás? Comenta Sánchez o Feijóo.\n⏳ Quedan nueve días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: Libertad Digital y elDiario.es, directo del debate (19-N)\n#elecciones #29N #sanchez #feijoo #debate #inmigracion",
    "votos": true,
-   "nota": "post-debate 19-N"
+   "nota": "post-debate 19-N",
+   "ig_media_id": "18112146131199850",
+   "publicado_en": "2026-11-20T11:00"
   },
   {
    "id": "slp_159_promesas_debate",
