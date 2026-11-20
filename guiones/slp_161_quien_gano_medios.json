@@ -1,0 +1,283 @@
+{
+ "id": "slp_161_quien_gano_medios",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL GANCHO",
+  "EL GIRO",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: El Plural (recopilación de votaciones de medios) y BilbaoHiria (Sociómetro), 20-11"
+ },
+ "caption": "¿Quién ganó? Depende 👀\n\nFeijóo ganó el debate con un 82 por ciento. Y Sánchez lo ganó con un 58. Las dos cosas son verdad. ¿Cómo puede ser? Mira. En la votación de ABC: Feijóo 82, Sánchez 15. En El País, Feijóo también: 68 a 32. En elDiario.es, casi empate: 53 a 47. Y en el Sociómetro, giro total: gana Sánchez, 58 a 42. El truco: no son encuestas. Son votaciones abiertas. Vota quien lee cada medio. Así que cada periódico vio ganar a los suyos.\n\n👇 ¿Y tú, quién crees que ganó de verdad? Comenta Sánchez o Feijóo.\n⏳ Quedan nueve días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: El Plural (recopilación de votaciones de medios) y BilbaoHiria (Sociómetro), 20-11\n#elecciones #29N #sanchez #feijoo #debate #quienganoeldebate",
+ "portada": {
+  "serie": "CARA A CARA",
+  "titulo": "¿Quién *ganó*? Depende",
+  "mini": {
+   "rojo": "¿82 % O 58 %? LAS DOS SON VERDAD"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Feijóo ganó el debate con un 82 por ciento. Y Sánchez lo ganó con un 58. Las dos cosas son verdad.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "¿Quién *ganó*? Depende",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "tv",
+       "type": "prop",
+       "kind": "tele",
+       "x": 50,
+       "y": 42,
+       "w": 760,
+       "at": 0,
+       "text": "82 % · 58 %",
+       "fs": 80
+      },
+      {
+       "id": "s0",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 18,
+       "y": 64,
+       "w": 260,
+       "at": 0,
+       "habla": false,
+       "cara": "sonrie",
+       "gesto": "manos"
+      },
+      {
+       "id": "f0",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 82,
+       "y": 64,
+       "w": 260,
+       "at": 0,
+       "habla": false,
+       "cara": "sonrie",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "¿Cómo puede ser? Mira. En la votación de ABC: Feijóo 82, Sánchez 15.",
+     "show": [
+      {
+       "id": "d1",
+       "type": "prop",
+       "kind": "duelo",
+       "x": 50,
+       "y": 46,
+       "w": 960,
+       "at": 0,
+       "text": "ABC",
+       "f": 82,
+       "s": 15,
+       "sub": ""
+      }
+     ],
+     "hide": [
+      "h1",
+      "tv",
+      "s0",
+      "f0"
+     ]
+    },
+    {
+     "text": "En El País, Feijóo también: 68 a 32.",
+     "show": [
+      {
+       "id": "d2",
+       "type": "prop",
+       "kind": "duelo",
+       "x": 50,
+       "y": 46,
+       "w": 960,
+       "at": 0,
+       "text": "EL PAÍS",
+       "f": 68,
+       "s": 32,
+       "sub": ""
+      }
+     ],
+     "hide": [
+      "d1"
+     ]
+    },
+    {
+     "text": "En elDiario.es, casi empate: 53 a 47.",
+     "show": [
+      {
+       "id": "d3",
+       "type": "prop",
+       "kind": "duelo",
+       "x": 50,
+       "y": 46,
+       "w": 960,
+       "at": 0,
+       "text": "ELDIARIO.ES",
+       "f": 53,
+       "s": 47,
+       "sub": ""
+      }
+     ],
+     "hide": [
+      "d2"
+     ]
+    },
+    {
+     "text": "Y en el Sociómetro, giro total: gana Sánchez, 58 a 42.",
+     "show": [
+      {
+       "id": "d4",
+       "type": "prop",
+       "kind": "duelo",
+       "x": 50,
+       "y": 46,
+       "w": 960,
+       "at": 0,
+       "text": "SOCIÓMETRO",
+       "f": 42,
+       "s": 58,
+       "sub": ""
+      },
+      {
+       "id": "t4",
+       "type": "stamp",
+       "text": "GIRO",
+       "color": "red",
+       "x": 50,
+       "y": 72,
+       "rot": -5,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "d3"
+     ]
+    },
+    {
+     "text": "El truco: no son encuestas. Son votaciones abiertas. Vota quien lee cada medio.",
+     "show": [
+      {
+       "id": "c5",
+       "type": "prop",
+       "kind": "cifra",
+       "x": 50,
+       "y": 44,
+       "w": 940,
+       "at": 0,
+       "n": "≠",
+       "text": "VOTACIONES ABIERTAS, NO ENCUESTAS",
+       "bg": "ink",
+       "fs": 230
+      }
+     ],
+     "hide": [
+      "d4",
+      "t4"
+     ]
+    },
+    {
+     "text": "Así que cada periódico vio ganar a los suyos.",
+     "show": [
+      {
+       "id": "f6",
+       "type": "prop",
+       "kind": "cifra",
+       "x": 50,
+       "y": 50,
+       "w": 940,
+       "at": 0,
+       "n": "CADA UNO, SU GANADOR",
+       "text": "",
+       "bg": "ink",
+       "fs": 120
+      }
+     ],
+     "hide": [
+      "c5"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Y tú, quién crees que ganó de verdad? Comenta Sánchez o Feijóo. Síguenos: quedan nueve días.",
+     "show": [
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TÚ QUÉ DICES?",
+       "color": "red",
+       "x": 50,
+       "y": 29,
+       "rot": -5,
+       "at": 0
+      },
+      {
+       "id": "s99",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 52,
+       "w": 320,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "f99",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 52,
+       "w": 320,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "atr",
+       "type": "prop",
+       "kind": "atriles",
+       "x": 50,
+       "y": 60,
+       "w": 1000,
+       "at": 0,
+       "text": "19-N"
+      }
+     ],
+     "hide": [
+      "f6"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-20T15:00:00+01:00"
+}

@@ -1,0 +1,292 @@
+{
+ "id": "slp_165_debate_30s",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL GANCHO",
+  "EL GIRO",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: EFE, elDiario.es, Libertad Digital y El Plural"
+ },
+ "caption": "El debate en 30 segundos 👀\n\n¿No viste el debate? En treinta segundos lo sabes todo. Minuto clave. Feijóo pregunta: ¿quién le pagó las primarias? Silencio. Sánchez no contesta. Pero luego Sánchez le pide subir el salario mínimo… y el que se calla es Feijóo. La frase de Feijóo: no bailo en los mítines, pero no robo ni miento. La de Sánchez: la corrupción cero no existe, pero la tolerancia cero sí. ¿Quién ganó? Depende del periódico que leas.\n\n👇 ¿Quién ganó para ti? Comenta Sánchez o Feijóo.\n⏳ Quedan nueve días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: EFE, elDiario.es, Libertad Digital y El Plural\n#elecciones #29N #sanchez #feijoo #debate #resumen",
+ "portada": {
+  "serie": "CARA A CARA",
+  "titulo": "El debate en *30 segundos*",
+  "mini": {
+   "rojo": "EL DEBATE EN 30 SEGUNDOS"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿No viste el debate? En treinta segundos lo sabes todo.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "El debate en *30 segundos*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "f0",
+       "type": "prop",
+       "kind": "cifra",
+       "x": 50,
+       "y": 50,
+       "w": 940,
+       "at": 0,
+       "n": "30 SEGUNDOS",
+       "text": "",
+       "bg": "ink",
+       "fs": 150
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Minuto clave. Feijóo pregunta: ¿quién le pagó las primarias?",
+     "show": [
+      {
+       "id": "f1",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 58,
+       "w": 500,
+       "at": 0,
+       "habla": true,
+       "cara": "enfadado",
+       "say": "«¿Quién le pagó las primarias?»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 640,
+       "bfs": 44,
+       "gesto": "senala",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": [
+      "h1",
+      "f0"
+     ]
+    },
+    {
+     "text": "Silencio. Sánchez no contesta.",
+     "show": [
+      {
+       "id": "s2",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 58,
+       "w": 500,
+       "at": 0,
+       "habla": false,
+       "cara": "serio",
+       "gesto": "manos"
+      },
+      {
+       "id": "t2",
+       "type": "stamp",
+       "text": "SILENCIO",
+       "color": "red",
+       "x": 50,
+       "y": 24,
+       "rot": -5,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "f1"
+     ]
+    },
+    {
+     "text": "Pero luego Sánchez le pide subir el salario mínimo… y el que se calla es Feijóo.",
+     "show": [
+      {
+       "id": "f3",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 58,
+       "w": 500,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "t3",
+       "type": "stamp",
+       "text": "SILENCIO 2",
+       "color": "red",
+       "x": 50,
+       "y": 24,
+       "rot": -5,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "s2",
+      "t2"
+     ]
+    },
+    {
+     "text": "La frase de Feijóo: no bailo en los mítines, pero no robo ni miento.",
+     "show": [
+      {
+       "id": "f4",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 58,
+       "w": 500,
+       "at": 0,
+       "habla": true,
+       "cara": "serio",
+       "say": "«No bailo en los mítines, pero no robo ni miento»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 640,
+       "bfs": 44,
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": [
+      "f3",
+      "t3"
+     ]
+    },
+    {
+     "text": "La de Sánchez: la corrupción cero no existe, pero la tolerancia cero sí.",
+     "show": [
+      {
+       "id": "s5",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 58,
+       "w": 500,
+       "at": 0,
+       "habla": true,
+       "cara": "serio",
+       "say": "«La corrupción cero no existe, pero la tolerancia cero sí»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 640,
+       "bfs": 44,
+       "gesto": "senala"
+      }
+     ],
+     "hide": [
+      "f4"
+     ]
+    },
+    {
+     "text": "¿Quién ganó? Depende del periódico que leas.",
+     "show": [
+      {
+       "id": "tv6",
+       "type": "prop",
+       "kind": "tele",
+       "x": 50,
+       "y": 42,
+       "w": 760,
+       "at": 0,
+       "text": "¿?",
+       "fs": 200,
+       "sub": "DEPENDE"
+      }
+     ],
+     "hide": [
+      "s5"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Quién ganó para ti? Comenta Sánchez o Feijóo. Síguenos: quedan nueve días.",
+     "show": [
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TÚ QUÉ DICES?",
+       "color": "red",
+       "x": 50,
+       "y": 29,
+       "rot": -5,
+       "at": 0
+      },
+      {
+       "id": "s99",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 52,
+       "w": 320,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "f99",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 52,
+       "w": 320,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "atr",
+       "type": "prop",
+       "kind": "atriles",
+       "x": 50,
+       "y": 60,
+       "w": 1000,
+       "at": 0,
+       "text": "19-N"
+      }
+     ],
+     "hide": [
+      "tv6"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-20T23:00:00+01:00"
+}

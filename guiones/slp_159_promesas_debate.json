@@ -3,21 +3,22 @@
  "brand": "Politízate Hoy",
  "formato": "minuto",
  "tono": "normal",
- "clauses": 1,
+ "clauses": 2,
  "clauseLabels": [
-  "EL MOMENTO",
+  "EL GANCHO",
+  "EL GIRO",
   "TU VOTO"
  ],
  "header": {
-  "tag": "CARA A CARA · 19-N",
+  "tag": "CAMPAÑA 29-N",
   "source": "Fuente: elDiario.es y ESdiario, directo del debate (19-N)"
  },
- "caption": "Lo que prometieron 👀 #CaraACara\n\nEsto es lo que te prometieron anoche. Feijóo:\n🗣️ Feijóo: «Aprobaremos tres leyes para construir un millón de viviendas»\n▶️ Bajar impuestos, y subir las pensiones con el IPC, sí o sí.\n▶️ Sánchez pidió subir el salario mínimo al sesenta por ciento del salario medio.\n🗣️ Sánchez: «Cualquier vecino de Madrid o Valencia se ahorraría 500 euros al mes si se aplicara la Ley de Vivienda»\n\n👇 ¿Qué promesa te convence más? Comenta SÁNCHEZ o FEIJÓO.\n⏳ Quedan 9 días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: elDiario.es y ESdiario, directo del debate (19-N)\n#debate #caraacara #sanchez #feijoo #debateelectoral #elecciones #29N #promesas #pensiones #vivienda",
+ "caption": "Lo que te prometieron 👀\n\nAnoche te prometieron un montón de cosas. Guárdate este vídeo, porque en cuatro años vamos a mirar quién cumplió. Feijóo: aprobaremos tres leyes para construir un millón de viviendas. Y más: bajar impuestos y subir las pensiones con el IPC. Sí o sí. Sánchez fue a por tu sueldo: subir el salario mínimo al sesenta por ciento del salario medio. Y prometió que con su Ley de Vivienda cualquier vecino de Madrid o Valencia se ahorraría 500 euros al mes. Las promesas son gratis. Cumplirlas, no.\n\n👇 ¿Qué promesa te convence más? Comenta Sánchez o Feijóo.\n⏳ Quedan nueve días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: elDiario.es y ESdiario, directo del debate (19-N)\n#elecciones #29N #sanchez #feijoo #debate #promesas #vivienda #pensiones",
  "portada": {
   "serie": "CARA A CARA",
-  "titulo": "Lo que *prometieron*",
+  "titulo": "Lo que te *prometieron*",
   "mini": {
-   "rojo": "LAS PROMESAS DEL CARA A CARA"
+   "rojo": "GUARDA ESTE VÍDEO"
   },
   "cartel": true
  },
@@ -26,38 +27,38 @@
    "clause": 0,
    "segments": [
     {
-     "text": "Esto es lo que te prometieron anoche. Feijóo:",
+     "text": "Anoche te prometieron un montón de cosas. Guárdate este vídeo, porque en cuatro años vamos a mirar quién cumplió.",
      "show": [
       {
        "id": "h1",
        "type": "headline",
-       "text": "Lo que *prometieron*",
+       "text": "Lo que te *prometieron*",
        "x": 50,
        "y": 20,
        "w": 920
       },
       {
-       "id": "sB0",
+       "id": "s0",
        "type": "mono",
        "who": "sanchez",
        "x": 27,
-       "y": 44,
-       "w": 270,
+       "y": 52,
+       "w": 320,
        "at": 0,
        "habla": false,
-       "cara": "serio",
+       "cara": "sonrie",
        "gesto": "manos"
       },
       {
-       "id": "fB0",
+       "id": "f0",
        "type": "mono",
        "who": "feijoo",
        "x": 73,
-       "y": 44,
-       "w": 270,
+       "y": 52,
+       "w": 320,
        "at": 0,
        "habla": false,
-       "cara": "serio",
+       "cara": "sonrie",
        "gesto": "manos",
        "flip": true,
        "mira": "l"
@@ -76,15 +77,15 @@
      "hide": []
     },
     {
-     "text": "  Aprobaremos tres leyes para construir un millón de viviendas.",
+     "text": "Feijóo: aprobaremos tres leyes para construir un millón de viviendas.",
      "show": [
       {
        "id": "f1",
        "type": "mono",
        "who": "feijoo",
-       "x": 73,
-       "y": 44,
-       "w": 270,
+       "x": 50,
+       "y": 58,
+       "w": 500,
        "at": 0,
        "habla": true,
        "cara": "serio",
@@ -94,164 +95,120 @@
         1
        ],
        "bub": "up",
-       "bw": 520,
-       "bfs": 38,
-       "gesto": "manos",
+       "bw": 640,
+       "bfs": 44,
+       "gesto": "senala",
        "flip": true,
        "mira": "l"
-      },
-      {
-       "id": "s1",
-       "type": "mono",
-       "who": "sanchez",
-       "x": 27,
-       "y": 44,
-       "w": 270,
-       "at": 0,
-       "habla": false,
-       "cara": "duda",
-       "gesto": "brazos"
       }
      ],
      "hide": [
       "h1",
-      "sB0",
-      "fB0"
+      "s0",
+      "f0",
+      "atr"
      ]
     },
     {
-     "text": "Bajar impuestos, y subir las pensiones con el IPC, sí o sí.",
+     "text": "Y más: bajar impuestos y subir las pensiones con el IPC. Sí o sí.",
      "show": [
       {
-       "id": "sB2",
-       "type": "mono",
-       "who": "sanchez",
-       "x": 27,
-       "y": 44,
-       "w": 270,
-       "at": 0,
-       "habla": false,
-       "cara": "duda",
-       "gesto": "manos"
-      },
-      {
-       "id": "fB2",
-       "type": "mono",
-       "who": "feijoo",
-       "x": 73,
-       "y": 44,
-       "w": 270,
-       "at": 0,
-       "habla": false,
-       "cara": "duda",
-       "gesto": "manos",
-       "flip": true,
-       "mira": "l"
-      },
-      {
-       "id": "st2",
-       "type": "stamp",
-       "text": "FEIJÓO",
-       "color": "red",
+       "id": "c2",
+       "type": "prop",
+       "kind": "cifra",
        "x": 50,
-       "y": 29,
-       "rot": -5,
-       "at": 0
+       "y": 44,
+       "w": 940,
+       "at": 0,
+       "n": "IPC",
+       "text": "PENSIONES «SÍ O SÍ» · BAJADA DE IMPUESTOS",
+       "bg": "ink",
+       "fs": 230
       }
      ],
      "hide": [
-      "s1",
       "f1"
      ]
     },
     {
-     "text": "Sánchez pidió subir el salario mínimo al sesenta por ciento del salario medio.",
+     "text": "Sánchez fue a por tu sueldo: subir el salario mínimo al sesenta por ciento del salario medio.",
      "show": [
       {
-       "id": "sB3",
-       "type": "mono",
-       "who": "sanchez",
-       "x": 27,
-       "y": 44,
-       "w": 270,
-       "at": 0,
-       "habla": false,
-       "cara": "duda",
-       "gesto": "manos"
-      },
-      {
-       "id": "fB3",
-       "type": "mono",
-       "who": "feijoo",
-       "x": 73,
-       "y": 44,
-       "w": 270,
-       "at": 0,
-       "habla": false,
-       "cara": "duda",
-       "gesto": "manos",
-       "flip": true,
-       "mira": "l"
-      },
-      {
-       "id": "st3",
-       "type": "stamp",
-       "text": "SÁNCHEZ",
-       "color": "red",
+       "id": "c3",
+       "type": "prop",
+       "kind": "cifra",
        "x": 50,
-       "y": 29,
-       "rot": -5,
-       "at": 0
+       "y": 44,
+       "w": 940,
+       "at": 0,
+       "n": "60 %",
+       "text": "SALARIO MÍNIMO = 60 % DEL SALARIO MEDIO",
+       "bg": "ink",
+       "fs": 230
       }
      ],
      "hide": [
-      "sB2",
-      "fB2",
-      "st2"
+      "c2"
      ]
     },
     {
-     "text": "Y sobre el alquiler: Cualquier vecino de Madrid o Valencia se ahorraría 500 euros al mes si se aplicara la Ley de Vivienda.",
+     "text": "Y prometió que con su Ley de Vivienda cualquier vecino de Madrid o Valencia se ahorraría 500 euros al mes.",
      "show": [
       {
        "id": "s4",
        "type": "mono",
        "who": "sanchez",
-       "x": 27,
-       "y": 44,
-       "w": 270,
+       "x": 50,
+       "y": 58,
+       "w": 500,
        "at": 0,
        "habla": true,
-       "cara": "enfadado",
-       "say": "«Cualquier vecino de Madrid o Valencia se ahorraría 500 euros al mes si se aplicara la Ley de Vivienda»",
+       "cara": "sonrie",
+       "say": "«…se ahorraría 500 euros al mes»",
        "tf": [
         0.15,
         1
        ],
        "bub": "up",
-       "bw": 520,
-       "bfs": 38,
-       "gesto": "senala"
+       "bw": 640,
+       "bfs": 44,
+       "gesto": "manos"
       },
       {
-       "id": "f4",
-       "type": "mono",
-       "who": "feijoo",
-       "x": 73,
-       "y": 44,
-       "w": 270,
-       "at": 0,
-       "habla": false,
-       "cara": "serio",
-       "gesto": "manos",
-       "flip": true,
-       "mira": "l"
+       "id": "t4",
+       "type": "stamp",
+       "text": "500 €/MES",
+       "color": "red",
+       "x": 50,
+       "y": 74,
+       "rot": -5,
+       "at": 0
       }
      ],
      "hide": [
-      "sB3",
-      "fB3",
-      "st3"
+      "c3"
+     ]
+    },
+    {
+     "text": "Las promesas son gratis. Cumplirlas, no.",
+     "show": [
+      {
+       "id": "f5",
+       "type": "prop",
+       "kind": "cifra",
+       "x": 50,
+       "y": 50,
+       "w": 940,
+       "at": 0,
+       "n": "PROMETER ES GRATIS",
+       "text": "",
+       "bg": "ink",
+       "fs": 130
+      }
+     ],
+     "hide": [
+      "s4",
+      "t4"
      ]
     }
    ]
@@ -260,7 +217,7 @@
    "clause": -1,
    "segments": [
     {
-     "text": "¿Qué promesa te convence más? Comenta Sánchez o Feijóo. Quedan nueve días: síguenos para no perderte nada.",
+     "text": "¿Qué promesa te convence más? Comenta Sánchez o Feijóo. Síguenos: quedan nueve días.",
      "show": [
       {
        "id": "fol",
@@ -273,24 +230,24 @@
        "at": 0
       },
       {
-       "id": "sB99",
+       "id": "s99",
        "type": "mono",
        "who": "sanchez",
        "x": 27,
-       "y": 44,
-       "w": 270,
+       "y": 52,
+       "w": 320,
        "at": 0,
        "habla": false,
        "cara": "duda",
        "gesto": "manos"
       },
       {
-       "id": "fB99",
+       "id": "f99",
        "type": "mono",
        "who": "feijoo",
        "x": 73,
-       "y": 44,
-       "w": 270,
+       "y": 52,
+       "w": 320,
        "at": 0,
        "habla": false,
        "cara": "duda",
@@ -310,13 +267,11 @@
       }
      ],
      "hide": [
-      "s4",
-      "f4"
+      "f5"
      ]
     }
    ]
   }
  ],
- "fechaPub": "2026-11-20T13:00:00+01:00",
- "trial": true
+ "fechaPub": "2026-11-20T13:00:00+01:00"
 }

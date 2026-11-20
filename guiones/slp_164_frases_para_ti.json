@@ -1,0 +1,261 @@
+{
+ "id": "slp_164_frases_para_ti",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL GANCHO",
+  "EL GIRO",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: elDiario.es (análisis del debate, 20-11)"
+ },
+ "caption": "La frase que va por ti 👀\n\nEn el debate hubo una frase que no iba para Feijóo ni para Sánchez. Iba por ti. Primero, Feijóo apuntó a tu bolsillo: la gente no llega a fin de mes. Y se vendió: sé gestionar crisis. Sánchez, en cambio, reconoció: el Gobierno no ha sido perfecto. Y entonces soltó la frase: quieren que el 29 de noviembre no vayas a votar.\n\n👇 ¿Vas a ir a votar? Comenta sí o no.\n⏳ Quedan nueve días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: elDiario.es (análisis del debate, 20-11)\n#elecciones #29N #sanchez #feijoo #debate #votar #votaciones",
+ "portada": {
+  "serie": "CARA A CARA",
+  "titulo": "La frase que va *por ti*",
+  "mini": {
+   "rojo": "«QUIEREN QUE NO VAYAS A VOTAR»"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "En el debate hubo una frase que no iba para Feijóo ni para Sánchez. Iba por ti.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "La frase que va *por ti*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "s0",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 56,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "serio",
+       "gesto": "manos"
+      },
+      {
+       "id": "f0",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 56,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "serio",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Primero, Feijóo apuntó a tu bolsillo: la gente no llega a fin de mes.",
+     "show": [
+      {
+       "id": "f1",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 58,
+       "w": 520,
+       "at": 0,
+       "habla": true,
+       "cara": "serio",
+       "say": "«La gente no llega a fin de mes»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 640,
+       "bfs": 44,
+       "gesto": "senala",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": [
+      "h1",
+      "s0",
+      "f0"
+     ]
+    },
+    {
+     "text": "Y se vendió: sé gestionar crisis.",
+     "show": [
+      {
+       "id": "f2",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 58,
+       "w": 520,
+       "at": 0,
+       "habla": true,
+       "cara": "sonrie",
+       "say": "«Sé gestionar crisis»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 640,
+       "bfs": 44,
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": [
+      "f1"
+     ]
+    },
+    {
+     "text": "Sánchez, en cambio, reconoció: el Gobierno no ha sido perfecto.",
+     "show": [
+      {
+       "id": "s3",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 58,
+       "w": 520,
+       "at": 0,
+       "habla": true,
+       "cara": "duda",
+       "say": "«El Gobierno no ha sido perfecto»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 640,
+       "bfs": 44,
+       "gesto": "manos"
+      }
+     ],
+     "hide": [
+      "f2"
+     ]
+    },
+    {
+     "text": "Y entonces soltó la frase: quieren que el 29 de noviembre no vayas a votar.",
+     "show": [
+      {
+       "id": "s4",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 58,
+       "w": 520,
+       "at": 0,
+       "habla": true,
+       "cara": "enfadado",
+       "say": "«Quieren que el 29 de noviembre no vayas a votar»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 640,
+       "bfs": 44,
+       "gesto": "senala"
+      },
+      {
+       "id": "t4",
+       "type": "stamp",
+       "text": "POR TI",
+       "color": "red",
+       "x": 50,
+       "y": 74,
+       "rot": -5,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "s3"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Vas a ir a votar? Comenta sí o no. Síguenos: quedan nueve días.",
+     "show": [
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TÚ QUÉ DICES?",
+       "color": "red",
+       "x": 50,
+       "y": 29,
+       "rot": -5,
+       "at": 0
+      },
+      {
+       "id": "s99",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 52,
+       "w": 320,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "f99",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 52,
+       "w": 320,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "atr",
+       "type": "prop",
+       "kind": "atriles",
+       "x": 50,
+       "y": 60,
+       "w": 1000,
+       "at": 0,
+       "text": "19-N"
+      }
+     ],
+     "hide": [
+      "s4",
+      "t4"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-20T21:00:00+01:00"
+}

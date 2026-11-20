@@ -1164,15 +1164,57 @@
    "id": "slp_158_inmigracion_choque",
    "fecha": "2026-11-20T11:00",
    "estado": "pendiente",
-   "copy": "Inmigración: el choque 👀 #CaraACara\n\nLa inmigración era el problema número 10 cuando usted llegó a la Moncloa y ahora es el número 2.\n🗣️ Feijóo: «Legal, ordenada y con contrato de trabajo»\n🗣️ Sánchez: «Una gran oportunidad para nuestro país»\n🗣️ Feijóo: «¿Qué le debe usted a Marruecos, señor Sánchez?»\n\n👇 ¿Con quién estás? Comenta SÁNCHEZ o FEIJÓO.\n⏳ Quedan 9 días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: Libertad Digital y elDiario.es, directo del debate (19-N)\n#debate #caraacara #sanchez #feijoo #debateelectoral #elecciones #29N #inmigracion",
-   "votos": true
+   "copy": "Inmigración: problema u oportunidad 👀\n\nFeijóo le soltó a Sánchez este dato a la cara. Cuando usted llegó a la Moncloa, la inmigración era el problema número diez. Hoy es el número dos. Su receta, en tres palabras: legal, ordenada y con contrato de trabajo. Sánchez lo ve justo al revés. Para él es una gran oportunidad para nuestro país. Y Feijóo remató con Marruecos: ¿Qué le debe usted a Marruecos, señor Sánchez? Problema u oportunidad. Ahí está la elección.\n\n👇 ¿Tú con quién estás? Comenta Sánchez o Feijóo.\n⏳ Quedan nueve días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: Libertad Digital y elDiario.es, directo del debate (19-N)\n#elecciones #29N #sanchez #feijoo #debate #inmigracion",
+   "votos": true,
+   "nota": "post-debate 19-N"
   },
   {
    "id": "slp_159_promesas_debate",
    "fecha": "2026-11-20T13:00",
    "estado": "pendiente",
-   "copy": "Lo que prometieron 👀 #CaraACara\n\nEsto es lo que te prometieron anoche. Feijóo:\n🗣️ Feijóo: «Aprobaremos tres leyes para construir un millón de viviendas»\n▶️ Bajar impuestos, y subir las pensiones con el IPC, sí o sí.\n▶️ Sánchez pidió subir el salario mínimo al sesenta por ciento del salario medio.\n🗣️ Sánchez: «Cualquier vecino de Madrid o Valencia se ahorraría 500 euros al mes si se aplicara la Ley de Vivienda»\n\n👇 ¿Qué promesa te convence más? Comenta SÁNCHEZ o FEIJÓO.\n⏳ Quedan 9 días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: elDiario.es y ESdiario, directo del debate (19-N)\n#debate #caraacara #sanchez #feijoo #debateelectoral #elecciones #29N #promesas #pensiones #vivienda",
-   "votos": true
+   "copy": "Lo que te prometieron 👀\n\nAnoche te prometieron un montón de cosas. Guárdate este vídeo, porque en cuatro años vamos a mirar quién cumplió. Feijóo: aprobaremos tres leyes para construir un millón de viviendas. Y más: bajar impuestos y subir las pensiones con el IPC. Sí o sí. Sánchez fue a por tu sueldo: subir el salario mínimo al sesenta por ciento del salario medio. Y prometió que con su Ley de Vivienda cualquier vecino de Madrid o Valencia se ahorraría 500 euros al mes. Las promesas son gratis. Cumplirlas, no.\n\n👇 ¿Qué promesa te convence más? Comenta Sánchez o Feijóo.\n⏳ Quedan nueve días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: elDiario.es y ESdiario, directo del debate (19-N)\n#elecciones #29N #sanchez #feijoo #debate #promesas #vivienda #pensiones",
+   "votos": true,
+   "nota": "post-debate 19-N"
+  },
+  {
+   "id": "slp_161_quien_gano_medios",
+   "fecha": "2026-11-20T15:00",
+   "estado": "pendiente",
+   "copy": "¿Quién ganó? Depende 👀\n\nFeijóo ganó el debate con un 82 por ciento. Y Sánchez lo ganó con un 58. Las dos cosas son verdad. ¿Cómo puede ser? Mira. En la votación de ABC: Feijóo 82, Sánchez 15. En El País, Feijóo también: 68 a 32. En elDiario.es, casi empate: 53 a 47. Y en el Sociómetro, giro total: gana Sánchez, 58 a 42. El truco: no son encuestas. Son votaciones abiertas. Vota quien lee cada medio. Así que cada periódico vio ganar a los suyos.\n\n👇 ¿Y tú, quién crees que ganó de verdad? Comenta Sánchez o Feijóo.\n⏳ Quedan nueve días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: El Plural (recopilación de votaciones de medios) y BilbaoHiria (Sociómetro), 20-11\n#elecciones #29N #sanchez #feijoo #debate #quienganoeldebate",
+   "votos": true,
+   "nota": "post-debate 19-N"
+  },
+  {
+   "id": "slp_162_verificadores",
+   "fecha": "2026-11-20T17:00",
+   "estado": "pendiente",
+   "copy": "Reto: verificadores 👀\n\nEn pleno debate, Sánchez lanzó un reto: mucho trabajo va a dar a los verificadores. Y Feijóo, sin pestañear: por supuesto, encantado. Pues reto aceptado. Primera: Feijóo dijo que España devolverá 80.000 millones de fondos europeos. Exagerado: la parte que eran créditos es de unos 20.000. Segunda: que Vivienda solo ha ejecutado el 21 por ciento de su presupuesto. El dato es del 95. Pero ojo, que Sánchez tampoco se libra: su millón de viviendas son visados, no casas construidas. Resultado: los dos inflaron sus cifras.\n\n👇 ¿Quién exageró más? Comenta Sánchez o Feijóo.\n⏳ Quedan nueve días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: elDiario.es (análisis y verificación del debate, 19-20 N)\n#elecciones #29N #sanchez #feijoo #debate #verificacion #bulos",
+   "votos": true,
+   "nota": "post-debate 19-N"
+  },
+  {
+   "id": "slp_163_video_ia_satira",
+   "fecha": "2026-11-20T19:00",
+   "estado": "pendiente",
+   "copy": "Vídeo con IA: ¿vale todo? 👀\n\nEl PP sacó un vídeo hecho con inteligencia artificial con Ábalos, Cerdán, Leire Díez y Begoña Gómez. El PSOE fue a la Junta Electoral para tumbarlo. Y la Junta… no le dio la razón. Dice que es sátira política, amparada por la libertad de expresión. ¿La clave? El vídeo avisaba de que estaba hecho con IA. Conclusión: a nueve días de votar, los vídeos con IA en campaña valen. Prepárate para ver más.\n\n👇 ¿Te parece bien? Comenta sí o no.\n⏳ Quedan nueve días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: El Español (directo 20-11), resolución de la Junta Electoral Central\n#elecciones #29N #sanchez #feijoo #debate #ia #inteligenciaartificial #juntaelectoral",
+   "votos": true,
+   "nota": "post-debate 19-N"
+  },
+  {
+   "id": "slp_164_frases_para_ti",
+   "fecha": "2026-11-20T21:00",
+   "estado": "pendiente",
+   "copy": "La frase que va por ti 👀\n\nEn el debate hubo una frase que no iba para Feijóo ni para Sánchez. Iba por ti. Primero, Feijóo apuntó a tu bolsillo: la gente no llega a fin de mes. Y se vendió: sé gestionar crisis. Sánchez, en cambio, reconoció: el Gobierno no ha sido perfecto. Y entonces soltó la frase: quieren que el 29 de noviembre no vayas a votar.\n\n👇 ¿Vas a ir a votar? Comenta sí o no.\n⏳ Quedan nueve días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: elDiario.es (análisis del debate, 20-11)\n#elecciones #29N #sanchez #feijoo #debate #votar #votaciones",
+   "votos": true,
+   "nota": "post-debate 19-N"
+  },
+  {
+   "id": "slp_165_debate_30s",
+   "fecha": "2026-11-20T23:00",
+   "estado": "pendiente",
+   "copy": "El debate en 30 segundos 👀\n\n¿No viste el debate? En treinta segundos lo sabes todo. Minuto clave. Feijóo pregunta: ¿quién le pagó las primarias? Silencio. Sánchez no contesta. Pero luego Sánchez le pide subir el salario mínimo… y el que se calla es Feijóo. La frase de Feijóo: no bailo en los mítines, pero no robo ni miento. La de Sánchez: la corrupción cero no existe, pero la tolerancia cero sí. ¿Quién ganó? Depende del periódico que leas.\n\n👇 ¿Quién ganó para ti? Comenta Sánchez o Feijóo.\n⏳ Quedan nueve días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: EFE, elDiario.es, Libertad Digital y El Plural\n#elecciones #29N #sanchez #feijoo #debate #resumen",
+   "votos": true,
+   "nota": "post-debate 19-N"
   }
  ]
 }
