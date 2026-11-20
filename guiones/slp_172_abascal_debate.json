@@ -1,0 +1,254 @@
+{
+ "id": "slp_172_abascal_debate",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL GANCHO",
+  "EL GIRO",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: The Objective (20-11), declaraciones de Abascal en Salamanca"
+ },
+ "caption": "Abascal: «cuando no estoy» 👀\n\nAbascal no estuvo en el cara a cara. Pero salió en él. Y al día siguiente contestó. Desde Salamanca, sobre Sánchez: le gusta debatir conmigo cuando no estoy. Y sobre la pregunta de las primarias: enmudeció. Algo oculta. A Feijóo le dio un aprobado: me alegro de que haya aprendido la lección. Pero le lanzó una pregunta: tras el 29-N, ¿pactará con los restos del PSOE o con Vox?\n\n👇 ¿Con quién debería pactar Feijóo? Comenta Vox o PSOE.\n⏳ Quedan ocho días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: The Objective (20-11), declaraciones de Abascal en Salamanca\n#elecciones #29N #sanchez #feijoo #debate #abascal #vox",
+ "portada": {
+  "serie": "CARA A CARA",
+  "titulo": "Abascal: «cuando *no estoy*»",
+  "mini": {
+   "rojo": "«LE GUSTA DEBATIR CONMIGO CUANDO NO ESTOY»"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Abascal no estuvo en el cara a cara. Pero salió en él. Y al día siguiente contestó.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Abascal: «cuando *no estoy*»",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "a0",
+       "type": "mono",
+       "who": "abascal",
+       "x": 50,
+       "y": 56,
+       "w": 460,
+       "at": 0,
+       "habla": false,
+       "cara": "sonrie",
+       "gesto": "manos"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Desde Salamanca, sobre Sánchez: le gusta debatir conmigo cuando no estoy.",
+     "show": [
+      {
+       "id": "a1",
+       "type": "mono",
+       "who": "abascal",
+       "x": 50,
+       "y": 58,
+       "w": 500,
+       "at": 0,
+       "habla": true,
+       "cara": "sonrie",
+       "say": "«Le gusta debatir conmigo cuando no estoy»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 640,
+       "bfs": 44,
+       "gesto": "senala"
+      }
+     ],
+     "hide": [
+      "h1",
+      "a0"
+     ]
+    },
+    {
+     "text": "Y sobre la pregunta de las primarias: enmudeció. Algo oculta.",
+     "show": [
+      {
+       "id": "a2",
+       "type": "mono",
+       "who": "abascal",
+       "x": 50,
+       "y": 58,
+       "w": 500,
+       "at": 0,
+       "habla": true,
+       "cara": "enfadado",
+       "say": "«Enmudeció»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 640,
+       "bfs": 44,
+       "gesto": "senala"
+      },
+      {
+       "id": "t2",
+       "type": "stamp",
+       "text": "PRIMARIAS",
+       "color": "red",
+       "x": 50,
+       "y": 74,
+       "rot": -5,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "a1"
+     ]
+    },
+    {
+     "text": "A Feijóo le dio un aprobado: me alegro de que haya aprendido la lección.",
+     "show": [
+      {
+       "id": "a3",
+       "type": "mono",
+       "who": "abascal",
+       "x": 30,
+       "y": 56,
+       "w": 380,
+       "at": 0,
+       "habla": true,
+       "cara": "sonrie",
+       "say": "«Me alegro de que haya aprendido la lección»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 640,
+       "bfs": 44,
+       "gesto": "manos"
+      },
+      {
+       "id": "f3",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 76,
+       "y": 58,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      }
+     ],
+     "hide": [
+      "a2",
+      "t2"
+     ]
+    },
+    {
+     "text": "Pero le lanzó una pregunta: tras el 29-N, ¿pactará con los restos del PSOE o con Vox?",
+     "show": [
+      {
+       "id": "d4",
+       "type": "prop",
+       "kind": "duelo",
+       "x": 50,
+       "y": 46,
+       "w": 960,
+       "at": 0,
+       "text": "¿CON QUIÉN PACTARÁ FEIJÓO?",
+       "f": 50,
+       "s": 50,
+       "sub": "pregunta de Abascal",
+       "l1": "VOX",
+       "l2": "«LOS RESTOS» DEL PSOE",
+       "c1": "#5DAA2B",
+       "c2": "#E1251B"
+      }
+     ],
+     "hide": [
+      "a3",
+      "f3"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Con quién debería pactar Feijóo? Comenta Vox o PSOE. Síguenos: quedan ocho días.",
+     "show": [
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TÚ QUÉ DICES?",
+       "color": "red",
+       "x": 50,
+       "y": 29,
+       "rot": -5,
+       "at": 0
+      },
+      {
+       "id": "s99",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 52,
+       "w": 320,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "f99",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 52,
+       "w": 320,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "atr",
+       "type": "prop",
+       "kind": "atriles",
+       "x": 50,
+       "y": 60,
+       "w": 1000,
+       "at": 0,
+       "text": "19-N"
+      }
+     ],
+     "hide": [
+      "d4"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-21T21:00:00+01:00"
+}

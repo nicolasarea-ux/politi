@@ -1,0 +1,288 @@
+{
+ "id": "slp_173_top5_semana",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL GANCHO",
+  "EL GIRO",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: EFE, elDiario.es, Demócrata (semana 15-21 N)"
+ },
+ "caption": "Top 5 de la semana 👀\n\nLos cinco momentos que más han dado que hablar esta semana. Cinco. La canción hecha con IA: yo sí te voy a votar. Cuatro. Feijóo convertido en Cristiano Ronaldo, también con IA. Tres. No bailo en los mítines, pero no robo ni miento. Dos. Sánchez le pide a Feijóo subir el salario mínimo. Y Feijóo calla. Y uno: ¿quién le pagó las primarias? Y Sánchez no contesta.\n\n👇 ¿Cuál fue el más fuerte? Comenta el número.\n⏳ Quedan ocho días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: EFE, elDiario.es, Demócrata (semana 15-21 N)\n#elecciones #29N #sanchez #feijoo #debate #top5 #resumen",
+ "portada": {
+  "serie": "CARA A CARA",
+  "titulo": "Top 5 de la *semana*",
+  "mini": {
+   "rojo": "TOP 5: LA SEMANA DE CAMPAÑA"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Los cinco momentos que más han dado que hablar esta semana. Cinco.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "Top 5 de la *semana*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "c0",
+       "type": "prop",
+       "kind": "cifra",
+       "x": 50,
+       "y": 44,
+       "w": 940,
+       "at": 0,
+       "n": "TOP 5",
+       "text": "LA SEMANA DE CAMPAÑA",
+       "bg": "ink",
+       "fs": 200
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "La canción hecha con IA: yo sí te voy a votar.",
+     "show": [
+      {
+       "id": "tv1",
+       "type": "prop",
+       "kind": "tele",
+       "x": 50,
+       "y": 44,
+       "w": 760,
+       "at": 0,
+       "text": "♪ IA ♪",
+       "fs": 130,
+       "sub": "YO SÍ TE VOY A VOTAR"
+      },
+      {
+       "id": "n1",
+       "type": "stamp",
+       "text": "5",
+       "color": "red",
+       "x": 50,
+       "y": 22,
+       "rot": -5,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "h1",
+      "c0"
+     ]
+    },
+    {
+     "text": "Cuatro. Feijóo convertido en Cristiano Ronaldo, también con IA.",
+     "show": [
+      {
+       "id": "c2",
+       "type": "prop",
+       "kind": "cifra",
+       "x": 50,
+       "y": 44,
+       "w": 940,
+       "at": 0,
+       "n": "CR7?",
+       "text": "FEIJÓO, «NUMBER ONE»",
+       "bg": "ink",
+       "fs": 200
+      },
+      {
+       "id": "n2",
+       "type": "stamp",
+       "text": "4",
+       "color": "red",
+       "x": 50,
+       "y": 22,
+       "rot": -5,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "tv1",
+      "n1"
+     ]
+    },
+    {
+     "text": "Tres. No bailo en los mítines, pero no robo ni miento.",
+     "show": [
+      {
+       "id": "f3",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 58,
+       "w": 500,
+       "at": 0,
+       "habla": true,
+       "cara": "serio",
+       "say": "«No bailo en los mítines, pero no robo ni miento»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 640,
+       "bfs": 44,
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "n3",
+       "type": "stamp",
+       "text": "3",
+       "color": "red",
+       "x": 50,
+       "y": 74,
+       "rot": -5,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "c2",
+      "n2"
+     ]
+    },
+    {
+     "text": "Dos. Sánchez le pide a Feijóo subir el salario mínimo. Y Feijóo calla.",
+     "show": [
+      {
+       "id": "f4",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 58,
+       "w": 500,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "n4",
+       "type": "stamp",
+       "text": "2 · SILENCIO",
+       "color": "red",
+       "x": 50,
+       "y": 74,
+       "rot": -5,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "f3",
+      "n3"
+     ]
+    },
+    {
+     "text": "Y uno: ¿quién le pagó las primarias? Y Sánchez no contesta.",
+     "show": [
+      {
+       "id": "s5",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 58,
+       "w": 500,
+       "at": 0,
+       "habla": false,
+       "cara": "serio",
+       "gesto": "manos"
+      },
+      {
+       "id": "n5",
+       "type": "stamp",
+       "text": "1 · SILENCIO",
+       "color": "red",
+       "x": 50,
+       "y": 74,
+       "rot": -5,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "f4",
+      "n4"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Cuál fue el más fuerte? Comenta el número. Síguenos: quedan ocho días.",
+     "show": [
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TÚ QUÉ DICES?",
+       "color": "red",
+       "x": 50,
+       "y": 29,
+       "rot": -5,
+       "at": 0
+      },
+      {
+       "id": "s99",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 52,
+       "w": 320,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "f99",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 52,
+       "w": 320,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "atr",
+       "type": "prop",
+       "kind": "atriles",
+       "x": 50,
+       "y": 60,
+       "w": 1000,
+       "at": 0,
+       "text": "19-N"
+      }
+     ],
+     "hide": [
+      "s5",
+      "n5"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-21T23:00:00+01:00"
+}

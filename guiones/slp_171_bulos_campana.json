@@ -1,0 +1,224 @@
+{
+ "id": "slp_171_bulos_campana",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL GANCHO",
+  "EL GIRO",
+  "TU VOTO"
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: Maldita.es, recopilatorio de bulos del 29-N (actualizado 18-11)"
+ },
+ "caption": "¿Lo has visto? Es falso 👀\n\nSi has visto un vídeo de un cartero triturando votos del PSOE… es falso. Y no es el único. Esos vídeos del supuesto pucherazo por correo están hechos con inteligencia artificial. Hay más de una decena. Bulo dos: una imagen de una reunión entre Koldo García, Tellado y Ester Muñoz. Generada con IA. Bulo tres: encuestas en TikTok que dan ganador a Vox. Ninguna encuesta real lo pone primero. Y cuatro: una encuesta con el PSOE al 33 por ciento atribuida a la tele gallega. Es del CIS. Bulos para todos los gustos. Antes de compartir, mira la fuente.\n\n👇 ¿Te ha llegado alguno? Comenta sí o no.\n⏳ Quedan ocho días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: Maldita.es, recopilatorio de bulos del 29-N (actualizado 18-11)\n#elecciones #29N #sanchez #feijoo #debate #bulos #fakenews #ia",
+ "portada": {
+  "serie": "CARA A CARA",
+  "titulo": "¿Lo has visto? Es *falso*",
+  "mini": {
+   "rojo": "CARTERO TRITURANDO VOTOS: FALSO"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Si has visto un vídeo de un cartero triturando votos del PSOE… es falso. Y no es el único.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "¿Lo has visto? Es *falso*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "tv0",
+       "type": "prop",
+       "kind": "tele",
+       "x": 50,
+       "y": 44,
+       "w": 760,
+       "at": 0,
+       "text": "🗳️✂️",
+       "fs": 150,
+       "sub": "¿VÍDEO REAL?"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Esos vídeos del supuesto pucherazo por correo están hechos con inteligencia artificial. Hay más de una decena.",
+     "show": [
+      {
+       "id": "d1",
+       "type": "prop",
+       "kind": "doc",
+       "x": 50,
+       "y": 45,
+       "w": 640,
+       "at": 0,
+       "kicker": "MALDITA.ES · VERIFICACIÓN",
+       "text": "Cartero triturando votos",
+       "sello": "HECHO CON IA",
+       "st": 0.9
+      }
+     ],
+     "hide": [
+      "h1",
+      "tv0"
+     ]
+    },
+    {
+     "text": "Bulo dos: una imagen de una reunión entre Koldo García, Tellado y Ester Muñoz. Generada con IA.",
+     "show": [
+      {
+       "id": "d2",
+       "type": "prop",
+       "kind": "doc",
+       "x": 50,
+       "y": 45,
+       "w": 640,
+       "at": 0,
+       "kicker": "MALDITA.ES · VERIFICACIÓN",
+       "text": "Reunión Koldo-Tellado-Muñoz",
+       "sello": "IMAGEN FALSA",
+       "st": 0.9
+      }
+     ],
+     "hide": [
+      "d1"
+     ]
+    },
+    {
+     "text": "Bulo tres: encuestas en TikTok que dan ganador a Vox. Ninguna encuesta real lo pone primero.",
+     "show": [
+      {
+       "id": "c3",
+       "type": "prop",
+       "kind": "cifra",
+       "x": 50,
+       "y": 44,
+       "w": 940,
+       "at": 0,
+       "n": "0",
+       "text": "ENCUESTAS REALES CON VOX PRIMERO",
+       "bg": "red",
+       "fs": 230
+      }
+     ],
+     "hide": [
+      "d2"
+     ]
+    },
+    {
+     "text": "Y cuatro: una encuesta con el PSOE al 33 por ciento atribuida a la tele gallega. Es del CIS.",
+     "show": [
+      {
+       "id": "d4",
+       "type": "prop",
+       "kind": "doc",
+       "x": 50,
+       "y": 45,
+       "w": 640,
+       "at": 0,
+       "kicker": "MALDITA.ES · VERIFICACIÓN",
+       "text": "«Encuesta de la TVG»",
+       "sello": "ES DEL CIS",
+       "st": 0.9
+      }
+     ],
+     "hide": [
+      "c3"
+     ]
+    },
+    {
+     "text": "Bulos para todos los gustos. Antes de compartir, mira la fuente.",
+     "show": [
+      {
+       "id": "c5",
+       "type": "prop",
+       "kind": "cifra",
+       "x": 50,
+       "y": 44,
+       "w": 940,
+       "at": 0,
+       "n": "⚠️",
+       "text": "ANTES DE COMPARTIR, MIRA LA FUENTE",
+       "bg": "mark",
+       "fs": 180
+      }
+     ],
+     "hide": [
+      "d4"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "¿Te ha llegado alguno? Comenta sí o no. Síguenos: quedan ocho días.",
+     "show": [
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿TÚ QUÉ DICES?",
+       "color": "red",
+       "x": 50,
+       "y": 29,
+       "rot": -5,
+       "at": 0
+      },
+      {
+       "id": "s99",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 27,
+       "y": 52,
+       "w": 320,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "f99",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 73,
+       "y": 52,
+       "w": 320,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "atr",
+       "type": "prop",
+       "kind": "atriles",
+       "x": 50,
+       "y": 60,
+       "w": 1000,
+       "at": 0,
+       "text": "19-N"
+      }
+     ],
+     "hide": [
+      "c5"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-21T19:00:00+01:00"
+}
