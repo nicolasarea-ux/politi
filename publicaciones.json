@@ -1197,10 +1197,12 @@
   {
    "id": "slp_163_video_ia_satira",
    "fecha": "2026-11-20T19:00",
-   "estado": "pendiente",
+   "estado": "publicado",
    "copy": "Vídeo con IA: ¿vale todo? 👀\n\nEl PP sacó un vídeo hecho con inteligencia artificial con Ábalos, Cerdán, Leire Díez y Begoña Gómez. El PSOE fue a la Junta Electoral para tumbarlo. Y la Junta… no le dio la razón. Dice que es sátira política, amparada por la libertad de expresión. ¿La clave? El vídeo avisaba de que estaba hecho con IA. Conclusión: a nueve días de votar, los vídeos con IA en campaña valen. Prepárate para ver más.\n\n👇 ¿Te parece bien? Comenta sí o no.\n⏳ Quedan nueve días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: El Español (directo 20-11), resolución de la Junta Electoral Central\n#elecciones #29N #sanchez #feijoo #debate #ia #inteligenciaartificial #juntaelectoral",
    "votos": true,
-   "nota": "post-debate 19-N"
+   "nota": "post-debate 19-N",
+   "ig_media_id": "18128269828899961",
+   "publicado_en": "2026-11-20T19:00"
   },
   {
    "id": "slp_164_frases_para_ti",
