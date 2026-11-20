@@ -66,7 +66,7 @@ def publicar(reel):
     base = dict(media_type="REELS", video_url=REPO_RAW + reel["id"] + ".mp4",
                 caption=con_cta(reel.get("copy") or CAPTION), share_to_feed="true", **extra)
     c = None
-    if reel.get("trial", True):  # reel de prueba: primero solo a no seguidores; se gradúa solo si funciona
+    if reel.get("trial", False):  # requiere >=1000 seguidores (error 2207081)  # reel de prueba: primero solo a no seguidores; se gradúa solo si funciona
         try:
             c = call("POST", f"{USER}/media", trial_params=json.dumps({"graduation_strategy": "SS_PERFORMANCE"}), **base)
             print("Reel de prueba (trial):", reel["id"])
