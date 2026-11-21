@@ -456,8 +456,8 @@
   },
   {
    "id": "slp_016_blanco_nulo",
-   "fecha": "2026-11-10T19:45",
-   "estado": "reserva",
+   "fecha": "2026-11-23T13:00",
+   "estado": "pendiente",
    "copy": "Votar en blanco, nulo o quedarte en casa NO es lo mismo. Te explicamos la diferencia según la ley.\n¿Sabías que el voto en blanco cuenta para el 3 %? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 96 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #votoenblanco #votonulo"
   },
   {
@@ -468,8 +468,8 @@
   },
   {
    "id": "slp_026_barrera_3",
-   "fecha": "2026-11-10T22:45",
-   "estado": "reserva",
+   "fecha": "2026-11-23T19:00",
+   "estado": "pendiente",
    "copy": "326.045 votos y ningún escaño: qué es la barrera del 3 % y si de verdad fue la culpable 🧮\n¿Lo sabías? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 163 (BOE); Maldita.\n\n#elecciones #29N #eleccionesgenerales #leyelectoral #explicado"
   },
   {
@@ -1270,7 +1270,7 @@
   },
   {
    "id": "slp_025_donde_voto",
-   "fecha": "2026-11-22T09:00",
+   "fecha": "2026-11-23T09:00",
    "estado": "pendiente",
    "copy": "¿No sabes dónde te toca votar? Cómo mirarlo en dos minutos y qué pasa si no te llega la tarjeta censal 📍\n¿Te ha llegado ya la tuya? 👇\n\nFuente: Oficina del Censo Electoral (INE); Demócrata; Maldita.\n\n#elecciones #29N #eleccionesgenerales #censoelectoral #comovotar"
   },
@@ -1306,6 +1306,12 @@
    "estado": "pendiente",
    "copy": "Top 5 de la semana 👀\n\nLos cinco momentos que más han dado que hablar esta semana. Cinco. La canción hecha con IA: yo sí te voy a votar. Cuatro. Feijóo convertido en Cristiano Ronaldo, también con IA. Tres. No bailo en los mítines, pero no robo ni miento. Dos. Sánchez le pide a Feijóo subir el salario mínimo. Y Feijóo calla. Y uno: ¿quién le pagó las primarias? Y Sánchez no contesta.\n\n👇 ¿Cuál fue el más fuerte? Comenta el número.\n⏳ Quedan ocho días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: EFE, elDiario.es, Demócrata (semana 15-21 N)\n#elecciones #29N #sanchez #feijoo #debate #top5 #resumen",
    "votos": true
+  },
+  {
+   "id": "slp_174_sanchez_impuesto_banca",
+   "fecha": "2026-11-22T09:00",
+   "estado": "pendiente",
+   "copy": "La banca, a pagar vivienda 🏠\n\nSánchez anuncia que el impuesto a la banca seguirá en 2027 y que lo recaudado irá a vivienda: 1.400 millones, según el Gobierno. Lo dijo el sábado en Onda Cero, a ocho días del 29-N.\n\n👇 ¿Te parece bien? Comenta sí o no.\n⏳ Quedan siete días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: entrevista en Onda Cero (21-11) recogida por elDiario.es, Europa Press (Demócrata) e infoLibre. Las cifras de viviendas son de fuentes de Moncloa. Es un anuncio: el Consejo de Ministros lo aprobaría el martes 24-N.\n#elecciones #29N #eleccionesgenerales #vivienda #impuestobanca #alquiler"
   }
  ]
 }

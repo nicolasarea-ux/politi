@@ -212,13 +212,13 @@
   {
    "id": "slp_016_blanco_nulo",
    "tipo": "atemporal",
-   "estado": "reserva",
+   "estado": "programado",
    "copy": "Votar en blanco, nulo o quedarte en casa NO es lo mismo. Te explicamos la diferencia según la ley.\n¿Sabías que el voto en blanco cuenta para el 3 %? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 96 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #votoenblanco #votonulo",
    "partidos": [],
-   "nota": "Sustituido el 2-N por actualidad; reprogramado | 9-N: a reserva (semana de prueba: solo actualidad; vuelven la última semana antes del 29-N)",
+   "nota": "Sustituido el 2-N por actualidad; reprogramado | 9-N: a reserva (semana de prueba: solo actualidad; vuelven la última semana antes del 29-N) | 21-N: re-render con fechaPub y programado el 23-N",
    "portada_estilo": "v2",
-   "fecha": "2026-11-10T19:45",
-   "fecha_reels": "2026-11-10T19:45"
+   "fecha": "2026-11-23T13:00",
+   "fecha_reels": "2026-11-23T13:00"
   },
   {
    "id": "slp_017_senado",
@@ -358,8 +358,9 @@
    "estado": "programado",
    "copy": "¿No sabes dónde te toca votar? Cómo mirarlo en dos minutos y qué pasa si no te llega la tarjeta censal 📍\n¿Te ha llegado ya la tuya? 👇\n\nFuente: Oficina del Censo Electoral (INE); Demócrata; Maldita.\n\n#elecciones #29N #eleccionesgenerales #censoelectoral #comovotar",
    "portada_estilo": "v2",
-   "fecha": "2026-11-22T09:00",
-   "nota": "22-N relleno de seguridad (explicativos vuelven 22–28-N); la pasada del 22-N puede cambiarlo por actualidad"
+   "fecha": "2026-11-23T09:00",
+   "nota": "22-N relleno de seguridad (explicativos vuelven 22–28-N); la pasada del 22-N puede cambiarlo por actualidad | 21-N: re-render con fechaPub y programado el 23-N",
+   "fecha_reels": "2026-11-23T09:00"
   },
   {
    "id": "slp_026_barrera_3",
@@ -370,11 +371,11 @@
    "fuentes": [
     "https://maldita.es/malditateexplica/20190429/por-que-no-consigue-escano-pacma-os-lo-explicamos-no-hubiera-obtenido-diputados-cambiando-el-tamano-de-los-distritos-ni-quitando-el-limite-del-3-solo-con-una-unica-circunscripcion/"
    ],
-   "estado": "reserva",
-   "nota": "Vídeo hecho, listo para usar | 9-N: a reserva (semana de prueba: solo actualidad; vuelven la última semana antes del 29-N)",
+   "estado": "programado",
+   "nota": "Vídeo hecho, listo para usar | 9-N: a reserva (semana de prueba: solo actualidad; vuelven la última semana antes del 29-N) | 21-N: re-render con fechaPub y programado el 23-N",
    "copy": "326.045 votos y ningún escaño: qué es la barrera del 3 % y si de verdad fue la culpable 🧮\n¿Lo sabías? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 163 (BOE); Maldita.\n\n#elecciones #29N #eleccionesgenerales #leyelectoral #explicado",
-   "fecha": "2026-11-10T22:45",
-   "fecha_reels": "2026-11-10T22:45"
+   "fecha": "2026-11-23T19:00",
+   "fecha_reels": "2026-11-23T19:00"
   },
   {
    "id": "slp_027_tras_29n",
@@ -2007,6 +2008,26 @@
    "fecha_reels": "2026-11-21T23:00",
    "nota": "Entrevistas Wild 13-N; citas transcritas de YouTube; voz ElevenLabs",
    "copy": "Top 5 de la semana 👀\n\nLos cinco momentos que más han dado que hablar esta semana. Cinco. La canción hecha con IA: yo sí te voy a votar. Cuatro. Feijóo convertido en Cristiano Ronaldo, también con IA. Tres. No bailo en los mítines, pero no robo ni miento. Dos. Sánchez le pide a Feijóo subir el salario mínimo. Y Feijóo calla. Y uno: ¿quién le pagó las primarias? Y Sánchez no contesta.\n\n👇 ¿Cuál fue el más fuerte? Comenta el número.\n⏳ Quedan ocho días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: EFE, elDiario.es, Demócrata (semana 15-21 N)\n#elecciones #29N #sanchez #feijoo #debate #top5 #resumen",
+   "votos": true
+  },
+  {
+   "id": "slp_174_sanchez_impuesto_banca",
+   "tipo": "actualidad",
+   "formato": "minuto",
+   "tema": "Sánchez anuncia prórroga del impuesto a la banca en 2027 para vivienda (Onda Cero, 21-N)",
+   "partidos": [
+    "PSOE"
+   ],
+   "fuentes": [
+    "https://www.eldiario.es/economia/sanchez-anuncia-prorroga-impuesto-banca-2027-politicas-vivienda_1_13682337.html",
+    "https://democrata.es/economia/sanchez-prolongara-en-2027-el-impuesto-a-la-banca-para-financiar-1-400-millones-en-vivienda",
+    "https://www.infolibre.es/politica/sanchez-anuncia-prorroga-impuesto-banca-2027-recaudacion-ira-vivienda_1_2240587.html"
+   ],
+   "estado": "programado",
+   "fecha": "2026-11-22T09:00",
+   "fecha_reels": "2026-11-22T09:00",
+   "copy": "La banca, a pagar vivienda 🏠\n\nSánchez anuncia que el impuesto a la banca seguirá en 2027 y que lo recaudado irá a vivienda: 1.400 millones, según el Gobierno. Lo dijo el sábado en Onda Cero, a ocho días del 29-N.\n\n👇 ¿Te parece bien? Comenta sí o no.\n⏳ Quedan siete días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: entrevista en Onda Cero (21-11) recogida por elDiario.es, Europa Press (Demócrata) e infoLibre. Las cifras de viviendas son de fuentes de Moncloa. Es un anuncio: el Consejo de Ministros lo aprobaría el martes 24-N.\n#elecciones #29N #eleccionesgenerales #vivienda #impuestobanca #alquiler",
+   "nota": "Radar 21-N (gancho 4, verificable 5); voz Andrew Multilingual (Clipchamp)",
    "votos": true
   }
  ]

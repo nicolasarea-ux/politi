@@ -1,0 +1,191 @@
+{
+ "id": "slp_174_sanchez_impuesto_banca",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "EL ANUNCIO",
+  "PARA QUÉ",
+  "LA LETRA PEQUEÑA"
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: Onda Cero vía elDiario.es, Europa Press e infoLibre (21-11)"
+ },
+ "caption": "La banca, a pagar vivienda 🏠\n\nSánchez anuncia que el impuesto a la banca seguirá en 2027 y que lo recaudado irá a vivienda: 1.400 millones, según el Gobierno. Lo dijo el sábado en Onda Cero, a ocho días del 29-N.\n\n👇 ¿Te parece bien? Comenta sí o no.\n⏳ Quedan siete días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: entrevista en Onda Cero (21-11) recogida por elDiario.es, Europa Press (Demócrata) e infoLibre. Las cifras de viviendas son de fuentes de Moncloa. Es un anuncio: el Consejo de Ministros lo aprobaría el martes 24-N.\n#elecciones #29N #eleccionesgenerales #vivienda #impuestobanca #alquiler",
+ "portada": {
+  "serie": "CAMPAÑA 29-N",
+  "titulo": "La banca, a *pagar vivienda*",
+  "mini": {
+   "rojo": "1.400 M€"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Sánchez anuncia que el impuesto a la banca seguirá en 2027.",
+     "bg": "plato",
+     "show": [
+      {
+       "id": "h1",
+       "type": "headline",
+       "text": "La banca, a *pagar vivienda*",
+       "x": 50,
+       "y": 20,
+       "w": 920
+      },
+      {
+       "id": "s1",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 52,
+       "w": 320,
+       "at": 0,
+       "habla": true,
+       "cara": "sonrie",
+       "gesto": "senala",
+       "say": "«Hasta 2027»",
+       "bub": "r"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Y que lo recaudado irá a vivienda: mil cuatrocientos millones, según el Gobierno.",
+     "bg": "directo",
+     "show": [
+      {
+       "id": "c1",
+       "type": "prop",
+       "kind": "cifra",
+       "x": 50,
+       "y": 44,
+       "w": 940,
+       "at": 0,
+       "n": "1.400 M€",
+       "text": "PARA VIVIENDA, SEGÚN EL GOBIERNO",
+       "bg": "red",
+       "fs": 170
+      }
+     ],
+     "hide": [
+      "h1",
+      "s1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": 1,
+   "segments": [
+    {
+     "text": "Más de seis mil viviendas asequibles y obras en cincuenta y dos mil más, según Moncloa.",
+     "bg": "plato",
+     "show": [
+      {
+       "id": "c2",
+       "type": "prop",
+       "kind": "cifra",
+       "x": 50,
+       "y": 44,
+       "w": 940,
+       "at": 0,
+       "n": "6.000",
+       "text": "VIVIENDAS ASEQUIBLES · 52.000 REHABILITADAS",
+       "bg": "mark",
+       "fs": 190
+      }
+     ],
+     "hide": [
+      "c1"
+     ]
+    },
+    {
+     "text": "Y rebajas fiscales para casi ciento veinte mil inquilinos.",
+     "bg": "duelo",
+     "show": [
+      {
+       "id": "c3",
+       "type": "prop",
+       "kind": "cifra",
+       "x": 50,
+       "y": 44,
+       "w": 940,
+       "at": 0,
+       "n": "120.000",
+       "text": "INQUILINOS CON REBAJA FISCAL",
+       "bg": "red",
+       "fs": 180
+      }
+     ],
+     "hide": [
+      "c2"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "text": "La letra pequeña: es un anuncio. El Consejo de Ministros lo aprobaría el martes.",
+     "bg": "plato",
+     "show": [
+      {
+       "id": "d1",
+       "type": "prop",
+       "kind": "doc",
+       "x": 50,
+       "y": 46,
+       "w": 560,
+       "at": 0,
+       "kicker": "CONSEJO DE MINISTROS",
+       "text": "Prórroga del impuesto a la banca",
+       "sello": "MARTES 24-N"
+      }
+     ],
+     "hide": [
+      "c3"
+     ]
+    },
+    {
+     "text": "¿Te parece bien? Sí o no. Síguenos: quedan siete días.",
+     "bg": "duelo",
+     "show": [
+      {
+       "id": "fol",
+       "type": "stamp",
+       "text": "¿SÍ O NO?",
+       "color": "red",
+       "x": 50,
+       "y": 29,
+       "rot": -5,
+       "at": 0
+      },
+      {
+       "id": "s99",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 54,
+       "w": 320,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos"
+      }
+     ],
+     "hide": [
+      "d1"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-22T09:00:00+01:00"
+}
