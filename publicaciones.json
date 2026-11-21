@@ -1247,10 +1247,12 @@
   {
    "id": "slp_168_voto_correo",
    "fecha": "2026-11-21T13:00",
-   "estado": "pendiente",
+   "estado": "publicado",
    "copy": "¿Votas por correo? Ojo 👀\n\nSi votas por correo, apúntate esta hora, porque si llegas tarde tu voto no cuenta. El jueves 26 de noviembre, a las dos de la tarde. Antes el plazo acababa un día antes. La Junta Electoral Central lo ha ampliado. Es para votantes que estén en España, y dentro del horario de cada oficina. Mándaselo a quien vaya a votar por correo. Le salvas el voto.\n\n👇 ¿Vas a votar por correo? Comenta sí o no.\n⏳ Quedan ocho días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: El Diario de Madrid (20-11), ampliación de la Junta Electoral Central\n#elecciones #29N #sanchez #feijoo #debate #votoporcorreo #correos",
    "votos": true,
-   "nota": "sábado 21-N, formato historia"
+   "nota": "sábado 21-N, formato historia",
+   "ig_media_id": "18039030116894213",
+   "publicado_en": "2026-11-21T13:00"
   },
   {
    "id": "slp_169_si_nadie_176",
