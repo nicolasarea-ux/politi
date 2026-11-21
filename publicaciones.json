@@ -1237,10 +1237,12 @@
   {
    "id": "slp_167_cancion_viral",
    "fecha": "2026-11-21T11:00",
-   "estado": "pendiente",
+   "estado": "publicado",
    "copy": "La canción de la campaña 👀\n\nUna frase del PP contra Sánchez se ha convertido en la canción de la campaña. En un mitin en Salamanca, Ester Muñoz, del PP, dijo: no te va a votar nadie, Pedro Sánchez, nadie. Un cocinero de Valencia lo oyó en la tele. Y con inteligencia artificial hizo una canción: yo sí te voy a votar. Millones de visualizaciones. Hasta ministros la bailan. Y Sánchez la llamó la canción de esta campaña. El PP de Madrid contraatacó con su versión, también con IA: la cantan Ábalos, Koldo, Cerdán y Leire Díez. Una canción con IA contra otra. Así es la campaña de 2026.\n\n👇 ¿Cuál ganó la batalla? Comenta PSOE o PP.\n⏳ Quedan ocho días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: Demócrata y El País (18-11), sobre el origen de «Yo sí te voy a votar»\n#elecciones #29N #sanchez #feijoo #debate #yositevoyavotar #cancion #viral",
    "votos": true,
-   "nota": "sábado 21-N, formato historia"
+   "nota": "sábado 21-N, formato historia",
+   "ig_media_id": "18093255689256967",
+   "publicado_en": "2026-11-21T11:56"
   },
   {
    "id": "slp_168_voto_correo",
