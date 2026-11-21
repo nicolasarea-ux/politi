@@ -51,7 +51,8 @@
        "fs": 200
       }
      ],
-     "hide": []
+     "hide": [],
+     "bg": "plato"
     },
     {
      "text": "El jueves 26 de noviembre, a las dos de la tarde.",
@@ -94,7 +95,8 @@
      ],
      "hide": [
       "c1"
-     ]
+     ],
+     "bg": "directo"
     },
     {
      "text": "Es para votantes que estén en España, y dentro del horario de cada oficina.",
@@ -114,7 +116,8 @@
      ],
      "hide": [
       "d2"
-     ]
+     ],
+     "bg": "plato"
     },
     {
      "text": "Mándaselo a quien vaya a votar por correo. Le salvas el voto.",
@@ -143,6 +146,7 @@
    "clause": -1,
    "segments": [
     {
+     "bg": "duelo",
      "text": "¿Vas a votar por correo? Comenta sí o no. Síguenos: quedan ocho días.",
      "show": [
       {

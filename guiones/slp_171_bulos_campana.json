@@ -50,7 +50,8 @@
        "sub": "¿VÍDEO REAL?"
       }
      ],
-     "hide": []
+     "hide": [],
+     "bg": "directo"
     },
     {
      "text": "Esos vídeos del supuesto pucherazo por correo están hechos con inteligencia artificial. Hay más de una decena.",
@@ -72,7 +73,8 @@
      "hide": [
       "h1",
       "tv0"
-     ]
+     ],
+     "bg": "plato"
     },
     {
      "text": "Bulo dos: una imagen de una reunión entre Koldo García, Tellado y Ester Muñoz. Generada con IA.",
@@ -114,7 +116,8 @@
      ],
      "hide": [
       "d2"
-     ]
+     ],
+     "bg": "plato"
     },
     {
      "text": "Y cuatro: una encuesta con el PSOE al 33 por ciento atribuida a la tele gallega. Es del CIS.",
@@ -156,7 +159,8 @@
      ],
      "hide": [
       "d4"
-     ]
+     ],
+     "bg": "comic"
     }
    ]
   },
@@ -164,6 +168,7 @@
    "clause": -1,
    "segments": [
     {
+     "bg": "duelo",
      "text": "¿Te ha llegado alguno? Comenta sí o no. Síguenos: quedan ocho días.",
      "show": [
       {

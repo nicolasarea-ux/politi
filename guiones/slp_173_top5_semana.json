@@ -51,7 +51,8 @@
        "fs": 200
       }
      ],
-     "hide": []
+     "hide": [],
+     "bg": "comic"
     },
     {
      "text": "La canción hecha con IA: yo sí te voy a votar.",
@@ -82,7 +83,8 @@
      "hide": [
       "h1",
       "c0"
-     ]
+     ],
+     "bg": "plato"
     },
     {
      "text": "Cuatro. Feijóo convertido en Cristiano Ronaldo, también con IA.",
@@ -155,7 +157,8 @@
      "hide": [
       "c2",
       "n2"
-     ]
+     ],
+     "bg": "plato"
     },
     {
      "text": "Dos. Sánchez le pide a Feijóo subir el salario mínimo. Y Feijóo calla.",
@@ -188,7 +191,8 @@
      "hide": [
       "f3",
       "n3"
-     ]
+     ],
+     "bg": "directo"
     },
     {
      "text": "Y uno: ¿quién le pagó las primarias? Y Sánchez no contesta.",
@@ -219,7 +223,8 @@
      "hide": [
       "f4",
       "n4"
-     ]
+     ],
+     "bg": "directo"
     }
    ]
   },
@@ -227,6 +232,7 @@
    "clause": -1,
    "segments": [
     {
+     "bg": "duelo",
      "text": "¿Cuál fue el más fuerte? Comenta el número. Síguenos: quedan ocho días.",
      "show": [
       {

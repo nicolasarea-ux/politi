@@ -11,12 +11,16 @@ def FL(id,t,bg='ink',size=170): return P(id,'cifra',y=50,w=940,n=t,text='',bg=bg
 def CF(id,n,t,bg='ink',fs=230,y=44): return P(id,'cifra',y=y,w=940,n=n,text=t,bg=bg,fs=fs)
 def DUO(i,cs='serio',cf='serio',atr=True,y=52,w=320):
     return [mono(f's{i}','sanchez',27,y,w,cara=cs),mono(f'f{i}','feijoo',73,y,w,cara=cf)]+([ATRILES(text='19-N')] if atr else [])
-def story(id,titulo,segs,fecha,cta,cover_rojo,fuente,tags='',dias='nueve',caption_extra=''):
+AUTO=['plato',None,'directo','plato',None,'comic']
+def story(id,titulo,segs,fecha,cta,cover_rojo,fuente,tags='',dias='nueve',caption_extra='',auto=True):
     out=[];prev=[]
-    for k,(t,sh) in enumerate(segs):
+    for k,sg in enumerate(segs):
+        t,sh=sg[0],sg[1];bg=sg[2] if len(sg)>2 else (AUTO[k%len(AUTO)] if auto else None)
         if k==0: sh=[H(titulo)]+sh
-        out.append({"text":t,"show":sh,"hide":prev});prev=[e['id'] for e in sh]
-    fin={"text":f"{cta} Síguenos: quedan {dias} días.","show":[ST('fol','¿TÚ QUÉ DICES?',0,y=29,color='red')]+DUO(99,'duda','duda'),"hide":prev}
+        o={"text":t,"show":sh,"hide":prev}
+        if bg:o['bg']=bg
+        out.append(o);prev=[e['id'] for e in sh]
+    fin={"bg":"duelo","text":f"{cta} Síguenos: quedan {dias} días.","show":[ST('fol','¿TÚ QUÉ DICES?',0,y=29,color='red')]+DUO(99,'duda','duda'),"hide":prev}
     voz=' '.join(s[0] for s in segs)
     cap=f"""{titulo.replace('*','')} 👀
 

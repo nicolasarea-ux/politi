@@ -47,7 +47,8 @@
        "at": 0
       }
      ],
-     "hide": []
+     "hide": [],
+     "bg": "plato"
     },
     {
      "text": "Primero, el rey se reúne con los partidos y propone un candidato.",
@@ -90,7 +91,8 @@
      ],
      "hide": [
       "c1"
-     ]
+     ],
+     "bg": "directo"
     },
     {
      "text": "Si no llega, 48 horas después le vale con más síes que noes.",
@@ -115,7 +117,8 @@
      ],
      "hide": [
       "c2"
-     ]
+     ],
+     "bg": "plato"
     },
     {
      "text": "Y si en dos meses nadie lo consigue… se repiten las elecciones.",
@@ -170,7 +173,8 @@
      ],
      "hide": [
       "c4"
-     ]
+     ],
+     "bg": "comic"
     }
    ]
   },
@@ -178,6 +182,7 @@
    "clause": -1,
    "segments": [
     {
+     "bg": "duelo",
      "text": "¿Crees que habrá repetición? Comenta sí o no. Síguenos: quedan ocho días.",
      "show": [
       {

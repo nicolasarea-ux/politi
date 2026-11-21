@@ -50,7 +50,8 @@
        "gesto": "manos"
       }
      ],
-     "hide": []
+     "hide": [],
+     "bg": "plato"
     },
     {
      "text": "Desde Salamanca, sobre Sánchez: le gusta debatir conmigo cuando no estoy.",
@@ -117,7 +118,8 @@
      ],
      "hide": [
       "a1"
-     ]
+     ],
+     "bg": "directo"
     },
     {
      "text": "A Feijóo le dio un aprobado: me alegro de que haya aprendido la lección.",
@@ -160,7 +162,8 @@
      "hide": [
       "a2",
       "t2"
-     ]
+     ],
+     "bg": "plato"
     },
     {
      "text": "Pero le lanzó una pregunta: tras el 29-N, ¿pactará con los restos del PSOE o con Vox?",
@@ -186,7 +189,8 @@
      "hide": [
       "a3",
       "f3"
-     ]
+     ],
+     "bg": "duelo"
     }
    ]
   },
@@ -194,6 +198,7 @@
    "clause": -1,
    "segments": [
     {
+     "bg": "duelo",
      "text": "¿Con quién debería pactar Feijóo? Comenta Vox o PSOE. Síguenos: quedan ocho días.",
      "show": [
       {

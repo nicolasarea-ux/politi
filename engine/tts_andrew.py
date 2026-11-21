@@ -87,7 +87,7 @@ def main(vdir, mp3):
             e = dict(e); at = min(e.pop("at", 0), len(words) - 1)
             e["t"] = words[at]["t0"] if at else t0; els.append(e)
         S = scenes.setdefault(si, {**{k: v for k, v in sc["scenes"][si].items() if k != "segments"}, "t0": t0, "segments": []})
-        S["segments"].append({"t0": t0, "t1": t1, "words": words, "show": els, "hide": g.get("hide", []), "hideAt": t0})
+        S["segments"].append({"t0": t0, "t1": t1, "words": words, "show": els, "hide": g.get("hide", []), "hideAt": t0, "bg": g.get("bg")})
     order = sorted(scenes)
     for n, si in enumerate(order):
         S = scenes[si]

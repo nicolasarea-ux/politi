@@ -50,7 +50,8 @@
        "sub": "FEIJÓO"
       }
      ],
-     "hide": []
+     "hide": [],
+     "bg": "plato"
     },
     {
      "text": "El PP lo hizo con inteligencia artificial en TikTok. Mensaje: number one, not number 7.",
@@ -93,7 +94,8 @@
      ],
      "hide": [
       "c1"
-     ]
+     ],
+     "bg": "directo"
     },
     {
      "text": "Segundo puesto: el PSOE, con la canción yo sí te voy a votar: casi 294.000.",
@@ -106,17 +108,18 @@
        "y": 46,
        "w": 960,
        "at": 0,
-       "text": "VISUALIZACIONES (MILES)",
-       "f": 306,
-       "s": 294,
-       "sub": "PP: Feijóo-CR7 · PSOE: la canción",
+       "text": "REPARTO DE VISUALIZACIONES",
+       "f": 51,
+       "s": 49,
+       "sub": "PP 306.000 · PSOE 294.000",
        "l1": "PP",
        "l2": "PSOE"
       }
      ],
      "hide": [
       "c2"
-     ]
+     ],
+     "bg": "plato"
     },
     {
      "text": "Esta campaña no se está ganando en los mítines. Se está ganando en tu móvil.",
@@ -145,6 +148,7 @@
    "clause": -1,
    "segments": [
     {
+     "bg": "duelo",
      "text": "¿Te influyen estos vídeos? Comenta sí o no. Síguenos: quedan ocho días.",
      "show": [
       {
