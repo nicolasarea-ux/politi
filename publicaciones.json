@@ -1227,10 +1227,12 @@
   {
    "id": "slp_166_paradoja_encuesta",
    "fecha": "2026-11-21T09:00",
-   "estado": "pendiente",
+   "estado": "publicado",
    "copy": "La paradoja del 29-N 👀\n\nLos españoles prefieren a Sánchez como presidente. Pero en escaños, el PP saca más. Las dos cosas a la vez. Según la encuesta diaria de 40dB para El País y la SER, el presidente preferido es Sánchez, con un 31,8 por ciento. Feijóo se queda en el 23,1. Pero mira los escaños: PP, 132. PSOE, 120. Vox, 58. PP y Vox sumarían 190. La mayoría absoluta está en 176. El truco: no votas presidente. Votas partido. Y los escaños se suman.\n\n👇 ¿Te parece justo? Comenta sí o no.\n⏳ Quedan ocho días para el 29-N. Síguenos: cada día, lo más fuerte de la campaña.\n\nFuente: 40dB para El País y la SER, tracking del 20-11 (campo 15-19 N, 2.000 entrevistas)\n#elecciones #29N #sanchez #feijoo #debate #encuestas #40db",
    "votos": true,
-   "nota": "sábado 21-N, formato historia"
+   "nota": "sábado 21-N, formato historia",
+   "ig_media_id": "18113741576235101",
+   "publicado_en": "2026-11-21T11:39"
   },
   {
    "id": "slp_167_cancion_viral",
