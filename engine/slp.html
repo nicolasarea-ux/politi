@@ -58,6 +58,29 @@ html,body{width:1080px;height:1920px;overflow:hidden;background:var(--paper);col
 .grid .c .n{position:absolute;top:-22px;right:-14px;width:44px;height:44px;border-radius:50%;background:var(--ink);color:var(--paper);font:900 26px/44px I;text-align:center;transform:scale(0)}
 
 
+
+/* ===== ESTILO CINE (ref. vídeos tipo explicador): escenas a sangre, subtítulo arriba ===== */
+body.cine{--ink:#F4F6FB;--paper:#1A2A55;--card:rgba(255,255,255,.08);--mark:#FFC94A;--red:#FF4D5E;--rule:transparent}
+.cine #hdr,.cine #src,.cine #clauses,.cine #prog,.cine #margin{display:none!important}
+.cine #stage{background:radial-gradient(ellipse 120% 45% at 50% 78%,rgba(255,190,120,.35),transparent 60%),radial-gradient(1.5px 1.5px at 20% 15%,#fff8,transparent),radial-gradient(1.5px 1.5px at 70% 25%,#fff8,transparent),radial-gradient(1px 1px at 40% 35%,#fff6,transparent),radial-gradient(1px 1px at 85% 10%,#fff6,transparent),linear-gradient(#22356B 0%,#3A4F8E 45%,#7C6FA8 70%,#E59A7A 100%)}
+.cine #stage:after{content:"";position:absolute;inset:0;background:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 420' preserveAspectRatio='none'><path d='M0 170 C180 90 300 150 460 110 C640 60 760 150 1080 90 L1080 420 L0 420Z' fill='%23182447'/><path d='M0 260 C220 200 380 250 560 215 C760 180 880 240 1080 210 L1080 420 L0 420Z' fill='%23101a36'/></svg>") bottom/100% 420px no-repeat;pointer-events:none;z-index:1}
+.cine #els{z-index:2}
+.cine #caps{top:250px;font:800 60px/1.25 I;white-space:normal;color:rgba(255,255,255,.78);text-shadow:0 3px 18px rgba(0,0,0,.55)}
+.cine #caps span{margin:0 9px;padding:0}
+.cine #nudge{display:none!important}
+.cine #caps .now,.cine #caps .done{color:#fff}
+.cine #caps .now{background:none;transform:none;font-weight:900}
+.cine #cinehandle{display:block}
+#cinehandle{display:none;position:absolute;top:150px;left:0;right:0;text-align:center;font:800 30px I;color:rgba(255,255,255,.55);z-index:5}
+body.cine.th-dia #stage{background:radial-gradient(ellipse 120% 45% at 50% 80%,rgba(255,255,255,.5),transparent 60%),linear-gradient(#3E7BD6 0%,#79B2F0 55%,#CFE6FF 100%)}
+body.cine.th-noche #stage{background:radial-gradient(ellipse 90% 40% at 50% 70%,rgba(110,150,255,.30),transparent 65%),radial-gradient(1.5px 1.5px at 20% 15%,#fff,transparent),radial-gradient(1.5px 1.5px at 70% 25%,#fff,transparent),radial-gradient(1px 1px at 40% 35%,#fffa,transparent),radial-gradient(1px 1px at 85% 12%,#fffa,transparent),radial-gradient(1px 1px at 10% 40%,#fff8,transparent),linear-gradient(#0E1838 0%,#1D2D63 60%,#2E3F80 100%)}
+body.cine.th-rojo #stage{background:radial-gradient(ellipse 90% 50% at 50% 45%,#E0324A 0%,#8E1426 70%,#5A0B18 100%)}
+body.cine.th-duelo #stage{background:linear-gradient(105deg,#C9283D 0 49.7%,#FFC94A 49.7% 50.3%,#2160C4 50.3% 100%)}
+body.cine.th-rojo #stage:after,body.cine.th-duelo #stage:after{display:none}
+.big{text-align:center;color:#fff;font:900 120px/1 I;text-shadow:0 6px 24px rgba(0,0,0,.4)}
+.big small{display:block;font:800 34px/1.2 I;letter-spacing:3px;opacity:.85;margin-top:8px}
+.big.red{color:#FF4D5E} .big.gold{color:#FFC94A}
+
 /* ===== FONDOS DE ESCENA (segmento "bg") ===== */
 .th-plato .mk,.th-directo .mk,.th-duelo .mk{color:#0B1230}
 body.th-plato{--ink:#F4F6FA;--paper:#0B1230;--card:#16214A;--mark:#FFD23F;--red:#FF4057;--rule:transparent}
@@ -116,7 +139,7 @@ body.th-pixel{--ink:#F7F1FF;--paper:#1A0F3A;--card:#2B1B5E;--mark:#39FF14;--red:
 <body><div id="stage"><div id="bgfx"></div><div id="margin"></div>
 <div id="hdr"><div id="htag"></div><div id="hand"><span id="handle">@politizatehoy</span><span id="ast"></span></div></div>
 <div id="src"></div><div id="clauses"></div><div id="prog"><i></i></div>
-<div id="els"></div><div id="caps"></div><div id="follow"></div><div id="endc"></div><div id="nudge"></div></div>
+<div id="cinehandle">@politizatehoy</div><div id="els"></div><div id="caps"></div><div id="follow"></div><div id="endc"></div><div id="nudge"></div></div>
 <script src="monos.js"></script>
 <script src="props.js"></script>
 <script>
@@ -251,7 +274,7 @@ const back=p=>{p=clamp(p);const c=1.7;return 1+(c+1)*Math.pow(p-1,3)+c*Math.pow(
 const outQ=p=>1-Math.pow(1-clamp(p),3);
 let DATA_BRAND='Politízate Hoy';
 const FOLLOW_DEF='Síguenos: la campaña día a día <b>29-N</b>'; // CTA de cierre por defecto; guion: follow:false o follow:'texto'
-function init(d){D=d;DATA_BRAND=d.brand||DATA_BRAND;if(d.tema){document.body.classList.add('th-'+d.tema);window.FS=d.tema==='pixel'?'_px':''}
+function init(d){D=d;if(d.estilo)document.body.classList.add(d.estilo);DATA_BRAND=d.brand||DATA_BRAND;if(d.tema){document.body.classList.add('th-'+d.tema);window.FS=d.tema==='pixel'?'_px':''}
  document.getElementById('htag').textContent=d.header.tag||'';
  document.getElementById('src').textContent=d.header.source||'';
  document.getElementById('ast').innerHTML=AST(44);

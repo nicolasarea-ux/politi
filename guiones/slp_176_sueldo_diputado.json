@@ -1,0 +1,229 @@
+{
+ "id": "slp_176_sueldo_diputado",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: Demócrata (15-01-2026), retribuciones del Congreso de los Diputados"
+ },
+ "caption": "¿Cuánto cobra un diputado? 👀\n\n¿Cuánto cobra el diputado al que vas a votar? El sueldo base: 3.366 euros al mes. En 14 pagas. Pero hay más. Si es de Madrid, le suman unos 1.000 euros para gastos. Total: unos 4.400 al mes. Si viene de otra provincia, le suman más de 2.100. Más de 5.500 al mes. Al año, solo el sueldo base ya son más de 47.000 euros. Y si es portavoz o está en la Mesa del Congreso, cobra todavía más.\n\n👇 ¿Te parece mucho o poco? Comenta.\n⏳ Quedan seis días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Demócrata (15-01-2026), retribuciones del Congreso de los Diputados\n#elecciones #29N #espana #politica #sueldo #congreso #diputados",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "¿Cuánto cobra un *diputado*?",
+  "mini": {
+   "rojo": "3.366 € + …"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Cuánto cobra el diputado al que vas a votar?",
+     "show": [
+      {
+       "id": "e0",
+       "type": "prop",
+       "kind": "edificio",
+       "x": 50,
+       "y": 60,
+       "w": 860,
+       "at": 0,
+       "luz": true
+      },
+      {
+       "id": "m0",
+       "type": "mono",
+       "who": "tu",
+       "x": 22,
+       "y": 80,
+       "w": 200,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "El sueldo base: 3.366 euros al mes. En 14 pagas.",
+     "show": [
+      {
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "3.366 €",
+       "text": "AL MES · 14 PAGAS",
+       "color": "gold"
+      }
+     ],
+     "hide": [
+      "e0",
+      "m0"
+     ],
+     "bg": "noche"
+    },
+    {
+     "text": "Pero hay más. Si es de Madrid, le suman unos 1.000 euros para gastos. Total: unos 4.400 al mes.",
+     "show": [
+      {
+       "id": "b2",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "4.400 €",
+       "text": "DIPUTADO DE MADRID",
+       "color": ""
+      }
+     ],
+     "hide": [
+      "b1"
+     ],
+     "bg": "noche"
+    },
+    {
+     "text": "Si viene de otra provincia, le suman más de 2.100. Más de 5.500 al mes.",
+     "show": [
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "5.500 €",
+       "text": "DIPUTADO DE PROVINCIAS",
+       "color": "gold"
+      }
+     ],
+     "hide": [
+      "b2"
+     ],
+     "bg": "noche"
+    },
+    {
+     "text": "Al año, solo el sueldo base ya son más de 47.000 euros.",
+     "show": [
+      {
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "47.137 €",
+       "text": "AL AÑO, SOLO EL SUELDO BASE",
+       "color": ""
+      }
+     ],
+     "hide": [
+      "b3"
+     ]
+    },
+    {
+     "text": "Y si es portavoz o está en la Mesa del Congreso, cobra todavía más.",
+     "show": [
+      {
+       "id": "e5",
+       "type": "prop",
+       "kind": "edificio",
+       "x": 50,
+       "y": 60,
+       "w": 860,
+       "at": 0,
+       "luz": true
+      },
+      {
+       "id": "b5",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 86,
+       "w": 1000,
+       "at": 0,
+       "n": "+",
+       "text": "CARGOS: COMPLEMENTOS EXTRA",
+       "color": "gold"
+      }
+     ],
+     "hide": [
+      "b4"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "duelo",
+     "text": "¿Te parece mucho o poco? Comenta. Síguenos: quedan seis días.",
+     "show": [
+      {
+       "id": "sF",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fF",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 72,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿TÚ QUÉ DICES?",
+       "text": "",
+       "color": ""
+      }
+     ],
+     "hide": [
+      "e5",
+      "b5"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-23T14:00:00+01:00",
+ "estilo": "cine"
+}

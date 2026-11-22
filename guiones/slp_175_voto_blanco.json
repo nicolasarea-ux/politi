@@ -1,0 +1,268 @@
+{
+ "id": "slp_175_voto_blanco",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: Ley Orgánica del Régimen Electoral General, art. 163"
+ },
+ "caption": "¿Qué pasa si votas en blanco? 👀\n\n¿Qué pasa de verdad si votas en blanco? Seguro que te han dicho que tu voto en blanco se lo lleva el partido más votado. Pues es mentira. El voto en blanco es válido, pero no va a ningún partido. Solo cuenta para una cosa: la barrera del 3 por ciento en tu provincia. Si un partido pequeño no llega a ese 3 por ciento, se queda fuera. Y el voto en blanco hace esa barrera más alta. ¿Y el voto nulo? No cuenta para nada. ¿Y si no vas? Tampoco. Así que el blanco sí dice algo: que fuiste, y que no te convence nadie.\n\n👇 ¿Has votado alguna vez en blanco? Comenta sí o no.\n⏳ Quedan siete días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 163\n#elecciones #29N #espana #politica #votoenblanco #votar",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "¿Qué pasa si votas en *blanco*?",
+  "mini": {
+   "rojo": "MITO"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Qué pasa de verdad si votas en blanco?",
+     "show": [
+      {
+       "id": "u0",
+       "type": "prop",
+       "kind": "urna",
+       "x": 50,
+       "y": 58,
+       "w": 520,
+       "at": 0
+      },
+      {
+       "id": "m0",
+       "type": "mono",
+       "who": "tu",
+       "x": 24,
+       "y": 80,
+       "w": 220,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Seguro que te han dicho que tu voto en blanco se lo lleva el partido más votado.",
+     "show": [
+      {
+       "id": "u1",
+       "type": "prop",
+       "kind": "urna",
+       "x": 50,
+       "y": 58,
+       "w": 520,
+       "at": 0
+      },
+      {
+       "id": "m1",
+       "type": "mono",
+       "who": "tu",
+       "x": 24,
+       "y": 80,
+       "w": 220,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      }
+     ],
+     "hide": [
+      "u0",
+      "m0"
+     ],
+     "bg": "noche"
+    },
+    {
+     "text": "Pues es mentira.",
+     "show": [
+      {
+       "id": "b2",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "MITO",
+       "text": "",
+       "color": "red"
+      },
+      {
+       "id": "x2",
+       "type": "prop",
+       "kind": "xmark",
+       "x": 50,
+       "y": 50,
+       "w": 520,
+       "at": 0
+      }
+     ],
+     "hide": [
+      "u1",
+      "m1"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "El voto en blanco es válido, pero no va a ningún partido. Solo cuenta para una cosa: la barrera del 3 por ciento en tu provincia.",
+     "show": [
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "3 %",
+       "text": "BARRERA EN TU PROVINCIA",
+       "color": "gold"
+      }
+     ],
+     "hide": [
+      "b2",
+      "x2"
+     ],
+     "bg": "noche"
+    },
+    {
+     "text": "Si un partido pequeño no llega a ese 3 por ciento, se queda fuera. Y el voto en blanco hace esa barrera más alta.",
+     "show": [
+      {
+       "id": "m4",
+       "type": "prop",
+       "kind": "medida",
+       "x": 50,
+       "y": 50,
+       "w": 800,
+       "at": 0,
+       "l1": "3 % DE LOS VOTOS VÁLIDOS",
+       "l2": "CON MÁS BLANCOS, MÁS ALTA",
+       "f": 1.0
+      }
+     ],
+     "hide": [
+      "b3"
+     ],
+     "bg": "noche"
+    },
+    {
+     "text": "¿Y el voto nulo? No cuenta para nada. ¿Y si no vas? Tampoco.",
+     "show": [
+      {
+       "id": "b5",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "NULO = 0",
+       "text": "ABSTENCIÓN = 0",
+       "color": ""
+      }
+     ],
+     "hide": [
+      "m4"
+     ]
+    },
+    {
+     "text": "Así que el blanco sí dice algo: que fuiste, y que no te convence nadie.",
+     "show": [
+      {
+       "id": "u6",
+       "type": "prop",
+       "kind": "urna",
+       "x": 50,
+       "y": 58,
+       "w": 520,
+       "at": 0
+      },
+      {
+       "id": "m6",
+       "type": "mono",
+       "who": "tu",
+       "x": 24,
+       "y": 80,
+       "w": 220,
+       "at": 0,
+       "habla": false,
+       "cara": "sonrie",
+       "gesto": "manos"
+      }
+     ],
+     "hide": [
+      "b5"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "duelo",
+     "text": "¿Has votado alguna vez en blanco? Comenta sí o no. Síguenos: quedan siete días.",
+     "show": [
+      {
+       "id": "sF",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fF",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 72,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿TÚ QUÉ DICES?",
+       "text": "",
+       "color": ""
+      }
+     ],
+     "hide": [
+      "u6",
+      "m6"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-22T23:00:00+01:00",
+ "estilo": "cine"
+}

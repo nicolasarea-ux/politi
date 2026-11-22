@@ -1,0 +1,328 @@
+{
+ "id": "slp_174_si_fueran_manana",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: 40dB para El País y la SER (tracking 20-11)"
+ },
+ "caption": "¿Y si las elecciones fueran mañana? 👀\n\n¿Qué pasaría si las elecciones fueran mañana? En el Congreso hay 350 escaños. Para gobernar solo, necesitas 176. Según la última encuesta de 40dB, el PP sacaría 132. El PSOE, 120. Y Vox, 58. Ningún partido llega solo. Pero PP y Vox juntos suman 190. Eso sí: el presidente preferido es Sánchez, con casi nueve puntos más que Feijóo. Votas partido, no presidente. Y los escaños se suman.\n\n👇 ¿Y tú qué crees que pasará?\n⏳ Quedan siete días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: 40dB para El País y la SER (tracking 20-11)\n#elecciones #29N #espana #politica #encuestas #congreso",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "¿Y si las elecciones fueran *mañana*?",
+  "mini": {
+   "rojo": "132 · 120 · 58"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Qué pasaría si las elecciones fueran mañana?",
+     "show": [
+      {
+       "id": "e0",
+       "type": "prop",
+       "kind": "edificio",
+       "x": 50,
+       "y": 60,
+       "w": 860,
+       "at": 0,
+       "luz": true
+      },
+      {
+       "id": "m0",
+       "type": "mono",
+       "who": "tu",
+       "x": 22,
+       "y": 80,
+       "w": 200,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "En el Congreso hay 350 escaños. Para gobernar solo, necesitas 176.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "prop",
+       "kind": "hemi",
+       "x": 50,
+       "y": 52,
+       "w": 1000,
+       "at": 0,
+       "parts": [],
+       "line": "176"
+      },
+      {
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 86,
+       "w": 1000,
+       "at": 0,
+       "n": "350",
+       "text": "ESCAÑOS",
+       "color": ""
+      }
+     ],
+     "hide": [
+      "e0",
+      "m0"
+     ],
+     "bg": "noche"
+    },
+    {
+     "text": "Según la última encuesta de 40dB, el PP sacaría 132.",
+     "show": [
+      {
+       "id": "h2",
+       "type": "prop",
+       "kind": "hemi",
+       "x": 50,
+       "y": 52,
+       "w": 1000,
+       "at": 0,
+       "parts": [
+        {
+         "l": "PP",
+         "n": 132,
+         "c": "#1D84CE"
+        }
+       ],
+       "line": "176"
+      }
+     ],
+     "hide": [
+      "h1",
+      "b1"
+     ],
+     "bg": "noche"
+    },
+    {
+     "text": "El PSOE, 120. Y Vox, 58.",
+     "show": [
+      {
+       "id": "h3",
+       "type": "prop",
+       "kind": "hemi",
+       "x": 50,
+       "y": 52,
+       "w": 1000,
+       "at": 0,
+       "parts": [
+        {
+         "l": "PP",
+         "n": 132,
+         "c": "#1D84CE"
+        },
+        {
+         "l": "PSOE",
+         "n": 120,
+         "c": "#E1251B"
+        },
+        {
+         "l": "VOX",
+         "n": 58,
+         "c": "#5DAA2B"
+        }
+       ],
+       "line": "176"
+      }
+     ],
+     "hide": [
+      "h2"
+     ],
+     "bg": "noche"
+    },
+    {
+     "text": "Ningún partido llega solo. Pero PP y Vox juntos suman 190.",
+     "show": [
+      {
+       "id": "h4",
+       "type": "prop",
+       "kind": "hemi",
+       "x": 50,
+       "y": 52,
+       "w": 1000,
+       "at": 0,
+       "parts": [
+        {
+         "l": "PP+VOX",
+         "n": 190,
+         "c": "#1D84CE"
+        }
+       ],
+       "line": "176"
+      },
+      {
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 86,
+       "w": 1000,
+       "at": 0,
+       "n": "190",
+       "text": "PP + VOX",
+       "color": "gold"
+      }
+     ],
+     "hide": [
+      "h3"
+     ],
+     "bg": "noche"
+    },
+    {
+     "text": "Eso sí: el presidente preferido es Sánchez, con casi nueve puntos más que Feijóo.",
+     "show": [
+      {
+       "id": "s5",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 30,
+       "y": 70,
+       "w": 360,
+       "at": 0,
+       "habla": false,
+       "cara": "sonrie",
+       "gesto": "manos"
+      },
+      {
+       "id": "f5",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 72,
+       "y": 72,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "b5",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "31,8 % vs 23,1 %",
+       "text": "PRESIDENTE PREFERIDO",
+       "color": ""
+      }
+     ],
+     "hide": [
+      "h4",
+      "b4"
+     ]
+    },
+    {
+     "text": "Votas partido, no presidente. Y los escaños se suman.",
+     "show": [
+      {
+       "id": "e6",
+       "type": "prop",
+       "kind": "edificio",
+       "x": 50,
+       "y": 60,
+       "w": 860,
+       "at": 0,
+       "luz": true
+      },
+      {
+       "id": "b6",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 86,
+       "w": 1000,
+       "at": 0,
+       "n": "176",
+       "text": "LA CIFRA MÁGICA",
+       "color": "gold"
+      }
+     ],
+     "hide": [
+      "s5",
+      "f5",
+      "b5"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "duelo",
+     "text": "¿Y tú qué crees que pasará? Síguenos: quedan siete días.",
+     "show": [
+      {
+       "id": "sF",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fF",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 72,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿TÚ QUÉ DICES?",
+       "text": "",
+       "color": ""
+      }
+     ],
+     "hide": [
+      "e6",
+      "b6"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-23T09:00:00+01:00",
+ "estilo": "cine"
+}
