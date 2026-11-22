@@ -455,22 +455,10 @@
    "copy": "Senado 29-N: cuántos candidatos puedes marcar, si puedes mezclar partidos y cuándo tu voto acaba siendo nulo 🗳️\n¿Sabías que podías mezclar? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 166 (BOE); Maldita.\n\n#elecciones #29N #eleccionesgenerales #senado #comovotar"
   },
   {
-   "id": "slp_016_blanco_nulo",
-   "fecha": "2026-11-23T13:00",
-   "estado": "pendiente",
-   "copy": "Votar en blanco, nulo o quedarte en casa NO es lo mismo. Te explicamos la diferencia según la ley.\n¿Sabías que el voto en blanco cuenta para el 3 %? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 96 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #votoenblanco #votonulo"
-  },
-  {
    "id": "slp_032_quien_cuenta",
    "fecha": "2026-11-10T21:15",
    "estado": "reserva",
    "copy": "Quién cuenta de verdad tu voto el 29-N, qué hace Indra y cuándo llega el resultado oficial 🗳️\n¿Sabías que se cuenta a mano? 👇\n\nFuente: Maldita.es, sobre el escrutinio electoral y el papel de Indra.\n\n#elecciones #29N #eleccionesgenerales #recuento #comovotar"
-  },
-  {
-   "id": "slp_026_barrera_3",
-   "fecha": "2026-11-23T19:00",
-   "estado": "pendiente",
-   "copy": "326.045 votos y ningún escaño: qué es la barrera del 3 % y si de verdad fue la culpable 🧮\n¿Lo sabías? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 163 (BOE); Maldita.\n\n#elecciones #29N #eleccionesgenerales #leyelectoral #explicado"
   },
   {
    "id": "slp_024_voto_exterior",
@@ -1275,12 +1263,6 @@
    "publicado_en": "2026-11-21T17:03"
   },
   {
-   "id": "slp_025_donde_voto",
-   "fecha": "2026-11-23T09:00",
-   "estado": "pendiente",
-   "copy": "¿No sabes dónde te toca votar? Cómo mirarlo en dos minutos y qué pasa si no te llega la tarjeta censal 📍\n¿Te ha llegado ya la tuya? 👇\n\nFuente: Oficina del Censo Electoral (INE); Demócrata; Maldita.\n\n#elecciones #29N #eleccionesgenerales #censoelectoral #comovotar"
-  },
-  {
    "id": "slp_021_dni_votar",
    "fecha": "2026-11-22T13:00",
    "estado": "saltado",
@@ -1357,6 +1339,24 @@
    "estado": "pendiente",
    "copy": "Tu voto vale dinero 👀\n\nCuando metes tu voto en la urna, al partido que votas le pagan por él. Ochenta y un céntimos por cada voto al Congreso, si saca escaño. Y por cada diputado o senador que consigue: más de 21.000 euros. Montar unas elecciones cuesta unos 279 millones de euros. Solo Correos se lleva más de 100 millones. Y cada miembro de mesa cobra 75 euros por pasarse el día ahí. 400 millones de papeletas y más de 200.000 urnas. Para un solo domingo.\n\n👇 ¿Te parece caro? Comenta sí o no.\n⏳ Quedan seis días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Euronews (8-10-2026), con datos de Interior y Tribunal de Cuentas\n#elecciones #29N #espana #politica #elecciones #dinero",
    "nota": "estilo cine"
+  },
+  {
+   "id": "slp_030_veda_encuestas",
+   "fecha": "2026-11-24T09:00",
+   "estado": "pendiente",
+   "copy": "¿Te parece bien que no se puedan publicar encuestas? Sí o no 👇\n\nDesde hoy, 24-N, y hasta que cierren las urnas, ningún medio puede publicar sondeos nuevos 📊 Por qué, qué sí se puede hacer y cómo no tragarte una encuesta falsa.\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 69.7; El Independiente; Maldita.\n\n#elecciones #29N #eleccionesgenerales #encuestas #explicado"
+  },
+  {
+   "id": "slp_025_donde_voto",
+   "fecha": "2026-11-24T14:00",
+   "estado": "pendiente",
+   "copy": "¿No sabes dónde te toca votar? Cómo mirarlo en dos minutos y qué pasa si no te llega la tarjeta censal 📍\n¿Te ha llegado ya la tuya? 👇\n\nFuente: Oficina del Censo Electoral (INE); Demócrata; Maldita.\n\n#elecciones #29N #eleccionesgenerales #censoelectoral #comovotar"
+  },
+  {
+   "id": "slp_021_dni_votar",
+   "fecha": "2026-11-24T20:00",
+   "estado": "pendiente",
+   "copy": "¿Con qué puedes votar el 29-N? DNI caducado, carnet de conducir y por qué no te fíes del móvil 🪪\n¿Sabías lo del DNI caducado? 👇\n\nFuente: LOREG art. 85; acuerdos de la Junta Electoral Central sobre MiDNI y MiDGT (marzo y abril de 2026), vía Xataka Móvil y El Debate; Demócrata.\n\n#elecciones #29N #eleccionesgenerales #DNI #comovotar"
   }
  ]
 }

@@ -212,13 +212,11 @@
   {
    "id": "slp_016_blanco_nulo",
    "tipo": "atemporal",
-   "estado": "programado",
+   "estado": "reserva",
    "copy": "Votar en blanco, nulo o quedarte en casa NO es lo mismo. Te explicamos la diferencia según la ley.\n¿Sabías que el voto en blanco cuenta para el 3 %? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, arts. 96 y 163 (BOE).\n\n#elecciones #29N #eleccionesgenerales #votoenblanco #votonulo",
    "partidos": [],
-   "nota": "Sustituido el 2-N por actualidad; reprogramado | 9-N: a reserva (semana de prueba: solo actualidad; vuelven la última semana antes del 29-N) | 21-N: re-render con fechaPub y programado el 23-N",
-   "portada_estilo": "v2",
-   "fecha": "2026-11-23T13:00",
-   "fecha_reels": "2026-11-23T13:00"
+   "nota": "Sustituido el 2-N por actualidad; reprogramado | 9-N: a reserva (semana de prueba: solo actualidad; vuelven la última semana antes del 29-N) | 21-N: re-render con fechaPub y programado el 23-N | 22-N pasada: quitado del 23-N (chocaba a las 09:00 con slp_174_si_fueran_manana / repetía voto blanco de slp_175; el 23-N ya tiene 3 reels estilo cine de la sesión de chat)",
+   "portada_estilo": "v2"
   },
   {
    "id": "slp_017_senado",
@@ -311,9 +309,10 @@
     "https://www.eldebate.com/espana/20260423/junta-electoral-ratifica-dni-digital-no-podra-usar-votar-elecciones-andaluzas_410429.html"
    ],
    "estado": "programado",
-   "nota": "22-N relleno de seguridad (explicativos vuelven 22–28-N); la pasada del 22-N puede cambiarlo por actualidad",
-   "fecha": "2026-11-22T13:00",
-   "copy": "¿Con qué puedes votar el 29-N? DNI caducado, carnet de conducir y por qué no te fíes del móvil 🪪\n¿Sabías lo del DNI caducado? 👇\n\nFuente: LOREG art. 85; acuerdos de la Junta Electoral Central sobre MiDNI y MiDGT (marzo y abril de 2026), vía Xataka Móvil y El Debate; Demócrata.\n\n#elecciones #29N #eleccionesgenerales #DNI #comovotar"
+   "nota": "22-N relleno de seguridad (explicativos vuelven 22–28-N); la pasada del 22-N puede cambiarlo por actualidad | 22-N pasada: re-render con fechaPub, 24-N relleno de seguridad (el 22-N 13:00 salió «saltado»); la pasada del 24-N puede cambiarlo por actualidad",
+   "fecha": "2026-11-24T20:00",
+   "copy": "¿Con qué puedes votar el 29-N? DNI caducado, carnet de conducir y por qué no te fíes del móvil 🪪\n¿Sabías lo del DNI caducado? 👇\n\nFuente: LOREG art. 85; acuerdos de la Junta Electoral Central sobre MiDNI y MiDGT (marzo y abril de 2026), vía Xataka Móvil y El Debate; Demócrata.\n\n#elecciones #29N #eleccionesgenerales #DNI #comovotar",
+   "fecha_reels": "2026-11-24T20:00"
   },
   {
    "id": "slp_023_reflexion",
@@ -358,9 +357,9 @@
    "estado": "programado",
    "copy": "¿No sabes dónde te toca votar? Cómo mirarlo en dos minutos y qué pasa si no te llega la tarjeta censal 📍\n¿Te ha llegado ya la tuya? 👇\n\nFuente: Oficina del Censo Electoral (INE); Demócrata; Maldita.\n\n#elecciones #29N #eleccionesgenerales #censoelectoral #comovotar",
    "portada_estilo": "v2",
-   "fecha": "2026-11-23T09:00",
-   "nota": "22-N relleno de seguridad (explicativos vuelven 22–28-N); la pasada del 22-N puede cambiarlo por actualidad | 21-N: re-render con fechaPub y programado el 23-N",
-   "fecha_reels": "2026-11-23T09:00"
+   "nota": "22-N relleno de seguridad (explicativos vuelven 22–28-N); la pasada del 22-N puede cambiarlo por actualidad | 21-N: re-render con fechaPub y programado el 23-N | 22-N pasada: quitado del 23-N (chocaba a las 09:00 con slp_174_si_fueran_manana / repetía voto blanco de slp_175; el 23-N ya tiene 3 reels estilo cine de la sesión de chat) | 22-N pasada: re-render con fechaPub, 24-N relleno de seguridad; la pasada del 24-N puede cambiarlo por actualidad",
+   "fecha": "2026-11-24T14:00",
+   "fecha_reels": "2026-11-24T14:00"
   },
   {
    "id": "slp_026_barrera_3",
@@ -371,11 +370,9 @@
    "fuentes": [
     "https://maldita.es/malditateexplica/20190429/por-que-no-consigue-escano-pacma-os-lo-explicamos-no-hubiera-obtenido-diputados-cambiando-el-tamano-de-los-distritos-ni-quitando-el-limite-del-3-solo-con-una-unica-circunscripcion/"
    ],
-   "estado": "programado",
-   "nota": "Vídeo hecho, listo para usar | 9-N: a reserva (semana de prueba: solo actualidad; vuelven la última semana antes del 29-N) | 21-N: re-render con fechaPub y programado el 23-N",
-   "copy": "326.045 votos y ningún escaño: qué es la barrera del 3 % y si de verdad fue la culpable 🧮\n¿Lo sabías? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 163 (BOE); Maldita.\n\n#elecciones #29N #eleccionesgenerales #leyelectoral #explicado",
-   "fecha": "2026-11-23T19:00",
-   "fecha_reels": "2026-11-23T19:00"
+   "estado": "reserva",
+   "nota": "Vídeo hecho, listo para usar | 9-N: a reserva (semana de prueba: solo actualidad; vuelven la última semana antes del 29-N) | 21-N: re-render con fechaPub y programado el 23-N | 22-N pasada: quitado del 23-N (chocaba a las 09:00 con slp_174_si_fueran_manana / repetía voto blanco de slp_175; el 23-N ya tiene 3 reels estilo cine de la sesión de chat)",
+   "copy": "326.045 votos y ningún escaño: qué es la barrera del 3 % y si de verdad fue la culpable 🧮\n¿Lo sabías? 👇\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 163 (BOE); Maldita.\n\n#elecciones #29N #eleccionesgenerales #leyelectoral #explicado"
   },
   {
    "id": "slp_027_tras_29n",
@@ -439,8 +436,11 @@
     "https://www.legalitas.com/actualidad/cinco-dias-antes-las-elecciones-generales-retuitear-un-sondeo-electoral-puede-ser-delito",
     "https://maldita.es/desinfo/20261029/bulos-desinformaciones-elecciones-29-noviembre-2026/"
    ],
-   "estado": "reserva",
-   "nota": "Vídeo hecho, listo para usar antes del 24-N"
+   "estado": "programado",
+   "nota": "Vídeo hecho, listo para usar antes del 24-N | 22-N pasada: re-render con fechaPub, 24-N: primer día de veda; la pasada del 24-N puede cambiarlo por actualidad",
+   "fecha": "2026-11-24T09:00",
+   "fecha_reels": "2026-11-24T09:00",
+   "copy": "¿Te parece bien que no se puedan publicar encuestas? Sí o no 👇\n\nDesde hoy, 24-N, y hasta que cierren las urnas, ningún medio puede publicar sondeos nuevos 📊 Por qué, qué sí se puede hacer y cómo no tragarte una encuesta falsa.\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 69.7; El Independiente; Maldita.\n\n#elecciones #29N #eleccionesgenerales #encuestas #explicado"
   },
   {
    "id": "slp_031_mesas_excusas",
