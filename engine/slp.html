@@ -359,7 +359,7 @@ else if(e.type==='mono'){const fr=e.from?(e.from==='left'?-1:1):0;if(fr){const q
   const z=1.02+0.05*ease(kg)+punch+kick*0.015+kk*kk*0.02;
   const wp=clamp((t-G.t0)/0.2),dir=(gi+si)%2?1:-1,wx=(gi>0||si>0)?Math.pow(1-wp,2)*160*dir:0;
   const box=document.getElementById('els');box.style.transformOrigin=`${cm.x}% ${cm.y}%`;
-  box.style.transform=`translateX(${wx}px) scale(${z})`;box.style.filter=wx?`blur(${Math.abs(wx)/16}px)`:'none';
+  box.style.transform=`translateX(${wx}px) scale(${z})`;box.style.filter='none';
  }
  // subtítulos
  let chunks=[],cur=[];
