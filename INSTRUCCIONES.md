@@ -191,3 +191,11 @@ Dato: 41.000 visualizaciones de las entrevistas de Wild → solo +6 seguidores. 
 - Pide a Nicks: fijar en el perfil los 3 mejores reels y bio con promesa clara («La campaña del 29-N explicada en 60 s, cada día»).
 - CÁMARA v2 (15-N): punch-in en cada segmento, encuadre suave hacia el monigote que habla y latigazo con desenfoque entre segmentos. Regla: tras un capítulo («cap») los personajes ya están debajo (at 0), nunca pantalla vacía.
 - ANATOMÍA v2 (15-N): cabeza más proporcionada (escala 1.06 en vez de 1.24), cuello con trapecio, hombros/deltoides, brazos cónicos con puño de camisa, manos con pulgar y dedos, perneras con raya, zapatos con suela, sombras laterales en el torso, párpados, aletas de la nariz y pómulos. Copia de seguridad del monos.js anterior en el historial de git.
+
+## ESTILO CINE = ESTÁNDAR (decidido por Nicks el 22-11)
+Todos los reels nuevos se hacen con `engine/mk_cine.py` (guion con "estilo": "cine"). Referencia: vídeo explicador tipo @Daxorio (escenas ilustradas a sangre), pero menos oscuro.
+- Escenas a sangre por segmento: atardecer (por defecto), 'noche', 'dia', 'rojo' (giro/MITO), 'duelo' (cierre rojo/azul). Nada de papel ni cartulinas.
+- Subtítulo arriba, limpio (palabra actual en blanco y negrita). Sin cabecera, sin pestañas, sin nudge.
+- Más dinamismo y más elementos: algo nuevo en pantalla cada 1-2 s. Herramientas: HEMI (hemiciclo que se llena), BIG (cifra grande blanca/dorada/roja, fs para textos largos), XM (X roja), SELLO, MED (medida dorada), EDI (Congreso), URNA, monigotes pequeños en el suelo (w 200-360).
+- Guion: gancho tipo "¿Qué pasaría si…?" / "¿Qué pasa de verdad si…?", giro (MITO / pero…), cifras concretas, remate, pregunta para comentar.
+- Transiciones sin desenfoque (quitado el blur del latigazo).
