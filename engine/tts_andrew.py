@@ -1,6 +1,7 @@
 """Voz externa (Andrew/Clipchamp, mp3 con el guion completo) -> voz.wav + timeline.json.
 Uso: python3 tts_andrew.py <video_dir> <audio.mp3>
 Corta el audio en segmentos buscando los silencios más cercanos a donde deberían caer."""
+PRE = 0.35  # los elementos nuevos entran (y los viejos salen) un poco antes de la frase: sin huecos parados
 import json, sys, os, subprocess
 import numpy as np, soundfile as sf
 import re
@@ -85,9 +86,9 @@ def main(vdir, mp3):
         els = []
         for e in g.get("show", []):
             e = dict(e); at = min(e.pop("at", 0), len(words) - 1)
-            e["t"] = words[at]["t0"] if at else t0; els.append(e)
+            e["t"] = words[at]["t0"] if at else max(t0 - PRE, 0); els.append(e)
         S = scenes.setdefault(si, {**{k: v for k, v in sc["scenes"][si].items() if k != "segments"}, "t0": t0, "segments": []})
-        S["segments"].append({"t0": t0, "t1": t1, "words": words, "show": els, "hide": g.get("hide", []), "hideAt": t0, "bg": g.get("bg")})
+        S["segments"].append({"t0": t0, "t1": t1, "words": words, "show": els, "hide": g.get("hide", []), "hideAt": max(t0 - PRE, 0), "bg": g.get("bg")})
     order = sorted(scenes)
     for n, si in enumerate(order):
         S = scenes[si]

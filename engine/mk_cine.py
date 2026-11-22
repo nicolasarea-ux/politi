@@ -13,28 +13,41 @@ def MED(id,l1,l2=None,f=1,y=70): return P(id,'medida',y=y,w=960,l1=l1,l2=l2,f=f)
 def SELLO(id,t,y=60): return ST(id,t,0,y=y,color='red',rot=-8)
 import re
 EMO={'vot':'🗳️','urna':'🗳️','euro':'💶','dinero':'💶','cobra':'💰','sueldo':'💰','congreso':'🏛️','escaño':'💺','encuesta':'📊','por ciento':'📊','mentira':'❌','mito':'❌','falso':'❌','silencio':'🤐','calla':'🤐','ia':'🤖','inteligencia':'🤖','tiktok':'📱','móvil':'📱','correo':'✉️','presidente':'👑','vivienda':'🏠','casa':'🏠','debate':'🎙️','canción':'🎵','barrera':'🚧','provincia':'📍','madrid':'📍','gobernar':'🏛️','mañana':'⏰','días':'⏳','partido':'🎯','nulo':'🚫','blanco':'⬜','papeleta':'📄','pacto':'🤝','pactar':'🤝','junta':'⚖️','ley':'⚖️'}
-POS=[(20,33),(80,36),(22,72),(78,70),(50,28)]
+POS_T=[(15,25),(85,26)];POS_B=[(14,89),(86,88)]
 def deco(t,sh,k):
     words=t.split();extra=[];used=set();n=0
+    low=any(e.get('y',50)>76 for e in sh)
+    POS=POS_T+([] if low else POS_B)
     for i,w in enumerate(words):
         lw=w.lower().strip('¿?¡!.,:;«»')
         num=re.match(r'^[\d.,]+(%|€)?$',lw) and any(c.isdigit() for c in lw)
         emo=next((v for kk,v in EMO.items() if lw.startswith(kk) or (' ' in kk and kk in t.lower() and lw==kk.split()[0])),None)
-        if i==0 or n>=3: continue
+        if i<4 or n>=len(POS): continue
         if num and lw not in used:
-            x,y=POS[(k+n)%len(POS)];txt=w.strip('¿?¡!.,:;«»')
+            x,y=POS[n%len(POS)];txt=w.strip('¿?¡!.,:;«»')
             nx=' '.join(words[i+1:i+3]).lower()
             if nx.startswith('por ciento'): txt+=' %'
             elif i+1<len(words) and words[i+1].lower().startswith(('euro','millon','escañ','día','pag')): txt+=' '+words[i+1].strip('.,:;').upper()
-            extra.append(P(f'k{k}_{n}','chip',x=x,y=y,w=420,at=i,text=txt.upper(),c=['','w','b','r'][n%4],rot=[-6,5,-3,7][n%4]));used.add(lw);n+=1
+            extra.append(P(f'k{k}_{n}','chip',x=x,y=y,w=360,at=i,**{'in':'left' if x<50 else 'right'},text=txt.upper(),c=['','w','b','r'][n%4],rot=[-6,5,-3,7][n%4]));used.add(lw);n+=1
         elif emo and emo not in used:
-            x,y=POS[(k+n+2)%len(POS)]
-            extra.append(P(f'k{k}_{n}','emo',x=x,y=y,w=220,at=i,text=emo,fs=150));used.add(emo);n+=1
+            x,y=POS[n%len(POS)]
+            extra.append(P(f'k{k}_{n}','emo',x=x,y=y,w=160,at=i,text=emo,fs=110,**{'in':'left' if x<50 else 'right'}));used.add(emo);n+=1
     return sh+extra
 def cine(id,segs,fecha,cta,cover_tit,cover_rojo,fuente,tags='',dias='siete'):
     out=[];prev=[]
     for k,sg in enumerate(segs):
         t,sh=sg[0],sg[1];bg=sg[2] if len(sg)>2 else None
+        INS=['left','right','down','zoom','up','spin']
+        for j,e in enumerate(sh):
+            if j>0 and not e.get('at'): e['at']=min(3,max(len(t.split())-1,0))  # lo secundario entra cuando lo principal ya está en su sitio
+            if 'in' in e: continue
+            kd=e.get('kind');x,y=e.get('x',50),e.get('y',50)
+            if e.get('type')=='mono': e['from']='left' if x<50 else 'right'
+            elif y>=70: e['in']='down'
+            elif y<=32: e['in']='up'
+            elif x<40: e['in']='left'
+            elif x>60: e['in']='right'
+            else: e['in']=['zoom','left','right'][(k+j)%3]
         sh=deco(t,sh,k)
         o={"text":t,"show":sh,"hide":prev}
         if bg:o['bg']=bg

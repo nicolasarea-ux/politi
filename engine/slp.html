@@ -64,7 +64,7 @@ html,body{width:1080px;height:1920px;overflow:hidden;background:var(--paper);col
 .cine #amb{display:block}
 #amb i{position:absolute;border-radius:50%;background:rgba(255,255,255,.75);box-shadow:0 0 12px rgba(255,255,255,.8)}
 #amb b{position:absolute;width:520px;height:120px;border-radius:120px;background:rgba(255,255,255,.07);filter:blur(18px)}
-.chip{display:inline-block;padding:14px 30px;border-radius:999px;font:900 52px/1 I;color:#0B1230;background:#FFC94A;box-shadow:0 10px 30px rgba(0,0,0,.35);white-space:nowrap}
+.chip{display:inline-block;padding:12px 26px;border-radius:999px;font:900 44px/1 I;color:#0B1230;background:#FFC94A;box-shadow:0 10px 30px rgba(0,0,0,.35);white-space:nowrap}
 .chip.w{background:#fff}.chip.r{background:#FF4D5E;color:#fff}.chip.b{background:#2C7BE5;color:#fff}.chip.g{background:#5DAA2B;color:#fff}
 .emo2{font-size:150px;line-height:1;filter:drop-shadow(0 10px 20px rgba(0,0,0,.35))}
 /* ===== ESTILO CINE (ref. vídeos tipo explicador): escenas a sangre, subtítulo arriba ===== */
@@ -147,7 +147,7 @@ body.th-pixel{--ink:#F7F1FF;--paper:#1A0F3A;--card:#2B1B5E;--mark:#39FF14;--red:
 <body><div id="stage"><div id="bgfx"></div><div id="margin"></div>
 <div id="hdr"><div id="htag"></div><div id="hand"><span id="handle">@politizatehoy</span><span id="ast"></span></div></div>
 <div id="src"></div><div id="clauses"></div><div id="prog"><i></i></div>
-<div id="amb"></div><div id="cinehandle">@politizatehoy</div><div id="els"></div><div id="caps"></div><div id="follow"></div><div id="endc"></div><div id="nudge"></div></div>
+<div id="amb"></div><div id="bflash" style="position:absolute;inset:0;background:#fff;opacity:0;z-index:60;pointer-events:none"></div><div id="cinehandle">@politizatehoy</div><div id="els"></div><div id="caps"></div><div id="follow"></div><div id="endc"></div><div id="nudge"></div></div>
 <script src="monos.js"></script>
 <script src="props.js"></script>
 <script>
@@ -299,7 +299,7 @@ function init(d){D=d;if(d.estilo)document.body.classList.add(d.estilo);DATA_BRAN
  d.scenes.forEach((s,si)=>s.segments.forEach(g=>g.show.forEach(e=>{
   const n=document.createElement('div');n.className='el';n.innerHTML=R[e.type](e);n.style.opacity=0;box.appendChild(n);e.n=n;
   e.si=si;e.g=g;if(e.type==='flash'&&!e.keep)e.hideAuto=e.dur||1.1;if(e.type==='cap'){e.hideAuto=1.25;e.x=50;e.y=50;n.style.zIndex=60;}if(e.keys&&e.keys[0].g!==undefined)e.keys.forEach(k=>{const S2=d.scenes[Math.min(si+(k.s||0),d.scenes.length-1)],G=S2.segments[Math.min(k.g,S2.segments.length-1)];k.p=G.t0+(k.f||0)*(G.t1-G.t0)});
-  e.hideT=(si===d.scenes.length-1)?d.duration+1:(e.keep?(d.scenes[Math.min(si+e.keep,d.scenes.length-1)].t1):s.t1);d.scenes.forEach(s3=>s3.segments.forEach(g2=>{if(g2.hide.includes(e.id)&&g2.t0>e.t&&g2.t0<e.hideT)e.hideT=g2.t0}));
+  e.hideT=(si===d.scenes.length-1)?d.duration+1:(e.keep?(d.scenes[Math.min(si+e.keep,d.scenes.length-1)].t1):s.t1);d.scenes.forEach(s3=>s3.segments.forEach(g2=>{if(g2.hide.includes(e.id)&&g2.t0>e.t&&g2.t0<e.hideT)e.hideT=(g2.hideAt!==undefined?g2.hideAt:g2.t0)}));
  })));
  return Promise.all([...document.images].map(im=>im.complete?1:new Promise(r=>{im.onload=im.onerror=r}))).then(()=>document.fonts.ready).then(()=>{d.scenes.forEach(s=>s.segments.forEach(g=>g.show.forEach(e=>{const r=e.n.firstElementChild.getBoundingClientRect();e.W=r.width;e.H=r.height})));return 1});
 }
@@ -343,6 +343,8 @@ else if(e.type==='mono'){const fr=e.from?(e.from==='left'?-1:1):0;if(fr){const q
   else if(e.type==='stamp'){sc1=a<0.16?1.9-0.9*(a/0.16):1+0.04*Math.exp(-(a-0.16)*14)*Math.sin((a-0.16)*60);op=clamp(a/0.08)}
   else if(e.type==='headline'||e.type==='note'){dy=(1-outQ(a/0.35))*40;op=clamp(a/0.25)}
   else{sc1=back(a/0.45);op=clamp(a/0.1);rot+=(1-outQ(a/0.5))*-4}
+  if(e.in){const q=clamp(a/0.55),b=back(q);if(['left','right','up','down'].includes(e.in)&&e.type==='prop')sc1=1;if(e.in==='left')dx+=(1-b)*-1150;else if(e.in==='right')dx+=(1-b)*1150;else if(e.in==='up')dy+=(1-b)*-1500;else if(e.in==='down')dy+=(1-b)*1400;else if(e.in==='spin'){rot+=(1-q)*-200;sc1=b}else if(e.in==='zoom'){sc1=b};op=Math.max(op*0+clamp(a/0.06),0);
+   if(out>0){const dir=e.x<50?-1:1;dx+=out*dir*500;sc1*=1-0.25*out}}
   dy-=out*70;op*=1-out;
   const x=1080*e.x/100-e.W/2+dx,y=1920*e.y/100-e.H/2+dy+Math.sin(t*1.8+e.x+e.y)*2;
   n.style.opacity=op;n.style.transform=`translate(${x}px,${y}px) rotate(${rot}deg) scale(${Math.max(sc1,0)})`;
@@ -362,6 +364,7 @@ else if(e.type==='mono'){const fr=e.from?(e.from==='left'?-1:1):0;if(fr){const q
  document.getElementById('bgfx').style.transform=`translate(${Math.sin(t*0.35)*120}px,${Math.cos(t*0.27)*90}px)`;
  { // CÁMARA v2: punch-in en cada segmento, encuadre hacia quien habla, latigazo (whip) entre segmentos
   const segs=S.segments;let gi=segs.findIndex(g=>t<g.t1);if(gi<0)gi=segs.length-1;const G=segs[gi];
+  { const pg=segs[gi-1];const chg=pg&&((pg.bg||'')!==(G.bg||''));const fa=chg?clamp(1-(t-(G.hideAt??G.t0))/0.22):0;document.getElementById('bflash').style.opacity=(fa*0.55).toFixed(3); }
   { const want=G.bg||D.tema||''; if(window.__bgc!==want){document.body.className=document.body.className.replace(/\bth-\S+/g,'').trim();if(want)document.body.classList.add('th-'+want);window.__bgc=want} }
   const kg=clamp((t-G.t0)/Math.max(G.t1-G.t0,0.1)), ps=clamp((t-G.t0)/0.32);
   let fx=50,fy=40;const sp=G.show.filter(e=>e.type==='mono'&&e.say);

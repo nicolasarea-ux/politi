@@ -37,7 +37,8 @@
        "y": 60,
        "w": 860,
        "at": 0,
-       "luz": true
+       "luz": true,
+       "in": "zoom"
       },
       {
        "id": "m0",
@@ -46,21 +47,23 @@
        "x": 22,
        "y": 80,
        "w": 200,
-       "at": 0,
+       "at": 3,
        "habla": false,
        "cara": "duda",
-       "gesto": "manos"
+       "gesto": "manos",
+       "from": "left"
       },
       {
        "id": "k0_0",
        "type": "prop",
        "kind": "emo",
-       "x": 22,
-       "y": 72,
-       "w": 220,
+       "x": 15,
+       "y": 25,
+       "w": 160,
        "at": 6,
        "text": "⏰",
-       "fs": 150
+       "fs": 110,
+       "in": "left"
       }
      ],
      "hide": []
@@ -77,7 +80,8 @@
        "w": 1060,
        "at": 0,
        "parts": [],
-       "line": "176"
+       "line": "176",
+       "in": "left"
       },
       {
        "id": "b1",
@@ -86,44 +90,36 @@
        "x": 50,
        "y": 86,
        "w": 1000,
-       "at": 0,
+       "at": 3,
        "n": "350",
        "text": "ESCAÑOS",
-       "color": ""
+       "color": "",
+       "in": "down"
       },
       {
        "id": "k1_0",
        "type": "prop",
-       "kind": "emo",
-       "x": 78,
-       "y": 70,
-       "w": 220,
-       "at": 2,
-       "text": "🏛️",
-       "fs": 150
+       "kind": "chip",
+       "x": 15,
+       "y": 25,
+       "w": 360,
+       "at": 4,
+       "in": "left",
+       "text": "350 ESCAÑOS",
+       "c": "",
+       "rot": -6
       },
       {
        "id": "k1_1",
        "type": "prop",
-       "kind": "chip",
-       "x": 22,
-       "y": 72,
-       "w": 420,
-       "at": 4,
-       "text": "350 ESCAÑOS",
-       "c": "w",
-       "rot": 5
-      },
-      {
-       "id": "k1_2",
-       "type": "prop",
        "kind": "emo",
-       "x": 20,
-       "y": 33,
-       "w": 220,
+       "x": 85,
+       "y": 26,
+       "w": 160,
        "at": 5,
        "text": "💺",
-       "fs": 150
+       "fs": 110,
+       "in": "right"
       }
      ],
      "hide": [
@@ -151,38 +147,28 @@
          "c": "#1D84CE"
         }
        ],
-       "line": "176"
+       "line": "176",
+       "in": "right"
       },
       {
        "id": "k2_0",
        "type": "prop",
-       "kind": "emo",
-       "x": 50,
-       "y": 28,
-       "w": 220,
-       "at": 3,
-       "text": "📊",
-       "fs": 150
-      },
-      {
-       "id": "k2_1",
-       "type": "prop",
        "kind": "chip",
-       "x": 78,
-       "y": 70,
-       "w": 420,
+       "x": 15,
+       "y": 25,
+       "w": 360,
        "at": 9,
+       "in": "left",
        "text": "132",
-       "c": "w",
-       "rot": 5
+       "c": "",
+       "rot": -6
       }
      ],
      "hide": [
       "h1",
       "b1",
       "k1_0",
-      "k1_1",
-      "k1_2"
+      "k1_1"
      ],
      "bg": "noche"
     },
@@ -214,37 +200,26 @@
          "c": "#5DAA2B"
         }
        ],
-       "line": "176"
+       "line": "176",
+       "in": "zoom"
       },
       {
        "id": "k3_0",
        "type": "prop",
        "kind": "chip",
-       "x": 78,
-       "y": 70,
-       "w": 420,
-       "at": 2,
-       "text": "120",
+       "x": 15,
+       "y": 25,
+       "w": 360,
+       "at": 5,
+       "in": "left",
+       "text": "58",
        "c": "",
        "rot": -6
-      },
-      {
-       "id": "k3_1",
-       "type": "prop",
-       "kind": "chip",
-       "x": 50,
-       "y": 28,
-       "w": 420,
-       "at": 5,
-       "text": "58",
-       "c": "w",
-       "rot": 5
       }
      ],
      "hide": [
       "h2",
-      "k2_0",
-      "k2_1"
+      "k2_0"
      ],
      "bg": "noche"
     },
@@ -266,7 +241,8 @@
          "c": "#1D84CE"
         }
        ],
-       "line": "176"
+       "line": "176",
+       "in": "left"
       },
       {
        "id": "b4",
@@ -275,39 +251,29 @@
        "x": 50,
        "y": 86,
        "w": 1000,
-       "at": 0,
+       "at": 3,
        "n": "190",
        "text": "PP + VOX",
-       "color": "gold"
+       "color": "gold",
+       "in": "down"
       },
       {
        "id": "k4_0",
        "type": "prop",
-       "kind": "emo",
-       "x": 80,
-       "y": 36,
-       "w": 220,
-       "at": 1,
-       "text": "🎯",
-       "fs": 150
-      },
-      {
-       "id": "k4_1",
-       "type": "prop",
        "kind": "chip",
-       "x": 20,
-       "y": 33,
-       "w": 420,
+       "x": 15,
+       "y": 25,
+       "w": 360,
        "at": 10,
+       "in": "left",
        "text": "190",
-       "c": "w",
-       "rot": 5
+       "c": "",
+       "rot": -6
       }
      ],
      "hide": [
       "h3",
-      "k3_0",
-      "k3_1"
+      "k3_0"
      ],
      "bg": "noche"
     },
@@ -324,7 +290,8 @@
        "at": 0,
        "habla": false,
        "cara": "sonrie",
-       "gesto": "manos"
+       "gesto": "manos",
+       "from": "left"
       },
       {
        "id": "f5",
@@ -333,12 +300,13 @@
        "x": 72,
        "y": 72,
        "w": 300,
-       "at": 0,
+       "at": 3,
        "habla": false,
        "cara": "duda",
        "gesto": "manos",
        "flip": true,
-       "mira": "l"
+       "mira": "l",
+       "from": "right"
       },
       {
        "id": "b5",
@@ -347,29 +315,18 @@
        "x": 50,
        "y": 40,
        "w": 1000,
-       "at": 0,
+       "at": 3,
        "n": "31,8 % vs 23,1 %",
        "text": "PRESIDENTE PREFERIDO",
        "color": "",
-       "fs": 110
-      },
-      {
-       "id": "k5_0",
-       "type": "prop",
-       "kind": "emo",
-       "x": 22,
-       "y": 72,
-       "w": 220,
-       "at": 3,
-       "text": "👑",
-       "fs": 150
+       "fs": 110,
+       "in": "left"
       }
      ],
      "hide": [
       "h4",
       "b4",
-      "k4_0",
-      "k4_1"
+      "k4_0"
      ]
     },
     {
@@ -383,7 +340,8 @@
        "y": 60,
        "w": 860,
        "at": 0,
-       "luz": true
+       "luz": true,
+       "in": "zoom"
       },
       {
        "id": "b6",
@@ -392,50 +350,29 @@
        "x": 50,
        "y": 86,
        "w": 1000,
-       "at": 0,
+       "at": 3,
        "n": "176",
        "text": "LA CIFRA MÁGICA",
-       "color": "gold"
+       "color": "gold",
+       "in": "down"
       },
       {
        "id": "k6_0",
        "type": "prop",
        "kind": "emo",
-       "x": 78,
-       "y": 70,
-       "w": 220,
-       "at": 1,
-       "text": "🎯",
-       "fs": 150
-      },
-      {
-       "id": "k6_1",
-       "type": "prop",
-       "kind": "emo",
-       "x": 50,
-       "y": 28,
-       "w": 220,
-       "at": 3,
-       "text": "👑",
-       "fs": 150
-      },
-      {
-       "id": "k6_2",
-       "type": "prop",
-       "kind": "emo",
-       "x": 20,
-       "y": 33,
-       "w": 220,
+       "x": 15,
+       "y": 25,
+       "w": 160,
        "at": 6,
        "text": "💺",
-       "fs": 150
+       "fs": 110,
+       "in": "left"
       }
      ],
      "hide": [
       "s5",
       "f5",
-      "b5",
-      "k5_0"
+      "b5"
      ]
     }
    ]
@@ -489,9 +426,7 @@
      "hide": [
       "e6",
       "b6",
-      "k6_0",
-      "k6_1",
-      "k6_2"
+      "k6_0"
      ]
     }
    ]

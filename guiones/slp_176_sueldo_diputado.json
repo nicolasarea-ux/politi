@@ -37,7 +37,8 @@
        "y": 60,
        "w": 860,
        "at": 0,
-       "luz": true
+       "luz": true,
+       "in": "zoom"
       },
       {
        "id": "m0",
@@ -46,32 +47,23 @@
        "x": 22,
        "y": 80,
        "w": 200,
-       "at": 0,
+       "at": 3,
        "habla": false,
        "cara": "duda",
-       "gesto": "manos"
+       "gesto": "manos",
+       "from": "left"
       },
       {
        "id": "k0_0",
        "type": "prop",
        "kind": "emo",
-       "x": 22,
-       "y": 72,
-       "w": 220,
-       "at": 1,
-       "text": "💰",
-       "fs": 150
-      },
-      {
-       "id": "k0_1",
-       "type": "prop",
-       "kind": "emo",
-       "x": 78,
-       "y": 70,
-       "w": 220,
+       "x": 15,
+       "y": 25,
+       "w": 160,
        "at": 8,
        "text": "🗳️",
-       "fs": 150
+       "fs": 110,
+       "in": "left"
       }
      ],
      "hide": []
@@ -89,48 +81,39 @@
        "at": 0,
        "n": "3.366 €",
        "text": "AL MES · 14 PAGAS",
-       "color": "gold"
+       "color": "gold",
+       "in": "left"
       },
       {
        "id": "k1_0",
        "type": "prop",
        "kind": "emo",
-       "x": 78,
-       "y": 70,
-       "w": 220,
-       "at": 1,
-       "text": "💰",
-       "fs": 150
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 4,
+       "text": "💶",
+       "fs": 110,
+       "in": "left"
       },
       {
        "id": "k1_1",
        "type": "prop",
        "kind": "chip",
-       "x": 22,
-       "y": 72,
-       "w": 420,
-       "at": 3,
-       "text": "3.366 EUROS",
+       "x": 85,
+       "y": 26,
+       "w": 360,
+       "at": 8,
+       "in": "right",
+       "text": "14 PAGAS",
        "c": "w",
        "rot": 5
-      },
-      {
-       "id": "k1_2",
-       "type": "prop",
-       "kind": "emo",
-       "x": 20,
-       "y": 33,
-       "w": 220,
-       "at": 4,
-       "text": "💶",
-       "fs": 150
       }
      ],
      "hide": [
       "e0",
       "m0",
-      "k0_0",
-      "k0_1"
+      "k0_0"
      ],
      "bg": "noche"
     },
@@ -147,27 +130,30 @@
        "at": 0,
        "n": "4.400 €",
        "text": "DIPUTADO DE MADRID",
-       "color": ""
+       "color": "",
+       "in": "right"
       },
       {
        "id": "k2_0",
        "type": "prop",
        "kind": "emo",
-       "x": 50,
-       "y": 28,
-       "w": 220,
+       "x": 15,
+       "y": 25,
+       "w": 160,
        "at": 6,
        "text": "📍",
-       "fs": 150
+       "fs": 110,
+       "in": "left"
       },
       {
        "id": "k2_1",
        "type": "prop",
        "kind": "chip",
-       "x": 78,
-       "y": 70,
-       "w": 420,
+       "x": 85,
+       "y": 26,
+       "w": 360,
        "at": 10,
+       "in": "right",
        "text": "1.000 EUROS",
        "c": "w",
        "rot": 5
@@ -176,19 +162,32 @@
        "id": "k2_2",
        "type": "prop",
        "kind": "emo",
-       "x": 80,
-       "y": 36,
-       "w": 220,
+       "x": 14,
+       "y": 89,
+       "w": 160,
        "at": 11,
        "text": "💶",
-       "fs": 150
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k2_3",
+       "type": "prop",
+       "kind": "chip",
+       "x": 86,
+       "y": 88,
+       "w": 360,
+       "at": 16,
+       "in": "right",
+       "text": "4.400",
+       "c": "r",
+       "rot": 7
       }
      ],
      "hide": [
       "b1",
       "k1_0",
-      "k1_1",
-      "k1_2"
+      "k1_1"
      ],
      "bg": "noche"
     },
@@ -205,27 +204,30 @@
        "at": 0,
        "n": "5.500 €",
        "text": "DIPUTADO DE PROVINCIAS",
-       "color": "gold"
+       "color": "gold",
+       "in": "zoom"
       },
       {
        "id": "k3_0",
        "type": "prop",
        "kind": "emo",
-       "x": 20,
-       "y": 33,
-       "w": 220,
+       "x": 15,
+       "y": 25,
+       "w": 160,
        "at": 4,
        "text": "📍",
-       "fs": 150
+       "fs": 110,
+       "in": "left"
       },
       {
        "id": "k3_1",
        "type": "prop",
        "kind": "chip",
-       "x": 50,
-       "y": 28,
-       "w": 420,
+       "x": 85,
+       "y": 26,
+       "w": 360,
        "at": 9,
+       "in": "right",
        "text": "2.100",
        "c": "w",
        "rot": 5
@@ -234,10 +236,11 @@
        "id": "k3_2",
        "type": "prop",
        "kind": "chip",
-       "x": 20,
-       "y": 33,
-       "w": 420,
+       "x": 14,
+       "y": 89,
+       "w": 360,
        "at": 12,
+       "in": "left",
        "text": "5.500",
        "c": "b",
        "rot": -3
@@ -247,7 +250,8 @@
       "b2",
       "k2_0",
       "k2_1",
-      "k2_2"
+      "k2_2",
+      "k2_3"
      ],
      "bg": "noche"
     },
@@ -264,27 +268,30 @@
        "at": 0,
        "n": "47.137 €",
        "text": "AL AÑO, SOLO EL SUELDO BASE",
-       "color": ""
+       "color": "",
+       "in": "left"
       },
       {
        "id": "k4_0",
        "type": "prop",
        "kind": "emo",
-       "x": 80,
-       "y": 36,
-       "w": 220,
+       "x": 15,
+       "y": 25,
+       "w": 160,
        "at": 4,
        "text": "💰",
-       "fs": 150
+       "fs": 110,
+       "in": "left"
       },
       {
        "id": "k4_1",
        "type": "prop",
        "kind": "chip",
-       "x": 20,
-       "y": 33,
-       "w": 420,
+       "x": 85,
+       "y": 26,
+       "w": 360,
        "at": 10,
+       "in": "right",
        "text": "47.000 EUROS",
        "c": "w",
        "rot": 5
@@ -293,12 +300,13 @@
        "id": "k4_2",
        "type": "prop",
        "kind": "emo",
-       "x": 78,
-       "y": 70,
-       "w": 220,
+       "x": 14,
+       "y": 89,
+       "w": 160,
        "at": 11,
        "text": "💶",
-       "fs": 150
+       "fs": 110,
+       "in": "left"
       }
      ],
      "hide": [
@@ -319,7 +327,8 @@
        "y": 60,
        "w": 860,
        "at": 0,
-       "luz": true
+       "luz": true,
+       "in": "right"
       },
       {
        "id": "b5",
@@ -328,32 +337,35 @@
        "x": 50,
        "y": 86,
        "w": 1000,
-       "at": 0,
+       "at": 3,
        "n": "+",
        "text": "CARGOS: COMPLEMENTOS EXTRA",
-       "color": "gold"
+       "color": "gold",
+       "in": "down"
       },
       {
        "id": "k5_0",
        "type": "prop",
        "kind": "emo",
-       "x": 22,
-       "y": 72,
-       "w": 220,
+       "x": 15,
+       "y": 25,
+       "w": 160,
        "at": 10,
        "text": "🏛️",
-       "fs": 150
+       "fs": 110,
+       "in": "left"
       },
       {
        "id": "k5_1",
        "type": "prop",
        "kind": "emo",
-       "x": 78,
-       "y": 70,
-       "w": 220,
+       "x": 85,
+       "y": 26,
+       "w": 160,
        "at": 11,
        "text": "💰",
-       "fs": 150
+       "fs": 110,
+       "in": "right"
       }
      ],
      "hide": [
