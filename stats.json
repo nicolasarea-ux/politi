@@ -2,18 +2,18 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 45,
-  "media_count": 159,
+  "media_count": 160,
   "id": "29046307255021601"
  },
  "reels": [
   {
-   "id": "slp_173_top5_semana",
-   "ig": "17877838548636270",
-   "fecha": "2026-11-22T00:16:05+0000",
+   "id": "slp_174_sanchez_impuesto_banca",
+   "ig": "17899489839416049",
+   "fecha": "2026-11-22T08:00:33+0000",
    "likes": 0,
    "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DgBftJWjWX1/",
-   "titulo": "Top 5 de la semana 👀\n\nLos cinco momentos que más han dado qu",
+   "url": "https://www.instagram.com/reel/DgCU282FZRd/",
+   "titulo": "La banca, a pagar vivienda 🏠\n\nSánchez anuncia que el impuest",
    "views": 0,
    "reach": 0,
    "saved": 0,
@@ -23,36 +23,52 @@
    "ig_reels_video_view_total_time": 0
   },
   {
+   "id": "slp_173_top5_semana",
+   "ig": "17877838548636270",
+   "fecha": "2026-11-22T00:16:05+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DgBftJWjWX1/",
+   "titulo": "Top 5 de la semana 👀\n\nLos cinco momentos que más han dado qu",
+   "views": 120,
+   "reach": 110,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 6997,
+   "ig_reels_video_view_total_time": 769739
+  },
+  {
    "id": "slp_172_abascal_debate",
    "ig": "18039085286852611",
    "fecha": "2026-11-21T20:00:33+0000",
-   "likes": 1,
+   "likes": 3,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgBCdfEjQot/",
    "titulo": "Abascal: «cuando no estoy» 👀\n\nAbascal no estuvo en el cara a",
-   "views": 774,
-   "reach": 668,
+   "views": 1262,
+   "reach": 1079,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 1,
-   "ig_reels_avg_watch_time": 10888,
-   "ig_reels_video_view_total_time": 7197043
+   "total_interactions": 3,
+   "ig_reels_avg_watch_time": 11740,
+   "ig_reels_video_view_total_time": 12844143
   },
   {
    "id": "?",
    "ig": "18031158137869192",
    "fecha": "2026-11-21T20:00:31+0000",
-   "likes": 0,
+   "likes": 4,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgBCdkKD80f/",
    "titulo": "Abascal: «cuando no estoy» 👀\n\nAbascal no estuvo en el cara a",
-   "views": 158,
-   "reach": 138,
+   "views": 1327,
+   "reach": 1102,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 0,
-   "ig_reels_avg_watch_time": 7787,
-   "ig_reels_video_view_total_time": 1074664
+   "total_interactions": 4,
+   "ig_reels_avg_watch_time": 12375,
+   "ig_reels_video_view_total_time": 13687145
   },
   {
    "id": "slp_171_bulos_campana",
@@ -94,13 +110,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgAZVMMAgLi/",
    "titulo": "¿Y si nadie llega a 176? 👀\n\nEl 29 de noviembre votas. Pero e",
-   "views": 159,
-   "reach": 145,
+   "views": 167,
+   "reach": 152,
    "saved": 1,
    "shares": 0,
    "total_interactions": 3,
-   "ig_reels_avg_watch_time": 8413,
-   "ig_reels_video_view_total_time": 1219900
+   "ig_reels_avg_watch_time": 8150,
+   "ig_reels_video_view_total_time": 1238829
   },
   {
    "id": "slp_169_si_nadie_176",
@@ -110,13 +126,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgAZRKeCsCp/",
    "titulo": "¿Y si nadie llega a 176? 👀\n\nEl 29 de noviembre votas. Pero e",
-   "views": 171,
-   "reach": 150,
+   "views": 177,
+   "reach": 154,
    "saved": 2,
    "shares": 0,
    "total_interactions": 3,
-   "ig_reels_avg_watch_time": 13176,
-   "ig_reels_video_view_total_time": 1963293
+   "ig_reels_avg_watch_time": 13023,
+   "ig_reels_video_view_total_time": 2005642
   },
   {
    "id": "slp_168_voto_correo",
@@ -139,16 +155,16 @@
    "ig": "18093255689256967",
    "fecha": "2026-11-21T10:55:53+0000",
    "likes": 3,
-   "comentarios": 2,
+   "comentarios": 3,
    "url": "https://www.instagram.com/reel/DgAEIcZkYKW/",
    "titulo": "La canción de la campaña 👀\n\nUna frase del PP contra Sánchez ",
-   "views": 246,
-   "reach": 213,
+   "views": 318,
+   "reach": 267,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 5,
-   "ig_reels_avg_watch_time": 14149,
-   "ig_reels_video_view_total_time": 3013784
+   "total_interactions": 6,
+   "ig_reels_avg_watch_time": 14922,
+   "ig_reels_video_view_total_time": 4028952
   },
   {
    "id": "slp_166_paradoja_encuesta",
@@ -158,13 +174,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgACNRanLTO/",
    "titulo": "La paradoja del 29-N 👀\n\nLos españoles prefieren a Sánchez co",
-   "views": 167,
-   "reach": 149,
+   "views": 180,
+   "reach": 159,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 13774,
-   "ig_reels_video_view_total_time": 2038668
+   "ig_reels_avg_watch_time": 13779,
+   "ig_reels_video_view_total_time": 2177188
   },
   {
    "id": "slp_165_debate_30s",
@@ -238,13 +254,13 @@
    "comentarios": 2,
    "url": "https://www.instagram.com/reel/Df-CM8vlUZK/",
    "titulo": "Reto: verificadores 👀\n\nEn pleno debate, Sánchez lanzó un ret",
-   "views": 871,
-   "reach": 766,
-   "saved": 3,
+   "views": 872,
+   "reach": 767,
+   "saved": 2,
    "shares": 0,
-   "total_interactions": 13,
-   "ig_reels_avg_watch_time": 15290,
-   "ig_reels_video_view_total_time": 11972693
+   "total_interactions": 12,
+   "ig_reels_avg_watch_time": 15273,
+   "ig_reels_video_view_total_time": 11974729
   },
   {
    "id": "slp_161_quien_gano_medios",
@@ -1022,7 +1038,7 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dft8O3-jan9/",
    "titulo": "¿Te parece bien? 👇\n\nJordi Wild aprieta a Ada Colau (Frente A",
-   "views": 1820,
+   "views": 1822,
    "reach": 1372,
    "saved": 1,
    "shares": 0,
@@ -1589,22 +1605,6 @@
    "total_interactions": 48,
    "ig_reels_avg_watch_time": 14144,
    "ig_reels_video_view_total_time": 41626335
-  },
-  {
-   "id": "slp_075_abascal_deconstruir",
-   "ig": "18189949708425814",
-   "fecha": "2026-11-10T01:15:32+0000",
-   "likes": 14,
-   "comentarios": 6,
-   "url": "https://www.instagram.com/reel/Dfis-KrnS5B/",
-   "titulo": "¿Quién tenía razón: Abascal o Broncano? 👇\n\nEl choque más com",
-   "views": 2993,
-   "reach": 2482,
-   "saved": 3,
-   "shares": 0,
-   "total_interactions": 25,
-   "ig_reels_avg_watch_time": 16662,
-   "ig_reels_video_view_total_time": 41472367
   }
  ]
 }
