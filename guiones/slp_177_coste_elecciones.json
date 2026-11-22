@@ -49,6 +49,28 @@
        "habla": false,
        "cara": "sonrie",
        "gesto": "manos"
+      },
+      {
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 22,
+       "y": 72,
+       "w": 220,
+       "at": 3,
+       "text": "🗳️",
+       "fs": 150
+      },
+      {
+       "id": "k0_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 78,
+       "y": 70,
+       "w": 220,
+       "at": 8,
+       "text": "🎯",
+       "fs": 150
       }
      ],
      "hide": []
@@ -67,11 +89,46 @@
        "n": "0,81 €",
        "text": "POR VOTO AL CONGRESO",
        "color": "gold"
+      },
+      {
+       "id": "k1_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 78,
+       "y": 70,
+       "w": 220,
+       "at": 6,
+       "text": "🗳️",
+       "fs": 150
+      },
+      {
+       "id": "k1_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 28,
+       "w": 220,
+       "at": 8,
+       "text": "🏛️",
+       "fs": 150
+      },
+      {
+       "id": "k1_2",
+       "type": "prop",
+       "kind": "emo",
+       "x": 20,
+       "y": 33,
+       "w": 220,
+       "at": 11,
+       "text": "💺",
+       "fs": 150
       }
      ],
      "hide": [
       "u0",
-      "m0"
+      "m0",
+      "k0_0",
+      "k0_1"
      ],
      "bg": "noche"
     },
@@ -89,10 +146,36 @@
        "n": "21.167 €",
        "text": "POR CADA ESCAÑO",
        "color": ""
+      },
+      {
+       "id": "k2_0",
+       "type": "prop",
+       "kind": "chip",
+       "x": 22,
+       "y": 72,
+       "w": 420,
+       "at": 10,
+       "text": "21.000 EUROS",
+       "c": "",
+       "rot": -6
+      },
+      {
+       "id": "k2_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 20,
+       "y": 33,
+       "w": 220,
+       "at": 11,
+       "text": "💶",
+       "fs": 150
       }
      ],
      "hide": [
-      "b1"
+      "b1",
+      "k1_0",
+      "k1_1",
+      "k1_2"
      ],
      "bg": "noche"
     },
@@ -110,10 +193,35 @@
        "n": "279 M€",
        "text": "LO QUE CUESTAN UNAS GENERALES",
        "color": "gold"
+      },
+      {
+       "id": "k3_0",
+       "type": "prop",
+       "kind": "chip",
+       "x": 78,
+       "y": 70,
+       "w": 420,
+       "at": 5,
+       "text": "279 MILLONES",
+       "c": "",
+       "rot": -6
+      },
+      {
+       "id": "k3_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 80,
+       "y": 36,
+       "w": 220,
+       "at": 8,
+       "text": "💶",
+       "fs": 150
       }
      ],
      "hide": [
-      "b2"
+      "b2",
+      "k2_0",
+      "k2_1"
      ]
     },
     {
@@ -130,10 +238,46 @@
        "n": "75 €",
        "text": "POR SER MIEMBRO DE MESA",
        "color": ""
+      },
+      {
+       "id": "k4_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 80,
+       "y": 36,
+       "w": 220,
+       "at": 1,
+       "text": "✉️",
+       "fs": 150
+      },
+      {
+       "id": "k4_1",
+       "type": "prop",
+       "kind": "chip",
+       "x": 20,
+       "y": 33,
+       "w": 420,
+       "at": 6,
+       "text": "100 MILLONES",
+       "c": "w",
+       "rot": 5
+      },
+      {
+       "id": "k4_2",
+       "type": "prop",
+       "kind": "emo",
+       "x": 78,
+       "y": 70,
+       "w": 220,
+       "at": 13,
+       "text": "💰",
+       "fs": 150
       }
      ],
      "hide": [
-      "b3"
+      "b3",
+      "k3_0",
+      "k3_1"
      ],
      "bg": "noche"
     },
@@ -160,10 +304,47 @@
        "n": "400 M",
        "text": "PAPELETAS",
        "color": "gold"
+      },
+      {
+       "id": "k5_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 22,
+       "y": 72,
+       "w": 220,
+       "at": 3,
+       "text": "📄",
+       "fs": 150
+      },
+      {
+       "id": "k5_1",
+       "type": "prop",
+       "kind": "chip",
+       "x": 80,
+       "y": 36,
+       "w": 420,
+       "at": 7,
+       "text": "200.000",
+       "c": "w",
+       "rot": 5
+      },
+      {
+       "id": "k5_2",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 28,
+       "w": 220,
+       "at": 8,
+       "text": "🗳️",
+       "fs": 150
       }
      ],
      "hide": [
-      "b4"
+      "b4",
+      "k4_0",
+      "k4_1",
+      "k4_2"
      ]
     }
    ]
@@ -216,7 +397,10 @@
      ],
      "hide": [
       "u5",
-      "b5"
+      "b5",
+      "k5_0",
+      "k5_1",
+      "k5_2"
      ]
     }
    ]

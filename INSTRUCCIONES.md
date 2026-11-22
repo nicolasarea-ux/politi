@@ -199,3 +199,4 @@ Todos los reels nuevos se hacen con `engine/mk_cine.py` (guion con "estilo": "ci
 - Más dinamismo y más elementos: algo nuevo en pantalla cada 1-2 s. Herramientas: HEMI (hemiciclo que se llena), BIG (cifra grande blanca/dorada/roja, fs para textos largos), XM (X roja), SELLO, MED (medida dorada), EDI (Congreso), URNA, monigotes pequeños en el suelo (w 200-360).
 - Guion: gancho tipo "¿Qué pasaría si…?" / "¿Qué pasa de verdad si…?", giro (MITO / pero…), cifras concretas, remate, pregunta para comentar.
 - Transiciones sin desenfoque (quitado el blur del latigazo).
+- DOPAMINA (22-11, petición de Nicks): nunca pantalla quieta. mk_cine añade solo chips (cifras) y emojis que saltan en la palabra exacta; el fondo tiene partículas y nubes en movimiento; las cifras laten. Además, cada explicación con su visual propio (BARRAS con umbral que sube, HEMI, MED…), no solo texto.

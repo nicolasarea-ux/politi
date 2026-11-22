@@ -49,6 +49,28 @@
        "habla": false,
        "cara": "duda",
        "gesto": "manos"
+      },
+      {
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 22,
+       "y": 72,
+       "w": 220,
+       "at": 5,
+       "text": "🗳️",
+       "fs": 150
+      },
+      {
+       "id": "k0_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 78,
+       "y": 70,
+       "w": 220,
+       "at": 7,
+       "text": "⬜",
+       "fs": 150
       }
      ],
      "hide": []
@@ -76,11 +98,46 @@
        "habla": false,
        "cara": "duda",
        "gesto": "manos"
+      },
+      {
+       "id": "k1_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 78,
+       "y": 70,
+       "w": 220,
+       "at": 7,
+       "text": "🗳️",
+       "fs": 150
+      },
+      {
+       "id": "k1_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 28,
+       "w": 220,
+       "at": 9,
+       "text": "⬜",
+       "fs": 150
+      },
+      {
+       "id": "k1_2",
+       "type": "prop",
+       "kind": "emo",
+       "x": 20,
+       "y": 33,
+       "w": 220,
+       "at": 14,
+       "text": "🎯",
+       "fs": 150
       }
      ],
      "hide": [
       "u0",
-      "m0"
+      "m0",
+      "k0_0",
+      "k0_1"
      ],
      "bg": "noche"
     },
@@ -107,11 +164,25 @@
        "y": 50,
        "w": 520,
        "at": 0
+      },
+      {
+       "id": "k2_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 28,
+       "w": 220,
+       "at": 2,
+       "text": "❌",
+       "fs": 150
       }
      ],
      "hide": [
       "u1",
-      "m1"
+      "m1",
+      "k1_0",
+      "k1_1",
+      "k1_2"
      ],
      "bg": "rojo"
     },
@@ -129,11 +200,54 @@
        "n": "3 %",
        "text": "BARRERA EN TU PROVINCIA",
        "color": "gold"
+      },
+      {
+       "id": "u3",
+       "type": "prop",
+       "kind": "urna",
+       "x": 50,
+       "y": 80,
+       "w": 300,
+       "at": 0
+      },
+      {
+       "id": "k3_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 20,
+       "y": 33,
+       "w": 220,
+       "at": 1,
+       "text": "🗳️",
+       "fs": 150
+      },
+      {
+       "id": "k3_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 80,
+       "y": 36,
+       "w": 220,
+       "at": 3,
+       "text": "⬜",
+       "fs": 150
+      },
+      {
+       "id": "k3_2",
+       "type": "prop",
+       "kind": "emo",
+       "x": 22,
+       "y": 72,
+       "w": 220,
+       "at": 11,
+       "text": "🎯",
+       "fs": 150
       }
      ],
      "hide": [
       "b2",
-      "x2"
+      "x2",
+      "k2_0"
      ],
      "bg": "noche"
     },
@@ -141,20 +255,80 @@
      "text": "Si un partido pequeño no llega a ese 3 por ciento, se queda fuera. Y el voto en blanco hace esa barrera más alta.",
      "show": [
       {
-       "id": "m4",
+       "id": "br4",
        "type": "prop",
-       "kind": "medida",
+       "kind": "barras",
        "x": 50,
-       "y": 50,
-       "w": 960,
+       "y": 52,
+       "w": 940,
        "at": 0,
-       "l1": "3 % DE LOS VOTOS VÁLIDOS",
-       "l2": "CON MÁS BLANCOS, MÁS ALTA",
-       "f": 1.0
+       "bars": [
+        {
+         "l": "A",
+         "v": 40,
+         "c": "#1D84CE"
+        },
+        {
+         "l": "B",
+         "v": 33,
+         "c": "#E1251B"
+        },
+        {
+         "l": "C",
+         "v": 9,
+         "c": "#5DAA2B"
+        },
+        {
+         "l": "D",
+         "v": 3.1,
+         "c": "#9B59B6"
+        }
+       ],
+       "t0": 2.6,
+       "t1": 3.4,
+       "lab": "3 %"
+      },
+      {
+       "id": "k4_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 80,
+       "y": 36,
+       "w": 220,
+       "at": 2,
+       "text": "🎯",
+       "fs": 150
+      },
+      {
+       "id": "k4_1",
+       "type": "prop",
+       "kind": "chip",
+       "x": 20,
+       "y": 33,
+       "w": 420,
+       "at": 8,
+       "text": "3 %",
+       "c": "w",
+       "rot": 5
+      },
+      {
+       "id": "k4_2",
+       "type": "prop",
+       "kind": "emo",
+       "x": 78,
+       "y": 70,
+       "w": 220,
+       "at": 9,
+       "text": "📊",
+       "fs": 150
       }
      ],
      "hide": [
-      "b3"
+      "b3",
+      "u3",
+      "k3_0",
+      "k3_1",
+      "k3_2"
      ],
      "bg": "noche"
     },
@@ -172,10 +346,35 @@
        "n": "NULO = 0",
        "text": "ABSTENCIÓN = 0",
        "color": ""
+      },
+      {
+       "id": "k5_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 22,
+       "y": 72,
+       "w": 220,
+       "at": 2,
+       "text": "🗳️",
+       "fs": 150
+      },
+      {
+       "id": "k5_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 78,
+       "y": 70,
+       "w": 220,
+       "at": 3,
+       "text": "🚫",
+       "fs": 150
       }
      ],
      "hide": [
-      "m4"
+      "br4",
+      "k4_0",
+      "k4_1",
+      "k4_2"
      ]
     },
     {
@@ -201,10 +400,23 @@
        "habla": false,
        "cara": "sonrie",
        "gesto": "manos"
+      },
+      {
+       "id": "k6_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 78,
+       "y": 70,
+       "w": 220,
+       "at": 3,
+       "text": "⬜",
+       "fs": 150
       }
      ],
      "hide": [
-      "b5"
+      "b5",
+      "k5_0",
+      "k5_1"
      ]
     }
    ]
@@ -257,7 +469,8 @@
      ],
      "hide": [
       "u6",
-      "m6"
+      "m6",
+      "k6_0"
      ]
     }
    ]

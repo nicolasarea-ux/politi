@@ -50,6 +50,28 @@
        "habla": false,
        "cara": "duda",
        "gesto": "manos"
+      },
+      {
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 22,
+       "y": 72,
+       "w": 220,
+       "at": 1,
+       "text": "💰",
+       "fs": 150
+      },
+      {
+       "id": "k0_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 78,
+       "y": 70,
+       "w": 220,
+       "at": 8,
+       "text": "🗳️",
+       "fs": 150
       }
      ],
      "hide": []
@@ -68,11 +90,47 @@
        "n": "3.366 €",
        "text": "AL MES · 14 PAGAS",
        "color": "gold"
+      },
+      {
+       "id": "k1_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 78,
+       "y": 70,
+       "w": 220,
+       "at": 1,
+       "text": "💰",
+       "fs": 150
+      },
+      {
+       "id": "k1_1",
+       "type": "prop",
+       "kind": "chip",
+       "x": 22,
+       "y": 72,
+       "w": 420,
+       "at": 3,
+       "text": "3.366 EUROS",
+       "c": "w",
+       "rot": 5
+      },
+      {
+       "id": "k1_2",
+       "type": "prop",
+       "kind": "emo",
+       "x": 20,
+       "y": 33,
+       "w": 220,
+       "at": 4,
+       "text": "💶",
+       "fs": 150
       }
      ],
      "hide": [
       "e0",
-      "m0"
+      "m0",
+      "k0_0",
+      "k0_1"
      ],
      "bg": "noche"
     },
@@ -90,10 +148,47 @@
        "n": "4.400 €",
        "text": "DIPUTADO DE MADRID",
        "color": ""
+      },
+      {
+       "id": "k2_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 28,
+       "w": 220,
+       "at": 6,
+       "text": "📍",
+       "fs": 150
+      },
+      {
+       "id": "k2_1",
+       "type": "prop",
+       "kind": "chip",
+       "x": 78,
+       "y": 70,
+       "w": 420,
+       "at": 10,
+       "text": "1.000 EUROS",
+       "c": "w",
+       "rot": 5
+      },
+      {
+       "id": "k2_2",
+       "type": "prop",
+       "kind": "emo",
+       "x": 80,
+       "y": 36,
+       "w": 220,
+       "at": 11,
+       "text": "💶",
+       "fs": 150
       }
      ],
      "hide": [
-      "b1"
+      "b1",
+      "k1_0",
+      "k1_1",
+      "k1_2"
      ],
      "bg": "noche"
     },
@@ -111,10 +206,48 @@
        "n": "5.500 €",
        "text": "DIPUTADO DE PROVINCIAS",
        "color": "gold"
+      },
+      {
+       "id": "k3_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 20,
+       "y": 33,
+       "w": 220,
+       "at": 4,
+       "text": "📍",
+       "fs": 150
+      },
+      {
+       "id": "k3_1",
+       "type": "prop",
+       "kind": "chip",
+       "x": 50,
+       "y": 28,
+       "w": 420,
+       "at": 9,
+       "text": "2.100",
+       "c": "w",
+       "rot": 5
+      },
+      {
+       "id": "k3_2",
+       "type": "prop",
+       "kind": "chip",
+       "x": 20,
+       "y": 33,
+       "w": 420,
+       "at": 12,
+       "text": "5.500",
+       "c": "b",
+       "rot": -3
       }
      ],
      "hide": [
-      "b2"
+      "b2",
+      "k2_0",
+      "k2_1",
+      "k2_2"
      ],
      "bg": "noche"
     },
@@ -132,10 +265,47 @@
        "n": "47.137 €",
        "text": "AL AÑO, SOLO EL SUELDO BASE",
        "color": ""
+      },
+      {
+       "id": "k4_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 80,
+       "y": 36,
+       "w": 220,
+       "at": 4,
+       "text": "💰",
+       "fs": 150
+      },
+      {
+       "id": "k4_1",
+       "type": "prop",
+       "kind": "chip",
+       "x": 20,
+       "y": 33,
+       "w": 420,
+       "at": 10,
+       "text": "47.000 EUROS",
+       "c": "w",
+       "rot": 5
+      },
+      {
+       "id": "k4_2",
+       "type": "prop",
+       "kind": "emo",
+       "x": 78,
+       "y": 70,
+       "w": 220,
+       "at": 11,
+       "text": "💶",
+       "fs": 150
       }
      ],
      "hide": [
-      "b3"
+      "b3",
+      "k3_0",
+      "k3_1",
+      "k3_2"
      ]
     },
     {
@@ -162,10 +332,35 @@
        "n": "+",
        "text": "CARGOS: COMPLEMENTOS EXTRA",
        "color": "gold"
+      },
+      {
+       "id": "k5_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 22,
+       "y": 72,
+       "w": 220,
+       "at": 10,
+       "text": "🏛️",
+       "fs": 150
+      },
+      {
+       "id": "k5_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 78,
+       "y": 70,
+       "w": 220,
+       "at": 11,
+       "text": "💰",
+       "fs": 150
       }
      ],
      "hide": [
-      "b4"
+      "b4",
+      "k4_0",
+      "k4_1",
+      "k4_2"
      ]
     }
    ]
@@ -218,7 +413,9 @@
      ],
      "hide": [
       "e5",
-      "b5"
+      "b5",
+      "k5_0",
+      "k5_1"
      ]
     }
    ]

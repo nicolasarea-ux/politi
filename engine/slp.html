@@ -59,6 +59,14 @@ html,body{width:1080px;height:1920px;overflow:hidden;background:var(--paper);col
 
 
 
+
+#amb{position:absolute;inset:0;pointer-events:none;z-index:1;display:none}
+.cine #amb{display:block}
+#amb i{position:absolute;border-radius:50%;background:rgba(255,255,255,.75);box-shadow:0 0 12px rgba(255,255,255,.8)}
+#amb b{position:absolute;width:520px;height:120px;border-radius:120px;background:rgba(255,255,255,.07);filter:blur(18px)}
+.chip{display:inline-block;padding:14px 30px;border-radius:999px;font:900 52px/1 I;color:#0B1230;background:#FFC94A;box-shadow:0 10px 30px rgba(0,0,0,.35);white-space:nowrap}
+.chip.w{background:#fff}.chip.r{background:#FF4D5E;color:#fff}.chip.b{background:#2C7BE5;color:#fff}.chip.g{background:#5DAA2B;color:#fff}
+.emo2{font-size:150px;line-height:1;filter:drop-shadow(0 10px 20px rgba(0,0,0,.35))}
 /* ===== ESTILO CINE (ref. vídeos tipo explicador): escenas a sangre, subtítulo arriba ===== */
 body.cine{--ink:#F4F6FB;--paper:#1A2A55;--card:rgba(255,255,255,.08);--mark:#FFC94A;--red:#FF4D5E;--rule:transparent}
 .cine #hdr,.cine #src,.cine #clauses,.cine #prog,.cine #margin{display:none!important}
@@ -139,7 +147,7 @@ body.th-pixel{--ink:#F7F1FF;--paper:#1A0F3A;--card:#2B1B5E;--mark:#39FF14;--red:
 <body><div id="stage"><div id="bgfx"></div><div id="margin"></div>
 <div id="hdr"><div id="htag"></div><div id="hand"><span id="handle">@politizatehoy</span><span id="ast"></span></div></div>
 <div id="src"></div><div id="clauses"></div><div id="prog"><i></i></div>
-<div id="cinehandle">@politizatehoy</div><div id="els"></div><div id="caps"></div><div id="follow"></div><div id="endc"></div><div id="nudge"></div></div>
+<div id="amb"></div><div id="cinehandle">@politizatehoy</div><div id="els"></div><div id="caps"></div><div id="follow"></div><div id="endc"></div><div id="nudge"></div></div>
 <script src="monos.js"></script>
 <script src="props.js"></script>
 <script>
@@ -347,6 +355,10 @@ else if(e.type==='mono'){const fr=e.from?(e.from==='left'?-1:1):0;if(fr){const q
   const lg=n.querySelector('.lg');if(lg)lg.style.transform=`rotate(${a*60}deg)`;
  })));
  let kk=0;sc.forEach(s2=>s2.segments.forEach(g=>g.show.forEach(e=>{if(t>=e.t&&t<e.t+0.35)kk=Math.max(kk,1-(t-e.t)/0.35)})));
+
+ if(document.body.classList.contains('cine')){const A=document.getElementById('amb');if(!A.dataset.ok){let h='';for(let k=0;k<34;k++)h+=`<i data-k="${k}"></i>`;for(let k=0;k<3;k++)h+=`<b data-c="${k}"></b>`;A.innerHTML=h;A.dataset.ok=1}
+  A.querySelectorAll('i').forEach(p=>{const k=+p.dataset.k;const sp=18+(k*37%40);const x=(k*97%100)+Math.sin(t*0.6+k)*2;const y=110-((t*sp/10+k*31)%120);const r=3+(k%4)*2;p.style.left=x+'%';p.style.top=y+'%';p.style.width=p.style.height=r+'px';p.style.opacity=(0.25+0.6*Math.abs(Math.sin(t*1.3+k)))*(document.body.classList.contains('th-dia')?0.5:1)});
+  A.querySelectorAll('b').forEach(c=>{const k=+c.dataset.c;c.style.left=(((t*14+k*420)%1700)-500)+'px';c.style.top=(360+k*260)+'px'})}
  document.getElementById('bgfx').style.transform=`translate(${Math.sin(t*0.35)*120}px,${Math.cos(t*0.27)*90}px)`;
  { // CÁMARA v2: punch-in en cada segmento, encuadre hacia quien habla, latigazo (whip) entre segmentos
   const segs=S.segments;let gi=segs.findIndex(g=>t<g.t1);if(gi<0)gi=segs.length-1;const G=segs[gi];
