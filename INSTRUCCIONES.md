@@ -200,3 +200,4 @@ Todos los reels nuevos se hacen con `engine/mk_cine.py` (guion con "estilo": "ci
 - Guion: gancho tipo "¿Qué pasaría si…?" / "¿Qué pasa de verdad si…?", giro (MITO / pero…), cifras concretas, remate, pregunta para comentar.
 - Transiciones sin desenfoque (quitado el blur del latigazo).
 - DOPAMINA (22-11, petición de Nicks): nunca pantalla quieta. mk_cine añade solo chips (cifras) y emojis que saltan en la palabra exacta; el fondo tiene partículas y nubes en movimiento; las cifras laten. Además, cada explicación con su visual propio (BARRAS con umbral que sube, HEMI, MED…), no solo texto.
+- APROBADO POR NICKS (22-11, 21:48): estilo cine v3 = estándar para TODO. Transiciones encadenadas (PRE 0,35 s: lo nuevo entra mientras lo viejo sale), entradas desde el borde más cercano con rebote, lo secundario entra cuando lo principal ya está quieto, emojis/chips solo en esquinas, flash suave al cambiar de fondo. Ritmo: 4 reels/día (09, 14, 20, 23) hasta el 29-N.
