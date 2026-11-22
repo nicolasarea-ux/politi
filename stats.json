@@ -2,18 +2,18 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 45,
-  "media_count": 153,
+  "media_count": 159,
   "id": "29046307255021601"
  },
  "reels": [
   {
-   "id": "slp_169_si_nadie_176",
-   "ig": "18148475371588779",
-   "fecha": "2026-11-21T14:00:32+0000",
+   "id": "slp_173_top5_semana",
+   "ig": "17877838548636270",
+   "fecha": "2026-11-22T00:16:05+0000",
    "likes": 0,
    "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DgAZRKeCsCp/",
-   "titulo": "¿Y si nadie llega a 176? 👀\n\nEl 29 de noviembre votas. Pero e",
+   "url": "https://www.instagram.com/reel/DgBftJWjWX1/",
+   "titulo": "Top 5 de la semana 👀\n\nLos cinco momentos que más han dado qu",
    "views": 0,
    "reach": 0,
    "saved": 0,
@@ -23,6 +23,102 @@
    "ig_reels_video_view_total_time": 0
   },
   {
+   "id": "slp_172_abascal_debate",
+   "ig": "18039085286852611",
+   "fecha": "2026-11-21T20:00:33+0000",
+   "likes": 1,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DgBCdfEjQot/",
+   "titulo": "Abascal: «cuando no estoy» 👀\n\nAbascal no estuvo en el cara a",
+   "views": 774,
+   "reach": 668,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 1,
+   "ig_reels_avg_watch_time": 10888,
+   "ig_reels_video_view_total_time": 7197043
+  },
+  {
+   "id": "?",
+   "ig": "18031158137869192",
+   "fecha": "2026-11-21T20:00:31+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DgBCdkKD80f/",
+   "titulo": "Abascal: «cuando no estoy» 👀\n\nAbascal no estuvo en el cara a",
+   "views": 158,
+   "reach": 138,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 7787,
+   "ig_reels_video_view_total_time": 1074664
+  },
+  {
+   "id": "slp_171_bulos_campana",
+   "ig": "18397373671165750",
+   "fecha": "2026-11-21T18:00:32+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DgA0vDpAqJC/",
+   "titulo": "¿Lo has visto? Es falso 👀\n\nSi has visto un vídeo de un carte",
+   "views": 109,
+   "reach": 106,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 4710,
+   "ig_reels_video_view_total_time": 499342
+  },
+  {
+   "id": "slp_170_feijoo_cristiano",
+   "ig": "17958344094330047",
+   "fecha": "2026-11-21T16:03:15+0000",
+   "likes": 1,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DgAnRxjElHM/",
+   "titulo": "Feijóo, ¿Cristiano Ronaldo? 👀\n\nEl vídeo más viral de un part",
+   "views": 123,
+   "reach": 112,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 1,
+   "ig_reels_avg_watch_time": 7462,
+   "ig_reels_video_view_total_time": 820897
+  },
+  {
+   "id": "?",
+   "ig": "17966583777082150",
+   "fecha": "2026-11-21T14:01:33+0000",
+   "likes": 2,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DgAZVMMAgLi/",
+   "titulo": "¿Y si nadie llega a 176? 👀\n\nEl 29 de noviembre votas. Pero e",
+   "views": 159,
+   "reach": 145,
+   "saved": 1,
+   "shares": 0,
+   "total_interactions": 3,
+   "ig_reels_avg_watch_time": 8413,
+   "ig_reels_video_view_total_time": 1219900
+  },
+  {
+   "id": "slp_169_si_nadie_176",
+   "ig": "18148475371588779",
+   "fecha": "2026-11-21T14:00:32+0000",
+   "likes": 1,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DgAZRKeCsCp/",
+   "titulo": "¿Y si nadie llega a 176? 👀\n\nEl 29 de noviembre votas. Pero e",
+   "views": 171,
+   "reach": 150,
+   "saved": 2,
+   "shares": 0,
+   "total_interactions": 3,
+   "ig_reels_avg_watch_time": 13176,
+   "ig_reels_video_view_total_time": 1963293
+  },
+  {
    "id": "slp_168_voto_correo",
    "ig": "18039030116894213",
    "fecha": "2026-11-21T12:00:47+0000",
@@ -30,29 +126,29 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgALjGAj8Sh/",
    "titulo": "¿Votas por correo? Ojo 👀\n\nSi votas por correo, apúntate esta",
-   "views": 118,
-   "reach": 110,
+   "views": 127,
+   "reach": 117,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 4538,
-   "ig_reels_video_view_total_time": 485580
+   "ig_reels_avg_watch_time": 4536,
+   "ig_reels_video_view_total_time": 521648
   },
   {
    "id": "slp_167_cancion_viral",
    "ig": "18093255689256967",
    "fecha": "2026-11-21T10:55:53+0000",
-   "likes": 2,
+   "likes": 3,
    "comentarios": 2,
    "url": "https://www.instagram.com/reel/DgAEIcZkYKW/",
    "titulo": "La canción de la campaña 👀\n\nUna frase del PP contra Sánchez ",
-   "views": 175,
-   "reach": 148,
+   "views": 246,
+   "reach": 213,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 4,
-   "ig_reels_avg_watch_time": 14469,
-   "ig_reels_video_view_total_time": 2156002
+   "total_interactions": 5,
+   "ig_reels_avg_watch_time": 14149,
+   "ig_reels_video_view_total_time": 3013784
   },
   {
    "id": "slp_166_paradoja_encuesta",
@@ -62,13 +158,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgACNRanLTO/",
    "titulo": "La paradoja del 29-N 👀\n\nLos españoles prefieren a Sánchez co",
-   "views": 151,
-   "reach": 133,
+   "views": 167,
+   "reach": 149,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 13699,
-   "ig_reels_video_view_total_time": 1808341
+   "ig_reels_avg_watch_time": 13774,
+   "ig_reels_video_view_total_time": 2038668
   },
   {
    "id": "slp_165_debate_30s",
@@ -78,13 +174,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df-rZmcDufk/",
    "titulo": "El debate en 30 segundos 👀\n\n¿No viste el debate? En treinta ",
-   "views": 232,
-   "reach": 208,
+   "views": 250,
+   "reach": 226,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 10073,
-   "ig_reels_video_view_total_time": 2095204
+   "ig_reels_avg_watch_time": 9742,
+   "ig_reels_video_view_total_time": 2201745
   },
   {
    "id": "slp_164_frases_para_ti",
@@ -94,13 +190,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df-dqz0E5wB/",
    "titulo": "La frase que va por ti 👀\n\nEn el debate hubo una frase que no",
-   "views": 300,
-   "reach": 269,
+   "views": 331,
+   "reach": 301,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 11159,
-   "ig_reels_video_view_total_time": 2979522
+   "ig_reels_avg_watch_time": 11186,
+   "ig_reels_video_view_total_time": 3333470
   },
   {
    "id": "slp_163_video_ia_satira",
@@ -126,13 +222,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df-P7w4jVpq/",
    "titulo": "Vídeo con IA: ¿vale todo? 👀\n\nEl PP sacó un vídeo hecho con i",
-   "views": 110,
-   "reach": 103,
+   "views": 111,
+   "reach": 104,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 4726,
-   "ig_reels_video_view_total_time": 491590
+   "ig_reels_avg_watch_time": 4705,
+   "ig_reels_video_view_total_time": 494115
   },
   {
    "id": "slp_162_verificadores",
@@ -142,13 +238,13 @@
    "comentarios": 2,
    "url": "https://www.instagram.com/reel/Df-CM8vlUZK/",
    "titulo": "Reto: verificadores 👀\n\nEn pleno debate, Sánchez lanzó un ret",
-   "views": 822,
-   "reach": 721,
+   "views": 871,
+   "reach": 766,
    "saved": 3,
    "shares": 0,
    "total_interactions": 13,
-   "ig_reels_avg_watch_time": 15371,
-   "ig_reels_video_view_total_time": 11343847
+   "ig_reels_avg_watch_time": 15290,
+   "ig_reels_video_view_total_time": 11972693
   },
   {
    "id": "slp_161_quien_gano_medios",
@@ -158,13 +254,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df90kSpDQPo/",
    "titulo": "¿Quién ganó? Depende 👀\n\nFeijóo ganó el debate con un 82 por ",
-   "views": 1188,
-   "reach": 1039,
+   "views": 1192,
+   "reach": 1043,
    "saved": 1,
    "shares": 0,
    "total_interactions": 7,
-   "ig_reels_avg_watch_time": 17966,
-   "ig_reels_video_view_total_time": 18918559
+   "ig_reels_avg_watch_time": 17904,
+   "ig_reels_video_view_total_time": 18925359
   },
   {
    "id": "slp_159_promesas_debate",
@@ -174,13 +270,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df9xVSbHLTY/",
    "titulo": "Lo que te prometieron 👀\n\nAnoche te prometieron un montón de ",
-   "views": 116,
-   "reach": 109,
+   "views": 117,
+   "reach": 111,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 7753,
-   "ig_reels_video_view_total_time": 837362
+   "ig_reels_avg_watch_time": 7692,
+   "ig_reels_video_view_total_time": 838513
   },
   {
    "id": "?",
@@ -190,13 +286,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df9ZHU7FfKH/",
    "titulo": "Inmigración: el choque 👀 #CaraACara\n\nLa inmigración era el p",
-   "views": 249,
-   "reach": 208,
+   "views": 252,
+   "reach": 210,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 13036,
-   "ig_reels_video_view_total_time": 2737567
+   "ig_reels_avg_watch_time": 12920,
+   "ig_reels_video_view_total_time": 2739050
   },
   {
    "id": "slp_158_inmigracion_choque",
@@ -206,13 +302,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df9ZBcbiEeM/",
    "titulo": "Inmigración: problema u oportunidad 👀\n\nFeijóo le soltó a Sán",
-   "views": 816,
-   "reach": 710,
+   "views": 818,
+   "reach": 713,
    "saved": 1,
    "shares": 0,
    "total_interactions": 3,
-   "ig_reels_avg_watch_time": 12083,
-   "ig_reels_video_view_total_time": 8856949
+   "ig_reels_avg_watch_time": 12084,
+   "ig_reels_video_view_total_time": 8882189
   },
   {
    "id": "?",
@@ -238,13 +334,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df9MZBVDQj1/",
    "titulo": "Lo que Sánchez reconoció 👀 #CaraACara\n\nSánchez reconoció dos",
-   "views": 478,
-   "reach": 414,
+   "views": 479,
+   "reach": 415,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 10637,
-   "ig_reels_video_view_total_time": 4414602
+   "ig_reels_avg_watch_time": 10616,
+   "ig_reels_video_view_total_time": 4416562
   },
   {
    "id": "?",
@@ -254,13 +350,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df8evhYleCR/",
    "titulo": "Las 5 frases del debate 👀 #CaraACara\n\nLas cinco frases más f",
-   "views": 246,
-   "reach": 216,
+   "views": 247,
+   "reach": 217,
    "saved": 0,
    "shares": 1,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 13212,
-   "ig_reels_video_view_total_time": 2880228
+   "ig_reels_avg_watch_time": 13158,
+   "ig_reels_video_view_total_time": 2881780
   },
   {
    "id": "slp_157_top5_frases",
@@ -270,13 +366,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df8eoz6FNMD/",
    "titulo": "Las 5 frases del debate 👀 #CaraACara\n\nLas cinco frases más f",
-   "views": 1503,
+   "views": 1504,
    "reach": 1280,
    "saved": 1,
    "shares": 2,
    "total_interactions": 9,
-   "ig_reels_avg_watch_time": 17032,
-   "ig_reels_video_view_total_time": 21972115
+   "ig_reels_avg_watch_time": 17022,
+   "ig_reels_video_view_total_time": 21976649
   },
   {
    "id": "slp_156_vivienda_choque",
@@ -350,13 +446,13 @@
    "comentarios": 2,
    "url": "https://www.instagram.com/reel/Df8S91ijZ1A/",
    "titulo": "«No bailo… pero no robo» 👀 #CaraACara\n\nNo soy un candidato d",
-   "views": 449,
-   "reach": 393,
+   "views": 450,
+   "reach": 394,
    "saved": 0,
    "shares": 0,
    "total_interactions": 8,
-   "ig_reels_avg_watch_time": 12544,
-   "ig_reels_video_view_total_time": 4980007
+   "ig_reels_avg_watch_time": 12515,
+   "ig_reels_video_view_total_time": 4981142
   },
   {
    "id": "slp_151_silencio_feijoo_smi",
@@ -366,13 +462,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df8RIzHGe96/",
    "titulo": "Y Feijóo también se calló 👀 #CaraACara\n\nSánchez se calló una",
-   "views": 1224,
-   "reach": 1060,
+   "views": 1225,
+   "reach": 1061,
    "saved": 1,
    "shares": 0,
    "total_interactions": 7,
-   "ig_reels_avg_watch_time": 10882,
-   "ig_reels_video_view_total_time": 11481220
+   "ig_reels_avg_watch_time": 10873,
+   "ig_reels_video_view_total_time": 11482284
   },
   {
    "id": "slp_150_silencio_primarias",
@@ -382,13 +478,13 @@
    "comentarios": 8,
    "url": "https://www.instagram.com/reel/Df8PJq_jkmP/",
    "titulo": "El silencio de Sánchez 👀 #CaraACara\n\nFeijóo le hizo tres pre",
-   "views": 1308,
-   "reach": 1138,
+   "views": 1310,
+   "reach": 1140,
    "saved": 1,
    "shares": 0,
    "total_interactions": 27,
-   "ig_reels_avg_watch_time": 14508,
-   "ig_reels_video_view_total_time": 16554724
+   "ig_reels_avg_watch_time": 14489,
+   "ig_reels_video_view_total_time": 16561846
   },
   {
    "id": "slp_144_cara_a_cara_directo",
@@ -398,13 +494,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df8NVjvjlLD/",
    "titulo": "¿Quién está ganando? Sánchez o Feijóo 👇\n\nAhora mismo: cara a",
-   "views": 157,
-   "reach": 139,
+   "views": 158,
+   "reach": 140,
    "saved": 1,
    "shares": 0,
    "total_interactions": 3,
-   "ig_reels_avg_watch_time": 5835,
-   "ig_reels_video_view_total_time": 811163
+   "ig_reels_avg_watch_time": 5805,
+   "ig_reels_video_view_total_time": 812782
   },
   {
    "id": "slp_149_puigdemont_ambicion",
@@ -414,13 +510,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df7wSjzD7MK/",
    "titulo": "¿Saldrá esto en el cara a cara de esta noche? Sí o no 👇\n\nCar",
-   "views": 115,
-   "reach": 102,
+   "views": 116,
+   "reach": 103,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 6751,
-   "ig_reels_video_view_total_time": 702111
+   "ig_reels_avg_watch_time": 6699,
+   "ig_reels_video_view_total_time": 703432
   },
   {
    "id": "slp_148_ultimo_dia_voto_correo",
@@ -430,13 +526,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df7Z-h7CGf6/",
    "titulo": "📮 HOY es el último día para pedir el voto por correo. ¿Lo va",
-   "views": 126,
-   "reach": 117,
+   "views": 127,
+   "reach": 118,
    "saved": 0,
    "shares": 0,
    "total_interactions": 3,
-   "ig_reels_avg_watch_time": 7204,
-   "ig_reels_video_view_total_time": 835694
+   "ig_reels_avg_watch_time": 7156,
+   "ig_reels_video_view_total_time": 837295
   },
   {
    "id": "slp_147_quien_lo_dijo_2023",
@@ -446,13 +542,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df7FbBIky1Y/",
    "titulo": "¿Quién lo dijo: Sánchez o Feijóo? 🤔 Frases literales del car",
-   "views": 128,
-   "reach": 115,
+   "views": 129,
+   "reach": 116,
    "saved": 1,
    "shares": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 11520,
-   "ig_reels_video_view_total_time": 1347898
+   "ig_reels_avg_watch_time": 11427,
+   "ig_reels_video_view_total_time": 1348490
   },
   {
    "id": "slp_146_caraacara_esta_noche",
@@ -478,13 +574,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df41LjAE4Oz/",
    "titulo": "¿Buena idea poner a los parados a construir vivienda? Sí o n",
-   "views": 120,
-   "reach": 110,
+   "views": 121,
+   "reach": 111,
    "saved": 1,
    "shares": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 7940,
-   "ig_reels_video_view_total_time": 881381
+   "ig_reels_avg_watch_time": 7911,
+   "ig_reels_video_view_total_time": 886064
   },
   {
    "id": "slp_137_cara_a_cara_previa",
@@ -510,13 +606,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df3-Px8gPzM/",
    "titulo": "¿Estás de acuerdo? 👇\n\nFeijóo (PP), sobre el gasto en defensa",
-   "views": 1,
-   "reach": 1,
+   "views": 3,
+   "reach": 3,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 1473,
-   "ig_reels_video_view_total_time": 4421
+   "ig_reels_avg_watch_time": 1299,
+   "ig_reels_video_view_total_time": 6498
   },
   {
    "id": "slp_132_sanchez_involucion",
@@ -526,13 +622,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df29A5bFUxQ/",
    "titulo": "¿Estás de acuerdo? 👇\n\nEl alegato final de Pedro Sánchez (PSO",
-   "views": 119,
-   "reach": 108,
+   "views": 120,
+   "reach": 109,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 5972,
-   "ig_reels_video_view_total_time": 657022
+   "ig_reels_avg_watch_time": 5928,
+   "ig_reels_video_view_total_time": 658059
   },
   {
    "id": "slp_136_si_votas_frente_amplio",
@@ -542,13 +638,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df2muAmCEBJ/",
    "titulo": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (4/7): 5 medida",
-   "views": 126,
-   "reach": 116,
+   "views": 127,
+   "reach": 117,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 9567,
-   "ig_reels_video_view_total_time": 1128973
+   "ig_reels_avg_watch_time": 9497,
+   "ig_reels_video_view_total_time": 1130147
   },
   {
    "id": "slp_139_encuestas_17n",
@@ -574,13 +670,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df173r2iChm/",
    "titulo": "¿Quién tiene razón? 👇\n\nJordi Wild le traslada a Pedro Sánche",
-   "views": 137,
-   "reach": 114,
+   "views": 138,
+   "reach": 116,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 11024,
-   "ig_reels_video_view_total_time": 1256773
+   "ig_reels_avg_watch_time": 10940,
+   "ig_reels_video_view_total_time": 1258179
   },
   {
    "id": "slp_130_sanchez_puigdemont",
@@ -638,13 +734,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfzsPpOjgM_/",
    "titulo": "¿Ha hecho bien en retirarse? Sí o no 👇\n\nYolanda Díaz (vicepr",
-   "views": 166,
-   "reach": 147,
+   "views": 167,
+   "reach": 148,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 9397,
-   "ig_reels_video_view_total_time": 1390771
+   "ig_reels_avg_watch_time": 9340,
+   "ig_reels_video_view_total_time": 1391740
   },
   {
    "id": "slp_128_sanchez_bebe_wild",
@@ -654,13 +750,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfzW_jqgsbM/",
    "titulo": "😂 Comenta 👇\n\nSánchez (PSOE) defiende ante Jordi Wild la ampl",
-   "views": 141,
-   "reach": 119,
+   "views": 142,
+   "reach": 120,
    "saved": 1,
    "shares": 0,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 10422,
-   "ig_reels_video_view_total_time": 1250679
+   "ig_reels_avg_watch_time": 10350,
+   "ig_reels_video_view_total_time": 1252359
   },
   {
    "id": "slp_127_sanchez_goebbels",
@@ -670,13 +766,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfy0p73iUHt/",
    "titulo": "¿Estás de acuerdo? 👇\n\nPedro Sánchez (PSOE) responde a Jordi ",
-   "views": 134,
-   "reach": 114,
+   "views": 135,
+   "reach": 115,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 7896,
-   "ig_reels_video_view_total_time": 923874
+   "ig_reels_avg_watch_time": 7904,
+   "ig_reels_video_view_total_time": 932728
   },
   {
    "id": "slp_134_abascal_feijoo_ministerios",
@@ -687,7 +783,7 @@
    "url": "https://www.instagram.com/reel/DfxzgbvErtJ/",
    "titulo": "¿Tiene razón Abascal? Sí o no 👇\n\nSantiago Abascal (Vox) avis",
    "views": 1174,
-   "reach": 1043,
+   "reach": 1044,
    "saved": 0,
    "shares": 0,
    "total_interactions": 8,
@@ -734,13 +830,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfwrU8Qgchu/",
    "titulo": "¿Estás de acuerdo? 👇\n\nFeijóo (PP) explica a Jordi Wild su po",
-   "views": 406,
+   "views": 407,
    "reach": 309,
    "saved": 1,
    "shares": 0,
    "total_interactions": 3,
-   "ig_reels_avg_watch_time": 9347,
-   "ig_reels_video_view_total_time": 2935181
+   "ig_reels_avg_watch_time": 9320,
+   "ig_reels_video_view_total_time": 2936036
   },
   {
    "id": "slp_121_sanchez_ego_penalti",
@@ -814,13 +910,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfvJgqCFwon/",
    "titulo": "¿Qué te parece? 👇\n\nLos verificadores de The Wild Project cor",
-   "views": 156,
-   "reach": 122,
+   "views": 157,
+   "reach": 123,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 9905,
-   "ig_reels_video_view_total_time": 1208486
+   "ig_reels_avg_watch_time": 9850,
+   "ig_reels_video_view_total_time": 1211631
   },
   {
    "id": "slp_118_sanchez_amigos_theone",
@@ -846,13 +942,13 @@
    "comentarios": 7,
    "url": "https://www.instagram.com/reel/Dfu5q5lDaLQ/",
    "titulo": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (1/7): las 5 me",
-   "views": 1402,
+   "views": 1403,
    "reach": 1182,
    "saved": 3,
    "shares": 3,
    "total_interactions": 36,
-   "ig_reels_avg_watch_time": 32012,
-   "ig_reels_video_view_total_time": 38574880
+   "ig_reels_avg_watch_time": 31986,
+   "ig_reels_video_view_total_time": 38575371
   },
   {
    "id": "slp_117_sanchez_no_lo_veo_claro",
@@ -862,13 +958,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfuv-4DmXsX/",
    "titulo": "¿Gana o no gana? 👇\n\nEl cierre de la entrevista de Jordi Wild",
-   "views": 2960,
-   "reach": 2282,
+   "views": 2964,
+   "reach": 2285,
    "saved": 0,
    "shares": 6,
    "total_interactions": 13,
-   "ig_reels_avg_watch_time": 12673,
-   "ig_reels_video_view_total_time": 29086743
+   "ig_reels_avg_watch_time": 12655,
+   "ig_reels_video_view_total_time": 29094862
   },
   {
    "id": "slp_116_sanchez_bildu_mordor",
@@ -926,13 +1022,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dft8O3-jan9/",
    "titulo": "¿Te parece bien? 👇\n\nJordi Wild aprieta a Ada Colau (Frente A",
-   "views": 1818,
-   "reach": 1368,
+   "views": 1820,
+   "reach": 1372,
    "saved": 1,
    "shares": 0,
    "total_interactions": 19,
-   "ig_reels_avg_watch_time": 14171,
-   "ig_reels_video_view_total_time": 19557049
+   "ig_reels_avg_watch_time": 14152,
+   "ig_reels_video_view_total_time": 19558863
   },
   {
    "id": "slp_110_sanchez_falcon",
@@ -942,13 +1038,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dft1XeRkWiw/",
    "titulo": "Comenta 👇\n\nEl momento más distendido de la entrevista de Jor",
-   "views": 1612,
-   "reach": 1305,
+   "views": 1613,
+   "reach": 1306,
    "saved": 1,
    "shares": 0,
    "total_interactions": 7,
-   "ig_reels_avg_watch_time": 13032,
-   "ig_reels_video_view_total_time": 16994879
+   "ig_reels_avg_watch_time": 13023,
+   "ig_reels_video_view_total_time": 16995510
   },
   {
    "id": "slp_107_feijoo_vox_trump",
@@ -974,13 +1070,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dftnof_Cavr/",
    "titulo": "¿Cambio de opinión o promesa rota? 👇\n\nJordi Wild repasa «la ",
-   "views": 1544,
+   "views": 1545,
    "reach": 1157,
    "saved": 1,
    "shares": 0,
    "total_interactions": 5,
-   "ig_reels_avg_watch_time": 14214,
-   "ig_reels_video_view_total_time": 16489348
+   "ig_reels_avg_watch_time": 14203,
+   "ig_reels_video_view_total_time": 16490499
   },
   {
    "id": "slp_103_colau_inmigracion",
@@ -990,13 +1086,13 @@
    "comentarios": 2,
    "url": "https://www.instagram.com/reel/DfsrjucCo8b/",
    "titulo": "¿Quién tiene razón? 👇\n\nEl choque más largo de la entrevista:",
-   "views": 1506,
+   "views": 1507,
    "reach": 1184,
    "saved": 1,
    "shares": 0,
    "total_interactions": 12,
-   "ig_reels_avg_watch_time": 13812,
-   "ig_reels_video_view_total_time": 16367725
+   "ig_reels_avg_watch_time": 13802,
+   "ig_reels_video_view_total_time": 16369547
   },
   {
    "id": "slp_115_sanchez_insulto_fruta",
@@ -1006,13 +1102,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfskyUdEvcx/",
    "titulo": "¿Estás de acuerdo? 👇\n\nJordi Wild pregunta a Pedro Sánchez (P",
-   "views": 1606,
+   "views": 1608,
    "reach": 1211,
    "saved": 0,
    "shares": 1,
    "total_interactions": 16,
-   "ig_reels_avg_watch_time": 12192,
-   "ig_reels_video_view_total_time": 15143340
+   "ig_reels_avg_watch_time": 12174,
+   "ig_reels_video_view_total_time": 15145260
   },
   {
    "id": "slp_106_feijoo_define_rivales",
@@ -1022,13 +1118,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfscGoTDkzJ/",
    "titulo": "¿Qué te parece? 👇\n\nJordi Wild pide a Feijóo (PP) que defina ",
-   "views": 1745,
+   "views": 1746,
    "reach": 1384,
    "saved": 0,
    "shares": 0,
    "total_interactions": 13,
-   "ig_reels_avg_watch_time": 14125,
-   "ig_reels_video_view_total_time": 19860824
+   "ig_reels_avg_watch_time": 14117,
+   "ig_reels_video_view_total_time": 19862802
   },
   {
    "id": "slp_112_sanchez_1o_wild",
@@ -1070,13 +1166,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfsD6A_FJvo/",
    "titulo": "¿Le crees? 👇\n\nJordi Wild pregunta a Pedro Sánchez (PSOE) por",
-   "views": 1892,
-   "reach": 1466,
+   "views": 1893,
+   "reach": 1468,
    "saved": 3,
    "shares": 0,
    "total_interactions": 22,
-   "ig_reels_avg_watch_time": 18260,
-   "ig_reels_video_view_total_time": 27098831
+   "ig_reels_avg_watch_time": 18248,
+   "ig_reels_video_view_total_time": 27099730
   },
   {
    "id": "slp_105_feijoo_ingles",
@@ -1086,13 +1182,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfr9H0vj3Cn/",
    "titulo": "¿Te importa que no sepa inglés? 👇\n\nJordi Wild pregunta a Fei",
-   "views": 1910,
+   "views": 1912,
    "reach": 1450,
    "saved": 1,
    "shares": 2,
    "total_interactions": 33,
-   "ig_reels_avg_watch_time": 14184,
-   "ig_reels_video_view_total_time": 20566960
+   "ig_reels_avg_watch_time": 14169,
+   "ig_reels_video_view_total_time": 20573404
   },
   {
    "id": "slp_098_alquiler_decreto",
@@ -1102,13 +1198,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfr3QGuiaXm/",
    "titulo": "¿Te afecta? Cuéntanoslo 👇\n\nEl Congreso (Diputación Permanent",
-   "views": 308,
-   "reach": 258,
+   "views": 309,
+   "reach": 259,
    "saved": 0,
    "shares": 1,
    "total_interactions": 6,
-   "ig_reels_avg_watch_time": 7365,
-   "ig_reels_video_view_total_time": 1929875
+   "ig_reels_avg_watch_time": 7341,
+   "ig_reels_video_view_total_time": 1930840
   },
   {
    "id": "slp_109_sanchez_abascal_sastre",
@@ -1134,13 +1230,13 @@
    "comentarios": 3,
    "url": "https://www.instagram.com/reel/DfrqU0dCKz_/",
    "titulo": "¿Te convence su respuesta? 👇\n\nJordi Wild pregunta a Feijóo (",
-   "views": 1872,
-   "reach": 1426,
+   "views": 1873,
+   "reach": 1428,
    "saved": 2,
    "shares": 0,
    "total_interactions": 28,
-   "ig_reels_avg_watch_time": 16918,
-   "ig_reels_video_view_total_time": 23855081
+   "ig_reels_avg_watch_time": 16907,
+   "ig_reels_video_view_total_time": 23856065
   },
   {
    "id": "slp_099_colau_wild",
@@ -1150,13 +1246,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfrhZ3_Ca7J/",
    "titulo": "¿Te convence su respuesta? 👇\n\nAda Colau (Frente Amplio) abre",
-   "views": 1411,
-   "reach": 1173,
+   "views": 1412,
+   "reach": 1175,
    "saved": 0,
    "shares": 1,
    "total_interactions": 22,
-   "ig_reels_avg_watch_time": 13417,
-   "ig_reels_video_view_total_time": 15658619
+   "ig_reels_avg_watch_time": 13407,
+   "ig_reels_video_view_total_time": 15660296
   },
   {
    "id": "slp_097_wild_silla_vacia",
@@ -1278,13 +1374,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfm3IrtoehI/",
    "titulo": "¿Es una huelga política? Sí o no 👇\n\nLa gran pelea de la huel",
-   "views": 124,
-   "reach": 113,
+   "views": 125,
+   "reach": 114,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 6575,
-   "ig_reels_video_view_total_time": 743059
+   "ig_reels_avg_watch_time": 6519,
+   "ig_reels_video_view_total_time": 743205
   },
   {
    "id": "slp_092_broncano_perdon",
@@ -1454,13 +1550,13 @@
    "comentarios": 12,
    "url": "https://www.instagram.com/reel/Dfj7826HcKP/",
    "titulo": "¿Cuál fue el mejor momento? Comenta el número 👇\n\nLos 5 momen",
-   "views": 3571,
-   "reach": 2807,
+   "views": 3573,
+   "reach": 2811,
    "saved": 2,
    "shares": 2,
    "total_interactions": 60,
-   "ig_reels_avg_watch_time": 17665,
-   "ig_reels_video_view_total_time": 51476399
+   "ig_reels_avg_watch_time": 17652,
+   "ig_reels_video_view_total_time": 51491907
   },
   {
    "id": "slp_077_abascal_fondo_buitre",
@@ -1509,102 +1605,6 @@
    "total_interactions": 25,
    "ig_reels_avg_watch_time": 16662,
    "ig_reels_video_view_total_time": 41472367
-  },
-  {
-   "id": "slp_074_revuelta_publico_vox",
-   "ig": "18143220181719999",
-   "fecha": "2026-11-10T00:30:32+0000",
-   "likes": 22,
-   "comentarios": 14,
-   "url": "https://www.instagram.com/reel/Dfin0h_FrdC/",
-   "titulo": "¿Debe el invitado poder elegir el público? Sí o no 👇\n\nEn La ",
-   "views": 2581,
-   "reach": 1961,
-   "saved": 2,
-   "shares": 0,
-   "total_interactions": 41,
-   "ig_reels_avg_watch_time": 13761,
-   "ig_reels_video_view_total_time": 27206058
-  },
-  {
-   "id": "slp_073_abascal_broncano_suerte",
-   "ig": "17878182042635835",
-   "fecha": "2026-11-09T23:45:32+0000",
-   "likes": 74,
-   "comentarios": 54,
-   "url": "https://www.instagram.com/reel/DfiirEkEmez/",
-   "titulo": "¿Quién ganó la entrevista: Abascal o Broncano? 👇\n\nAsí acabó ",
-   "views": 5252,
-   "reach": 4022,
-   "saved": 6,
-   "shares": 2,
-   "total_interactions": 139,
-   "ig_reels_avg_watch_time": 16536,
-   "ig_reels_video_view_total_time": 66327732
-  },
-  {
-   "id": "slp_070_encuestas_sanchez_feijoo",
-   "ig": "17914404390552549",
-   "fecha": "2026-11-09T21:45:33+0000",
-   "likes": 2,
-   "comentarios": 1,
-   "url": "https://www.instagram.com/reel/DfiU80wFJDk/",
-   "titulo": "¿Remonta Sánchez? Sí o no 👇\n\nTres encuestas publicadas tras ",
-   "views": 565,
-   "reach": 492,
-   "saved": 0,
-   "shares": 0,
-   "total_interactions": 3,
-   "ig_reels_avg_watch_time": 11173,
-   "ig_reels_video_view_total_time": 5430345
-  },
-  {
-   "id": "slp_071_tele_esta_noche",
-   "ig": "17912084523561606",
-   "fecha": "2026-11-09T20:15:32+0000",
-   "likes": 4,
-   "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfiKo3FgCbf/",
-   "titulo": "¿A quién verás, Sánchez o Abascal? 👇\n\nEsta noche, casi a la ",
-   "views": 149,
-   "reach": 122,
-   "saved": 0,
-   "shares": 0,
-   "total_interactions": 4,
-   "ig_reels_avg_watch_time": 10672,
-   "ig_reels_video_view_total_time": 1334080
-  },
-  {
-   "id": "slp_065_bulos_izquierda_3",
-   "ig": "18125370301725747",
-   "fecha": "2026-11-09T18:45:32+0000",
-   "likes": 1,
-   "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfiAVsjliP9/",
-   "titulo": "¿Te había llegado alguno? Sí o no 👇\n\nSi gobierna la izquierd",
-   "views": 164,
-   "reach": 147,
-   "saved": 0,
-   "shares": 0,
-   "total_interactions": 1,
-   "ig_reels_avg_watch_time": 9361,
-   "ig_reels_video_view_total_time": 1385510
-  },
-  {
-   "id": "slp_066_abascal_revuelta_publico",
-   "ig": "17942022741383239",
-   "fecha": "2026-11-09T12:45:33+0000",
-   "likes": 1,
-   "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfhXJAPnZLr/",
-   "titulo": "¿Debería haber público normal? Sí o no 👇\n\nAbascal va hoy a L",
-   "views": 223,
-   "reach": 167,
-   "saved": 0,
-   "shares": 0,
-   "total_interactions": 1,
-   "ig_reels_avg_watch_time": 12339,
-   "ig_reels_video_view_total_time": 2097666
   }
  ]
 }
