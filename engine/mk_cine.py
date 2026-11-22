@@ -4,11 +4,11 @@ import json,sys;sys.path.insert(0,'engine')
 from mk_guion import *
 def mono(id,who,x=50,y=72,w=300,say=None,cara='serio',gesto='manos',**k):
     return M(id,who,x,y=y,w=w,say=say,cara=cara,gesto=gesto,flip=(who=='feijoo' and x>=50),bub='up',bw=600,bfs=40,**k)
-def BIG(id,n,t='',color='',y=84): return P(id,'big',y=y,w=1000,n=n,text=t,color=color)
+def BIG(id,n,t='',color='',y=84,fs=None): return P(id,'big',y=y,w=1000,n=n,text=t,color=color,**({'fs':fs} if fs else {}))
 def HEMI(id,parts,line=None,y=50): return P(id,'hemi',y=y,w=1060,parts=parts,line=line)
 def EDI(id,y=58,w=860,luz=True): return P(id,'edificio',y=y,w=w,luz=luz)
 def XM(id,y=55,w=420): return P(id,'xmark',y=y,w=w)
-def MED(id,l1,l2=None,f=1,y=70): return P(id,'medida',y=y,w=800,l1=l1,l2=l2,f=f)
+def MED(id,l1,l2=None,f=1,y=70): return P(id,'medida',y=y,w=960,l1=l1,l2=l2,f=f)
 def SELLO(id,t,y=60): return ST(id,t,0,y=y,color='red',rot=-8)
 def cine(id,segs,fecha,cta,cover_tit,cover_rojo,fuente,tags='',dias='siete'):
     out=[];prev=[]

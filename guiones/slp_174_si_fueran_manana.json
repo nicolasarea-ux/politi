@@ -13,7 +13,7 @@
   "tag": "CAMPAÑA 29-N",
   "source": "Fuente: 40dB para El País y la SER (tracking 20-11)"
  },
- "caption": "¿Y si las elecciones fueran mañana? 👀\n\n¿Qué pasaría si las elecciones fueran mañana? En el Congreso hay 350 escaños. Para gobernar solo, necesitas 176. Según la última encuesta de 40dB, el PP sacaría 132. El PSOE, 120. Y Vox, 58. Ningún partido llega solo. Pero PP y Vox juntos suman 190. Eso sí: el presidente preferido es Sánchez, con casi nueve puntos más que Feijóo. Votas partido, no presidente. Y los escaños se suman.\n\n👇 ¿Y tú qué crees que pasará?\n⏳ Quedan siete días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: 40dB para El País y la SER (tracking 20-11)\n#elecciones #29N #espana #politica #encuestas #congreso",
+ "caption": "¿Y si las elecciones fueran mañana? 👀\n\n¿Qué pasaría si las elecciones fueran mañana? En el Congreso hay 350 escaños. Para gobernar solo, necesitas 176. Según la última encuesta de 40dB, el PP sacaría 132. El PSOE, 120. Y Vox, 58. Ningún partido llega solo. Pero PP y Vox juntos suman 190. Eso sí: el presidente preferido es Sánchez, con casi nueve puntos más que Feijóo. Votas partido, no presidente. Y los escaños se suman.\n\n👇 ¿Y tú qué crees que pasará?\n⏳ Quedan seis días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: 40dB para El País y la SER (tracking 20-11)\n#elecciones #29N #espana #politica #encuestas #congreso",
  "portada": {
   "serie": "29-N",
   "titulo": "¿Y si las elecciones fueran *mañana*?",
@@ -62,8 +62,8 @@
        "type": "prop",
        "kind": "hemi",
        "x": 50,
-       "y": 52,
-       "w": 1000,
+       "y": 50,
+       "w": 1060,
        "at": 0,
        "parts": [],
        "line": "176"
@@ -95,8 +95,8 @@
        "type": "prop",
        "kind": "hemi",
        "x": 50,
-       "y": 52,
-       "w": 1000,
+       "y": 50,
+       "w": 1060,
        "at": 0,
        "parts": [
         {
@@ -122,8 +122,8 @@
        "type": "prop",
        "kind": "hemi",
        "x": 50,
-       "y": 52,
-       "w": 1000,
+       "y": 50,
+       "w": 1060,
        "at": 0,
        "parts": [
         {
@@ -158,8 +158,8 @@
        "type": "prop",
        "kind": "hemi",
        "x": 50,
-       "y": 52,
-       "w": 1000,
+       "y": 50,
+       "w": 1060,
        "at": 0,
        "parts": [
         {
@@ -227,7 +227,8 @@
        "at": 0,
        "n": "31,8 % vs 23,1 %",
        "text": "PRESIDENTE PREFERIDO",
-       "color": ""
+       "color": "",
+       "fs": 110
       }
      ],
      "hide": [
@@ -274,7 +275,7 @@
    "segments": [
     {
      "bg": "duelo",
-     "text": "¿Y tú qué crees que pasará? Síguenos: quedan siete días.",
+     "text": "¿Y tú qué crees que pasará? Síguenos: quedan seis días.",
      "show": [
       {
        "id": "sF",
