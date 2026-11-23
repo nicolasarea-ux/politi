@@ -1,15 +1,27 @@
 {
  "id": "slp_030_veda_encuestas",
  "brand": "Politízate Hoy",
- "voice": "andrew",
- "speed": 1.0,
+ "formato": "minuto",
+ "tono": "normal",
  "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
  "header": {
-  "tag": "EXPLICADO · LA VEDA DE ENCUESTAS",
-  "source": "Fuente: LOREG art. 69.7 · Maldita (29-10)"
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: Ley Orgánica del Régimen Electoral General, art. 69.7"
  },
- "caption": "¿Te parece bien que no se puedan publicar encuestas? Sí o no 👇\n\nDesde hoy, 24-N, y hasta que cierren las urnas, ningún medio puede publicar sondeos nuevos 📊 Por qué, qué sí se puede hacer y cómo no tragarte una encuesta falsa.\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 69.7; El Independiente; Maldita.\n\n#elecciones #29N #eleccionesgenerales #encuestas #explicado",
- "tipo": "atemporal",
+ "caption": "Desde hoy, sin encuestas 👀\n\nDesde el 24|veinticuatro de noviembre, ningún medio podrá publicarte una encuesta nueva. Y no es casualidad. Cláusula uno: la ley. Durante los cinco días anteriores a votar, está prohibido publicar sondeos electorales en cualquier medio. Cláusula dos: lo que sí se puede. Se prohíbe publicarlas, no hacerlas. Y puedes seguir consultando las publicadas antes. Y la letra pequeña: en redes circulan encuestas antiguas, sin fuente o hechas con IA. Si no dice quién la hizo y cuándo, desconfía. Síguenos para no perderte ninguno.\n\n👇 ¿Te fías de las encuestas? Comenta sí o no.\n⏳ Quedan cinco días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 69.7\n#elecciones #29N #espana #politica #encuestas #veda",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "Desde hoy, *sin encuestas*",
+  "mini": {
+   "rojo": "5 DÍAS SIN SONDEOS"
+  },
+  "cartel": true
+ },
  "scenes": [
   {
    "clause": 0,
@@ -18,186 +30,309 @@
      "text": "Desde el 24|veinticuatro de noviembre, ningún medio podrá publicarte una encuesta nueva. Y no es casualidad.",
      "show": [
       {
-       "id": "e1",
-       "type": "headline",
-       "text": "La veda de *encuestas*",
+       "id": "tv0",
+       "type": "prop",
+       "kind": "tele",
        "x": 50,
-       "y": 24,
-       "w": 860
+       "y": 48,
+       "w": 760,
+       "at": 0,
+       "text": "📊",
+       "fs": 200,
+       "sub": "ENCUESTAS",
+       "in": "zoom"
       },
       {
-       "id": "e2",
-       "type": "icon",
-       "icon": "calendar",
+       "id": "x0",
+       "type": "prop",
+       "kind": "xmark",
        "x": 50,
-       "y": 39,
-       "w": 260,
-       "at": 6
+       "y": 48,
+       "w": 380,
+       "at": 3,
+       "in": "left"
       },
       {
-       "id": "e3",
-       "type": "stamp",
-       "text": "DESDE EL 24-N",
-       "color": "ink",
-       "x": 50,
-       "y": 50,
-       "rot": 6,
-       "at": 9
+       "id": "m0",
+       "type": "mono",
+       "who": "tu",
+       "x": 20,
+       "y": 80,
+       "w": 200,
+       "at": 3,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 10,
+       "text": "📊",
+       "fs": 110,
+       "in": "left"
       }
-     ]
-    }
-   ]
-  },
-  {
-   "clause": 1,
-   "segments": [
+     ],
+     "hide": []
+    },
     {
      "text": "Cláusula uno: la ley.",
      "show": [
       {
-       "id": "e4",
-       "type": "headline",
-       "text": "La *ley*",
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
        "x": 50,
-       "y": 22,
-       "w": 860
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "1",
+       "text": "LA LEY",
+       "color": "gold",
+       "in": "left"
       }
-     ]
+     ],
+     "hide": [
+      "tv0",
+      "x0",
+      "m0",
+      "k0_0"
+     ],
+     "bg": "rojo"
     },
     {
      "text": "Durante los cinco días anteriores a votar, está prohibido publicar sondeos electorales en cualquier medio.",
      "show": [
       {
-       "id": "e5",
-       "type": "card",
-       "icon": "doc",
-       "text": "5 días sin publicar sondeos",
+       "id": "b2",
+       "type": "prop",
+       "kind": "big",
        "x": 50,
-       "y": 33,
-       "w": 860,
-       "at": 0
+       "y": 48,
+       "w": 1000,
+       "at": 0,
+       "n": "5 DÍAS",
+       "text": "SIN PUBLICAR SONDEOS",
+       "color": "",
+       "in": "right"
       },
       {
-       "id": "e6",
-       "type": "note",
-       "text": "LOREG, art. 69.7",
+       "id": "d2",
+       "type": "prop",
+       "kind": "doc",
        "x": 50,
-       "y": 42,
-       "at": 0
+       "y": 80,
+       "w": 640,
+       "at": 3,
+       "kicker": "LEY ELECTORAL",
+       "text": "Prohibido publicar encuestas",
+       "sello": "5 DÍAS",
+       "st": 0.9,
+       "in": "down"
+      },
+      {
+       "id": "k2_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 6,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "left"
       }
-     ]
-    }
-   ]
-  },
-  {
-   "clause": 2,
-   "segments": [
+     ],
+     "hide": [
+      "b1"
+     ],
+     "bg": "noche"
+    },
     {
      "text": "Cláusula dos: lo que sí se puede.",
      "show": [
       {
-       "id": "e7",
-       "type": "headline",
-       "text": "Lo que *sí*",
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
        "x": 50,
-       "y": 22,
-       "w": 860
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "2",
+       "text": "LO QUE SÍ SE PUEDE",
+       "color": "gold",
+       "in": "zoom"
       }
-     ]
+     ],
+     "hide": [
+      "b2",
+      "d2",
+      "k2_0"
+     ],
+     "bg": "rojo"
     },
     {
      "text": "Se prohíbe publicarlas, no hacerlas. Y puedes seguir consultando las publicadas antes.",
      "show": [
       {
-       "id": "e8",
-       "type": "card",
-       "icon": "question",
-       "text": "Hacerlas: sí",
-       "x": 50,
-       "y": 33,
-       "w": 860,
-       "at": 0
-      },
-      {
-       "id": "e9",
-       "type": "card",
-       "icon": "question",
-       "text": "Ver las anteriores: sí",
+       "id": "tv4",
+       "type": "prop",
+       "kind": "tele",
        "x": 50,
        "y": 42,
-       "w": 860,
-       "at": 3
+       "w": 760,
+       "at": 0,
+       "text": "✅ HACERLAS",
+       "fs": 80,
+       "in": "left"
+      },
+      {
+       "id": "tv4b",
+       "type": "prop",
+       "kind": "tele",
+       "x": 50,
+       "y": 68,
+       "w": 760,
+       "at": 3,
+       "text": "❌ PUBLICARLAS",
+       "fs": 80,
+       "in": "right"
       }
-     ]
-    }
-   ]
-  },
-  {
-   "clause": -1,
-   "segments": [
+     ],
+     "hide": [
+      "b3"
+     ],
+     "bg": "noche"
+    },
     {
      "text": "Y la letra pequeña:",
      "show": [
       {
-       "id": "e10",
-       "type": "headline",
-       "text": "La letra *pequeña*",
+       "id": "b5",
+       "type": "prop",
+       "kind": "big",
        "x": 50,
-       "y": 22,
-       "w": 860
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "⚠️",
+       "text": "LA LETRA PEQUEÑA",
+       "color": "gold",
+       "in": "right"
       }
-     ]
+     ],
+     "hide": [
+      "tv4",
+      "tv4b"
+     ],
+     "bg": "rojo"
     },
     {
      "text": "en redes circulan encuestas antiguas, sin fuente o hechas con IA. Si no dice quién la hizo y cuándo, desconfía.",
      "show": [
       {
-       "id": "e11",
-       "type": "fineprint",
-       "small": "* Maldita (29-10) ha detectado en TikTok encuestas antiguas presentadas como nuevas, sin fuente o generadas con IA.",
-       "big": "Sin fuente,\n*desconfía*",
+       "id": "d6",
+       "type": "prop",
+       "kind": "doc",
        "x": 50,
-       "y": 39,
-       "w": 880,
-       "at": 0
+       "y": 52,
+       "w": 640,
+       "at": 0,
+       "kicker": "CIRCULA EN REDES",
+       "text": "«Encuesta» sin fuente ni fecha",
+       "sello": "DESCONFÍA",
+       "st": 0.9,
+       "in": "zoom"
+      },
+      {
+       "id": "m6",
+       "type": "mono",
+       "who": "tu",
+       "x": 80,
+       "y": 80,
+       "w": 200,
+       "at": 3,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "k6_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 10,
+       "text": "🤖",
+       "fs": 110,
+       "in": "left"
       }
-     ]
-    }
-   ]
-  },
-  {
-   "clause": 0,
-   "segments": [
+     ],
+     "hide": [
+      "b5"
+     ],
+     "bg": "noche"
+    },
     {
      "text": "Síguenos para no perderte ninguno.",
      "show": [
       {
-       "id": "logo",
-       "type": "logo",
-       "x": 50,
-       "y": 33,
-       "w": 460
+       "id": "sF",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
       },
       {
-       "id": "fol",
-       "type": "stamp",
-       "text": "+ SEGUIR",
-       "color": "ink",
+       "id": "fF",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 72,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
        "x": 50,
-       "y": 52,
-       "rot": -4,
-       "at": 0
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿TÚ QUÉ DICES?",
+       "text": "",
+       "color": ""
       }
-     ]
+     ],
+     "hide": [
+      "d6",
+      "m6",
+      "k6_0"
+     ],
+     "bg": "duelo"
     }
    ]
   }
  ],
- "portada": {
-  "serie": "EXPLICADO",
-  "titulo": "La veda de *encuestas*",
-  "grande": "24-N",
-  "sub": "Por qué dejan de publicarse"
- },
- "fechaPub": "2026-11-24T09:00:00+01:00"
+ "fechaPub": "2026-11-24T09:00:00+01:00",
+ "estilo": "cine"
 }

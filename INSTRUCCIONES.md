@@ -1,3 +1,9 @@
+> **PRIORIDAD (22-11, Nicks): lo de este bloque manda sobre todo lo demás del archivo.**
+> - TODOS los reels nuevos en **estilo CINE v3** con `engine/mk_cine.py` (ver sección «ESTILO CINE» al final). Nada de guiones con mk_guion/mk_story en estilo papel.
+> - Ritmo: **4 reels/día a las 09:00, 14:00, 20:00 y 23:00** hasta el 29-N.
+> - Formatos que funcionan: momentos virales (sobre todo Abascal), debates, «¿Qué pasaría si…?», mitos del voto, dinero/sueldos. Evitar choques de programa y promesas.
+> - Jueves 26-N 22:00: debate a cuatro (Sánchez, Feijóo, Abascal, Colau): previa el 25-N y reels en directo.
+
 # Rutina diaria de Politízate Hoy (@politizatehoy)
 
 Canal de TikTok (y después Reels y Shorts) de actualidad política explicada, centrado en las elecciones generales del 29-N.

@@ -1,14 +1,27 @@
 {
  "id": "slp_021_dni_votar",
  "brand": "Politízate Hoy",
- "voice": "andrew",
- "speed": 1.0,
+ "formato": "minuto",
+ "tono": "normal",
  "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
  "header": {
-  "tag": "CÓMO VOTAR · QUÉ LLEVAR",
-  "source": "Fuente: LOREG art. 85 · Junta Electoral Central · Demócrata · Xataka Móvil"
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: Junta Electoral Central y LOREG"
  },
- "caption": "¿Con qué puedes votar el 29-N? DNI caducado, carnet de conducir y por qué no te fíes del móvil 🪪\n¿Sabías lo del DNI caducado? 👇\n\nFuente: LOREG art. 85; acuerdos de la Junta Electoral Central sobre MiDNI y MiDGT (marzo y abril de 2026), vía Xataka Móvil y El Debate; Demócrata.\n\n#elecciones #29N #eleccionesgenerales #DNI #comovotar",
+ "caption": "DNI caducado: ¿puedes votar? 👀\n\nTienes el DNI caducado y es el 29|veintinueve. ¿Puedes votar? Sí. Pero ojo con el móvil. Cláusula uno: qué documentos valen. DNI, pasaporte o carnet de conducir, siempre que lleven tu foto. Y el DNI caducado también sirve, si la mesa puede comprobar que eres tú. Cláusula dos: qué no vale. Fotocopias, no. Y una foto del DNI en el móvil, tampoco. Tiene que ser el original. Y la letra pequeña: este año la Junta Electoral suspendió el uso de las apps MiDNI y MiDGT para votar por dudas de seguridad. Lleva el documento físico. Guárdalo para el 29.|veintinueve. Síguenos para no perderte ninguno.\n\n👇 ¿Lo sabías? Comenta sí o no.\n⏳ Quedan cinco días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Junta Electoral Central y LOREG\n#elecciones #29N #espana #politica #dni #votar",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "DNI caducado: ¿*puedes votar*?",
+  "mini": {
+   "rojo": "SÍ… PERO OJO CON EL MÓVIL"
+  },
+  "cartel": true
+ },
  "scenes": [
   {
    "clause": 0,
@@ -17,206 +30,325 @@
      "text": "Tienes el DNI caducado y es el 29|veintinueve. ¿Puedes votar? Sí. Pero ojo con el móvil.",
      "show": [
       {
-       "id": "e40",
-       "type": "headline",
-       "text": "¿Con qué se *vota*?",
+       "id": "tv0",
+       "type": "prop",
+       "kind": "tele",
        "x": 50,
-       "y": 24,
-       "w": 860
+       "y": 48,
+       "w": 760,
+       "at": 0,
+       "text": "🪪",
+       "fs": 200,
+       "sub": "DNI CADUCADO",
+       "in": "zoom"
       },
       {
-       "id": "e41",
-       "type": "icon",
-       "icon": "user",
-       "x": 50,
-       "y": 39,
-       "w": 260,
-       "at": 5
+       "id": "m0",
+       "type": "mono",
+       "who": "tu",
+       "x": 20,
+       "y": 80,
+       "w": 200,
+       "at": 3,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "from": "left"
       },
       {
-       "id": "e42",
-       "type": "stamp",
-       "text": "DNI CADUCADO: SÍ",
-       "color": "ink",
-       "x": 50,
-       "y": 50,
-       "rot": 6,
-       "at": 8
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 9,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k0_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 85,
+       "y": 26,
+       "w": 160,
+       "at": 15,
+       "text": "📱",
+       "fs": 110,
+       "in": "right"
       }
-     ]
-    }
-   ]
-  },
-  {
-   "clause": 1,
-   "segments": [
+     ],
+     "hide": []
+    },
     {
      "text": "Cláusula uno: qué documentos valen.",
      "show": [
       {
-       "id": "e43",
-       "type": "headline",
-       "text": "Qué *vale*",
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
        "x": 50,
-       "y": 22,
-       "w": 860
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "1",
+       "text": "QUÉ VALE",
+       "color": "gold",
+       "in": "left"
       }
-     ]
+     ],
+     "hide": [
+      "tv0",
+      "m0",
+      "k0_0",
+      "k0_1"
+     ],
+     "bg": "rojo"
     },
     {
      "text": "DNI, pasaporte o carnet de conducir, siempre que lleven tu foto.",
      "show": [
       {
-       "id": "e44",
-       "type": "card",
-       "icon": "user",
-       "text": "DNI · Pasaporte · Carnet de conducir",
+       "id": "b2",
+       "type": "prop",
+       "kind": "big",
        "x": 50,
-       "y": 33,
-       "w": 860,
-       "at": 0
-      },
-      {
-       "id": "e45",
-       "type": "note",
-       "text": "Con fotografía · LOREG art. 85",
-       "x": 50,
-       "y": 42,
-       "at": 0
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "🪪 🛂 🚗",
+       "text": "DNI · PASAPORTE · CARNET",
+       "color": "",
+       "fs": 150,
+       "in": "right"
       }
-     ]
+     ],
+     "hide": [
+      "b1"
+     ],
+     "bg": "noche"
     },
     {
      "text": "Y el DNI caducado también sirve, si la mesa puede comprobar que eres tú.",
      "show": [
       {
-       "id": "e46",
-       "type": "card",
-       "icon": "user",
-       "text": "Caducado también vale",
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
        "x": 50,
        "y": 50,
-       "w": 860,
-       "at": 0
+       "w": 1000,
+       "at": 0,
+       "n": "✅",
+       "text": "DNI CADUCADO: SÍ VALE",
+       "color": "",
+       "in": "zoom"
       }
-     ]
-    }
-   ]
-  },
-  {
-   "clause": 2,
-   "segments": [
+     ],
+     "hide": [
+      "b2"
+     ],
+     "bg": "noche"
+    },
     {
      "text": "Cláusula dos: qué no vale.",
      "show": [
       {
-       "id": "e47",
-       "type": "headline",
-       "text": "Qué *no vale*",
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
        "x": 50,
-       "y": 22,
-       "w": 860
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "2",
+       "text": "QUÉ NO VALE",
+       "color": "gold",
+       "in": "left"
       }
-     ]
+     ],
+     "hide": [
+      "b3"
+     ],
+     "bg": "rojo"
     },
     {
      "text": "Fotocopias, no. Y una foto del DNI en el móvil, tampoco. Tiene que ser el original.",
      "show": [
       {
-       "id": "e48",
-       "type": "card",
-       "icon": "phone",
-       "text": "Ni fotocopia ni foto en el móvil",
+       "id": "tv5",
+       "type": "prop",
+       "kind": "tele",
        "x": 50,
-       "y": 33,
-       "w": 860,
-       "at": 0
+       "y": 48,
+       "w": 760,
+       "at": 0,
+       "text": "📱",
+       "fs": 200,
+       "sub": "FOTO EN EL MÓVIL",
+       "in": "right"
+      },
+      {
+       "id": "x5",
+       "type": "prop",
+       "kind": "xmark",
+       "x": 50,
+       "y": 48,
+       "w": 420,
+       "at": 3,
+       "in": "zoom"
+      },
+      {
+       "id": "k5_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 9,
+       "text": "📱",
+       "fs": 110,
+       "in": "left"
       }
-     ]
-    }
-   ]
-  },
-  {
-   "clause": -1,
-   "segments": [
+     ],
+     "hide": [
+      "b4"
+     ],
+     "bg": "noche"
+    },
     {
      "text": "Y la letra pequeña:",
      "show": [
       {
-       "id": "e49",
-       "type": "headline",
-       "text": "La letra *pequeña*",
+       "id": "b6",
+       "type": "prop",
+       "kind": "big",
        "x": 50,
-       "y": 22,
-       "w": 860
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "⚠️",
+       "text": "LA LETRA PEQUEÑA",
+       "color": "gold",
+       "in": "zoom"
       }
-     ]
+     ],
+     "hide": [
+      "tv5",
+      "x5",
+      "k5_0"
+     ],
+     "bg": "rojo"
     },
     {
      "text": "este año la Junta Electoral suspendió el uso de las apps MiDNI y MiDGT para votar por dudas de seguridad. Lleva el documento físico.",
      "show": [
       {
-       "id": "e50",
-       "type": "fineprint",
-       "small": "* Acuerdos de la JEC de marzo y abril de 2026, adoptados para las andaluzas. Comprueba si hay novedades antes del 29-N.",
-       "big": "Lleva el\n*físico*",
+       "id": "d7",
+       "type": "prop",
+       "kind": "doc",
        "x": 50,
-       "y": 39,
-       "w": 880,
-       "at": 0
+       "y": 52,
+       "w": 640,
+       "at": 0,
+       "kicker": "JUNTA ELECTORAL CENTRAL",
+       "text": "Apps MiDNI y MiDGT para votar",
+       "sello": "SUSPENDIDAS",
+       "st": 0.9,
+       "in": "left"
+      },
+      {
+       "id": "k7_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 15,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "left"
       }
-     ]
+     ],
+     "hide": [
+      "b6"
+     ],
+     "bg": "noche"
     },
     {
      "text": "Guárdalo para el 29.|veintinueve.",
      "show": [
       {
-       "id": "e51",
-       "type": "stamp",
-       "text": "GUÁRDALO",
-       "color": "ink",
+       "id": "b8",
+       "type": "prop",
+       "kind": "big",
        "x": 50,
-       "y": 54,
-       "rot": 5,
-       "at": 0
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "29-N",
+       "text": "LLEVA EL ORIGINAL",
+       "color": "gold",
+       "in": "right"
       }
+     ],
+     "hide": [
+      "d7",
+      "k7_0"
      ]
-    }
-   ]
-  },
-  {
-   "clause": 0,
-   "segments": [
+    },
     {
      "text": "Síguenos para no perderte ninguno.",
      "show": [
       {
-       "id": "logo",
-       "type": "logo",
-       "x": 50,
-       "y": 33,
-       "w": 460
+       "id": "sF",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
       },
       {
-       "id": "fol",
-       "type": "stamp",
-       "text": "+ SEGUIR",
-       "color": "ink",
+       "id": "fF",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 72,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
        "x": 50,
-       "y": 52,
-       "rot": -4,
-       "at": 0
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿TÚ QUÉ DICES?",
+       "text": "",
+       "color": ""
       }
-     ]
+     ],
+     "hide": [
+      "b8"
+     ],
+     "bg": "duelo"
     }
    ]
   }
  ],
- "portada": {
-  "serie": "CÓMO VOTAR",
-  "titulo": "¿Con qué se *vota*?",
-  "grande": "DNI",
-  "sub": "DNI caducado, carnet y móvil"
- },
- "fechaPub": "2026-11-24T20:00:00+01:00"
+ "fechaPub": "2026-11-24T20:00:00+01:00",
+ "estilo": "cine"
 }

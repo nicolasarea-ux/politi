@@ -33,7 +33,7 @@ def deco(t,sh,k):
             x,y=POS[n%len(POS)]
             extra.append(P(f'k{k}_{n}','emo',x=x,y=y,w=160,at=i,text=emo,fs=110,**{'in':'left' if x<50 else 'right'}));used.add(emo);n+=1
     return sh+extra
-def cine(id,segs,fecha,cta,cover_tit,cover_rojo,fuente,tags='',dias='siete'):
+def cine(id,segs,fecha,cta,cover_tit,cover_rojo,fuente,tags='',dias='siete',auto_fin=True):
     out=[];prev=[]
     for k,sg in enumerate(segs):
         t,sh=sg[0],sg[1];bg=sg[2] if len(sg)>2 else None
@@ -63,7 +63,8 @@ def cine(id,segs,fecha,cta,cover_tit,cover_rojo,fuente,tags='',dias='siete'):
 
 Fuente: {fuente}
 #elecciones #29N #espana #politica {tags}"""
-    build(id,'CAMPAÑA 29-N',f'Fuente: {fuente}',cap,{"serie":"29-N","titulo":cover_tit,"mini":{"rojo":cover_rojo},"cartel":True},["","",""],[{"clause":0,"segments":out},{"clause":-1,"segments":[fin]}])
+    if not auto_fin: out[-1]["bg"]="duelo"; out[-1]["show"]=fin["show"]
+    build(id,'CAMPAÑA 29-N',f'Fuente: {fuente}',cap,{"serie":"29-N","titulo":cover_tit,"mini":{"rojo":cover_rojo},"cartel":True},["","",""],[{"clause":0,"segments":out}]+([{"clause":-1,"segments":[fin]}] if auto_fin else []))
     g=json.load(open(f'guiones/{id}.json'));g['fechaPub']=fecha;g['estilo']='cine'
     json.dump(g,open(f'guiones/{id}.json','w'),ensure_ascii=False,indent=1)
     return ' '.join(t.split('|')[-1] for sc in g['scenes'] for s in sc['segments'] for t in s['text'].split())

@@ -1,14 +1,27 @@
 {
  "id": "slp_025_donde_voto",
  "brand": "Politízate Hoy",
- "voice": "andrew",
- "speed": 1.0,
+ "formato": "minuto",
+ "tono": "normal",
  "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
  "header": {
-  "tag": "CÓMO VOTAR · DÓNDE TE TOCA",
-  "source": "Fuente: Oficina del Censo Electoral (INE) · Demócrata · Maldita"
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: INE (servicio del censo electoral) y LOREG"
  },
- "caption": "¿No sabes dónde te toca votar? Cómo mirarlo en dos minutos y qué pasa si no te llega la tarjeta censal 📍\n¿Te ha llegado ya la tuya? 👇\n\nFuente: Oficina del Censo Electoral (INE); Demócrata; Maldita.\n\n#elecciones #29N #eleccionesgenerales #censoelectoral #comovotar",
+ "caption": "¿Dónde te toca votar? 👀\n\n¿No te ha llegado la tarjeta censal? Tranquilo: no la necesitas para votar. Cláusula uno: cómo saberlo. Entra en la sede electrónica del INE, donde está el servicio del censo electoral. Y si tienes problemas, pregunta en tu ayuntamiento. Cláusula dos: qué es la tarjeta. Es solo informativa: te dice tu sección, tu mesa y tu colegio. Lo que te da derecho a votar es estar en el censo e identificarte. Y la letra pequeña: solo puedes votar en tu mesa. Salvo excepciones de la ley, no vale ir a la de al lado. Míralo antes del 29.|veintinueve. Síguenos para no perderte ninguno.\n\n👇 ¿Ya sabes dónde votas? Comenta sí o no.\n⏳ Quedan cinco días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: INE (servicio del censo electoral) y LOREG\n#elecciones #29N #espana #politica #dondevoto #censo",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "¿*Dónde* te toca votar?",
+  "mini": {
+   "rojo": "SIN TARJETA TAMBIÉN VOTAS"
+  },
+  "cartel": true
+ },
  "scenes": [
   {
    "clause": 0,
@@ -17,218 +30,324 @@
      "text": "¿No te ha llegado la tarjeta censal? Tranquilo: no la necesitas para votar.",
      "show": [
       {
-       "id": "e112",
-       "type": "headline",
-       "text": "¿Dónde te *toca*?",
+       "id": "tv0",
+       "type": "prop",
+       "kind": "tele",
        "x": 50,
-       "y": 24,
-       "w": 860
+       "y": 48,
+       "w": 760,
+       "at": 0,
+       "text": "✉️",
+       "fs": 200,
+       "sub": "TARJETA CENSAL",
+       "in": "zoom"
       },
       {
-       "id": "e113",
-       "type": "icon",
-       "icon": "question",
-       "x": 50,
-       "y": 39,
-       "w": 260,
-       "at": 5
+       "id": "m0",
+       "type": "mono",
+       "who": "tu",
+       "x": 20,
+       "y": 80,
+       "w": 200,
+       "at": 3,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "from": "left"
       },
       {
-       "id": "e114",
-       "type": "stamp",
-       "text": "NO ES OBLIGATORIA",
-       "color": "ink",
-       "x": 50,
-       "y": 50,
-       "rot": 6,
-       "at": 8
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 12,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "left"
       }
-     ]
-    }
-   ]
-  },
-  {
-   "clause": 1,
-   "segments": [
+     ],
+     "hide": []
+    },
     {
      "text": "Cláusula uno: cómo saberlo.",
      "show": [
       {
-       "id": "e115",
-       "type": "headline",
-       "text": "Cómo *saberlo*",
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
        "x": 50,
-       "y": 22,
-       "w": 860
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "1",
+       "text": "CÓMO SABERLO",
+       "color": "gold",
+       "in": "left"
       }
-     ]
+     ],
+     "hide": [
+      "tv0",
+      "m0",
+      "k0_0"
+     ],
+     "bg": "rojo"
     },
     {
      "text": "Entra en la sede electrónica del INE, donde está el servicio del censo electoral.",
      "show": [
       {
-       "id": "e116",
-       "type": "card",
-       "icon": "laptop",
-       "text": "Sede electrónica del INE",
+       "id": "tv2",
+       "type": "prop",
+       "kind": "tele",
        "x": 50,
-       "y": 33,
-       "w": 860,
-       "at": 0
+       "y": 48,
+       "w": 760,
+       "at": 0,
+       "text": "INE",
+       "fs": 150,
+       "sub": "SEDE ELECTRÓNICA",
+       "in": "right"
+      },
+      {
+       "id": "m2",
+       "type": "mono",
+       "who": "tu",
+       "x": 80,
+       "y": 80,
+       "w": 200,
+       "at": 3,
+       "habla": false,
+       "cara": "sonrie",
+       "gesto": "manos",
+       "from": "right"
       }
-     ]
+     ],
+     "hide": [
+      "b1"
+     ],
+     "bg": "noche"
     },
     {
      "text": "Y si tienes problemas, pregunta en tu ayuntamiento.",
      "show": [
       {
-       "id": "e117",
-       "type": "card",
-       "icon": "house",
-       "text": "O en tu ayuntamiento",
+       "id": "e3",
+       "type": "prop",
+       "kind": "edificio",
        "x": 50,
-       "y": 42,
-       "w": 860,
-       "at": 0
+       "y": 58,
+       "w": 760,
+       "at": 0,
+       "luz": true,
+       "in": "zoom"
       }
-     ]
-    }
-   ]
-  },
-  {
-   "clause": 2,
-   "segments": [
+     ],
+     "hide": [
+      "tv2",
+      "m2"
+     ],
+     "bg": "noche"
+    },
     {
      "text": "Cláusula dos: qué es la tarjeta.",
      "show": [
       {
-       "id": "e118",
-       "type": "headline",
-       "text": "La *tarjeta*",
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
        "x": 50,
-       "y": 22,
-       "w": 860
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "2",
+       "text": "QUÉ ES LA TARJETA",
+       "color": "gold",
+       "in": "left"
       }
-     ]
+     ],
+     "hide": [
+      "e3"
+     ],
+     "bg": "rojo"
     },
     {
      "text": "Es solo informativa: te dice tu sección, tu mesa y tu colegio. Lo que te da derecho a votar es estar en el censo e identificarte.",
      "show": [
       {
-       "id": "e119",
-       "type": "card",
-       "icon": "envelope",
-       "text": "Solo informativa",
+       "id": "d5",
+       "type": "prop",
+       "kind": "doc",
        "x": 50,
-       "y": 33,
-       "w": 860,
-       "at": 0
+       "y": 52,
+       "w": 640,
+       "at": 0,
+       "kicker": "TARJETA CENSAL",
+       "text": "Sección · mesa · colegio",
+       "sello": "INFORMATIVA",
+       "st": 0.9,
+       "in": "right"
       },
       {
-       "id": "e120",
-       "type": "card",
-       "icon": "user",
-       "text": "Censo + identificarte",
-       "x": 50,
-       "y": 42,
-       "w": 860,
-       "at": 0
+       "id": "k5_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 18,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "left"
       }
-     ]
-    }
-   ]
-  },
-  {
-   "clause": -1,
-   "segments": [
+     ],
+     "hide": [
+      "b4"
+     ],
+     "bg": "noche"
+    },
     {
      "text": "Y la letra pequeña:",
      "show": [
       {
-       "id": "e121",
-       "type": "headline",
-       "text": "La letra *pequeña*",
+       "id": "b6",
+       "type": "prop",
+       "kind": "big",
        "x": 50,
-       "y": 22,
-       "w": 860
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "⚠️",
+       "text": "LA LETRA PEQUEÑA",
+       "color": "gold",
+       "in": "zoom"
       }
-     ]
+     ],
+     "hide": [
+      "d5",
+      "k5_0"
+     ],
+     "bg": "rojo"
     },
     {
      "text": "solo puedes votar en tu mesa. Salvo excepciones de la ley, no vale ir a la de al lado.",
      "show": [
       {
-       "id": "e122",
-       "type": "fineprint",
-       "small": "* Comprueba que la consulta se refiere a las generales del 29-N. La tarjeta no sustituye al DNI, pasaporte o carnet de conducir.",
-       "big": "Solo en\n*tu mesa*",
+       "id": "u7",
+       "type": "prop",
+       "kind": "urna",
        "x": 50,
-       "y": 39,
-       "w": 880,
-       "at": 0
+       "y": 56,
+       "w": 480,
+       "at": 0,
+       "in": "left"
+      },
+      {
+       "id": "b7",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 86,
+       "w": 1000,
+       "at": 3,
+       "n": "TU MESA",
+       "text": "NO LA DE AL LADO",
+       "color": "",
+       "fs": 120,
+       "in": "down"
+      },
+      {
+       "id": "k7_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 10,
+       "text": "⚖️",
+       "fs": 110,
+       "in": "left"
       }
-     ]
+     ],
+     "hide": [
+      "b6"
+     ],
+     "bg": "noche"
     },
     {
      "text": "Míralo antes del 29.|veintinueve.",
      "show": [
       {
-       "id": "e123",
-       "type": "stamp",
-       "text": "MÍRALO YA",
-       "color": "ink",
+       "id": "b8",
+       "type": "prop",
+       "kind": "big",
        "x": 50,
-       "y": 54,
-       "rot": 5,
-       "at": 0
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "29-N",
+       "text": "MÍRALO ANTES",
+       "color": "gold",
+       "in": "right"
       }
+     ],
+     "hide": [
+      "u7",
+      "b7",
+      "k7_0"
      ]
-    }
-   ]
-  },
-  {
-   "clause": 0,
-   "segments": [
+    },
     {
      "text": "Síguenos para no perderte ninguno.",
      "show": [
       {
-       "id": "logo",
-       "type": "logo",
-       "x": 50,
-       "y": 33,
-       "w": 460
+       "id": "sF",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
       },
       {
-       "id": "fol",
-       "type": "stamp",
-       "text": "+ SEGUIR",
-       "color": "ink",
+       "id": "fF",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 72,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
        "x": 50,
-       "y": 52,
-       "rot": -4,
-       "at": 0
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿TÚ QUÉ DICES?",
+       "text": "",
+       "color": ""
       }
-     ]
+     ],
+     "hide": [
+      "b8"
+     ],
+     "bg": "duelo"
     }
    ]
   }
  ],
- "portada": {
-  "serie": "CÓMO VOTAR",
-  "titulo": "¿Dónde te *toca* votar?",
-  "icono": "question",
-  "sub": "Sin tarjeta censal también votas",
-  "mini": {
-   "texto": "¿Dónde te\ntoca votar?",
-   "rojo": "SIN TARJETA",
-   "mood": "duda",
-   "emoji": "📍",
-   "emojiX": 800,
-   "emojiY": 1000,
-   "flechaX": 70,
-   "flechaY": 1000
-  }
- },
- "fechaPub": "2026-11-24T14:00:00+01:00"
+ "fechaPub": "2026-11-24T14:00:00+01:00",
+ "estilo": "cine"
 }
