@@ -1333,9 +1333,11 @@
   {
    "id": "slp_176_sueldo_diputado",
    "fecha": "2026-11-23T14:00",
-   "estado": "pendiente",
+   "estado": "publicado",
    "copy": "¿Cuánto cobra un diputado? 👀\n\n¿Cuánto cobra el diputado al que vas a votar? El sueldo base: 3.366 euros al mes. En 14 pagas. Pero hay más. Si es de Madrid, le suman unos 1.000 euros para gastos. Total: unos 4.400 al mes. Si viene de otra provincia, le suman más de 2.100. Más de 5.500 al mes. Al año, solo el sueldo base ya son más de 47.000 euros. Y si es portavoz o está en la Mesa del Congreso, cobra todavía más.\n\n👇 ¿Te parece mucho o poco? Comenta.\n⏳ Quedan seis días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Demócrata (15-01-2026), retribuciones del Congreso de los Diputados\n#elecciones #29N #espana #politica #sueldo #congreso #diputados",
-   "nota": "estilo cine"
+   "nota": "estilo cine",
+   "ig_media_id": "18029899676928535",
+   "publicado_en": "2026-11-23T14:00"
   },
   {
    "id": "slp_177_coste_elecciones",
