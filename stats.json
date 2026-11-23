@@ -1,26 +1,42 @@
 {
  "cuenta": {
   "username": "politizatehoy",
-  "followers_count": 45,
-  "media_count": 162,
+  "followers_count": 44,
+  "media_count": 163,
   "id": "29046307255021601"
  },
  "reels": [
   {
+   "id": "slp_174_si_fueran_manana",
+   "ig": "17919904749472301",
+   "fecha": "2026-11-23T08:00:32+0000",
+   "likes": 5,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DgE5p3PkUH1/",
+   "titulo": "¿Y si las elecciones fueran mañana? 👀\n\n¿Qué pasaría si las e",
+   "views": 300,
+   "reach": 211,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 6,
+   "ig_reels_avg_watch_time": 20614,
+   "ig_reels_video_view_total_time": 4329017
+  },
+  {
    "id": "?",
    "ig": "18322040239304585",
    "fecha": "2026-11-22T22:01:19+0000",
-   "likes": 5,
+   "likes": 6,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgD1DvTCJlW/",
    "titulo": "¿Qué pasa si votas en blanco? 👀\n\n¿Qué pasa de verdad si vota",
-   "views": 552,
-   "reach": 495,
+   "views": 633,
+   "reach": 565,
    "saved": 0,
    "shares": 1,
-   "total_interactions": 6,
-   "ig_reels_avg_watch_time": 8085,
-   "ig_reels_video_view_total_time": 4002179
+   "total_interactions": 7,
+   "ig_reels_avg_watch_time": 8672,
+   "ig_reels_video_view_total_time": 4951948
   },
   {
    "id": "slp_020_permiso_votar",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgDosHGDKsM/",
    "titulo": "¿Trabajas el 29-N? Cuántas horas pagadas te corresponden par",
-   "views": 158,
-   "reach": 141,
+   "views": 176,
+   "reach": 159,
    "saved": 0,
    "shares": 1,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 5766,
-   "ig_reels_video_view_total_time": 836116
+   "ig_reels_avg_watch_time": 5905,
+   "ig_reels_video_view_total_time": 968537
   },
   {
    "id": "slp_174_sanchez_impuesto_banca",
@@ -46,13 +62,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgCU282FZRd/",
    "titulo": "La banca, a pagar vivienda 🏠\n\nSánchez anuncia que el impuest",
-   "views": 134,
-   "reach": 122,
+   "views": 136,
+   "reach": 124,
    "saved": 0,
    "shares": 2,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 5445,
-   "ig_reels_video_view_total_time": 680691
+   "ig_reels_avg_watch_time": 5681,
+   "ig_reels_video_view_total_time": 721550
   },
   {
    "id": "slp_173_top5_semana",
@@ -190,13 +206,13 @@
    "comentarios": 4,
    "url": "https://www.instagram.com/reel/DgAEIcZkYKW/",
    "titulo": "La canción de la campaña 👀\n\nUna frase del PP contra Sánchez ",
-   "views": 341,
-   "reach": 293,
+   "views": 343,
+   "reach": 295,
    "saved": 0,
    "shares": 0,
    "total_interactions": 7,
-   "ig_reels_avg_watch_time": 15126,
-   "ig_reels_video_view_total_time": 4492560
+   "ig_reels_avg_watch_time": 15082,
+   "ig_reels_video_view_total_time": 4509593
   },
   {
    "id": "slp_166_paradoja_encuesta",
@@ -206,13 +222,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgACNRanLTO/",
    "titulo": "La paradoja del 29-N 👀\n\nLos españoles prefieren a Sánchez co",
-   "views": 200,
-   "reach": 177,
+   "views": 201,
+   "reach": 178,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 14443,
-   "ig_reels_video_view_total_time": 2556499
+   "ig_reels_avg_watch_time": 14371,
+   "ig_reels_video_view_total_time": 2558058
   },
   {
    "id": "slp_165_debate_30s",
@@ -686,13 +702,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df2muAmCEBJ/",
    "titulo": "¿Te convence? Sí o no 👇\n\nSerie «Si votas a…» (4/7): 5 medida",
-   "views": 127,
-   "reach": 117,
+   "views": 129,
+   "reach": 118,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 9497,
-   "ig_reels_video_view_total_time": 1130147
+   "ig_reels_avg_watch_time": 9708,
+   "ig_reels_video_view_total_time": 1165016
   },
   {
    "id": "slp_139_encuestas_17n",
@@ -782,13 +798,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfzsPpOjgM_/",
    "titulo": "¿Ha hecho bien en retirarse? Sí o no 👇\n\nYolanda Díaz (vicepr",
-   "views": 167,
-   "reach": 148,
+   "views": 168,
+   "reach": 149,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 9340,
-   "ig_reels_video_view_total_time": 1391740
+   "ig_reels_avg_watch_time": 9353,
+   "ig_reels_video_view_total_time": 1403007
   },
   {
    "id": "slp_128_sanchez_bebe_wild",
@@ -1006,13 +1022,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dfuv-4DmXsX/",
    "titulo": "¿Gana o no gana? 👇\n\nEl cierre de la entrevista de Jordi Wild",
-   "views": 2973,
-   "reach": 2288,
+   "views": 2984,
+   "reach": 2294,
    "saved": 0,
    "shares": 6,
    "total_interactions": 13,
-   "ig_reels_avg_watch_time": 12633,
-   "ig_reels_video_view_total_time": 29145004
+   "ig_reels_avg_watch_time": 12622,
+   "ig_reels_video_view_total_time": 29247196
   },
   {
    "id": "slp_116_sanchez_bildu_mordor",
@@ -1118,13 +1134,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Dftnof_Cavr/",
    "titulo": "¿Cambio de opinión o promesa rota? 👇\n\nJordi Wild repasa «la ",
-   "views": 1545,
-   "reach": 1157,
+   "views": 1546,
+   "reach": 1159,
    "saved": 1,
    "shares": 0,
    "total_interactions": 5,
-   "ig_reels_avg_watch_time": 14203,
-   "ig_reels_video_view_total_time": 16490499
+   "ig_reels_avg_watch_time": 14192,
+   "ig_reels_video_view_total_time": 16491534
   },
   {
    "id": "slp_103_colau_inmigracion",
@@ -1134,13 +1150,13 @@
    "comentarios": 2,
    "url": "https://www.instagram.com/reel/DfsrjucCo8b/",
    "titulo": "¿Quién tiene razón? 👇\n\nEl choque más largo de la entrevista:",
-   "views": 1507,
-   "reach": 1184,
+   "views": 1508,
+   "reach": 1185,
    "saved": 1,
    "shares": 0,
    "total_interactions": 12,
-   "ig_reels_avg_watch_time": 13802,
-   "ig_reels_video_view_total_time": 16369547
+   "ig_reels_avg_watch_time": 13793,
+   "ig_reels_video_view_total_time": 16372383
   },
   {
    "id": "slp_115_sanchez_insulto_fruta",
@@ -1486,13 +1502,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DfmN2VWDcCH/",
    "titulo": "¿La vivienda justifica una huelga general? Sí o no 👇\n\nLa his",
-   "views": 124,
-   "reach": 114,
+   "views": 125,
+   "reach": 115,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 3270,
-   "ig_reels_video_view_total_time": 379424
+   "ig_reels_avg_watch_time": 3262,
+   "ig_reels_video_view_total_time": 381735
   },
   {
    "id": "slp_088_audiencia_abascal_sanchez",
@@ -1589,22 +1605,6 @@
    "total_interactions": 15,
    "ig_reels_avg_watch_time": 12586,
    "ig_reels_video_view_total_time": 13039874
-  },
-  {
-   "id": "slp_080_revuelta_top5",
-   "ig": "18018181805751206",
-   "fecha": "2026-11-10T12:45:47+0000",
-   "likes": 43,
-   "comentarios": 12,
-   "url": "https://www.instagram.com/reel/Dfj7826HcKP/",
-   "titulo": "¿Cuál fue el mejor momento? Comenta el número 👇\n\nLos 5 momen",
-   "views": 3576,
-   "reach": 2811,
-   "saved": 2,
-   "shares": 2,
-   "total_interactions": 60,
-   "ig_reels_avg_watch_time": 17640,
-   "ig_reels_video_view_total_time": 51510586
   }
  ]
 }
