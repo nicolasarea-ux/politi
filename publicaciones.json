@@ -1340,9 +1340,9 @@
   {
    "id": "slp_177_coste_elecciones",
    "fecha": "2026-11-23T20:00",
-   "estado": "pendiente",
+   "estado": "reserva",
    "copy": "Tu voto vale dinero 👀\n\nCuando metes tu voto en la urna, al partido que votas le pagan por él. Ochenta y un céntimos por cada voto al Congreso, si saca escaño. Y por cada diputado o senador que consigue: más de 21.000 euros. Montar unas elecciones cuesta unos 279 millones de euros. Solo Correos se lleva más de 100 millones. Y cada miembro de mesa cobra 75 euros por pasarse el día ahí. 400 millones de papeletas y más de 200.000 urnas. Para un solo domingo.\n\n👇 ¿Te parece caro? Comenta sí o no.\n⏳ Quedan seis días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Euronews (8-10-2026), con datos de Interior y Tribunal de Cuentas\n#elecciones #29N #espana #politica #elecciones #dinero",
-   "nota": "estilo cine"
+   "nota": "sustituido por slp_184 (radar 23-N)"
   },
   {
    "id": "slp_030_veda_encuestas",
@@ -1397,6 +1397,12 @@
    "fecha": "2026-11-25T23:00",
    "estado": "pendiente",
    "copy": "Debate a cuatro: guía 👀\n\nMañana a las diez de la noche, los cuatro, en el mismo plató. Por primera vez en esta campaña. Lo organiza la Academia de la Televisión. Lo dan Telecinco y Cuatro, y cualquier cadena que quiera. Cinco bloques: vivienda, economía, servicios públicos, corrupción, e inmigración y política exterior. Y el orden de palabra se sortea allí mismo, con los cuatro delante. ¿Podemos? Fuera. La Junta Electoral dijo que no tiene derecho a estar. Y aquí lo tendrás en directo: los mejores momentos, mientras pasan.\n\n👇 ¿Lo vas a ver? Comenta sí o no.\n⏳ Quedan cuatro días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Periódico de Ibiza (20-11), Doble Lectura (21-11), El Español (17-11)\n#elecciones #29N #espana #politica #debate #29N"
+  },
+  {
+   "id": "slp_184_gane_de_largo",
+   "fecha": "2026-11-23T20:00",
+   "estado": "pendiente",
+   "copy": "«Gané de largo» 👀\n\nSánchez, anoche en Salvados: «Yo creo que gané el debate de largo». Y lo explica así: «Hay una figura en la retórica que es la elipsis». Feijóo, esta mañana en Espejo Público: «Es como si cuando el domingo pierda las elecciones dice que está contento». Y pide no confiarse: «Que un día de relajación no nos condene a cuatro años más de lamentos». Los dos dicen que ganan. El jueves, otro debate. Y el domingo, decides tú.\n\n👇 ¿Quién ganó el cara a cara: Sánchez o Feijóo?\n⏳ Quedan seis días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: elDiario.es (22-11), 20minutos (22-11), El Español (23-11)\n#elecciones #29N #espana #politica #sanchez #feijoo #debate"
   }
  ]
 }
