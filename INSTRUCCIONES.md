@@ -3,6 +3,7 @@
 > - Ritmo: **4 reels/día a las 09:00, 14:00, 20:00 y 23:00** hasta el 29-N.
 > - Formatos que funcionan: momentos virales (sobre todo Abascal), debates, «¿Qué pasaría si…?», mitos del voto, dinero/sueldos. Evitar choques de programa y promesas.
 > - Jueves 26-N 22:00: debate a cuatro (Sánchez, Feijóo, Abascal, Colau): previa el 25-N y reels en directo.
+> - RESERVADO (no tocar, pendiente de voz): slp_178 (lun 23:00), slp_179 (mar 23:00), slp_180/181/182/183 (mié 09/14/20/23). Guiones en guiones_pend/lunmie.py. No uses esos ids ni esas franjas.
 
 # Rutina diaria de Politízate Hoy (@politizatehoy)
 
