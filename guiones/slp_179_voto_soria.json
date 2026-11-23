@@ -71,8 +71,9 @@
        "at": 0,
        "parts": [
         {
+         "l": "ESCAÑOS",
          "n": 350,
-         "c": "#9AA5B1"
+         "c": "#F5B700"
         }
        ],
        "line": null,
@@ -229,7 +230,7 @@
        "w": 1000,
        "at": 0,
        "n": "×4",
-       "text": "VOTANTES POR ESCAÑO: MADRID VS SORIA",
+       "text": "VOTANTES POR ESCAÑO",
        "color": "gold",
        "in": "right"
       },

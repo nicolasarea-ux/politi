@@ -1,7 +1,7 @@
 import sys,json;sys.path.insert(0,'engine')
 from mk_cine import *
 V={}
-CUA=lambda p,y=70,w=230:[mono(p+'s','sanchez',14,y,w,cara='neutral'),mono(p+'f','feijoo',38,y,w,cara='neutral'),mono(p+'a','abascal',62,y,w,cara='neutral'),mono(p+'c','colau',86,y,w,cara='neutral')]
+CUA=lambda p,y=70,w=200:[mono(p+'s','sanchez',14,y,w,cara='neutral'),mono(p+'f','feijoo',38,y,w,cara='neutral'),mono(p+'a','abascal',62,y,w,cara='neutral'),mono(p+'c','colau',86,y,w,cara='neutral')]
 # LUN 23:00
 V['slp_178_tres_frases']=cine('slp_178_tres_frases',[
  ("Faltan seis días. Y en los mítines ya casi no se habla de propuestas. Se habla de esto.",[BIG('b0','3 FRASES','3 MÍTINES',color='gold',y=50)],'noche'),
@@ -15,11 +15,11 @@ V['slp_178_tres_frases']=cine('slp_178_tres_frases',[
 # MAR 23:00
 V['slp_179_voto_soria']=cine('slp_179_voto_soria',[
  ("Tu voto no vale lo mismo en Soria que en Madrid. Y es legal.",[MED('m0','SORIA','MADRID',f=1,y=58)],'noche'),
- ("En el Congreso hay 350 escaños. Y se reparten por provincias.",[HEMI('h1',[{'n':350,'c':'#9AA5B1'}],y=50)],'noche'),
+ ("En el Congreso hay 350 escaños. Y se reparten por provincias.",[HEMI('h1',[{'l':'ESCAÑOS','n':350,'c':'#F5B700'}],y=50)],'noche'),
  ("Pero la ley da a cada provincia un mínimo de dos diputados, tenga la gente que tenga.",[BIG('b2','2','MÍNIMO POR PROVINCIA',color='gold',y=50)],None),
  ("Madrid elige 38 este año. Uno más que en 2023.",[BIG('b3','38','ESCAÑOS EN MADRID',y=50)],'dia'),
  ("Soria, con unas noventa mil personas, elige dos.",[BIG('b4','2','ESCAÑOS EN SORIA',color='gold',y=50)],'dia'),
- ("Resultado: en Madrid hay casi cuatro veces más votantes por cada escaño que en Soria.",[BIG('b5','×4','VOTANTES POR ESCAÑO: MADRID VS SORIA',color='gold',y=50)],'rojo'),
+ ("Resultado: en Madrid hay casi cuatro veces más votantes por cada escaño que en Soria.",[BIG('b5','×4','VOTANTES POR ESCAÑO',color='gold',y=50)],'rojo'),
  ("Por eso los partidos pelean las provincias pequeñas voto a voto. Allí, un puñado decide un escaño.",[BIG('b6','💺','UN PUÑADO DE VOTOS',y=50)],None)],
  '2026-11-24T23:00:00+01:00','¿Te parece justo? Comenta sí o no.','Tu voto no vale *igual*','SORIA ≠ MADRID','LOREG art. 162; Demócrata (escaños 2026); INE, censo electoral','#escaños #soria #madrid',dias='cinco')
 # MIE 09:00
@@ -28,13 +28,13 @@ V['slp_180_correo_hoy']=cine('slp_180_correo_hoy',[
  ("Hoy, miércoles 25, es el último día para entregarlo en Correos.",[BIG('b1','25-N','ÚLTIMO DÍA EN CORREOS',y=50)],'noche'),
  ("Lo llevas tú en persona a una oficina, con tu DNI.",[mono('m2','tu',50,72,320,cara='risa')],None),
  ("Y ojo: si lo pediste, el domingo ya no puedes votar en tu colegio.",[XM('x3',y=52),BIG('b3','🚫','',y=80)],'rojo'),
- ("Si no lo mandas hoy, tu voto se pierde.",[BIG('b4','VOTO PERDIDO','',y=50,fs=140)],'noche')],
+ ("Si no lo mandas hoy, tu voto se pierde.",[BIG('b4','VOTO PERDIDO','',y=50,fs=105)],'noche')],
  '2026-11-25T09:00:00+01:00','¿Ya lo has mandado? Comenta sí o no.','Voto por correo: es *hoy*','ÚLTIMO DÍA','LOREG art. 73; Correos','#votoporcorreo #29N',dias='cuatro')
 # MIE 14:00
 V['slp_181_quien_colau']=cine('slp_181_quien_colau',[
  ("Mañana hay cuatro en el debate. Y la cuarta no es quien muchos esperaban.",CUA('c0'),'noche'),
  ("Ada Colau. Exalcaldesa de Barcelona. La primera mujer en serlo.",[mono('c1','colau',50,72,360,cara='risa'),BIG('b1','2015','PRIMERA ALCALDESA',color='gold',y=34,fs=150)],None),
- ("Antes fue portavoz de la Plataforma de Afectados por la Hipoteca. La de los desahucios.",[mono('c2','colau',28,74,300),EDI('e2',y=56,w=560)],'dia'),
+ ("Antes fue portavoz de la Plataforma de Afectados por la Hipoteca. La de los desahucios.",[mono('c2','colau',28,78,280),EDI('e2',y=40,w=520)],'dia'),
  ("Gobernó Barcelona ocho años, hasta 2023.",[BIG('b3','8 AÑOS','ALCALDESA 2015-2023',y=50)],None),
  ("En octubre la eligieron candidata de Frente Amplio: Sumar, Izquierda Unida, Más Madrid y los Comuns.",[BIG('b4','FRENTE AMPLIO','SUMAR · IU · MÁS MADRID · COMUNS',color='gold',y=50,fs=140)],'noche'),
  ("Podemos no está dentro. Va por su cuenta.",[XM('x5',y=50)],'rojo'),
