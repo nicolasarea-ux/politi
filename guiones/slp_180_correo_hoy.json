@@ -1,0 +1,257 @@
+{
+ "id": "slp_180_correo_hoy",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: LOREG art. 73; Correos"
+ },
+ "caption": "Voto por correo: es hoy 👀\n\nSi pediste el voto por correo y todavía no lo has mandado: es hoy. Hoy, miércoles 25, es el último día para entregarlo en Correos. Lo llevas tú en persona a una oficina, con tu DNI. Y ojo: si lo pediste, el domingo ya no puedes votar en tu colegio. Si no lo mandas hoy, tu voto se pierde.\n\n👇 ¿Ya lo has mandado? Comenta sí o no.\n⏳ Quedan cuatro días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: LOREG art. 73; Correos\n#elecciones #29N #espana #politica #votoporcorreo #29N",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "Voto por correo: es *hoy*",
+  "mini": {
+   "rojo": "ÚLTIMO DÍA"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Si pediste el voto por correo y todavía no lo has mandado: es hoy.",
+     "show": [
+      {
+       "id": "b0",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "HOY",
+       "text": "ÚLTIMO DÍA",
+       "color": "gold",
+       "in": "zoom"
+      },
+      {
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 5,
+       "text": "✉️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [],
+     "bg": "rojo"
+    },
+    {
+     "text": "Hoy, miércoles 25, es el último día para entregarlo en Correos.",
+     "show": [
+      {
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "25-N",
+       "text": "ÚLTIMO DÍA EN CORREOS",
+       "color": "",
+       "in": "left"
+      },
+      {
+       "id": "k1_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 10,
+       "text": "✉️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "b0",
+      "k0_0"
+     ],
+     "bg": "noche"
+    },
+    {
+     "text": "Lo llevas tú en persona a una oficina, con tu DNI.",
+     "show": [
+      {
+       "id": "m2",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 72,
+       "w": 320,
+       "at": 0,
+       "habla": false,
+       "cara": "risa",
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "b1",
+      "k1_0"
+     ]
+    },
+    {
+     "text": "Y ojo: si lo pediste, el domingo ya no puedes votar en tu colegio.",
+     "show": [
+      {
+       "id": "x3",
+       "type": "prop",
+       "kind": "xmark",
+       "x": 50,
+       "y": 52,
+       "w": 420,
+       "at": 0,
+       "in": "zoom"
+      },
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 80,
+       "w": 1000,
+       "at": 3,
+       "n": "🚫",
+       "text": "",
+       "color": "",
+       "in": "down"
+      },
+      {
+       "id": "k3_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 10,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "m2"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Si no lo mandas hoy, tu voto se pierde.",
+     "show": [
+      {
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "VOTO PERDIDO",
+       "text": "",
+       "color": "",
+       "fs": 140,
+       "in": "left"
+      },
+      {
+       "id": "k4_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 6,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "x3",
+      "b3",
+      "k3_0"
+     ],
+     "bg": "noche"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "duelo",
+     "text": "¿Ya lo has mandado? Comenta sí o no. Síguenos: quedan cuatro días.",
+     "show": [
+      {
+       "id": "sF",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fF",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 72,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿TÚ QUÉ DICES?",
+       "text": "",
+       "color": ""
+      }
+     ],
+     "hide": [
+      "b4",
+      "k4_0"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-25T09:00:00+01:00",
+ "estilo": "cine"
+}

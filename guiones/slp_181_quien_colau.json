@@ -1,0 +1,398 @@
+{
+ "id": "slp_181_quien_colau",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: Euronews (13-11-2026)"
+ },
+ "caption": "¿Quién es la cuarta? 👀\n\nMañana hay cuatro en el debate. Y la cuarta no es quien muchos esperaban. Ada Colau. Exalcaldesa de Barcelona. La primera mujer en serlo. Antes fue portavoz de la Plataforma de Afectados por la Hipoteca. La de los desahucios. Gobernó Barcelona ocho años, hasta 2023. En octubre la eligieron candidata de Frente Amplio: Sumar, Izquierda Unida, Más Madrid y los Comuns. Podemos no está dentro. Va por su cuenta. Y mañana, por primera vez, estará en un debate frente a Sánchez, Feijóo y Abascal a la vez.\n\n👇 ¿La conocías? Comenta sí o no.\n⏳ Quedan cuatro días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Euronews (13-11-2026)\n#elecciones #29N #espana #politica #colau #frenteamplio #debate",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "¿Quién es la *cuarta*?",
+  "mini": {
+   "rojo": "COLAU"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Mañana hay cuatro en el debate. Y la cuarta no es quien muchos esperaban.",
+     "show": [
+      {
+       "id": "c0s",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 14,
+       "y": 70,
+       "w": 230,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "c0f",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 38,
+       "y": 70,
+       "w": 230,
+       "at": 3,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "c0a",
+       "type": "mono",
+       "who": "abascal",
+       "x": 62,
+       "y": 70,
+       "w": 230,
+       "at": 3,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "c0c",
+       "type": "mono",
+       "who": "colau",
+       "x": 86,
+       "y": 70,
+       "w": 230,
+       "at": 3,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 5,
+       "text": "🎙️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [],
+     "bg": "noche"
+    },
+    {
+     "text": "Ada Colau. Exalcaldesa de Barcelona. La primera mujer en serlo.",
+     "show": [
+      {
+       "id": "c1",
+       "type": "mono",
+       "who": "colau",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": false,
+       "cara": "risa",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 34,
+       "w": 1000,
+       "at": 3,
+       "n": "2015",
+       "text": "PRIMERA ALCALDESA",
+       "color": "gold",
+       "fs": 150,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "c0s",
+      "c0f",
+      "c0a",
+      "c0c",
+      "k0_0"
+     ]
+    },
+    {
+     "text": "Antes fue portavoz de la Plataforma de Afectados por la Hipoteca. La de los desahucios.",
+     "show": [
+      {
+       "id": "c2",
+       "type": "mono",
+       "who": "colau",
+       "x": 28,
+       "y": 74,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "serio",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "e2",
+       "type": "prop",
+       "kind": "edificio",
+       "x": 50,
+       "y": 56,
+       "w": 560,
+       "at": 3,
+       "luz": true,
+       "in": "zoom"
+      }
+     ],
+     "hide": [
+      "c1",
+      "b1"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Gobernó Barcelona ocho años, hasta 2023.",
+     "show": [
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "8 AÑOS",
+       "text": "ALCALDESA 2015-2023",
+       "color": "",
+       "in": "zoom"
+      },
+      {
+       "id": "k3_0",
+       "type": "prop",
+       "kind": "chip",
+       "x": 15,
+       "y": 25,
+       "w": 360,
+       "at": 5,
+       "in": "left",
+       "text": "2023",
+       "c": "",
+       "rot": -6
+      }
+     ],
+     "hide": [
+      "c2",
+      "e2"
+     ]
+    },
+    {
+     "text": "En octubre la eligieron candidata de Frente Amplio: Sumar, Izquierda Unida, Más Madrid y los Comuns.",
+     "show": [
+      {
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "FRENTE AMPLIO",
+       "text": "SUMAR · IU · MÁS MADRID · COMUNS",
+       "color": "gold",
+       "fs": 140,
+       "in": "left"
+      },
+      {
+       "id": "k4_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 12,
+       "text": "📍",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "b3",
+      "k3_0"
+     ],
+     "bg": "noche"
+    },
+    {
+     "text": "Podemos no está dentro. Va por su cuenta.",
+     "show": [
+      {
+       "id": "x5",
+       "type": "prop",
+       "kind": "xmark",
+       "x": 50,
+       "y": 50,
+       "w": 420,
+       "at": 0,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "b4",
+      "k4_0"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Y mañana, por primera vez, estará en un debate frente a Sánchez, Feijóo y Abascal a la vez.",
+     "show": [
+      {
+       "id": "c6s",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 14,
+       "y": 70,
+       "w": 230,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "c6f",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 38,
+       "y": 70,
+       "w": 230,
+       "at": 3,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "c6a",
+       "type": "mono",
+       "who": "abascal",
+       "x": 62,
+       "y": 70,
+       "w": 230,
+       "at": 3,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "c6c",
+       "type": "mono",
+       "who": "colau",
+       "x": 86,
+       "y": 70,
+       "w": 230,
+       "at": 3,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "k6_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 8,
+       "text": "🎙️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "x5"
+     ],
+     "bg": "duelo"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "duelo",
+     "text": "¿La conocías? Comenta sí o no. Síguenos: quedan cuatro días.",
+     "show": [
+      {
+       "id": "sF",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fF",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 72,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿TÚ QUÉ DICES?",
+       "text": "",
+       "color": ""
+      }
+     ],
+     "hide": [
+      "c6s",
+      "c6f",
+      "c6a",
+      "c6c",
+      "k6_0"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-25T14:00:00+01:00",
+ "estilo": "cine"
+}

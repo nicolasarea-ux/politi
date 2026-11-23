@@ -1,0 +1,385 @@
+{
+ "id": "slp_179_voto_soria",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: LOREG art. 162; Demócrata (escaños 2026); INE, censo electoral"
+ },
+ "caption": "Tu voto no vale igual 👀\n\nTu voto no vale lo mismo en Soria que en Madrid. Y es legal. En el Congreso hay 350 escaños. Y se reparten por provincias. Pero la ley da a cada provincia un mínimo de dos diputados, tenga la gente que tenga. Madrid elige 38 este año. Uno más que en 2023. Soria, con unas noventa mil personas, elige dos. Resultado: en Madrid hay casi cuatro veces más votantes por cada escaño que en Soria. Por eso los partidos pelean las provincias pequeñas voto a voto. Allí, un puñado decide un escaño.\n\n👇 ¿Te parece justo? Comenta sí o no.\n⏳ Quedan cinco días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: LOREG art. 162; Demócrata (escaños 2026); INE, censo electoral\n#elecciones #29N #espana #politica #escaños #soria #madrid",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "Tu voto no vale *igual*",
+  "mini": {
+   "rojo": "SORIA ≠ MADRID"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Tu voto no vale lo mismo en Soria que en Madrid. Y es legal.",
+     "show": [
+      {
+       "id": "m0",
+       "type": "prop",
+       "kind": "medida",
+       "x": 50,
+       "y": 58,
+       "w": 960,
+       "at": 0,
+       "l1": "SORIA",
+       "l2": "MADRID",
+       "f": 1,
+       "in": "zoom"
+      },
+      {
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 10,
+       "text": "📍",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [],
+     "bg": "noche"
+    },
+    {
+     "text": "En el Congreso hay 350 escaños. Y se reparten por provincias.",
+     "show": [
+      {
+       "id": "h1",
+       "type": "prop",
+       "kind": "hemi",
+       "x": 50,
+       "y": 50,
+       "w": 1060,
+       "at": 0,
+       "parts": [
+        {
+         "n": 350,
+         "c": "#9AA5B1"
+        }
+       ],
+       "line": null,
+       "in": "left"
+      },
+      {
+       "id": "k1_0",
+       "type": "prop",
+       "kind": "chip",
+       "x": 15,
+       "y": 25,
+       "w": 360,
+       "at": 4,
+       "in": "left",
+       "text": "350 ESCAÑOS",
+       "c": "",
+       "rot": -6
+      },
+      {
+       "id": "k1_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 85,
+       "y": 26,
+       "w": 160,
+       "at": 5,
+       "text": "💺",
+       "fs": 110,
+       "in": "right"
+      },
+      {
+       "id": "k1_2",
+       "type": "prop",
+       "kind": "emo",
+       "x": 14,
+       "y": 89,
+       "w": 160,
+       "at": 10,
+       "text": "📍",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "m0",
+      "k0_0"
+     ],
+     "bg": "noche"
+    },
+    {
+     "text": "Pero la ley da a cada provincia un mínimo de dos diputados, tenga la gente que tenga.",
+     "show": [
+      {
+       "id": "b2",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "2",
+       "text": "MÍNIMO POR PROVINCIA",
+       "color": "gold",
+       "in": "right"
+      },
+      {
+       "id": "k2_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 6,
+       "text": "📍",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "h1",
+      "k1_0",
+      "k1_1",
+      "k1_2"
+     ]
+    },
+    {
+     "text": "Madrid elige 38 este año. Uno más que en 2023.",
+     "show": [
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "38",
+       "text": "ESCAÑOS EN MADRID",
+       "color": "",
+       "in": "zoom"
+      },
+      {
+       "id": "k3_0",
+       "type": "prop",
+       "kind": "chip",
+       "x": 15,
+       "y": 25,
+       "w": 360,
+       "at": 9,
+       "in": "left",
+       "text": "2023",
+       "c": "",
+       "rot": -6
+      }
+     ],
+     "hide": [
+      "b2",
+      "k2_0"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Soria, con unas noventa mil personas, elige dos.",
+     "show": [
+      {
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "2",
+       "text": "ESCAÑOS EN SORIA",
+       "color": "gold",
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "b3",
+      "k3_0"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Resultado: en Madrid hay casi cuatro veces más votantes por cada escaño que en Soria.",
+     "show": [
+      {
+       "id": "b5",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "×4",
+       "text": "VOTANTES POR ESCAÑO: MADRID VS SORIA",
+       "color": "gold",
+       "in": "right"
+      },
+      {
+       "id": "k5_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 8,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k5_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 85,
+       "y": 26,
+       "w": 160,
+       "at": 11,
+       "text": "💺",
+       "fs": 110,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "b4"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Por eso los partidos pelean las provincias pequeñas voto a voto. Allí, un puñado decide un escaño.",
+     "show": [
+      {
+       "id": "b6",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "💺",
+       "text": "UN PUÑADO DE VOTOS",
+       "color": "",
+       "in": "zoom"
+      },
+      {
+       "id": "k6_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 6,
+       "text": "📍",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k6_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 85,
+       "y": 26,
+       "w": 160,
+       "at": 8,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "right"
+      },
+      {
+       "id": "k6_2",
+       "type": "prop",
+       "kind": "emo",
+       "x": 14,
+       "y": 89,
+       "w": 160,
+       "at": 16,
+       "text": "💺",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "b5",
+      "k5_0",
+      "k5_1"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "duelo",
+     "text": "¿Te parece justo? Comenta sí o no. Síguenos: quedan cinco días.",
+     "show": [
+      {
+       "id": "sF",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fF",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 72,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿TÚ QUÉ DICES?",
+       "text": "",
+       "color": ""
+      }
+     ],
+     "hide": [
+      "b6",
+      "k6_0",
+      "k6_1",
+      "k6_2"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-24T23:00:00+01:00",
+ "estilo": "cine"
+}

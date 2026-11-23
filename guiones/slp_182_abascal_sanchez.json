@@ -1,0 +1,367 @@
+{
+ "id": "slp_182_abascal_sanchez",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: Moncloa.com (22-11), Diari de Tarragona (7-11)"
+ },
+ "caption": "Abascal vs Sánchez 👀\n\nMañana Abascal y Sánchez estarán a unos metros. Esto es lo que se han dicho esta campaña. Abascal, sobre el Gobierno: «mafia». Y sobre la vivienda: «totalmente inaccesible para la juventud». Sánchez, en Tarragona: «Si el 29N votamos en masa, mandamos a casa a Feijóo y a Abascal». Y: «La mejor receta contra la involución se llama movilización». Uno habla de mafia. El otro de mandarle a casa. Y mañana, cara a cara, con Feijóo y Colau en medio.\n\n👇 ¿Quién crees que saldrá más fuerte? Comenta.\n⏳ Quedan cuatro días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Moncloa.com (22-11), Diari de Tarragona (7-11)\n#elecciones #29N #espana #politica #abascal #sanchez #debate",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "Abascal vs *Sánchez*",
+  "mini": {
+   "rojo": "MAÑANA 22:00"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Mañana Abascal y Sánchez estarán a unos metros. Esto es lo que se han dicho esta campaña.",
+     "show": [
+      {
+       "id": "a0",
+       "type": "mono",
+       "who": "abascal",
+       "x": 28,
+       "y": 72,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "s0",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 72,
+       "y": 72,
+       "w": 300,
+       "at": 3,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [],
+     "bg": "duelo"
+    },
+    {
+     "text": "Abascal, sobre el Gobierno: «mafia».",
+     "show": [
+      {
+       "id": "a1",
+       "type": "mono",
+       "who": "abascal",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "enfado",
+       "say": "«Mafia»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "a0",
+      "s0"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Y sobre la vivienda: «totalmente inaccesible para la juventud».",
+     "show": [
+      {
+       "id": "a2",
+       "type": "mono",
+       "who": "abascal",
+       "x": 26,
+       "y": 74,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "enfado",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "e2",
+       "type": "prop",
+       "kind": "edificio",
+       "x": 50,
+       "y": 52,
+       "w": 520,
+       "at": 3,
+       "luz": true,
+       "in": "zoom"
+      }
+     ],
+     "hide": [
+      "a1"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Sánchez, en Tarragona: «Si el 29N votamos en masa, mandamos a casa a Feijóo y a Abascal».",
+     "show": [
+      {
+       "id": "s3",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "risa",
+       "say": "«Mandamos a casa a Feijóo y a Abascal»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "k3_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 6,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k3_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 85,
+       "y": 26,
+       "w": 160,
+       "at": 11,
+       "text": "🏠",
+       "fs": 110,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "a2",
+      "e2"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Y: «La mejor receta contra la involución se llama movilización».",
+     "show": [
+      {
+       "id": "s4",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 74,
+       "y": 74,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "risa",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 3,
+       "n": "MOVILIZACIÓN",
+       "text": "",
+       "color": "gold",
+       "fs": 130,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "s3",
+      "k3_0",
+      "k3_1"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Uno habla de mafia. El otro de mandarle a casa. Y mañana, cara a cara, con Feijóo y Colau en medio.",
+     "show": [
+      {
+       "id": "c5s",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 14,
+       "y": 70,
+       "w": 230,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "c5f",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 38,
+       "y": 70,
+       "w": 230,
+       "at": 3,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "c5a",
+       "type": "mono",
+       "who": "abascal",
+       "x": 62,
+       "y": 70,
+       "w": 230,
+       "at": 3,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "c5c",
+       "type": "mono",
+       "who": "colau",
+       "x": 86,
+       "y": 70,
+       "w": 230,
+       "at": 3,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "k5_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 9,
+       "text": "🏠",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k5_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 85,
+       "y": 26,
+       "w": 160,
+       "at": 11,
+       "text": "⏰",
+       "fs": 110,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "s4",
+      "b4"
+     ],
+     "bg": "duelo"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "duelo",
+     "text": "¿Quién crees que saldrá más fuerte? Comenta. Síguenos: quedan cuatro días.",
+     "show": [
+      {
+       "id": "sF",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fF",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 72,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿TÚ QUÉ DICES?",
+       "text": "",
+       "color": ""
+      }
+     ],
+     "hide": [
+      "c5s",
+      "c5f",
+      "c5a",
+      "c5c",
+      "k5_0",
+      "k5_1"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-25T20:00:00+01:00",
+ "estilo": "cine"
+}

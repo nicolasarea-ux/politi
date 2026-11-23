@@ -1,0 +1,269 @@
+{
+ "id": "slp_183_guia_debate4",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: Periódico de Ibiza (20-11), Doble Lectura (21-11), El Español (17-11)"
+ },
+ "caption": "Debate a cuatro: guía 👀\n\nMañana a las diez de la noche, los cuatro, en el mismo plató. Por primera vez en esta campaña. Lo organiza la Academia de la Televisión. Lo dan Telecinco y Cuatro, y cualquier cadena que quiera. Cinco bloques: vivienda, economía, servicios públicos, corrupción, e inmigración y política exterior. Y el orden de palabra se sortea allí mismo, con los cuatro delante. ¿Podemos? Fuera. La Junta Electoral dijo que no tiene derecho a estar. Y aquí lo tendrás en directo: los mejores momentos, mientras pasan.\n\n👇 ¿Lo vas a ver? Comenta sí o no.\n⏳ Quedan cuatro días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Periódico de Ibiza (20-11), Doble Lectura (21-11), El Español (17-11)\n#elecciones #29N #espana #politica #debate #29N",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "Debate a *cuatro*: guía",
+  "mini": {
+   "rojo": "JUEVES 22:00"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Mañana a las diez de la noche, los cuatro, en el mismo plató. Por primera vez en esta campaña.",
+     "show": [
+      {
+       "id": "c0s",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 14,
+       "y": 70,
+       "w": 230,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "c0f",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 38,
+       "y": 70,
+       "w": 230,
+       "at": 3,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "c0a",
+       "type": "mono",
+       "who": "abascal",
+       "x": 62,
+       "y": 70,
+       "w": 230,
+       "at": 3,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "c0c",
+       "type": "mono",
+       "who": "colau",
+       "x": 86,
+       "y": 70,
+       "w": 230,
+       "at": 3,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [],
+     "bg": "noche"
+    },
+    {
+     "text": "Lo organiza la Academia de la Televisión. Lo dan Telecinco y Cuatro, y cualquier cadena que quiera.",
+     "show": [
+      {
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "22:00",
+       "text": "JUEVES 26 · TELECINCO · CUATRO",
+       "color": "gold",
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "c0s",
+      "c0f",
+      "c0a",
+      "c0c"
+     ]
+    },
+    {
+     "text": "Cinco bloques: vivienda, economía, servicios públicos, corrupción, e inmigración y política exterior.",
+     "show": [
+      {
+       "id": "b2",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "5",
+       "text": "BLOQUES",
+       "color": "",
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "b1"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Y el orden de palabra se sortea allí mismo, con los cuatro delante.",
+     "show": [
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "🎲",
+       "text": "SORTEO EN DIRECTO",
+       "color": "",
+       "in": "zoom"
+      }
+     ],
+     "hide": [
+      "b2"
+     ]
+    },
+    {
+     "text": "¿Podemos? Fuera. La Junta Electoral dijo que no tiene derecho a estar.",
+     "show": [
+      {
+       "id": "x4",
+       "type": "prop",
+       "kind": "xmark",
+       "x": 50,
+       "y": 50,
+       "w": 420,
+       "at": 0,
+       "in": "left"
+      },
+      {
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 82,
+       "w": 1000,
+       "at": 3,
+       "n": "JUNTA ELECTORAL",
+       "text": "",
+       "color": "",
+       "fs": 110,
+       "in": "down"
+      }
+     ],
+     "hide": [
+      "b3"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Y aquí lo tendrás en directo: los mejores momentos, mientras pasan.",
+     "show": [
+      {
+       "id": "b5",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "EN DIRECTO",
+       "text": "@POLITIZATEHOY",
+       "color": "gold",
+       "fs": 140,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "x4",
+      "b4"
+     ],
+     "bg": "noche"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "duelo",
+     "text": "¿Lo vas a ver? Comenta sí o no. Síguenos: quedan cuatro días.",
+     "show": [
+      {
+       "id": "sF",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fF",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 72,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿TÚ QUÉ DICES?",
+       "text": "",
+       "color": ""
+      }
+     ],
+     "hide": [
+      "b5"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-25T23:00:00+01:00",
+ "estilo": "cine"
+}

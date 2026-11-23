@@ -1,0 +1,404 @@
+{
+ "id": "slp_178_tres_frases",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: Moncloa.com (22-11), Demócrata (14-11), Diari de Tarragona (7-11)"
+ },
+ "caption": "3 frases, 3 mítines 👀\n\nFaltan seis días. Y en los mítines ya casi no se habla de propuestas. Se habla de esto. Abascal, este domingo en Alicante. Llamó al Gobierno «mafia». Y dijo que los números del Gobierno «son mentira» porque nunca llegan a las familias. Feijóo, en Galicia, lo resumió así: «De Ábalos a Puente y siempre Sánchez». Y Sánchez, en Tarragona: «Si el 29N votamos en masa, mandamos a casa a Feijóo y a Abascal». ¿Te has fijado? Dos apuntan a Sánchez. Y Sánchez apunta a los dos. El jueves, por primera vez en esta campaña, se lo dirán a la cara. Con Colau en medio.\n\n👇 ¿Qué frase te convence más? Comenta 1, 2 o 3.\n⏳ Quedan seis días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Moncloa.com (22-11), Demócrata (14-11), Diari de Tarragona (7-11)\n#elecciones #29N #espana #politica #abascal #feijoo #sanchez",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "3 frases, 3 *mítines*",
+  "mini": {
+   "rojo": "2 VS 1"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Faltan seis días. Y en los mítines ya casi no se habla de propuestas. Se habla de esto.",
+     "show": [
+      {
+       "id": "b0",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "3 FRASES",
+       "text": "3 MÍTINES",
+       "color": "gold",
+       "in": "zoom"
+      }
+     ],
+     "hide": [],
+     "bg": "noche"
+    },
+    {
+     "text": "Abascal, este domingo en Alicante. Llamó al Gobierno «mafia».",
+     "show": [
+      {
+       "id": "a1",
+       "type": "mono",
+       "who": "abascal",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "enfado",
+       "say": "«Mafia»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "b0"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Y dijo que los números del Gobierno «son mentira» porque nunca llegan a las familias.",
+     "show": [
+      {
+       "id": "a2",
+       "type": "mono",
+       "who": "abascal",
+       "x": 30,
+       "y": 74,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "enfado",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "b2",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 36,
+       "w": 1000,
+       "at": 3,
+       "n": "«MENTIRA»",
+       "text": "ABASCAL · ALICANTE",
+       "color": "",
+       "fs": 150,
+       "in": "zoom"
+      },
+      {
+       "id": "k2_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 8,
+       "text": "❌",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "a1"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Feijóo, en Galicia, lo resumió así: «De Ábalos a Puente y siempre Sánchez».",
+     "show": [
+      {
+       "id": "f3",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«Y siempre Sánchez»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "a2",
+      "b2",
+      "k2_0"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Y Sánchez, en Tarragona: «Si el 29N votamos en masa, mandamos a casa a Feijóo y a Abascal».",
+     "show": [
+      {
+       "id": "s4",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "risa",
+       "say": "«Mandamos a casa a Feijóo y a Abascal»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "k4_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 7,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k4_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 85,
+       "y": 26,
+       "w": 160,
+       "at": 12,
+       "text": "🏠",
+       "fs": 110,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "f3"
+     ]
+    },
+    {
+     "text": "¿Te has fijado? Dos apuntan a Sánchez. Y Sánchez apunta a los dos.",
+     "show": [
+      {
+       "id": "a5",
+       "type": "mono",
+       "who": "abascal",
+       "x": 18,
+       "y": 72,
+       "w": 250,
+       "at": 0,
+       "habla": false,
+       "cara": "enfado",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "s5",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 72,
+       "w": 250,
+       "at": 3,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "f5",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 82,
+       "y": 72,
+       "w": 250,
+       "at": 3,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l",
+       "from": "right"
+      },
+      {
+       "id": "b5",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 36,
+       "w": 1000,
+       "at": 3,
+       "n": "2 VS 1",
+       "text": "",
+       "color": "gold",
+       "fs": 170,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "s4",
+      "k4_0",
+      "k4_1"
+     ],
+     "bg": "duelo"
+    },
+    {
+     "text": "El jueves, por primera vez en esta campaña, se lo dirán a la cara. Con Colau en medio.",
+     "show": [
+      {
+       "id": "c6s",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 14,
+       "y": 70,
+       "w": 230,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "c6f",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 38,
+       "y": 70,
+       "w": 230,
+       "at": 3,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "c6a",
+       "type": "mono",
+       "who": "abascal",
+       "x": 62,
+       "y": 70,
+       "w": 230,
+       "at": 3,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "c6c",
+       "type": "mono",
+       "who": "colau",
+       "x": 86,
+       "y": 70,
+       "w": 230,
+       "at": 3,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "a5",
+      "s5",
+      "f5",
+      "b5"
+     ],
+     "bg": "noche"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "duelo",
+     "text": "¿Qué frase te convence más? Comenta 1, 2 o 3. Síguenos: quedan seis días.",
+     "show": [
+      {
+       "id": "sF",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fF",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 72,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿TÚ QUÉ DICES?",
+       "text": "",
+       "color": ""
+      }
+     ],
+     "hide": [
+      "c6s",
+      "c6f",
+      "c6a",
+      "c6c"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-23T23:00:00+01:00",
+ "estilo": "cine"
+}
