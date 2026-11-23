@@ -1,0 +1,274 @@
+{
+ "id": "slp_189_wild_psoe_pp",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: elDiario.es/Vertele y OKdiario (23-11-2026), El Hormiguero (Antena 3)"
+ },
+ "caption": "«Asolados por la corrupción» 👀\n\nHa entrevistado a Sánchez, Feijóo y Colau. Y en El Hormiguero ha soltado esto. Sobre PSOE y PP: «Son partidos asolados por la corrupción». Y va más allá: «Yo te diría de desbandarlos y crear una alternativa». ¿Y los candidatos? «Casi ninguno de ellos me convence, no es un tema ideológico, es un tema de palabra». Aunque matiza: «Al humanizarlos no son monstruos, el trato fue muy bueno». Y suelta la frase de la noche: «Para ascender en la política de hoy en día tienes que tener un punto medio psicopático».\n\n👇 ¿Estás de acuerdo con Wild? Comenta sí o no.\n⏳ Quedan cinco días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: elDiario.es/Vertele y OKdiario (23-11-2026), El Hormiguero (Antena 3)\n#elecciones #29N #espana #politica #jordiwild #psoe #pp #elhormiguero",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "«Asolados por la *corrupción*»",
+  "mini": {
+   "rojo": "JORDI WILD"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Ha entrevistado a Sánchez, Feijóo y Colau. Y en El Hormiguero ha soltado esto.",
+     "show": [
+      {
+       "id": "w0",
+       "type": "mono",
+       "who": "wild",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [],
+     "bg": "noche"
+    },
+    {
+     "text": "Sobre PSOE y PP: «Son partidos asolados por la corrupción».",
+     "show": [
+      {
+       "id": "w1",
+       "type": "mono",
+       "who": "wild",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "enfado",
+       "say": "«Asolados por la corrupción»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "k1_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 5,
+       "text": "🎯",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "w0"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Y va más allá: «Yo te diría de desbandarlos y crear una alternativa».",
+     "show": [
+      {
+       "id": "w2",
+       "type": "mono",
+       "who": "wild",
+       "x": 28,
+       "y": 74,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "enfado",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "b2",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 38,
+       "w": 1000,
+       "at": 3,
+       "n": "ALTERNATIVA",
+       "text": "",
+       "color": "gold",
+       "fs": 130,
+       "in": "zoom"
+      }
+     ],
+     "hide": [
+      "w1",
+      "k1_0"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "¿Y los candidatos? «Casi ninguno de ellos me convence, no es un tema ideológico, es un tema de palabra».",
+     "show": [
+      {
+       "id": "w3",
+       "type": "mono",
+       "who": "wild",
+       "x": 72,
+       "y": 74,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 38,
+       "w": 1000,
+       "at": 3,
+       "n": "PALABRA",
+       "text": "NO IDEOLOGÍA",
+       "color": "",
+       "fs": 150,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "w2",
+      "b2"
+     ]
+    },
+    {
+     "text": "Aunque matiza: «Al humanizarlos no son monstruos, el trato fue muy bueno».",
+     "show": [
+      {
+       "id": "w4",
+       "type": "mono",
+       "who": "wild",
+       "x": 50,
+       "y": 72,
+       "w": 340,
+       "at": 0,
+       "habla": false,
+       "cara": "risa",
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "w3",
+      "b3"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Y suelta la frase de la noche: «Para ascender en la política de hoy en día tienes que tener un punto medio psicopático».",
+     "show": [
+      {
+       "id": "w5",
+       "type": "mono",
+       "who": "wild",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "sorpresa",
+       "say": "«Un punto medio psicopático»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "w4"
+     ],
+     "bg": "duelo"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "duelo",
+     "text": "¿Estás de acuerdo con Wild? Comenta sí o no. Síguenos: quedan cinco días.",
+     "show": [
+      {
+       "id": "sF",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fF",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 72,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿TÚ QUÉ DICES?",
+       "text": "",
+       "color": ""
+      }
+     ],
+     "hide": [
+      "w5"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-24T02:15:00+01:00",
+ "estilo": "cine"
+}

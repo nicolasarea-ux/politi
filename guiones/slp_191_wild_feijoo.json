@@ -1,0 +1,316 @@
+{
+ "id": "slp_191_wild_feijoo",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: elDiario.es/Vertele y OKdiario (23-11-2026), El Hormiguero (Antena 3)"
+ },
+ "caption": "«Llegué agotado» 👀\n\nJordi Wild dice que, si hubiera entrevistado a Feijóo el primer día, la entrevista habría sido otra. Su gran error: «Querer hacer cuatro entrevistas en cuatro días consecutivos». «Llegué agotado mentalmente a Feijóo». Y «se me quedaron temas como el de la DANA, Mazón». Aun así, cuando le preguntó por el piso de Ayuso y el caso Marcial, lo vio «apurado». «Si esa parte hubiera durado más hubiera estado más apurado». Su definición: «Un político de la vieja escuela».\n\n👇 ¿Le hizo bien la entrevista a Feijóo? Comenta.\n⏳ Quedan cinco días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: elDiario.es/Vertele y OKdiario (23-11-2026), El Hormiguero (Antena 3)\n#elecciones #29N #espana #politica #jordiwild #feijoo #elhormiguero",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "«Llegué *agotado*»",
+  "mini": {
+   "rojo": "FEIJÓO"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Jordi Wild dice que, si hubiera entrevistado a Feijóo el primer día, la entrevista habría sido otra.",
+     "show": [
+      {
+       "id": "w0",
+       "type": "mono",
+       "who": "wild",
+       "x": 30,
+       "y": 72,
+       "w": 280,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "f0",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 70,
+       "y": 72,
+       "w": 280,
+       "at": 3,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l",
+       "from": "right"
+      }
+     ],
+     "hide": [],
+     "bg": "noche"
+    },
+    {
+     "text": "Su gran error: «Querer hacer cuatro entrevistas en cuatro días consecutivos».",
+     "show": [
+      {
+       "id": "w1",
+       "type": "mono",
+       "who": "wild",
+       "x": 50,
+       "y": 72,
+       "w": 340,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 34,
+       "w": 1000,
+       "at": 3,
+       "n": "4 EN 4",
+       "text": "",
+       "color": "gold",
+       "fs": 160,
+       "in": "right"
+      },
+      {
+       "id": "k1_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 9,
+       "text": "⏳",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "w0",
+      "f0"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "«Llegué agotado mentalmente a Feijóo». Y «se me quedaron temas como el de la DANA, Mazón».",
+     "show": [
+      {
+       "id": "w2",
+       "type": "mono",
+       "who": "wild",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "sorpresa",
+       "say": "«Llegué agotado»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "w1",
+      "b1",
+      "k1_0"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Aun así, cuando le preguntó por el piso de Ayuso y el caso Marcial, lo vio «apurado».",
+     "show": [
+      {
+       "id": "f3",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "duda",
+       "say": "…",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l",
+       "from": "right"
+      },
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 34,
+       "w": 1000,
+       "at": 3,
+       "n": "APURADO",
+       "text": "",
+       "color": "red",
+       "fs": 150,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "w2"
+     ]
+    },
+    {
+     "text": "«Si esa parte hubiera durado más hubiera estado más apurado».",
+     "show": [
+      {
+       "id": "f4",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 28,
+       "y": 74,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 36,
+       "w": 1000,
+       "at": 3,
+       "n": "⏱️",
+       "text": "",
+       "color": "",
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "f3",
+      "b3"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Su definición: «Un político de la vieja escuela».",
+     "show": [
+      {
+       "id": "f5",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«Vieja escuela»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "f4",
+      "b4"
+     ],
+     "bg": "duelo"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "duelo",
+     "text": "¿Le hizo bien la entrevista a Feijóo? Comenta. Síguenos: quedan cinco días.",
+     "show": [
+      {
+       "id": "sF",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fF",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 72,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿TÚ QUÉ DICES?",
+       "text": "",
+       "color": ""
+      }
+     ],
+     "hide": [
+      "f5"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-24T08:30:00+01:00",
+ "estilo": "cine"
+}

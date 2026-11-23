@@ -1,0 +1,286 @@
+{
+ "id": "slp_190_wild_sanchez",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: elDiario.es/Vertele y OKdiario (23-11-2026), El Hormiguero (Antena 3)"
+ },
+ "caption": "«Hasta los perros» 👀\n\nAntes de entrevistar a Sánchez, su equipo revisó el estudio. Y según Jordi Wild, «pasaron hasta los perros». «Vinieron días antes a comprobar las calles, el estudio, horas antes a revisarlo». Su veredicto: «Un crack, una bestia política, impone pero fue muy amable». Y reconoce: «Él sabía que era la entrevista más dura». Pero sus cambios de opinión le parecieron «bastante escandalosos». Y su discurso no le convenció. Amable sí. Convincente, según Wild, no.\n\n👇 ¿Qué opinas de Sánchez en el podcast? Comenta.\n⏳ Quedan cinco días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: elDiario.es/Vertele y OKdiario (23-11-2026), El Hormiguero (Antena 3)\n#elecciones #29N #espana #politica #jordiwild #sanchez #elhormiguero",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "«Hasta los *perros*»",
+  "mini": {
+   "rojo": "SÁNCHEZ"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Antes de entrevistar a Sánchez, su equipo revisó el estudio. Y según Jordi Wild, «pasaron hasta los perros».",
+     "show": [
+      {
+       "id": "w0",
+       "type": "mono",
+       "who": "wild",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "sorpresa",
+       "say": "«Pasaron hasta los perros»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [],
+     "bg": "noche"
+    },
+    {
+     "text": "«Vinieron días antes a comprobar las calles, el estudio, horas antes a revisarlo».",
+     "show": [
+      {
+       "id": "s1",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 72,
+       "w": 340,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 34,
+       "w": 1000,
+       "at": 3,
+       "n": "🐕",
+       "text": "",
+       "color": "",
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "w0"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Su veredicto: «Un crack, una bestia política, impone pero fue muy amable».",
+     "show": [
+      {
+       "id": "s2",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "risa",
+       "say": "«Una bestia política»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "s1",
+      "b1"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Y reconoce: «Él sabía que era la entrevista más dura».",
+     "show": [
+      {
+       "id": "s3",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 74,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 38,
+       "w": 1000,
+       "at": 3,
+       "n": "LA MÁS DURA",
+       "text": "",
+       "color": "red",
+       "fs": 130,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "s2"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Pero sus cambios de opinión le parecieron «bastante escandalosos». Y su discurso no le convenció.",
+     "show": [
+      {
+       "id": "w4",
+       "type": "mono",
+       "who": "wild",
+       "x": 72,
+       "y": 74,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "enfado",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "x4",
+       "type": "prop",
+       "kind": "xmark",
+       "x": 50,
+       "y": 36,
+       "w": 420,
+       "at": 3,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "s3",
+      "b3"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Amable sí. Convincente, según Wild, no.",
+     "show": [
+      {
+       "id": "w5",
+       "type": "mono",
+       "who": "wild",
+       "x": 30,
+       "y": 72,
+       "w": 280,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "s5",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 70,
+       "y": 72,
+       "w": 280,
+       "at": 3,
+       "habla": false,
+       "cara": "risa",
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "w4",
+      "x4"
+     ],
+     "bg": "duelo"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "duelo",
+     "text": "¿Qué opinas de Sánchez en el podcast? Comenta. Síguenos: quedan cinco días.",
+     "show": [
+      {
+       "id": "sF",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fF",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 72,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿TÚ QUÉ DICES?",
+       "text": "",
+       "color": ""
+      }
+     ],
+     "hide": [
+      "w5",
+      "s5"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-24T07:00:00+01:00",
+ "estilo": "cine"
+}

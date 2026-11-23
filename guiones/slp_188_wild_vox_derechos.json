@@ -1,0 +1,307 @@
+{
+ "id": "slp_188_wild_vox_derechos",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: elDiario.es/Vertele y OKdiario (23-11-2026), El Hormiguero (Antena 3)"
+ },
+ "caption": "Por qué Abascal no fue 👀\n\nJordi Wild ha contado en El Hormiguero por qué Abascal no fue a su entrevista. Y no es lo que pensabas. Según Wild, Vox quería grabarla ellos. Con los derechos de emisión. Su respuesta: «Eso no es serio». «Esto no es serio, estás en mi casa». Y deja claro: «¿Qué interés tengo yo de manipularlo?». Dice que, al ver que era imposible, «me pidieron perdón». ¿Su teoría? «Creo que salieron tan reforzados de La Revuelta, que pensaron que era bueno minimizar un riesgo más».\n\n👇 ¿Hizo bien Vox en no ir? Comenta sí o no.\n⏳ Quedan cinco días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: elDiario.es/Vertele y OKdiario (23-11-2026), El Hormiguero (Antena 3)\n#elecciones #29N #espana #politica #jordiwild #abascal #elhormiguero #vox",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "Por qué *Abascal* no fue",
+  "mini": {
+   "rojo": "«NO ES SERIO»"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Jordi Wild ha contado en El Hormiguero por qué Abascal no fue a su entrevista. Y no es lo que pensabas.",
+     "show": [
+      {
+       "id": "w0",
+       "type": "mono",
+       "who": "wild",
+       "x": 30,
+       "y": 72,
+       "w": 280,
+       "at": 0,
+       "habla": false,
+       "cara": "sorpresa",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "m0",
+       "type": "mono",
+       "who": "motos",
+       "x": 70,
+       "y": 72,
+       "w": 280,
+       "at": 3,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [],
+     "bg": "noche"
+    },
+    {
+     "text": "Según Wild, Vox quería grabarla ellos. Con los derechos de emisión.",
+     "show": [
+      {
+       "id": "a1",
+       "type": "mono",
+       "who": "abascal",
+       "x": 50,
+       "y": 72,
+       "w": 340,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 34,
+       "w": 1000,
+       "at": 3,
+       "n": "🎥",
+       "text": "DERECHOS DE EMISIÓN",
+       "color": "",
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "w0",
+      "m0"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Su respuesta: «Eso no es serio». «Esto no es serio, estás en mi casa».",
+     "show": [
+      {
+       "id": "w2",
+       "type": "mono",
+       "who": "wild",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "enfado",
+       "say": "«Estás en mi casa»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "k2_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 13,
+       "text": "🏠",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "a1",
+      "b1"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Y deja claro: «¿Qué interés tengo yo de manipularlo?».",
+     "show": [
+      {
+       "id": "w3",
+       "type": "mono",
+       "who": "wild",
+       "x": 28,
+       "y": 74,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 38,
+       "w": 1000,
+       "at": 3,
+       "n": "¿MANIPULAR?",
+       "text": "",
+       "color": "gold",
+       "fs": 130,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "w2",
+      "k2_0"
+     ]
+    },
+    {
+     "text": "Dice que, al ver que era imposible, «me pidieron perdón».",
+     "show": [
+      {
+       "id": "w4",
+       "type": "mono",
+       "who": "wild",
+       "x": 72,
+       "y": 74,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 36,
+       "w": 1000,
+       "at": 3,
+       "n": "🙏",
+       "text": "",
+       "color": "",
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "w3",
+      "b3"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "¿Su teoría? «Creo que salieron tan reforzados de La Revuelta, que pensaron que era bueno minimizar un riesgo más».",
+     "show": [
+      {
+       "id": "w5",
+       "type": "mono",
+       "who": "wild",
+       "x": 30,
+       "y": 72,
+       "w": 280,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "a5",
+       "type": "mono",
+       "who": "abascal",
+       "x": 70,
+       "y": 72,
+       "w": 280,
+       "at": 3,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "w4",
+      "b4"
+     ],
+     "bg": "duelo"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "duelo",
+     "text": "¿Hizo bien Vox en no ir? Comenta sí o no. Síguenos: quedan cinco días.",
+     "show": [
+      {
+       "id": "sF",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fF",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 72,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿TÚ QUÉ DICES?",
+       "text": "",
+       "color": ""
+      }
+     ],
+     "hide": [
+      "w5",
+      "a5"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-24T00:15:00+01:00",
+ "estilo": "cine"
+}
