@@ -1,0 +1,306 @@
+{
+ "id": "slp_186_wild_ranking",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: elDiario.es/Vertele (17-11-2026), entrevista en Horizonte (Cuatro)"
+ },
+ "caption": "El ranking de Wild 👀\n\nJordi Wild ha entrevistado a Sánchez, Feijóo y Colau. Y ya ha dicho quién le gustó más. Feijóo, según él, fue «el más desubicado de los tres en cuanto al sitio en el que estaba». Pero matiza: «fue muy agradable». Y le sorprendió «lo campechano que es». Sánchez fue el que más le impuso. Lo vio «muy tranquilo» y «cordial». ¿Y la ganadora? Colau. «La mejor de las tres a nivel de trato». «Tenía muchas ganas de dar juego». Y fue con su hijo, que es fan de Wild.\n\n👇 ¿Cuál de las tres entrevistas te gustó más? Comenta.\n⏳ Quedan cinco días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: elDiario.es/Vertele (17-11-2026), entrevista en Horizonte (Cuatro)\n#elecciones #29N #espana #politica #jordiwild #colau #feijoo #sanchez",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "El ranking de *Wild*",
+  "mini": {
+   "rojo": "¿QUIÉN GANÓ?"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Jordi Wild ha entrevistado a Sánchez, Feijóo y Colau. Y ya ha dicho quién le gustó más.",
+     "show": [
+      {
+       "id": "s0",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 20,
+       "y": 72,
+       "w": 240,
+       "at": 0,
+       "habla": false,
+       "cara": "serio",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "f0",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 72,
+       "w": 240,
+       "at": 3,
+       "habla": false,
+       "cara": "serio",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l",
+       "from": "right"
+      },
+      {
+       "id": "c0",
+       "type": "mono",
+       "who": "colau",
+       "x": 80,
+       "y": 72,
+       "w": 240,
+       "at": 3,
+       "habla": false,
+       "cara": "serio",
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [],
+     "bg": "noche"
+    },
+    {
+     "text": "Feijóo, según él, fue «el más desubicado de los tres en cuanto al sitio en el que estaba».",
+     "show": [
+      {
+       "id": "f1",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "duda",
+       "say": "«El más desubicado»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "s0",
+      "f0",
+      "c0"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Pero matiza: «fue muy agradable». Y le sorprendió «lo campechano que es».",
+     "show": [
+      {
+       "id": "f2",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 28,
+       "y": 74,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "risa",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "b2",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 38,
+       "w": 1000,
+       "at": 3,
+       "n": "CAMPECHANO",
+       "text": "",
+       "color": "gold",
+       "fs": 130,
+       "in": "zoom"
+      }
+     ],
+     "hide": [
+      "f1"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Sánchez fue el que más le impuso. Lo vio «muy tranquilo» y «cordial».",
+     "show": [
+      {
+       "id": "s3",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«Muy tranquilo»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "f2",
+      "b2"
+     ]
+    },
+    {
+     "text": "¿Y la ganadora? Colau. «La mejor de las tres a nivel de trato».",
+     "show": [
+      {
+       "id": "c4",
+       "type": "mono",
+       "who": "colau",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": false,
+       "cara": "risa",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 34,
+       "w": 1000,
+       "at": 3,
+       "n": "🥇",
+       "text": "",
+       "color": "",
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "s3"
+     ],
+     "bg": "duelo"
+    },
+    {
+     "text": "«Tenía muchas ganas de dar juego». Y fue con su hijo, que es fan de Wild.",
+     "show": [
+      {
+       "id": "c5",
+       "type": "mono",
+       "who": "colau",
+       "x": 30,
+       "y": 74,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "risa",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "w5",
+       "type": "mono",
+       "who": "wild",
+       "x": 70,
+       "y": 74,
+       "w": 300,
+       "at": 3,
+       "habla": false,
+       "cara": "risa",
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "c4",
+      "b4"
+     ],
+     "bg": "dia"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "duelo",
+     "text": "¿Cuál de las tres entrevistas te gustó más? Comenta. Síguenos: quedan cinco días.",
+     "show": [
+      {
+       "id": "sF",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fF",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 72,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿TÚ QUÉ DICES?",
+       "text": "",
+       "color": ""
+      }
+     ],
+     "hide": [
+      "c5",
+      "w5"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-24T00:50:00+01:00",
+ "estilo": "cine"
+}

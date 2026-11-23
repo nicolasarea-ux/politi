@@ -1,0 +1,276 @@
+{
+ "id": "slp_187_wild_mil_fallos",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: elDiario.es/Vertele (17-11-2026), entrevista en Horizonte (Cuatro)"
+ },
+ "caption": "«Mil fallos» 👀\n\nQuería entrevistar a los cuatro candidatos en cuatro días seguidos. Y Jordi Wild admite que se equivocó. Lo dice él: «Lo he dado todo pero he hecho mil fallos». Hacerlas tan seguidas, según Wild, fue «un error de cálculo por mi parte total». ¿Por qué? «Nunca había hecho este tipo de entrevistas». «Mi formato es otro». Dice que él no suele repreguntar ni crear tensión. ¿Y si alguien le dictaba las preguntas desde detrás de cámara? Respuesta: «No, no, no».\n\n👇 ¿Le pondrías nota a sus entrevistas? Del 1 al 10.\n⏳ Quedan cinco días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: elDiario.es/Vertele (17-11-2026), entrevista en Horizonte (Cuatro)\n#elecciones #29N #espana #politica #jordiwild #thewildproject #29N",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "«Mil *fallos*»",
+  "mini": {
+   "rojo": "AUTOCRÍTICA"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Quería entrevistar a los cuatro candidatos en cuatro días seguidos. Y Jordi Wild admite que se equivocó.",
+     "show": [
+      {
+       "id": "b0",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "4 EN 4",
+       "text": "CANDIDATOS · DÍAS",
+       "color": "gold",
+       "in": "zoom"
+      },
+      {
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 8,
+       "text": "⏳",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [],
+     "bg": "noche"
+    },
+    {
+     "text": "Lo dice él: «Lo he dado todo pero he hecho mil fallos».",
+     "show": [
+      {
+       "id": "w1",
+       "type": "mono",
+       "who": "wild",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "duda",
+       "say": "«He hecho mil fallos»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "b0",
+      "k0_0"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Hacerlas tan seguidas, según Wild, fue «un error de cálculo por mi parte total».",
+     "show": [
+      {
+       "id": "w2",
+       "type": "mono",
+       "who": "wild",
+       "x": 28,
+       "y": 74,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "sorpresa",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "b2",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 38,
+       "w": 1000,
+       "at": 3,
+       "n": "ERROR",
+       "text": "DE CÁLCULO",
+       "color": "red",
+       "fs": 160,
+       "in": "zoom"
+      }
+     ],
+     "hide": [
+      "w1"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "¿Por qué? «Nunca había hecho este tipo de entrevistas». «Mi formato es otro».",
+     "show": [
+      {
+       "id": "w3",
+       "type": "mono",
+       "who": "wild",
+       "x": 72,
+       "y": 74,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 36,
+       "w": 1000,
+       "at": 3,
+       "n": "🎙️",
+       "text": "",
+       "color": "",
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "w2",
+      "b2"
+     ]
+    },
+    {
+     "text": "Dice que él no suele repreguntar ni crear tensión.",
+     "show": [
+      {
+       "id": "w4",
+       "type": "mono",
+       "who": "wild",
+       "x": 50,
+       "y": 72,
+       "w": 340,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "w3",
+      "b3"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "¿Y si alguien le dictaba las preguntas desde detrás de cámara? Respuesta: «No, no, no».",
+     "show": [
+      {
+       "id": "x5",
+       "type": "prop",
+       "kind": "xmark",
+       "x": 50,
+       "y": 40,
+       "w": 420,
+       "at": 0,
+       "in": "right"
+      },
+      {
+       "id": "w5",
+       "type": "mono",
+       "who": "wild",
+       "x": 50,
+       "y": 76,
+       "w": 300,
+       "at": 3,
+       "habla": false,
+       "cara": "risa",
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "w4"
+     ],
+     "bg": "duelo"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "duelo",
+     "text": "¿Le pondrías nota a sus entrevistas? Del 1 al 10. Síguenos: quedan cinco días.",
+     "show": [
+      {
+       "id": "sF",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fF",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 72,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿TÚ QUÉ DICES?",
+       "text": "",
+       "color": ""
+      }
+     ],
+     "hide": [
+      "x5",
+      "w5"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-24T01:30:00+01:00",
+ "estilo": "cine"
+}

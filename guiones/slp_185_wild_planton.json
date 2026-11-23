@@ -1,0 +1,293 @@
+{
+ "id": "slp_185_wild_planton",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: elDiario.es/Vertele (17-11-2026), entrevista en Horizonte (Cuatro)"
+ },
+ "caption": "El plantón de Abascal 👀\n\nIba a sentar a los cuatro candidatos. Y horas antes, uno se le cayó. Abascal no fue a la entrevista con Jordi Wild. La noche antes de la de Feijóo. Wild lo contó así: «Para mí fue un choque anímico importante. Me sentía un poco hundido». Y añadió: «La presión de la prensa ese día fue el más bestia que he tenido en mi vida». Pero no se culpa: «Con el tema de Abascal yo sé que no me tengo que culpar a mí mismo». Y esta noche, se ha sentado con Pablo Motos en El Hormiguero.\n\n👇 ¿Hizo bien Abascal en no ir? Comenta sí o no.\n⏳ Quedan cinco días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: elDiario.es/Vertele (17-11-2026), entrevista en Horizonte (Cuatro)\n#elecciones #29N #espana #politica #jordiwild #abascal #elhormiguero",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "El plantón de *Abascal*",
+  "mini": {
+   "rojo": "«HUNDIDO»"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Iba a sentar a los cuatro candidatos. Y horas antes, uno se le cayó.",
+     "show": [
+      {
+       "id": "w0",
+       "type": "mono",
+       "who": "wild",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": false,
+       "cara": "sorpresa",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "b0",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 34,
+       "w": 1000,
+       "at": 3,
+       "n": "4 → 3",
+       "text": "CANDIDATOS",
+       "color": "gold",
+       "fs": 160,
+       "in": "left"
+      }
+     ],
+     "hide": [],
+     "bg": "noche"
+    },
+    {
+     "text": "Abascal no fue a la entrevista con Jordi Wild. La noche antes de la de Feijóo.",
+     "show": [
+      {
+       "id": "a1",
+       "type": "mono",
+       "who": "abascal",
+       "x": 50,
+       "y": 72,
+       "w": 340,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "x1",
+       "type": "prop",
+       "kind": "xmark",
+       "x": 50,
+       "y": 36,
+       "w": 420,
+       "at": 3,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "w0",
+      "b0"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Wild lo contó así: «Para mí fue un choque anímico importante. Me sentía un poco hundido».",
+     "show": [
+      {
+       "id": "w2",
+       "type": "mono",
+       "who": "wild",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "duda",
+       "say": "«Me sentía un poco hundido»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "a1",
+      "x1"
+     ],
+     "bg": "noche"
+    },
+    {
+     "text": "Y añadió: «La presión de la prensa ese día fue el más bestia que he tenido en mi vida».",
+     "show": [
+      {
+       "id": "w3",
+       "type": "mono",
+       "who": "wild",
+       "x": 28,
+       "y": 74,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "sorpresa",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 38,
+       "w": 1000,
+       "at": 3,
+       "n": "PRESIÓN",
+       "text": "«EL MÁS BESTIA»",
+       "color": "red",
+       "fs": 150,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "w2"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Pero no se culpa: «Con el tema de Abascal yo sé que no me tengo que culpar a mí mismo».",
+     "show": [
+      {
+       "id": "w4",
+       "type": "mono",
+       "who": "wild",
+       "x": 72,
+       "y": 74,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 38,
+       "w": 1000,
+       "at": 3,
+       "n": "🙅",
+       "text": "",
+       "color": "",
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "w3",
+      "b3"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Y esta noche, se ha sentado con Pablo Motos en El Hormiguero.",
+     "show": [
+      {
+       "id": "w5",
+       "type": "mono",
+       "who": "wild",
+       "x": 30,
+       "y": 72,
+       "w": 280,
+       "at": 0,
+       "habla": false,
+       "cara": "risa",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "m5",
+       "type": "mono",
+       "who": "motos",
+       "x": 70,
+       "y": 72,
+       "w": 280,
+       "at": 3,
+       "habla": false,
+       "cara": "risa",
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "w4",
+      "b4"
+     ],
+     "bg": "duelo"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "duelo",
+     "text": "¿Hizo bien Abascal en no ir? Comenta sí o no. Síguenos: quedan cinco días.",
+     "show": [
+      {
+       "id": "sF",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fF",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 72,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿TÚ QUÉ DICES?",
+       "text": "",
+       "color": ""
+      }
+     ],
+     "hide": [
+      "w5",
+      "m5"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-24T00:15:00+01:00",
+ "estilo": "cine"
+}
