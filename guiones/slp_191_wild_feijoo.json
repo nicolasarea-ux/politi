@@ -153,16 +153,8 @@
        "y": 72,
        "w": 360,
        "at": 0,
-       "habla": true,
+       "habla": false,
        "cara": "duda",
-       "say": "…",
-       "tf": [
-        0.15,
-        1
-       ],
-       "bub": "up",
-       "bw": 600,
-       "bfs": 40,
        "gesto": "manos",
        "flip": true,
        "mira": "l",

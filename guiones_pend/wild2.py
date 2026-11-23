@@ -30,7 +30,7 @@ V['slp_191_wild_feijoo']=cine('slp_191_wild_feijoo',[
  ("Jordi Wild dice que, si hubiera entrevistado a Feijóo el primer día, la entrevista habría sido otra.",[mono('w0','wild',30,72,280,cara='duda'),mono('f0','feijoo',70,72,280,cara='neutral')],'noche'),
  ("Su gran error: «Querer hacer cuatro entrevistas en cuatro días consecutivos».",[mono('w1','wild',50,72,340,cara='duda'),BIG('b1','4 EN 4','',color='gold',y=34,fs=160)],'rojo'),
  ("«Llegué agotado mentalmente a Feijóo». Y «se me quedaron temas como el de la DANA, Mazón».",[mono('w2','wild',50,72,360,say='«Llegué agotado»',cara='sorpresa')],'rojo'),
- ("Aun así, cuando le preguntó por el piso de Ayuso y el caso Marcial, lo vio «apurado».",[mono('f3','feijoo',50,72,360,say='…',cara='duda'),BIG('b3','APURADO','',color='red',y=34,fs=150)],None),
+ ("Aun así, cuando le preguntó por el piso de Ayuso y el caso Marcial, lo vio «apurado».",[mono('f3','feijoo',50,72,360,cara='duda'),BIG('b3','APURADO','',color='red',y=34,fs=150)],None),
  ("«Si esa parte hubiera durado más hubiera estado más apurado».",[mono('f4','feijoo',28,74,300,cara='duda'),BIG('b4','⏱️','',y=36)],'dia'),
  ("Su definición: «Un político de la vieja escuela».",[mono('f5','feijoo',50,72,360,say='«Vieja escuela»',cara='neutral')],'duelo')],
  '2026-11-24T08:30:00+01:00','¿Le hizo bien la entrevista a Feijóo? Comenta.','«Llegué *agotado*»','FEIJÓO',F,'#jordiwild #feijoo #elhormiguero',dias='cinco')
