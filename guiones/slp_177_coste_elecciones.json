@@ -13,7 +13,7 @@
   "tag": "CAMPAÑA 29-N",
   "source": "Fuente: Euronews (8-10-2026), con datos de Interior y Tribunal de Cuentas"
  },
- "caption": "Tu voto vale dinero 👀\n\nCuando metes tu voto en la urna, al partido que votas le pagan por él. Ochenta y un céntimos por cada voto al Congreso, si saca escaño. Y por cada diputado o senador que consigue: más de 21.000 euros. Montar unas elecciones cuesta unos 279 millones de euros. Solo Correos se lleva más de 100 millones. Y cada miembro de mesa cobra 75 euros por pasarse el día ahí. 400 millones de papeletas y más de 200.000 urnas. Para un solo domingo.\n\n👇 ¿Te parece caro? Comenta sí o no.\n⏳ Quedan seis días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Euronews (8-10-2026), con datos de Interior y Tribunal de Cuentas\n#elecciones #29N #espana #politica #elecciones #dinero",
+ "caption": "Tu voto vale dinero 👀\n\nCuando metes tu voto en la urna, al partido que votas le pagan por él. Ochenta y un céntimos por cada voto al Congreso, si saca escaño. Y por cada diputado o senador que consigue: más de 21.000 euros. Montar unas elecciones cuesta unos 279 millones de euros. Solo Correos se lleva más de 100 millones. Y cada miembro de mesa cobra 75 euros por pasarse el día ahí. 400 millones de papeletas y más de 200.000 urnas. Para un solo domingo.\n\n👇 ¿Te parece caro? Comenta sí o no.\n⏳ Quedan tres días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Euronews (8-10-2026), con datos de Interior y Tribunal de Cuentas\n#elecciones #29N #espana #politica #elecciones #dinero",
  "portada": {
   "serie": "29-N",
   "titulo": "Tu voto vale *dinero*",
@@ -379,7 +379,7 @@
    "segments": [
     {
      "bg": "duelo",
-     "text": "¿Te parece caro? Comenta sí o no. Síguenos: quedan seis días.",
+     "text": "¿Te parece caro? Comenta sí o no. Síguenos: quedan tres días.",
      "show": [
       {
        "id": "sF",
@@ -430,6 +430,6 @@
    ]
   }
  ],
- "fechaPub": "2026-11-23T20:00:00+01:00",
+ "fechaPub": "2026-11-26T09:00:00+01:00",
  "estilo": "cine"
 }

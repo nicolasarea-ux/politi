@@ -1,0 +1,284 @@
+{
+ "id": "slp_193_nadie_176",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: Constitución Española, art. 99 (BOE)"
+ },
+ "caption": "¿Y si nadie llega a 176? 👀\n\n¿Y si el domingo nadie llega a 176 escaños? No, no se repiten las elecciones. Todavía. Primero, el Rey consulta a los partidos y propone un candidato. Primera votación: necesita 176 síes. Mayoría absoluta. Si no los tiene, cuarenta y ocho horas después, otra. Ahí basta con más síes que noes. Si tampoco sale, empieza a correr un reloj de dos meses. Y si en dos meses nadie es investido, el Rey disuelve las Cortes. Elecciones otra vez.\n\n👇 ¿Habrá repetición electoral? Comenta sí o no.\n⏳ Quedan tres días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Constitución Española, art. 99 (BOE)\n#elecciones #29N #espana #politica #investidura #congreso #constitucion",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "¿Y si nadie llega a *176*?",
+  "mini": {
+   "rojo": "LA INVESTIDURA"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Y si el domingo nadie llega a 176 escaños? No, no se repiten las elecciones. Todavía.",
+     "show": [
+      {
+       "id": "h0",
+       "type": "prop",
+       "kind": "hemi",
+       "x": 50,
+       "y": 50,
+       "w": 1060,
+       "at": 0,
+       "parts": [
+        {
+         "l": "NADIE",
+         "n": 170,
+         "c": "#9AA5B8"
+        }
+       ],
+       "line": "176",
+       "in": "zoom"
+      },
+      {
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "chip",
+       "x": 15,
+       "y": 25,
+       "w": 360,
+       "at": 7,
+       "in": "left",
+       "text": "176 ESCAÑOS?",
+       "c": "",
+       "rot": -6
+      },
+      {
+       "id": "k0_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 85,
+       "y": 26,
+       "w": 160,
+       "at": 8,
+       "text": "💺",
+       "fs": 110,
+       "in": "right"
+      }
+     ],
+     "hide": [],
+     "bg": "noche"
+    },
+    {
+     "text": "Primero, el Rey consulta a los partidos y propone un candidato.",
+     "show": [
+      {
+       "id": "e1",
+       "type": "prop",
+       "kind": "edificio",
+       "x": 50,
+       "y": 56,
+       "w": 860,
+       "at": 0,
+       "luz": true,
+       "in": "left"
+      },
+      {
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 84,
+       "w": 1000,
+       "at": 3,
+       "n": "👑",
+       "text": "CONSULTAS",
+       "color": "",
+       "in": "down"
+      },
+      {
+       "id": "k1_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 6,
+       "text": "🎯",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "h0",
+      "k0_0",
+      "k0_1"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Primera votación: necesita 176 síes. Mayoría absoluta.",
+     "show": [
+      {
+       "id": "b2",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "176",
+       "text": "SÍES EN LA 1.ª VOTACIÓN",
+       "color": "gold",
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "e1",
+      "b1",
+      "k1_0"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Si no los tiene, cuarenta y ocho horas después, otra. Ahí basta con más síes que noes.",
+     "show": [
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "48 H",
+       "text": "MÁS SÍES QUE NOES",
+       "color": "",
+       "in": "zoom"
+      }
+     ],
+     "hide": [
+      "b2"
+     ]
+    },
+    {
+     "text": "Si tampoco sale, empieza a correr un reloj de dos meses.",
+     "show": [
+      {
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "⏳",
+       "text": "2 MESES",
+       "color": "gold",
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "b3"
+     ],
+     "bg": "noche"
+    },
+    {
+     "text": "Y si en dos meses nadie es investido, el Rey disuelve las Cortes. Elecciones otra vez.",
+     "show": [
+      {
+       "id": "x5",
+       "type": "prop",
+       "kind": "xmark",
+       "x": 50,
+       "y": 46,
+       "w": 420,
+       "at": 0,
+       "in": "right"
+      },
+      {
+       "id": "b5",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 82,
+       "w": 1000,
+       "at": 3,
+       "n": "OTRA VEZ A VOTAR",
+       "text": "",
+       "color": "red",
+       "fs": 110,
+       "in": "down"
+      }
+     ],
+     "hide": [
+      "b4"
+     ],
+     "bg": "rojo"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "duelo",
+     "text": "¿Habrá repetición electoral? Comenta sí o no. Síguenos: quedan tres días.",
+     "show": [
+      {
+       "id": "sF",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fF",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 72,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿TÚ QUÉ DICES?",
+       "text": "",
+       "color": ""
+      }
+     ],
+     "hide": [
+      "x5",
+      "b5"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-26T14:00:00+01:00",
+ "estilo": "cine"
+}

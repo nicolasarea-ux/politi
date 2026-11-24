@@ -1,0 +1,285 @@
+{
+ "id": "slp_194_mesa_no_ir",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: LOREG, arts. 27, 80 y 143 (BOE); dieta de 75 €: Ministerio del Interior"
+ },
+ "caption": "Te toca mesa y no vas 👀\n\n¿Te ha tocado mesa el domingo y piensas no ir? Cuidado: no es como una multa de tráfico. Si no vas sin una causa justificada, la ley electoral lo castiga como delito. Hasta un año de prisión. O una multa de seis a veinticuatro meses. Tienes que estar a las ocho de la mañana. Presidente, dos vocales y sus suplentes. A cambio, cobras setenta y cinco euros. Y si te surge una causa de fuerza mayor, avísalo y justifícalo ante la Junta Electoral de Zona.\n\n👇 ¿Te ha tocado alguna vez? Comenta sí o no.\n⏳ Quedan tres días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: LOREG, arts. 27, 80 y 143 (BOE); dieta de 75 €: Ministerio del Interior\n#elecciones #29N #espana #politica #mesaelectoral #29N #votar",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "Te toca *mesa* y no vas",
+  "mini": {
+   "rojo": "HASTA 1 AÑO"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Te ha tocado mesa el domingo y piensas no ir? Cuidado: no es como una multa de tráfico.",
+     "show": [
+      {
+       "id": "t0",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 72,
+       "w": 340,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "b0",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 36,
+       "w": 1000,
+       "at": 3,
+       "n": "🗳️",
+       "text": "¿NO VAS?",
+       "color": "",
+       "in": "left"
+      }
+     ],
+     "hide": [],
+     "bg": "rojo"
+    },
+    {
+     "text": "Si no vas sin una causa justificada, la ley electoral lo castiga como delito.",
+     "show": [
+      {
+       "id": "s1",
+       "type": "stamp",
+       "text": "DELITO",
+       "color": "red",
+       "x": 50,
+       "y": 50,
+       "rot": -8,
+       "at": 0,
+       "in": "left"
+      },
+      {
+       "id": "k1_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 8,
+       "text": "⚖️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "t0",
+      "b0"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Hasta un año de prisión. O una multa de seis a veinticuatro meses.",
+     "show": [
+      {
+       "id": "b2",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "1 AÑO",
+       "text": "DE PRISIÓN, COMO MÁXIMO",
+       "color": "red",
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "s1",
+      "k1_0"
+     ],
+     "bg": "noche"
+    },
+    {
+     "text": "Tienes que estar a las ocho de la mañana. Presidente, dos vocales y sus suplentes.",
+     "show": [
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "8:00",
+       "text": "EL DOMINGO 29",
+       "color": "gold",
+       "in": "zoom"
+      },
+      {
+       "id": "t3",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 80,
+       "w": 240,
+       "at": 3,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "k3_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 8,
+       "text": "⏰",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k3_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 85,
+       "y": 26,
+       "w": 160,
+       "at": 9,
+       "text": "👑",
+       "fs": 110,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "b2"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "A cambio, cobras setenta y cinco euros. Y si te surge una causa de fuerza mayor, avísalo y justifícalo ante la Junta Electoral de Zona.",
+     "show": [
+      {
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "75 €",
+       "text": "POR EL DÍA",
+       "color": "gold",
+       "in": "left"
+      },
+      {
+       "id": "k4_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 6,
+       "text": "💶",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k4_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 85,
+       "y": 26,
+       "w": 160,
+       "at": 21,
+       "text": "⚖️",
+       "fs": 110,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "b3",
+      "t3",
+      "k3_0",
+      "k3_1"
+     ],
+     "bg": "dia"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "duelo",
+     "text": "¿Te ha tocado alguna vez? Comenta sí o no. Síguenos: quedan tres días.",
+     "show": [
+      {
+       "id": "sF",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fF",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 72,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿TÚ QUÉ DICES?",
+       "text": "",
+       "color": ""
+      }
+     ],
+     "hide": [
+      "b4",
+      "k4_0",
+      "k4_1"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-26T20:00:00+01:00",
+ "estilo": "cine"
+}

@@ -2067,8 +2067,8 @@
    "estado": "reserva",
    "fecha": "2026-11-23T20:00",
    "fecha_reels": "2026-11-23T20:00",
-   "nota": "estilo cine; a reserva el 23-N (sustituido por slp_184). Re-renderizar con fechaPub nuevo antes de reutilizar",
-   "copy": "Tu voto vale dinero 👀\n\nCuando metes tu voto en la urna, al partido que votas le pagan por él. Ochenta y un céntimos por cada voto al Congreso, si saca escaño. Y por cada diputado o senador que consigue: más de 21.000 euros. Montar unas elecciones cuesta unos 279 millones de euros. Solo Correos se lleva más de 100 millones. Y cada miembro de mesa cobra 75 euros por pasarse el día ahí. 400 millones de papeletas y más de 200.000 urnas. Para un solo domingo.\n\n👇 ¿Te parece caro? Comenta sí o no.\n⏳ Quedan seis días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Euronews (8-10-2026), con datos de Interior y Tribunal de Cuentas\n#elecciones #29N #espana #politica #elecciones #dinero"
+   "nota": "estilo cine; a reserva el 23-N (sustituido por slp_184). Re-renderizar con fechaPub nuevo antes de reutilizar; 24-N: guion actualizado a «quedan tres días» y fechaPub 26-N 09:00, pero falta voz nueva: el mp3/mp4 actuales dicen «seis días»",
+   "copy": "Tu voto vale dinero 👀\n\nCuando metes tu voto en la urna, al partido que votas le pagan por él. Ochenta y un céntimos por cada voto al Congreso, si saca escaño. Y por cada diputado o senador que consigue: más de 21.000 euros. Montar unas elecciones cuesta unos 279 millones de euros. Solo Correos se lleva más de 100 millones. Y cada miembro de mesa cobra 75 euros por pasarse el día ahí. 400 millones de papeletas y más de 200.000 urnas. Para un solo domingo.\n\n👇 ¿Te parece caro? Comenta sí o no.\n⏳ Quedan tres días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Euronews (8-10-2026), con datos de Interior y Tribunal de Cuentas\n#elecciones #29N #espana #politica #elecciones #dinero"
   },
   {
    "id": "slp_178_tres_frases",
@@ -2221,6 +2221,57 @@
    "fecha_reels": "2026-11-24T07:00",
    "nota": "Jordi Wild El Hormiguero 23-11 (elDiario.es, OKdiario)",
    "copy": "«Llegué agotado» 👀\n\nJordi Wild dice que, si hubiera entrevistado a Feijóo el primer día, la entrevista habría sido otra. Su gran error: «Querer hacer cuatro entrevistas en cuatro días consecutivos». «Llegué agotado mentalmente a Feijóo». Y «se me quedaron temas como el de la DANA, Mazón». Aun así, cuando le preguntó por el piso de Ayuso y el caso Marcial, lo vio «apurado». «Si esa parte hubiera durado más hubiera estado más apurado». Su definición: «Un político de la vieja escuela».\n\n👇 ¿Le hizo bien la entrevista a Feijóo? Comenta.\n⏳ Quedan cinco días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: elDiario.es/Vertele y OKdiario (23-11-2026), El Hormiguero (Antena 3)\n#elecciones #29N #espana #politica #jordiwild #feijoo #elhormiguero"
+  },
+  {
+   "id": "slp_192_braveheart_temu",
+   "tipo": "actualidad",
+   "formato": "vs",
+   "estilo": "cine",
+   "estado": "sin_voz",
+   "fecha": "2026-11-24T20:00",
+   "fecha_reels": "2026-11-24T20:00",
+   "partidos": [
+    "PP",
+    "ERC"
+   ],
+   "nota": "guion hecho 24-N; SIN VOZ (ordenador desconectado). radar 24-N: debate a ocho RTVE 23-N, Muñoz vs Rufián (Libertad Digital, Infobae, Público). Para sustituir a slp_021 de las 20:00 si llega a tener voz hoy; si no, caduca",
+   "copy": "«Braveheart del Temu» 👀\n\n«Cálmate, si ya sé que eres un Braveheart del Temu». Así le habló Ester Muñoz a Rufián anoche, en el debate a ocho de RTVE. Rufián le respondió que hará todo lo posible para que ella no sea ministra. Muñoz, a los socios del Gobierno: hablan «como si no hubieran gobernado ocho años». Y Rufián, sobre los trenes: «Si fuera por la derecha, los trenes serían de plástico y las vías de madera». Ocho portavoces, una noche. Y el jueves, los cuatro candidatos.\n\n👇 ¿Quién ganó el cruce: Muñoz o Rufián?\n⏳ Quedan cinco días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Libertad Digital, Infobae y Público (23-11-2026), debate a ocho de RTVE\n#elecciones #29N #espana #politica #debate #rtve #rufian"
+  },
+  {
+   "id": "slp_193_nadie_176",
+   "tipo": "atemporal",
+   "formato": "minuto",
+   "estilo": "cine",
+   "estado": "sin_voz",
+   "fecha": "2026-11-26T14:00",
+   "fecha_reels": "2026-11-26T14:00",
+   "partidos": [],
+   "nota": "guion hecho 24-N; SIN VOZ (ordenador desconectado). investidura, art. 99 CE",
+   "copy": "¿Y si nadie llega a 176? 👀\n\n¿Y si el domingo nadie llega a 176 escaños? No, no se repiten las elecciones. Todavía. Primero, el Rey consulta a los partidos y propone un candidato. Primera votación: necesita 176 síes. Mayoría absoluta. Si no los tiene, cuarenta y ocho horas después, otra. Ahí basta con más síes que noes. Si tampoco sale, empieza a correr un reloj de dos meses. Y si en dos meses nadie es investido, el Rey disuelve las Cortes. Elecciones otra vez.\n\n👇 ¿Habrá repetición electoral? Comenta sí o no.\n⏳ Quedan tres días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Constitución Española, art. 99 (BOE)\n#elecciones #29N #espana #politica #investidura #congreso #constitucion"
+  },
+  {
+   "id": "slp_194_mesa_no_ir",
+   "tipo": "atemporal",
+   "formato": "minuto",
+   "estilo": "cine",
+   "estado": "sin_voz",
+   "fecha": "2026-11-26T20:00",
+   "fecha_reels": "2026-11-26T20:00",
+   "partidos": [],
+   "nota": "guion hecho 24-N; SIN VOZ (ordenador desconectado). LOREG 27, 80, 143",
+   "copy": "Te toca mesa y no vas 👀\n\n¿Te ha tocado mesa el domingo y piensas no ir? Cuidado: no es como una multa de tráfico. Si no vas sin una causa justificada, la ley electoral lo castiga como delito. Hasta un año de prisión. O una multa de seis a veinticuatro meses. Tienes que estar a las ocho de la mañana. Presidente, dos vocales y sus suplentes. A cambio, cobras setenta y cinco euros. Y si te surge una causa de fuerza mayor, avísalo y justifícalo ante la Junta Electoral de Zona.\n\n👇 ¿Te ha tocado alguna vez? Comenta sí o no.\n⏳ Quedan tres días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: LOREG, arts. 27, 80 y 143 (BOE); dieta de 75 €: Ministerio del Interior\n#elecciones #29N #espana #politica #mesaelectoral #29N #votar"
+  },
+  {
+   "id": "slp_195_reflexion_sabado",
+   "tipo": "atemporal",
+   "formato": "minuto",
+   "estilo": "cine",
+   "estado": "sin_voz",
+   "fecha": "2026-11-26T23:00",
+   "fecha_reels": "2026-11-26T23:00",
+   "partidos": [],
+   "nota": "guion hecho 24-N; SIN VOZ (ordenador desconectado). LOREG 51, 53, 69.7",
+   "copy": "El sábado, silencio 👀\n\nDesde el viernes a medianoche, los partidos ya no pueden pedirte el voto. Ni uno. Se acaba la campaña: ni mítines, ni actos, ni propaganda electoral. El sábado es la jornada de reflexión. Un día entero sin campaña. Y las encuestas ya no se pueden publicar desde este martes. Hasta que cierren los colegios el domingo. La prohibición es para la campaña. Tú puedes seguir hablando de política con quien quieras.\n\n👇 ¿Sirve de algo la jornada de reflexión? Comenta sí o no.\n⏳ Quedan tres días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: LOREG, arts. 51, 53 y 69.7 (BOE)\n#elecciones #29N #espana #politica #jornadadereflexion #29N #votar"
   }
  ]
 }

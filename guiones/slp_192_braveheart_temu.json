@@ -1,0 +1,307 @@
+{
+ "id": "slp_192_braveheart_temu",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: Libertad Digital, Infobae y Público (23-11-2026), debate a ocho de RTVE"
+ },
+ "caption": "«Braveheart del Temu» 👀\n\n«Cálmate, si ya sé que eres un Braveheart del Temu». Así le habló Ester Muñoz a Rufián anoche, en el debate a ocho de RTVE. Rufián le respondió que hará todo lo posible para que ella no sea ministra. Muñoz, a los socios del Gobierno: hablan «como si no hubieran gobernado ocho años». Y Rufián, sobre los trenes: «Si fuera por la derecha, los trenes serían de plástico y las vías de madera». Ocho portavoces, una noche. Y el jueves, los cuatro candidatos.\n\n👇 ¿Quién ganó el cruce: Muñoz o Rufián?\n⏳ Quedan cinco días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Libertad Digital, Infobae y Público (23-11-2026), debate a ocho de RTVE\n#elecciones #29N #espana #politica #debate #rtve #rufian",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "«Braveheart *del Temu*»",
+  "mini": {
+   "rojo": "MUÑOZ VS RUFIÁN"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "«Cálmate, si ya sé que eres un Braveheart del Temu». Así le habló Ester Muñoz a Rufián anoche, en el debate a ocho de RTVE.",
+     "show": [
+      {
+       "id": "m0",
+       "type": "mono",
+       "who": "munoz",
+       "x": 30,
+       "y": 72,
+       "w": 300,
+       "at": 0,
+       "habla": true,
+       "cara": "sonrie",
+       "say": "«Braveheart del Temu»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "label": "Ester Muñoz · PP",
+       "from": "left"
+      },
+      {
+       "id": "r0",
+       "type": "mono",
+       "who": "rufian",
+       "x": 72,
+       "y": 72,
+       "w": 300,
+       "at": 3,
+       "habla": false,
+       "cara": "sorpresa",
+       "gesto": "manos",
+       "label": "Gabriel Rufián · ERC",
+       "from": "right"
+      },
+      {
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 20,
+       "text": "🎙️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [],
+     "bg": "rojo"
+    },
+    {
+     "text": "Rufián le respondió que hará todo lo posible para que ella no sea ministra.",
+     "show": [
+      {
+       "id": "r1",
+       "type": "mono",
+       "who": "rufian",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": false,
+       "cara": "enfado",
+       "gesto": "manos",
+       "label": "Gabriel Rufián · ERC",
+       "from": "right"
+      },
+      {
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 36,
+       "w": 1000,
+       "at": 3,
+       "n": "¿MINISTRA?",
+       "text": "",
+       "color": "gold",
+       "fs": 140,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "m0",
+      "r0",
+      "k0_0"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Muñoz, a los socios del Gobierno: hablan «como si no hubieran gobernado ocho años».",
+     "show": [
+      {
+       "id": "m2",
+       "type": "mono",
+       "who": "munoz",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": false,
+       "cara": "enfado",
+       "gesto": "manos",
+       "label": "Ester Muñoz · PP",
+       "from": "right"
+      },
+      {
+       "id": "b2",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 36,
+       "w": 1000,
+       "at": 3,
+       "n": "8 AÑOS",
+       "text": "",
+       "color": "red",
+       "fs": 160,
+       "in": "zoom"
+      }
+     ],
+     "hide": [
+      "r1",
+      "b1"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Y Rufián, sobre los trenes: «Si fuera por la derecha, los trenes serían de plástico y las vías de madera».",
+     "show": [
+      {
+       "id": "r3",
+       "type": "mono",
+       "who": "rufian",
+       "x": 28,
+       "y": 74,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "risa",
+       "gesto": "manos",
+       "label": "Gabriel Rufián · ERC",
+       "from": "left"
+      },
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 38,
+       "w": 1000,
+       "at": 3,
+       "n": "🚆",
+       "text": "PLÁSTICO Y MADERA",
+       "color": "",
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "m2",
+      "b2"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Ocho portavoces, una noche. Y el jueves, los cuatro candidatos.",
+     "show": [
+      {
+       "id": "m4",
+       "type": "mono",
+       "who": "munoz",
+       "x": 28,
+       "y": 72,
+       "w": 280,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "r4",
+       "type": "mono",
+       "who": "rufian",
+       "x": 72,
+       "y": 72,
+       "w": 280,
+       "at": 3,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 36,
+       "w": 1000,
+       "at": 3,
+       "n": "JUEVES",
+       "text": "DEBATE A CUATRO",
+       "color": "gold",
+       "fs": 150,
+       "in": "zoom"
+      }
+     ],
+     "hide": [
+      "r3",
+      "b3"
+     ],
+     "bg": "duelo"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "duelo",
+     "text": "¿Quién ganó el cruce: Muñoz o Rufián? Síguenos: quedan cinco días.",
+     "show": [
+      {
+       "id": "sF",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fF",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 72,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿TÚ QUÉ DICES?",
+       "text": "",
+       "color": ""
+      }
+     ],
+     "hide": [
+      "m4",
+      "r4",
+      "b4"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-24T20:00:00+01:00",
+ "estilo": "cine"
+}

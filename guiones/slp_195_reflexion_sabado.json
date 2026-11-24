@@ -1,0 +1,232 @@
+{
+ "id": "slp_195_reflexion_sabado",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: LOREG, arts. 51, 53 y 69.7 (BOE)"
+ },
+ "caption": "El sábado, silencio 👀\n\nDesde el viernes a medianoche, los partidos ya no pueden pedirte el voto. Ni uno. Se acaba la campaña: ni mítines, ni actos, ni propaganda electoral. El sábado es la jornada de reflexión. Un día entero sin campaña. Y las encuestas ya no se pueden publicar desde este martes. Hasta que cierren los colegios el domingo. La prohibición es para la campaña. Tú puedes seguir hablando de política con quien quieras.\n\n👇 ¿Sirve de algo la jornada de reflexión? Comenta sí o no.\n⏳ Quedan tres días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: LOREG, arts. 51, 53 y 69.7 (BOE)\n#elecciones #29N #espana #politica #jornadadereflexion #29N #votar",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "El sábado, *silencio*",
+  "mini": {
+   "rojo": "REFLEXIÓN"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Desde el viernes a medianoche, los partidos ya no pueden pedirte el voto. Ni uno.",
+     "show": [
+      {
+       "id": "b0",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "00:00",
+       "text": "VIERNES 27",
+       "color": "red",
+       "in": "zoom"
+      },
+      {
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 6,
+       "text": "🎯",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k0_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 85,
+       "y": 26,
+       "w": 160,
+       "at": 12,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "right"
+      }
+     ],
+     "hide": [],
+     "bg": "noche"
+    },
+    {
+     "text": "Se acaba la campaña: ni mítines, ni actos, ni propaganda electoral.",
+     "show": [
+      {
+       "id": "x1",
+       "type": "prop",
+       "kind": "xmark",
+       "x": 50,
+       "y": 50,
+       "w": 420,
+       "at": 0,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "b0",
+      "k0_0",
+      "k0_1"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "El sábado es la jornada de reflexión. Un día entero sin campaña.",
+     "show": [
+      {
+       "id": "b2",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "SÁBADO 28",
+       "text": "REFLEXIÓN",
+       "color": "gold",
+       "fs": 150,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "x1"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Y las encuestas ya no se pueden publicar desde este martes. Hasta que cierren los colegios el domingo.",
+     "show": [
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "🤐",
+       "text": "SIN ENCUESTAS HASTA LAS 20:00",
+       "color": "",
+       "in": "zoom"
+      }
+     ],
+     "hide": [
+      "b2"
+     ],
+     "bg": "noche"
+    },
+    {
+     "text": "La prohibición es para la campaña. Tú puedes seguir hablando de política con quien quieras.",
+     "show": [
+      {
+       "id": "t4",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 72,
+       "w": 340,
+       "at": 0,
+       "habla": false,
+       "cara": "sonrie",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 34,
+       "w": 1000,
+       "at": 3,
+       "n": "💬",
+       "text": "",
+       "color": "",
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "b3"
+     ],
+     "bg": "dia"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "duelo",
+     "text": "¿Sirve de algo la jornada de reflexión? Comenta sí o no. Síguenos: quedan tres días.",
+     "show": [
+      {
+       "id": "sF",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos"
+      },
+      {
+       "id": "fF",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 72,
+       "y": 66,
+       "w": 330,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l"
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿TÚ QUÉ DICES?",
+       "text": "",
+       "color": ""
+      }
+     ],
+     "hide": [
+      "t4",
+      "b4"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-26T23:00:00+01:00",
+ "estilo": "cine"
+}
