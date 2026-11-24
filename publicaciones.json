@@ -1349,8 +1349,10 @@
   {
    "id": "slp_030_veda_encuestas",
    "fecha": "2026-11-24T09:00",
-   "estado": "pendiente",
-   "copy": "Desde hoy, sin encuestas 👀\n\nDesde el 24|veinticuatro de noviembre, ningún medio podrá publicarte una encuesta nueva. Y no es casualidad. Cláusula uno: la ley. Durante los cinco días anteriores a votar, está prohibido publicar sondeos electorales en cualquier medio. Cláusula dos: lo que sí se puede. Se prohíbe publicarlas, no hacerlas. Y puedes seguir consultando las publicadas antes. Y la letra pequeña: en redes circulan encuestas antiguas, sin fuente o hechas con IA. Si no dice quién la hizo y cuándo, desconfía. Síguenos para no perderte ninguno.\n\n👇 ¿Te fías de las encuestas? Comenta sí o no.\n⏳ Quedan cinco días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 69.7\n#elecciones #29N #espana #politica #encuestas #veda"
+   "estado": "publicado",
+   "copy": "Desde hoy, sin encuestas 👀\n\nDesde el 24|veinticuatro de noviembre, ningún medio podrá publicarte una encuesta nueva. Y no es casualidad. Cláusula uno: la ley. Durante los cinco días anteriores a votar, está prohibido publicar sondeos electorales en cualquier medio. Cláusula dos: lo que sí se puede. Se prohíbe publicarlas, no hacerlas. Y puedes seguir consultando las publicadas antes. Y la letra pequeña: en redes circulan encuestas antiguas, sin fuente o hechas con IA. Si no dice quién la hizo y cuándo, desconfía. Síguenos para no perderte ninguno.\n\n👇 ¿Te fías de las encuestas? Comenta sí o no.\n⏳ Quedan cinco días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Ley Orgánica del Régimen Electoral General, art. 69.7\n#elecciones #29N #espana #politica #encuestas #veda",
+   "ig_media_id": "17959575783081314",
+   "publicado_en": "2026-11-24T09:01"
   },
   {
    "id": "slp_025_donde_voto",
