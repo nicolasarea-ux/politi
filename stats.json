@@ -2,25 +2,41 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 45,
-  "media_count": 177,
+  "media_count": 178,
   "id": "29046307255021601"
  },
  "reels": [
   {
-   "id": "slp_025_donde_voto",
-   "ig": "18118661204518704",
-   "fecha": "2026-11-24T13:18:32+0000",
+   "id": "slp_192_intxaurrondo",
+   "ig": "18171637720490570",
+   "fecha": "2026-11-24T16:01:32+0000",
    "likes": 0,
    "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DgIC1Mfk9Tu/",
-   "titulo": "¿Dónde te toca votar? 👀\n\n¿No te ha llegado la tarjeta censal",
-   "views": 0,
-   "reach": 0,
+   "url": "https://www.instagram.com/reel/DgIVdyCDKFH/",
+   "titulo": "Expediente por preguntar 👀\n\n«No voy a renunciar a mis pregun",
+   "views": 129,
+   "reach": 84,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 0,
-   "ig_reels_video_view_total_time": 0
+   "ig_reels_avg_watch_time": 8593,
+   "ig_reels_video_view_total_time": 696096
+  },
+  {
+   "id": "slp_025_donde_voto",
+   "ig": "18118661204518704",
+   "fecha": "2026-11-24T13:18:32+0000",
+   "likes": 1,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DgIC1Mfk9Tu/",
+   "titulo": "¿Dónde te toca votar? 👀\n\n¿No te ha llegado la tarjeta censal",
+   "views": 132,
+   "reach": 121,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 1,
+   "ig_reels_avg_watch_time": 4718,
+   "ig_reels_video_view_total_time": 561490
   },
   {
    "id": "slp_030_veda_encuestas",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgHegN3jQwT/",
    "titulo": "Desde hoy, sin encuestas 👀\n\nDesde el 24|veinticuatro de novi",
-   "views": 136,
-   "reach": 119,
+   "views": 139,
+   "reach": 122,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 7189,
-   "ig_reels_video_view_total_time": 869935
+   "ig_reels_avg_watch_time": 7073,
+   "ig_reels_video_view_total_time": 877164
   },
   {
    "id": "slp_187_wild_mil_fallos",
@@ -62,13 +78,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgHQt1mjNbP/",
    "titulo": "«Llegué agotado» 👀\n\nJordi Wild dice que, si hubiera entrevis",
-   "views": 1373,
-   "reach": 1219,
+   "views": 1374,
+   "reach": 1220,
    "saved": 0,
    "shares": 1,
    "total_interactions": 13,
-   "ig_reels_avg_watch_time": 15115,
-   "ig_reels_video_view_total_time": 18274249
+   "ig_reels_avg_watch_time": 15103,
+   "ig_reels_video_view_total_time": 18274950
   },
   {
    "id": "slp_191_wild_feijoo",
@@ -78,13 +94,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgHQtyLDgqd/",
    "titulo": "«Llegué agotado» 👀\n\nJordi Wild dice que, si hubiera entrevis",
-   "views": 1381,
-   "reach": 1189,
+   "views": 1385,
+   "reach": 1191,
    "saved": 1,
    "shares": 0,
    "total_interactions": 8,
-   "ig_reels_avg_watch_time": 17313,
-   "ig_reels_video_view_total_time": 20879567
+   "ig_reels_avg_watch_time": 17305,
+   "ig_reels_video_view_total_time": 20922268
   },
   {
    "id": "slp_190_wild_sanchez",
@@ -94,13 +110,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgGwGbEEY0k/",
    "titulo": "«Hasta los perros» 👀\n\nAntes de entrevistar a Sánchez, su equ",
-   "views": 165,
-   "reach": 146,
+   "views": 166,
+   "reach": 147,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 13284,
-   "ig_reels_video_view_total_time": 1966072
+   "ig_reels_avg_watch_time": 13195,
+   "ig_reels_video_view_total_time": 1966094
   },
   {
    "id": "slp_186_wild_ranking",
@@ -110,13 +126,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgGq81hlTVv/",
    "titulo": "El ranking de Wild 👀\n\nJordi Wild ha entrevistado a Sánchez, ",
-   "views": 1451,
+   "views": 1455,
    "reach": 1277,
    "saved": 0,
    "shares": 0,
    "total_interactions": 6,
-   "ig_reels_avg_watch_time": 15782,
-   "ig_reels_video_view_total_time": 20217446
+   "ig_reels_avg_watch_time": 15790,
+   "ig_reels_video_view_total_time": 20290399
   },
   {
    "id": "slp_189_wild_psoe_pp",
@@ -126,13 +142,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgGm4zliNtG/",
    "titulo": "«Asolados por la corrupción» 👀\n\nHa entrevistado a Sánchez, F",
-   "views": 774,
-   "reach": 677,
+   "views": 851,
+   "reach": 739,
    "saved": 0,
    "shares": 0,
    "total_interactions": 12,
-   "ig_reels_avg_watch_time": 17230,
-   "ig_reels_video_view_total_time": 11579166
+   "ig_reels_avg_watch_time": 17157,
+   "ig_reels_video_view_total_time": 12541988
   },
   {
    "id": "slp_188_wild_vox_derechos",
@@ -142,13 +158,13 @@
    "comentarios": 3,
    "url": "https://www.instagram.com/reel/DgGk8qTCESo/",
    "titulo": "Por qué Abascal no fue 👀\n\nJordi Wild ha contado en El Hormig",
-   "views": 1286,
-   "reach": 1095,
+   "views": 1291,
+   "reach": 1100,
    "saved": 2,
    "shares": 0,
    "total_interactions": 13,
-   "ig_reels_avg_watch_time": 16610,
-   "ig_reels_video_view_total_time": 18786905
+   "ig_reels_avg_watch_time": 16622,
+   "ig_reels_video_view_total_time": 18850210
   },
   {
    "id": "slp_185_wild_planton",
@@ -158,13 +174,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgGia7gDjta/",
    "titulo": "El plantón de Abascal 👀\n\nIba a sentar a los cuatro candidato",
-   "views": 245,
-   "reach": 217,
+   "views": 246,
+   "reach": 218,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 8145,
-   "ig_reels_video_view_total_time": 1783954
+   "ig_reels_avg_watch_time": 8133,
+   "ig_reels_video_view_total_time": 1789426
   },
   {
    "id": "slp_178_tres_frases",
@@ -206,13 +222,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgGFP6TnIpz/",
    "titulo": "«Gané de largo» 👀\n\nSánchez, anoche en Salvados: «Yo creo que",
-   "views": 190,
-   "reach": 166,
+   "views": 192,
+   "reach": 168,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 9945,
-   "ig_reels_video_view_total_time": 1660825
+   "ig_reels_avg_watch_time": 9960,
+   "ig_reels_video_view_total_time": 1683350
   },
   {
    "id": "slp_176_sueldo_diputado",
@@ -350,13 +366,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgA0vDpAqJC/",
    "titulo": "¿Lo has visto? Es falso 👀\n\nSi has visto un vídeo de un carte",
-   "views": 116,
-   "reach": 112,
+   "views": 117,
+   "reach": 113,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 4825,
-   "ig_reels_video_view_total_time": 545326
+   "ig_reels_avg_watch_time": 4809,
+   "ig_reels_video_view_total_time": 548275
   },
   {
    "id": "slp_170_feijoo_cristiano",
@@ -431,12 +447,12 @@
    "url": "https://www.instagram.com/reel/DgAEIcZkYKW/",
    "titulo": "La canción de la campaña 👀\n\nUna frase del PP contra Sánchez ",
    "views": 367,
-   "reach": 310,
+   "reach": 312,
    "saved": 0,
    "shares": 0,
    "total_interactions": 7,
-   "ig_reels_avg_watch_time": 36482,
-   "ig_reels_video_view_total_time": 11491950
+   "ig_reels_avg_watch_time": 36370,
+   "ig_reels_video_view_total_time": 11493091
   },
   {
    "id": "slp_166_paradoja_encuesta",
@@ -1589,22 +1605,6 @@
    "total_interactions": 18,
    "ig_reels_avg_watch_time": 13460,
    "ig_reels_video_view_total_time": 18898056
-  },
-  {
-   "id": "slp_095_wild_vs_vox",
-   "ig": "18400821784204872",
-   "fecha": "2026-11-11T22:15:33+0000",
-   "likes": 9,
-   "comentarios": 3,
-   "url": "https://www.instagram.com/reel/Dfnh90niswa/",
-   "titulo": "¿Quién tiene razón: Vox o Jordi Wild? 👇\n\nLas dos versiones d",
-   "views": 1543,
-   "reach": 1250,
-   "saved": 2,
-   "shares": 0,
-   "total_interactions": 14,
-   "ig_reels_avg_watch_time": 13153,
-   "ig_reels_video_view_total_time": 16388897
   }
  ]
 }
