@@ -310,9 +310,9 @@
    ],
    "estado": "programado",
    "nota": "22-N relleno de seguridad (explicativos vuelven 22–28-N); la pasada del 22-N puede cambiarlo por actualidad | 22-N pasada: re-render con fechaPub, 24-N relleno de seguridad (el 22-N 13:00 salió «saltado»); la pasada del 24-N puede cambiarlo por actualidad",
-   "fecha": "2026-11-24T20:00",
+   "fecha": "2026-11-28T10:30",
    "copy": "DNI caducado: ¿puedes votar? 👀\n\nTienes el DNI caducado y es el 29|veintinueve. ¿Puedes votar? Sí. Pero ojo con el móvil. Cláusula uno: qué documentos valen. DNI, pasaporte o carnet de conducir, siempre que lleven tu foto. Y el DNI caducado también sirve, si la mesa puede comprobar que eres tú. Cláusula dos: qué no vale. Fotocopias, no. Y una foto del DNI en el móvil, tampoco. Tiene que ser el original. Y la letra pequeña: este año la Junta Electoral suspendió el uso de las apps MiDNI y MiDGT para votar por dudas de seguridad. Lleva el documento físico. Guárdalo para el 29.|veintinueve. Síguenos para no perderte ninguno.\n\n👇 ¿Lo sabías? Comenta sí o no.\n⏳ Quedan cinco días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Junta Electoral Central y LOREG\n#elecciones #29N #espana #politica #dni #votar",
-   "fecha_reels": "2026-11-24T20:00"
+   "fecha_reels": "2026-11-28T10:30"
   },
   {
    "id": "slp_023_reflexion",
@@ -2272,6 +2272,28 @@
    "partidos": [],
    "nota": "guion hecho 24-N; SIN VOZ (ordenador desconectado). LOREG 51, 53, 69.7",
    "copy": "El sábado, silencio 👀\n\nDesde el viernes a medianoche, los partidos ya no pueden pedirte el voto. Ni uno. Se acaba la campaña: ni mítines, ni actos, ni propaganda electoral. El sábado es la jornada de reflexión. Un día entero sin campaña. Y las encuestas ya no se pueden publicar desde este martes. Hasta que cierren los colegios el domingo. La prohibición es para la campaña. Tú puedes seguir hablando de política con quien quieras.\n\n👇 ¿Sirve de algo la jornada de reflexión? Comenta sí o no.\n⏳ Quedan tres días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: LOREG, arts. 51, 53 y 69.7 (BOE)\n#elecciones #29N #espana #politica #jornadadereflexion #29N #votar"
+  },
+  {
+   "id": "slp_192_intxaurrondo",
+   "tipo": "actualidad",
+   "formato": "cine",
+   "estilo": "cine",
+   "estado": "programado",
+   "fecha": "2026-11-24T17:00",
+   "fecha_reels": "2026-11-24T17:00",
+   "nota": "Guion v4 hablado, intro/final variables",
+   "copy": "Expediente por preguntar 👀\n\n«No voy a renunciar a mis preguntas». Lo dice una presentadora de la tele pública. Y tiene un expediente encima. Se llama Silvia Intxaurrondo. La de La hora de la 1, en TVE. ¿Y qué hizo? Preguntó en directo si la extrema derecha debe tener espacio en la televisión pública. Vox la denunció. Y la Junta Electoral le ha abierto expediente por falta de neutralidad. Le puede caer una multa de entre cien y mil euros. ¿Su respuesta? Con ironía: «La libertad de prensa también tiene descuento por pronto pago». Va a recurrir hasta el final. Y la pregunta ahora es otra: preguntar eso, ¿es opinar… o es hacer periodismo?\n\n👇 ¿Opinar o periodismo?\n⏳ Quedan cinco días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: La Nación (24-11-2026)\n#elecciones #29N #espana #politica #intxaurrondo #tve #juntaelectoral"
+  },
+  {
+   "id": "slp_193_no_aceptaran",
+   "tipo": "actualidad",
+   "formato": "cine",
+   "estilo": "cine",
+   "estado": "programado",
+   "fecha": "2026-11-24T20:00",
+   "fecha_reels": "2026-11-24T20:00",
+   "nota": "Guion v4 hablado, intro/final variables",
+   "copy": "¿Y si no aceptan? 👀\n\nFaltan cinco días para votar. Y ya se está hablando de lo que pasará… después. Sánchez, hoy en RNE: «No van a aceptar el resultado electoral y eso es muy grave». Se refiere al PP y a Vox. Por eso pide una victoria «contundente y amplia». Y Abascal, en Palencia: «Necesitamos vigilar, estar atentos para que no haya ninguna trampa». Vox está en alerta con el voto desde el extranjero. O sea: uno avisa de que el otro no aceptará el resultado. El otro pide vigilar el voto. Y todavía no ha votado nadie.\n\n👇 ¿Te fías del recuento?\n⏳ Quedan cinco días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Moncloa.com (24-11, entrevista RNE), Estrella Digital (24-11)\n#elecciones #29N #espana #politica #sanchez #abascal #29N"
   }
  ]
 }

@@ -34,14 +34,28 @@
        "type": "prop",
        "kind": "big",
        "x": 50,
-       "y": 44,
+       "y": 36,
        "w": 1000,
        "at": 0,
-       "n": "«NO VOY A RENUNCIAR A MIS PREGUNTAS»",
+       "n": "«NO VOY A RENUNCIAR",
        "text": "",
        "color": "gold",
-       "fs": 92,
+       "fs": 88,
        "in": "zoom"
+      },
+      {
+       "id": "b0b",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 48,
+       "w": 1000,
+       "at": 3,
+       "n": "A MIS PREGUNTAS»",
+       "text": "",
+       "color": "gold",
+       "fs": 88,
+       "in": "left"
       },
       {
        "id": "s0",
@@ -104,6 +118,7 @@
      ],
      "hide": [
       "b0",
+      "b0b",
       "s0"
      ],
      "bg": "noche"
@@ -305,26 +320,26 @@
        "type": "prop",
        "kind": "big",
        "x": 50,
-       "y": 34,
+       "y": 32,
        "w": 1000,
        "at": 0,
        "n": "¿OPINIÓN",
        "text": "",
        "color": "gold",
-       "fs": 150
+       "fs": 130
       },
       {
        "id": "bG",
        "type": "prop",
        "kind": "big",
        "x": 50,
-       "y": 50,
+       "y": 46,
        "w": 1000,
        "at": 0,
        "n": "O PERIODISMO?",
        "text": "",
        "color": "",
-       "fs": 150
+       "fs": 105
       },
       {
        "id": "eF",
