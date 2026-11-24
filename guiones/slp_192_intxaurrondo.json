@@ -1,0 +1,350 @@
+{
+ "id": "slp_192_intxaurrondo",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: La Nación (24-11-2026)"
+ },
+ "caption": "Expediente por preguntar 👀\n\n«No voy a renunciar a mis preguntas». Lo dice una presentadora de la tele pública. Y tiene un expediente encima. Se llama Silvia Intxaurrondo. La de La hora de la 1, en TVE. ¿Y qué hizo? Preguntó en directo si la extrema derecha debe tener espacio en la televisión pública. Vox la denunció. Y la Junta Electoral le ha abierto expediente por falta de neutralidad. Le puede caer una multa de entre cien y mil euros. ¿Su respuesta? Con ironía: «La libertad de prensa también tiene descuento por pronto pago». Va a recurrir hasta el final. Y la pregunta ahora es otra: preguntar eso, ¿es opinar… o es hacer periodismo?\n\n👇 ¿Opinar o periodismo?\n⏳ Quedan cinco días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: La Nación (24-11-2026)\n#elecciones #29N #espana #politica #intxaurrondo #tve #juntaelectoral",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "Expediente por *preguntar*",
+  "mini": {
+   "rojo": "EXPEDIENTE"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "«No voy a renunciar a mis preguntas». Lo dice una presentadora de la tele pública. Y tiene un expediente encima.",
+     "show": [
+      {
+       "id": "b0",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 44,
+       "w": 1000,
+       "at": 0,
+       "n": "«NO VOY A RENUNCIAR A MIS PREGUNTAS»",
+       "text": "",
+       "color": "gold",
+       "fs": 92,
+       "in": "zoom"
+      },
+      {
+       "id": "s0",
+       "type": "stamp",
+       "text": "EXPEDIENTE",
+       "color": "red",
+       "x": 50,
+       "y": 70,
+       "rot": -8,
+       "at": 3,
+       "in": "down"
+      }
+     ],
+     "hide": [],
+     "bg": "rojo"
+    },
+    {
+     "text": "Se llama Silvia Intxaurrondo. La de La hora de la 1, en TVE.",
+     "show": [
+      {
+       "id": "m1",
+       "type": "mono",
+       "who": "ministra",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 32,
+       "w": 1000,
+       "at": 3,
+       "n": "TVE",
+       "text": "LA HORA DE LA 1",
+       "color": "",
+       "fs": 150,
+       "in": "up"
+      },
+      {
+       "id": "k1_0",
+       "type": "prop",
+       "kind": "chip",
+       "x": 15,
+       "y": 25,
+       "w": 360,
+       "at": 10,
+       "in": "left",
+       "text": "1",
+       "c": "",
+       "rot": -6
+      }
+     ],
+     "hide": [
+      "b0",
+      "s0"
+     ],
+     "bg": "noche"
+    },
+    {
+     "text": "¿Y qué hizo? Preguntó en directo si la extrema derecha debe tener espacio en la televisión pública.",
+     "show": [
+      {
+       "id": "m2",
+       "type": "mono",
+       "who": "ministra",
+       "x": 28,
+       "y": 74,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "b2",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 36,
+       "w": 1000,
+       "at": 3,
+       "n": "❓",
+       "text": "",
+       "color": "",
+       "in": "zoom"
+      }
+     ],
+     "hide": [
+      "m1",
+      "b1",
+      "k1_0"
+     ]
+    },
+    {
+     "text": "Vox la denunció. Y la Junta Electoral le ha abierto expediente por falta de neutralidad.",
+     "show": [
+      {
+       "id": "e3",
+       "type": "prop",
+       "kind": "edificio",
+       "x": 50,
+       "y": 46,
+       "w": 600,
+       "at": 0,
+       "luz": true,
+       "in": "zoom"
+      },
+      {
+       "id": "s3",
+       "type": "stamp",
+       "text": "JUNTA ELECTORAL",
+       "color": "red",
+       "x": 50,
+       "y": 78,
+       "rot": -8,
+       "at": 3,
+       "in": "down"
+      },
+      {
+       "id": "k3_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 5,
+       "text": "⚖️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "m2",
+      "b2"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Le puede caer una multa de entre cien y mil euros.",
+     "show": [
+      {
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "100–1.000 €",
+       "text": "POSIBLE MULTA",
+       "color": "red",
+       "fs": 150,
+       "in": "left"
+      },
+      {
+       "id": "k4_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 10,
+       "text": "💶",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "e3",
+      "s3",
+      "k3_0"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "¿Su respuesta? Con ironía: «La libertad de prensa también tiene descuento por pronto pago».",
+     "show": [
+      {
+       "id": "m5",
+       "type": "mono",
+       "who": "ministra",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "risa",
+       "say": "«Descuento por pronto pago»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "b4",
+      "k4_0"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Va a recurrir hasta el final. Y la pregunta ahora es otra: preguntar eso, ¿es opinar… o es hacer periodismo?",
+     "show": [
+      {
+       "id": "m6",
+       "type": "mono",
+       "who": "ministra",
+       "x": 30,
+       "y": 72,
+       "w": 280,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "b6",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 36,
+       "w": 1000,
+       "at": 3,
+       "n": "⚖️",
+       "text": "",
+       "color": "",
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "m5"
+     ],
+     "bg": "duelo"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "noche",
+     "text": "Tú qué crees: ¿opinión o periodismo? Te leo en comentarios.",
+     "show": [
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 34,
+       "w": 1000,
+       "at": 0,
+       "n": "¿OPINIÓN",
+       "text": "",
+       "color": "gold",
+       "fs": 150
+      },
+      {
+       "id": "bG",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 50,
+       "w": 1000,
+       "at": 0,
+       "n": "O PERIODISMO?",
+       "text": "",
+       "color": "",
+       "fs": 150
+      },
+      {
+       "id": "eF",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 74,
+       "w": 200,
+       "at": 0,
+       "text": "🎙️"
+      }
+     ],
+     "hide": [
+      "m6",
+      "b6"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-24T17:00:00+01:00",
+ "estilo": "cine"
+}

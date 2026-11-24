@@ -33,7 +33,7 @@ def deco(t,sh,k):
             x,y=POS[n%len(POS)]
             extra.append(P(f'k{k}_{n}','emo',x=x,y=y,w=160,at=i,text=emo,fs=110,**{'in':'left' if x<50 else 'right'}));used.add(emo);n+=1
     return sh+extra
-def cine(id,segs,fecha,cta,cover_tit,cover_rojo,fuente,tags='',dias='siete',auto_fin=True):
+def cine(id,segs,fecha,cta,cover_tit,cover_rojo,fuente,tags='',dias='siete',auto_fin=True,fin_show=None,fin_bg='duelo',fin_txt=None):
     out=[];prev=[]
     for k,sg in enumerate(segs):
         t,sh=sg[0],sg[1];bg=sg[2] if len(sg)>2 else None
@@ -52,7 +52,7 @@ def cine(id,segs,fecha,cta,cover_tit,cover_rojo,fuente,tags='',dias='siete',auto
         o={"text":t,"show":sh,"hide":prev}
         if bg:o['bg']=bg
         out.append(o);prev=[e['id'] for e in sh]
-    fin={"bg":"duelo","text":f"{cta} Síguenos: quedan {dias} días.","show":[mono('sF','sanchez',28,66,330,cara='duda'),mono('fF','feijoo',72,66,330,cara='duda'),BIG('bF','¿TÚ QUÉ DICES?','',y=40)],"hide":prev}
+    fin={"bg":fin_bg,"text":fin_txt if fin_txt else f"{cta} Síguenos: quedan {dias} días.","show":fin_show if fin_show is not None else [mono('sF','sanchez',28,66,330,cara='duda'),mono('fF','feijoo',72,66,330,cara='duda'),BIG('bF','¿TÚ QUÉ DICES?','',y=40)],"hide":prev}
     voz=' '.join(s[0] for s in segs)
     cap=f"""{cover_tit.replace('*','')} 👀
 

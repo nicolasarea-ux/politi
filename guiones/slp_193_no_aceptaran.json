@@ -1,0 +1,324 @@
+{
+ "id": "slp_193_no_aceptaran",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: Moncloa.com (24-11, entrevista RNE), Estrella Digital (24-11)"
+ },
+ "caption": "¿Y si no aceptan? 👀\n\nFaltan cinco días para votar. Y ya se está hablando de lo que pasará… después. Sánchez, hoy en RNE: «No van a aceptar el resultado electoral y eso es muy grave». Se refiere al PP y a Vox. Por eso pide una victoria «contundente y amplia». Y Abascal, en Palencia: «Necesitamos vigilar, estar atentos para que no haya ninguna trampa». Vox está en alerta con el voto desde el extranjero. O sea: uno avisa de que el otro no aceptará el resultado. El otro pide vigilar el voto. Y todavía no ha votado nadie.\n\n👇 ¿Te fías del recuento?\n⏳ Quedan cinco días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Moncloa.com (24-11, entrevista RNE), Estrella Digital (24-11)\n#elecciones #29N #espana #politica #sanchez #abascal #29N",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "¿Y si *no aceptan*?",
+  "mini": {
+   "rojo": "SÁNCHEZ VS ABASCAL"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Faltan cinco días para votar. Y ya se está hablando de lo que pasará… después.",
+     "show": [
+      {
+       "id": "b0",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 46,
+       "w": 1000,
+       "at": 0,
+       "n": "DESPUÉS DEL 29-N",
+       "text": "",
+       "color": "gold",
+       "fs": 120,
+       "in": "zoom"
+      },
+      {
+       "id": "e0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 70,
+       "w": 220,
+       "at": 3,
+       "text": "🗳️",
+       "in": "down"
+      },
+      {
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 4,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [],
+     "bg": "noche"
+    },
+    {
+     "text": "Sánchez, hoy en RNE: «No van a aceptar el resultado electoral y eso es muy grave».",
+     "show": [
+      {
+       "id": "s1",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "duda",
+       "say": "«No van a aceptar el resultado»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "b0",
+      "e0",
+      "k0_0"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Se refiere al PP y a Vox. Por eso pide una victoria «contundente y amplia».",
+     "show": [
+      {
+       "id": "s2",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 74,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "b2",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 38,
+       "w": 1000,
+       "at": 3,
+       "n": "CONTUNDENTE",
+       "text": "Y AMPLIA",
+       "color": "",
+       "fs": 130,
+       "in": "zoom"
+      }
+     ],
+     "hide": [
+      "s1"
+     ]
+    },
+    {
+     "text": "Y Abascal, en Palencia: «Necesitamos vigilar, estar atentos para que no haya ninguna trampa».",
+     "show": [
+      {
+       "id": "a3",
+       "type": "mono",
+       "who": "abascal",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "enfado",
+       "say": "«Que no haya ninguna trampa»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "s2",
+      "b2"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Vox está en alerta con el voto desde el extranjero.",
+     "show": [
+      {
+       "id": "a4",
+       "type": "mono",
+       "who": "abascal",
+       "x": 72,
+       "y": 74,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "e4",
+       "type": "prop",
+       "kind": "emo",
+       "x": 30,
+       "y": 40,
+       "w": 220,
+       "at": 3,
+       "text": "✈️",
+       "in": "left"
+      },
+      {
+       "id": "k4_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 6,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "a3"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "O sea: uno avisa de que el otro no aceptará el resultado. El otro pide vigilar el voto. Y todavía no ha votado nadie.",
+     "show": [
+      {
+       "id": "s5",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 26,
+       "y": 72,
+       "w": 280,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "a5",
+       "type": "mono",
+       "who": "abascal",
+       "x": 74,
+       "y": 72,
+       "w": 280,
+       "at": 3,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "b5",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 36,
+       "w": 1000,
+       "at": 3,
+       "n": "0 VOTOS",
+       "text": "AÚN",
+       "color": "gold",
+       "fs": 150,
+       "in": "left"
+      },
+      {
+       "id": "k5_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 17,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "a4",
+      "e4",
+      "k4_0"
+     ],
+     "bg": "duelo"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "noche",
+     "text": "¿Tú te fías del recuento? Dímelo abajo. Y el jueves, debate a cuatro aquí.",
+     "show": [
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿TE FÍAS?",
+       "text": "",
+       "color": "gold",
+       "fs": 190
+      },
+      {
+       "id": "eF",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 70,
+       "w": 220,
+       "at": 0,
+       "text": "🤔"
+      }
+     ],
+     "hide": [
+      "s5",
+      "a5",
+      "b5",
+      "k5_0"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-24T20:00:00+01:00",
+ "estilo": "cine"
+}

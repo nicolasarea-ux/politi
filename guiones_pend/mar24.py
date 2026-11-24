@@ -1,46 +1,24 @@
 import sys,json;sys.path.insert(0,'engine')
 from mk_cine import *
 V={}
-F='Libertad Digital, Infobae y Público (23-11-2026), debate a ocho de RTVE'
-V['slp_192_braveheart_temu']=cine('slp_192_braveheart_temu',[
- ("«Cálmate, si ya sé que eres un Braveheart del Temu». Así le habló Ester Muñoz a Rufián anoche, en el debate a ocho de RTVE.",[mono('m0','munoz',30,72,300,say='«Braveheart del Temu»',cara='sonrie',label='Ester Muñoz · PP'),mono('r0','rufian',72,72,300,cara='sorpresa',label='Gabriel Rufián · ERC')],'rojo'),
- ("Rufián le respondió que hará todo lo posible para que ella no sea ministra.",[mono('r1','rufian',50,72,360,cara='enfado',label='Gabriel Rufián · ERC'),BIG('b1','¿MINISTRA?','',color='gold',y=36,fs=140)],'dia'),
- ("Muñoz, a los socios del Gobierno: hablan «como si no hubieran gobernado ocho años».",[mono('m2','munoz',50,72,360,cara='enfado',label='Ester Muñoz · PP'),BIG('b2','8 AÑOS','',color='red',y=36,fs=160)],'rojo'),
- ("Y Rufián, sobre los trenes: «Si fuera por la derecha, los trenes serían de plástico y las vías de madera».",[mono('r3','rufian',28,74,300,cara='risa',label='Gabriel Rufián · ERC'),BIG('b3','🚆','PLÁSTICO Y MADERA',y=38)],'dia'),
- ("Ocho portavoces, una noche. Y el jueves, los cuatro candidatos.",[mono('m4','munoz',28,72,280,cara='duda'),mono('r4','rufian',72,72,280,cara='duda'),BIG('b4','JUEVES','DEBATE A CUATRO',color='gold',y=36,fs=150)],'duelo')],
- '2026-11-24T20:00:00+01:00','¿Quién ganó el cruce: Muñoz o Rufián?','«Braveheart *del Temu*»','MUÑOZ VS RUFIÁN',F,'#debate #rtve #rufian',dias='cinco')
-
-V['slp_193_nadie_176']=cine('slp_193_nadie_176',[
- ("¿Y si el domingo nadie llega a 176 escaños? No, no se repiten las elecciones. Todavía.",[HEMI('h0',[{'l':'NADIE','n':170,'c':'#9AA5B8'}],line='176',y=50)],'noche'),
- ("Primero, el Rey consulta a los partidos y propone un candidato.",[EDI('e1',y=56),BIG('b1','👑','CONSULTAS',y=84)],'dia'),
- ("Primera votación: necesita 176 síes. Mayoría absoluta.",[BIG('b2','176','SÍES EN LA 1.ª VOTACIÓN',color='gold',y=50)],'dia'),
- ("Si no los tiene, cuarenta y ocho horas después, otra. Ahí basta con más síes que noes.",[BIG('b3','48 H','MÁS SÍES QUE NOES',y=50)],None),
- ("Si tampoco sale, empieza a correr un reloj de dos meses.",[BIG('b4','⏳','2 MESES',color='gold',y=50)],'noche'),
- ("Y si en dos meses nadie es investido, el Rey disuelve las Cortes. Elecciones otra vez.",[XM('x5',y=46),BIG('b5','OTRA VEZ A VOTAR','',color='red',y=82,fs=110)],'rojo')],
- '2026-11-26T14:00:00+01:00','¿Habrá repetición electoral? Comenta sí o no.','¿Y si nadie llega a *176*?','LA INVESTIDURA','Constitución Española, art. 99 (BOE)','#investidura #congreso #constitucion',dias='tres')
-
-V['slp_194_mesa_no_ir']=cine('slp_194_mesa_no_ir',[
- ("¿Te ha tocado mesa el domingo y piensas no ir? Cuidado: no es como una multa de tráfico.",[mono('t0','tu',50,72,340,cara='duda'),BIG('b0','🗳️','¿NO VAS?',y=36)],'rojo'),
- ("Si no vas sin una causa justificada, la ley electoral lo castiga como delito.",[SELLO('s1','DELITO',y=50)],'rojo'),
- ("Hasta un año de prisión. O una multa de seis a veinticuatro meses.",[BIG('b2','1 AÑO','DE PRISIÓN, COMO MÁXIMO',color='red',y=50)],'noche'),
- ("Tienes que estar a las ocho de la mañana. Presidente, dos vocales y sus suplentes.",[BIG('b3','8:00','EL DOMINGO 29',color='gold',y=40),mono('t3','tu',50,80,240,cara='neutral')],'dia'),
- ("A cambio, cobras setenta y cinco euros. Y si te surge una causa de fuerza mayor, avísalo y justifícalo ante la Junta Electoral de Zona.",[BIG('b4','75 €','POR EL DÍA',color='gold',y=50)],'dia')],
- '2026-11-26T20:00:00+01:00','¿Te ha tocado alguna vez? Comenta sí o no.','Te toca *mesa* y no vas','HASTA 1 AÑO','LOREG, arts. 27, 80 y 143 (BOE); dieta de 75 €: Ministerio del Interior','#mesaelectoral #29N #votar',dias='tres')
-
-V['slp_195_reflexion_sabado']=cine('slp_195_reflexion_sabado',[
- ("Desde el viernes a medianoche, los partidos ya no pueden pedirte el voto. Ni uno.",[BIG('b0','00:00','VIERNES 27',color='red',y=50)],'noche'),
- ("Se acaba la campaña: ni mítines, ni actos, ni propaganda electoral.",[XM('x1',y=50)],'rojo'),
- ("El sábado es la jornada de reflexión. Un día entero sin campaña.",[BIG('b2','SÁBADO 28','REFLEXIÓN',color='gold',y=50,fs=150)],'dia'),
- ("Y las encuestas ya no se pueden publicar desde este martes. Hasta que cierren los colegios el domingo.",[BIG('b3','🤐','SIN ENCUESTAS HASTA LAS 20:00',y=50)],'noche'),
- ("La prohibición es para la campaña. Tú puedes seguir hablando de política con quien quieras.",[mono('t4','tu',50,72,340,cara='sonrie'),BIG('b4','💬','',y=34)],'dia')],
- '2026-11-26T23:00:00+01:00','¿Sirve de algo la jornada de reflexión? Comenta sí o no.','El sábado, *silencio*','REFLEXIÓN','LOREG, arts. 51, 53 y 69.7 (BOE)','#jornadadereflexion #29N #votar',dias='tres')
-
-# slp_177: misma pieza, nueva fecha y nueva cuenta atrás
-g=json.load(open('guiones/slp_177_coste_elecciones.json'))
-for sc in g['scenes']:
-  for s in sc['segments']: s['text']=s['text'].replace('quedan seis días','quedan tres días')
-g['caption']=g['caption'].replace('Quedan seis días','Quedan tres días');g['fechaPub']='2026-11-26T09:00:00+01:00'
-json.dump(g,open('guiones/slp_177_coste_elecciones.json','w'),ensure_ascii=False,indent=1)
-V['slp_177_coste_elecciones']=' '.join(s['text'] for sc in g['scenes'] for s in sc['segments'])
-for k,v in V.items(): print(k,len(v.split()),v)
-json.dump(V,open('guiones_pend/voces_mar24.json','w'),ensure_ascii=False)
+V['slp_192_intxaurrondo']=cine('slp_192_intxaurrondo',[
+ ("«No voy a renunciar a mis preguntas». Lo dice una presentadora de la tele pública. Y tiene un expediente encima.",[BIG('b0','«NO VOY A RENUNCIAR A MIS PREGUNTAS»','',color='gold',y=44,fs=92),SELLO('s0','EXPEDIENTE',y=70)],'rojo'),
+ ("Se llama Silvia Intxaurrondo. La de La hora de la 1, en TVE.",[mono('m1','ministra',50,72,360,cara='neutral'),BIG('b1','TVE','LA HORA DE LA 1',y=32,fs=150)],'noche'),
+ ("¿Y qué hizo? Preguntó en directo si la extrema derecha debe tener espacio en la televisión pública.",[mono('m2','ministra',28,74,300,cara='duda'),BIG('b2','❓','',y=36)],None),
+ ("Vox la denunció. Y la Junta Electoral le ha abierto expediente por falta de neutralidad.",[EDI('e3',y=46,w=600),SELLO('s3','JUNTA ELECTORAL',y=78)],'rojo'),
+ ("Le puede caer una multa de entre cien y mil euros.",[BIG('b4','100–1.000 €','POSIBLE MULTA',color='red',y=50,fs=150)],'rojo'),
+ ("¿Su respuesta? Con ironía: «La libertad de prensa también tiene descuento por pronto pago».",[mono('m5','ministra',50,72,360,say='«Descuento por pronto pago»',cara='risa')],'dia'),
+ ("Va a recurrir hasta el final. Y la pregunta ahora es otra: preguntar eso, ¿es opinar… o es hacer periodismo?",[mono('m6','ministra',30,72,280,cara='neutral'),BIG('b6','⚖️','',y=36)],'duelo')],
+ '2026-11-24T17:00:00+01:00','¿Opinar o periodismo?','Expediente por *preguntar*','EXPEDIENTE','La Nación (24-11-2026)','#intxaurrondo #tve #juntaelectoral',dias='cinco',
+ fin_bg='noche',fin_txt='Tú qué crees: ¿opinión o periodismo? Te leo en comentarios.',fin_show=[BIG('bF','¿OPINIÓN','',color='gold',y=34,fs=150),BIG('bG','O PERIODISMO?','',y=50,fs=150),P('eF','emo',x=50,y=74,w=200,text='🎙️')])
+V['slp_193_no_aceptaran']=cine('slp_193_no_aceptaran',[
+ ("Faltan cinco días para votar. Y ya se está hablando de lo que pasará… después.",[BIG('b0','DESPUÉS DEL 29-N','',color='gold',y=46,fs=120),P('e0','emo',x=50,y=70,w=220,text='🗳️')],'noche'),
+ ("Sánchez, hoy en RNE: «No van a aceptar el resultado electoral y eso es muy grave».",[mono('s1','sanchez',50,72,360,say='«No van a aceptar el resultado»',cara='duda')],'rojo'),
+ ("Se refiere al PP y a Vox. Por eso pide una victoria «contundente y amplia».",[mono('s2','sanchez',28,74,300,cara='neutral'),BIG('b2','CONTUNDENTE','Y AMPLIA',y=38,fs=130)],None),
+ ("Y Abascal, en Palencia: «Necesitamos vigilar, estar atentos para que no haya ninguna trampa».",[mono('a3','abascal',50,72,360,say='«Que no haya ninguna trampa»',cara='enfado')],'rojo'),
+ ("Vox está en alerta con el voto desde el extranjero.",[mono('a4','abascal',72,74,300,cara='neutral'),P('e4','emo',x=30,y=40,w=220,text='✈️')],'dia'),
+ ("O sea: uno avisa de que el otro no aceptará el resultado. El otro pide vigilar el voto. Y todavía no ha votado nadie.",[mono('s5','sanchez',26,72,280,cara='duda'),mono('a5','abascal',74,72,280,cara='duda'),BIG('b5','0 VOTOS','AÚN',color='gold',y=36,fs=150)],'duelo')],
+ '2026-11-24T20:00:00+01:00','¿Te fías del recuento?','¿Y si *no aceptan*?','SÁNCHEZ VS ABASCAL','Moncloa.com (24-11, entrevista RNE), Estrella Digital (24-11)','#sanchez #abascal #29N',dias='cinco',
+ fin_bg='noche',fin_txt='¿Tú te fías del recuento? Dímelo abajo. Y el jueves, debate a cuatro aquí.',fin_show=[BIG('bF','¿TE FÍAS?','',color='gold',y=40,fs=190),P('eF','emo',x=50,y=70,w=220,text='🤔')])
+json.dump(V,open('/tmp/claude-0/scr/v24.json','w'),ensure_ascii=False)
+print(json.dumps(list(V.values()),ensure_ascii=False))
