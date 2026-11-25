@@ -2,25 +2,41 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 45,
-  "media_count": 180,
+  "media_count": 181,
   "id": "29046307255021601"
  },
  "reels": [
   {
+   "id": "slp_180_correo_hoy",
+   "ig": "18124108720995159",
+   "fecha": "2026-11-25T08:00:32+0000",
+   "likes": 0,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DgKDPw9BxYq/",
+   "titulo": "Voto por correo: es hoy 👀\n\nSi pediste el voto por correo y t",
+   "views": 0,
+   "reach": 0,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
+  {
    "id": "slp_179_voto_soria",
    "ig": "17923218345246261",
    "fecha": "2026-11-24T22:00:33+0000",
-   "likes": 1,
+   "likes": 2,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgI-lWqFdwQ/",
    "titulo": "Tu voto no vale igual 👀\n\nTu voto no vale lo mismo en Soria q",
-   "views": 130,
-   "reach": 120,
+   "views": 132,
+   "reach": 122,
    "saved": 1,
    "shares": 0,
-   "total_interactions": 2,
-   "ig_reels_avg_watch_time": 8870,
-   "ig_reels_video_view_total_time": 1046743
+   "total_interactions": 3,
+   "ig_reels_avg_watch_time": 9012,
+   "ig_reels_video_view_total_time": 1090482
   },
   {
    "id": "slp_193_no_aceptaran",
@@ -30,13 +46,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgIp--MCIQ4/",
    "titulo": "¿Y si no aceptan? 👀\n\nFaltan cinco días para votar. Y ya se e",
-   "views": 146,
-   "reach": 115,
+   "views": 149,
+   "reach": 117,
    "saved": 0,
    "shares": 0,
    "total_interactions": 3,
-   "ig_reels_avg_watch_time": 14132,
-   "ig_reels_video_view_total_time": 1611052
+   "ig_reels_avg_watch_time": 13824,
+   "ig_reels_video_view_total_time": 1617508
   },
   {
    "id": "slp_192_intxaurrondo",
@@ -46,13 +62,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgIVdyCDKFH/",
    "titulo": "Expediente por preguntar 👀\n\n«No voy a renunciar a mis pregun",
-   "views": 132,
-   "reach": 123,
+   "views": 133,
+   "reach": 124,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 9995,
-   "ig_reels_video_view_total_time": 1199419
+   "ig_reels_avg_watch_time": 9925,
+   "ig_reels_video_view_total_time": 1201024
   },
   {
    "id": "slp_025_donde_voto",
@@ -94,13 +110,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgHbBAbDtG3/",
    "titulo": "«Mil fallos» 👀\n\nQuería entrevistar a los cuatro candidatos e",
-   "views": 130,
-   "reach": 115,
+   "views": 131,
+   "reach": 116,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 7842,
-   "ig_reels_video_view_total_time": 909757
+   "ig_reels_avg_watch_time": 7799,
+   "ig_reels_video_view_total_time": 912592
   },
   {
    "id": "?",
@@ -110,7 +126,7 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgHQt1mjNbP/",
    "titulo": "«Llegué agotado» 👀\n\nJordi Wild dice que, si hubiera entrevis",
-   "views": 1374,
+   "views": 1375,
    "reach": 1220,
    "saved": 0,
    "shares": 1,
@@ -158,13 +174,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgGq81hlTVv/",
    "titulo": "El ranking de Wild 👀\n\nJordi Wild ha entrevistado a Sánchez, ",
-   "views": 1456,
-   "reach": 1279,
+   "views": 1457,
+   "reach": 1282,
    "saved": 0,
    "shares": 0,
    "total_interactions": 6,
-   "ig_reels_avg_watch_time": 15800,
-   "ig_reels_video_view_total_time": 20318846
+   "ig_reels_avg_watch_time": 15790,
+   "ig_reels_video_view_total_time": 20322866
   },
   {
    "id": "slp_189_wild_psoe_pp",
@@ -478,13 +494,13 @@
    "comentarios": 4,
    "url": "https://www.instagram.com/reel/DgAEIcZkYKW/",
    "titulo": "La canción de la campaña 👀\n\nUna frase del PP contra Sánchez ",
-   "views": 373,
-   "reach": 314,
+   "views": 377,
+   "reach": 315,
    "saved": 0,
    "shares": 0,
    "total_interactions": 7,
-   "ig_reels_avg_watch_time": 36185,
-   "ig_reels_video_view_total_time": 11579383
+   "ig_reels_avg_watch_time": 36087,
+   "ig_reels_video_view_total_time": 11584078
   },
   {
    "id": "slp_166_paradoja_encuesta",
@@ -1589,22 +1605,6 @@
    "total_interactions": 22,
    "ig_reels_avg_watch_time": 13409,
    "ig_reels_video_view_total_time": 15676120
-  },
-  {
-   "id": "slp_097_wild_silla_vacia",
-   "ig": "18111124190191985",
-   "fecha": "2026-11-12T18:45:32+0000",
-   "likes": 6,
-   "comentarios": 3,
-   "url": "https://www.instagram.com/reel/DfpuuV4jY7O/",
-   "titulo": "¿Quién sale peor parado mañana con Jordi Wild? Comenta el no",
-   "views": 1367,
-   "reach": 1143,
-   "saved": 1,
-   "shares": 0,
-   "total_interactions": 11,
-   "ig_reels_avg_watch_time": 13433,
-   "ig_reels_video_view_total_time": 15260509
   }
  ]
 }
