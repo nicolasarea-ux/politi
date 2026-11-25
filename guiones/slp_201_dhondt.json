@@ -1,0 +1,418 @@
+{
+ "id": "slp_201_dhondt",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: LOREG (arts. 162 y 163) y La Moncloa, guía del 29-N"
+ },
+ "caption": "Tu voto vale 0 👀\n\nTu partido saca el diez por ciento de los votos en tu provincia. ¿Cuántos escaños gana? Puede que ninguno. Es la ley D'Hondt. Imagina una provincia que reparte cinco escaños. Cuatro partidos: cuarenta, treinta, veinte y diez mil votos. Se dividen entre uno, entre dos, entre tres… Y los cinco números más altos se llevan escaño. Resultado: dos, dos, uno… y cero para el que sacó el diez por ciento. Y por debajo del tres por ciento en tu provincia, ni entras en el reparto.\n\n👇 ¿Cambiarías la ley D'Hondt? Comenta sí o no.\n⏳ Quedan dos días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: LOREG (arts. 162 y 163) y La Moncloa, guía del 29-N\n#elecciones #29N #espana #politica #dhondt #leyelectoral #escaños",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "Tu voto *vale 0*",
+  "mini": {
+   "rojo": "D'HONDT"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Tu partido saca el diez por ciento de los votos en tu provincia. ¿Cuántos escaños gana? Puede que ninguno.",
+     "show": [
+      {
+       "id": "b0",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "10 % = 0",
+       "text": "ESCAÑOS",
+       "color": "red",
+       "fs": 170,
+       "in": "zoom"
+      },
+      {
+       "id": "x0",
+       "type": "prop",
+       "kind": "xmark",
+       "x": 50,
+       "y": 66,
+       "w": 300,
+       "at": 3,
+       "in": "left"
+      },
+      {
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 5,
+       "text": "📊",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k0_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 85,
+       "y": 26,
+       "w": 160,
+       "at": 9,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "right"
+      },
+      {
+       "id": "k0_2",
+       "type": "prop",
+       "kind": "emo",
+       "x": 14,
+       "y": 89,
+       "w": 160,
+       "at": 12,
+       "text": "📍",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k0_3",
+       "type": "prop",
+       "kind": "emo",
+       "x": 86,
+       "y": 88,
+       "w": 160,
+       "at": 14,
+       "text": "💺",
+       "fs": 110,
+       "in": "right"
+      }
+     ],
+     "hide": [],
+     "bg": "rojo"
+    },
+    {
+     "text": "Es la ley D'Hondt. Imagina una provincia que reparte cinco escaños.",
+     "show": [
+      {
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "5",
+       "text": "ESCAÑOS",
+       "color": "gold",
+       "fs": 200,
+       "in": "left"
+      },
+      {
+       "id": "u1",
+       "type": "prop",
+       "kind": "urna",
+       "x": 50,
+       "y": 72,
+       "w": 300,
+       "at": 3,
+       "in": "down"
+      },
+      {
+       "id": "k1_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 6,
+       "text": "📍",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k1_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 85,
+       "y": 26,
+       "w": 160,
+       "at": 10,
+       "text": "💺",
+       "fs": 110,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "b0",
+      "x0",
+      "k0_0",
+      "k0_1",
+      "k0_2",
+      "k0_3"
+     ],
+     "bg": "noche"
+    },
+    {
+     "text": "Cuatro partidos: cuarenta, treinta, veinte y diez mil votos.",
+     "show": [
+      {
+       "id": "br2",
+       "type": "prop",
+       "kind": "barras",
+       "x": 50,
+       "y": 50,
+       "w": 940,
+       "at": 0,
+       "bars": [
+        {
+         "l": "A",
+         "v": 40,
+         "c": "#1D84CE"
+        },
+        {
+         "l": "B",
+         "v": 30,
+         "c": "#E1251B"
+        },
+        {
+         "l": "C",
+         "v": 20,
+         "c": "#5DAA2B"
+        },
+        {
+         "l": "D",
+         "v": 10,
+         "c": "#9B59B6"
+        }
+       ],
+       "t0": 0,
+       "t1": 0,
+       "lab": "",
+       "in": "right"
+      },
+      {
+       "id": "k2_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 8,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "b1",
+      "u1",
+      "k1_0",
+      "k1_1"
+     ]
+    },
+    {
+     "text": "Se dividen entre uno, entre dos, entre tres… Y los cinco números más altos se llevan escaño.",
+     "show": [
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "÷1 ÷2 ÷3",
+       "text": "",
+       "color": "",
+       "fs": 150,
+       "in": "zoom"
+      },
+      {
+       "id": "md3",
+       "type": "prop",
+       "kind": "medida",
+       "x": 50,
+       "y": 68,
+       "w": 960,
+       "at": 3,
+       "l1": "LOS 5 MÁS ALTOS",
+       "l2": "GANAN ESCAÑO",
+       "f": 1,
+       "in": "left"
+      },
+      {
+       "id": "k3_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 16,
+       "text": "💺",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "br2",
+      "k2_0"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Resultado: dos, dos, uno… y cero para el que sacó el diez por ciento.",
+     "show": [
+      {
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 44,
+       "w": 1000,
+       "at": 0,
+       "n": "2 · 2 · 1 · 0",
+       "text": "A · B · C · D",
+       "color": "gold",
+       "fs": 150,
+       "in": "left"
+      },
+      {
+       "id": "k4_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 12,
+       "text": "📊",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "b3",
+      "md3",
+      "k3_0"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Y por debajo del tres por ciento en tu provincia, ni entras en el reparto.",
+     "show": [
+      {
+       "id": "b5",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 42,
+       "w": 1000,
+       "at": 0,
+       "n": "3 %",
+       "text": "BARRERA",
+       "color": "red",
+       "fs": 200,
+       "in": "right"
+      },
+      {
+       "id": "s5",
+       "type": "stamp",
+       "text": "FUERA",
+       "color": "red",
+       "x": 50,
+       "y": 68,
+       "rot": -8,
+       "at": 3,
+       "in": "zoom"
+      },
+      {
+       "id": "k5_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 5,
+       "text": "📊",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k5_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 85,
+       "y": 26,
+       "w": 160,
+       "at": 9,
+       "text": "📍",
+       "fs": 110,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "b4",
+      "k4_0"
+     ],
+     "bg": "duelo"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "noche",
+     "text": "¿Cambiarías la ley D'Hondt? Comenta sí o no. Síguenos: quedan dos días.",
+     "show": [
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿LA CAMBIARÍAS?",
+       "text": "",
+       "color": "gold",
+       "fs": 130
+      },
+      {
+       "id": "eF",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 70,
+       "w": 220,
+       "at": 0,
+       "text": "🗳️"
+      }
+     ],
+     "hide": [
+      "b5",
+      "s5",
+      "k5_0",
+      "k5_1"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-27T14:00:00+01:00",
+ "estilo": "cine"
+}

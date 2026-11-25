@@ -1,0 +1,325 @@
+{
+ "id": "slp_202_recuento",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: La Moncloa, guía básica del 29-N (6-11-2026) y LOREG (arts. 95-97 y 103)"
+ },
+ "caption": "¿Se puede hacer trampa? 👀\n\n¿Se puede hacer trampa al contar los votos el domingo? Mira cómo se cuentan. A las ocho se cierra la votación. Y se cuenta allí mismo, en la mesa. El presidente saca los sobres uno a uno y lee cada papeleta en voz alta. Y la enseña a vocales, interventores y apoderados de los partidos. Si alguien protesta, la mesa decide por mayoría. Y todo va a un acta, con copia para los partidos. Lo de esa noche es provisional. El oficial lo hacen las Juntas Electorales Provinciales, del cuatro al siete de diciembre.\n\n👇 ¿Has visto alguna vez un recuento? Comenta sí o no.\n⏳ Quedan dos días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: La Moncloa, guía básica del 29-N (6-11-2026) y LOREG (arts. 95-97 y 103)\n#elecciones #29N #espana #politica #recuento #mesaelectoral #votar",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "¿Se puede *hacer trampa*?",
+  "mini": {
+   "rojo": "RECUENTO"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Se puede hacer trampa al contar los votos el domingo? Mira cómo se cuentan.",
+     "show": [
+      {
+       "id": "b0",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 36,
+       "w": 1000,
+       "at": 0,
+       "n": "¿TRAMPA?",
+       "text": "",
+       "color": "red",
+       "fs": 155,
+       "in": "zoom"
+      },
+      {
+       "id": "u0",
+       "type": "prop",
+       "kind": "urna",
+       "x": 50,
+       "y": 66,
+       "w": 380,
+       "at": 3,
+       "in": "left"
+      },
+      {
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 7,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [],
+     "bg": "rojo"
+    },
+    {
+     "text": "A las ocho se cierra la votación. Y se cuenta allí mismo, en la mesa.",
+     "show": [
+      {
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 42,
+       "w": 1000,
+       "at": 0,
+       "n": "20:00",
+       "text": "FIN DE LA VOTACIÓN",
+       "color": "gold",
+       "fs": 190,
+       "in": "left"
+      },
+      {
+       "id": "k1_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 6,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "b0",
+      "u0",
+      "k0_0"
+     ],
+     "bg": "noche"
+    },
+    {
+     "text": "El presidente saca los sobres uno a uno y lee cada papeleta en voz alta.",
+     "show": [
+      {
+       "id": "u2",
+       "type": "prop",
+       "kind": "urna",
+       "x": 50,
+       "y": 60,
+       "w": 420,
+       "at": 0,
+       "in": "right"
+      },
+      {
+       "id": "m2",
+       "type": "mono",
+       "who": "tu",
+       "x": 22,
+       "y": 80,
+       "w": 220,
+       "at": 3,
+       "habla": false,
+       "cara": "sorpresa",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "k2_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 11,
+       "text": "📄",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "b1",
+      "k1_0"
+     ]
+    },
+    {
+     "text": "Y la enseña a vocales, interventores y apoderados de los partidos.",
+     "show": [
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 44,
+       "w": 1000,
+       "at": 0,
+       "n": "👀",
+       "text": "TODOS MIRAN",
+       "color": "",
+       "fs": 200,
+       "in": "zoom"
+      },
+      {
+       "id": "k3_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 10,
+       "text": "🎯",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "u2",
+      "m2",
+      "k2_0"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Si alguien protesta, la mesa decide por mayoría. Y todo va a un acta, con copia para los partidos.",
+     "show": [
+      {
+       "id": "d4",
+       "type": "prop",
+       "kind": "doc",
+       "x": 50,
+       "y": 52,
+       "w": 520,
+       "at": 0,
+       "in": "left"
+      },
+      {
+       "id": "s4",
+       "type": "stamp",
+       "text": "ACTA",
+       "color": "red",
+       "x": 50,
+       "y": 72,
+       "rot": -8,
+       "at": 3,
+       "in": "down"
+      },
+      {
+       "id": "k4_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 18,
+       "text": "🎯",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "b3",
+      "k3_0"
+     ]
+    },
+    {
+     "text": "Lo de esa noche es provisional. El oficial lo hacen las Juntas Electorales Provinciales, del cuatro al siete de diciembre.",
+     "show": [
+      {
+       "id": "b5",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 44,
+       "w": 1000,
+       "at": 0,
+       "n": "4–7 DIC",
+       "text": "RECUENTO OFICIAL",
+       "color": "gold",
+       "fs": 160,
+       "in": "right"
+      },
+      {
+       "id": "k5_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 11,
+       "text": "⚖️",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k5_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 85,
+       "y": 26,
+       "w": 160,
+       "at": 13,
+       "text": "📍",
+       "fs": 110,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "d4",
+      "s4",
+      "k4_0"
+     ],
+     "bg": "duelo"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "noche",
+     "text": "¿Has visto alguna vez un recuento? Comenta sí o no. Síguenos: quedan dos días.",
+     "show": [
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿LO HAS VISTO?",
+       "text": "",
+       "color": "gold",
+       "fs": 100
+      },
+      {
+       "id": "eF",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 70,
+       "w": 220,
+       "at": 0,
+       "text": "🗳️"
+      }
+     ],
+     "hide": [
+      "b5",
+      "k5_0",
+      "k5_1"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-27T20:00:00+01:00",
+ "estilo": "cine"
+}

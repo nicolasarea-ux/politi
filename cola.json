@@ -2064,10 +2064,10 @@
    "id": "slp_177_coste_elecciones",
    "tipo": "atemporal",
    "formato": "monigotes",
-   "estado": "reserva",
-   "fecha": "2026-11-23T20:00",
-   "fecha_reels": "2026-11-23T20:00",
-   "nota": "estilo cine; a reserva el 23-N (sustituido por slp_184). Re-renderizar con fechaPub nuevo antes de reutilizar; 24-N: guion actualizado a «quedan tres días» y fechaPub 26-N 09:00, pero falta voz nueva: el mp3/mp4 actuales dicen «seis días»",
+   "estado": "programado",
+   "fecha": "2026-11-26T09:00",
+   "fecha_reels": "2026-11-26T09:00",
+   "nota": "estilo cine; a reserva el 23-N (sustituido por slp_184). Re-renderizar con fechaPub nuevo antes de reutilizar; 24-N: guion actualizado a «quedan tres días» y fechaPub 26-N 09:00, pero falta voz nueva: el mp3/mp4 actuales dicen «seis días» · voz Andrew y render 25-N",
    "copy": "Tu voto vale dinero 👀\n\nCuando metes tu voto en la urna, al partido que votas le pagan por él. Ochenta y un céntimos por cada voto al Congreso, si saca escaño. Y por cada diputado o senador que consigue: más de 21.000 euros. Montar unas elecciones cuesta unos 279 millones de euros. Solo Correos se lleva más de 100 millones. Y cada miembro de mesa cobra 75 euros por pasarse el día ahí. 400 millones de papeletas y más de 200.000 urnas. Para un solo domingo.\n\n👇 ¿Te parece caro? Comenta sí o no.\n⏳ Quedan tres días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Euronews (8-10-2026), con datos de Interior y Tribunal de Cuentas\n#elecciones #29N #espana #politica #elecciones #dinero"
   },
   {
@@ -2242,11 +2242,11 @@
    "tipo": "atemporal",
    "formato": "minuto",
    "estilo": "cine",
-   "estado": "sin_voz",
+   "estado": "programado",
    "fecha": "2026-11-26T14:00",
    "fecha_reels": "2026-11-26T14:00",
    "partidos": [],
-   "nota": "guion hecho 24-N; SIN VOZ (ordenador desconectado). investidura, art. 99 CE",
+   "nota": "guion hecho 24-N; SIN VOZ (ordenador desconectado). investidura, art. 99 CE · voz Andrew y render 25-N",
    "copy": "¿Y si nadie llega a 176? 👀\n\n¿Y si el domingo nadie llega a 176 escaños? No, no se repiten las elecciones. Todavía. Primero, el Rey consulta a los partidos y propone un candidato. Primera votación: necesita 176 síes. Mayoría absoluta. Si no los tiene, cuarenta y ocho horas después, otra. Ahí basta con más síes que noes. Si tampoco sale, empieza a correr un reloj de dos meses. Y si en dos meses nadie es investido, el Rey disuelve las Cortes. Elecciones otra vez.\n\n👇 ¿Habrá repetición electoral? Comenta sí o no.\n⏳ Quedan tres días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Constitución Española, art. 99 (BOE)\n#elecciones #29N #espana #politica #investidura #congreso #constitucion"
   },
   {
@@ -2254,11 +2254,11 @@
    "tipo": "atemporal",
    "formato": "minuto",
    "estilo": "cine",
-   "estado": "sin_voz",
+   "estado": "programado",
    "fecha": "2026-11-26T20:00",
    "fecha_reels": "2026-11-26T20:00",
    "partidos": [],
-   "nota": "guion hecho 24-N; SIN VOZ (ordenador desconectado). LOREG 27, 80, 143",
+   "nota": "guion hecho 24-N; SIN VOZ (ordenador desconectado). LOREG 27, 80, 143 · voz Andrew y render 25-N",
    "copy": "Te toca mesa y no vas 👀\n\n¿Te ha tocado mesa el domingo y piensas no ir? Cuidado: no es como una multa de tráfico. Si no vas sin una causa justificada, la ley electoral lo castiga como delito. Hasta un año de prisión. O una multa de seis a veinticuatro meses. Tienes que estar a las ocho de la mañana. Presidente, dos vocales y sus suplentes. A cambio, cobras setenta y cinco euros. Y si te surge una causa de fuerza mayor, avísalo y justifícalo ante la Junta Electoral de Zona.\n\n👇 ¿Te ha tocado alguna vez? Comenta sí o no.\n⏳ Quedan tres días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: LOREG, arts. 27, 80 y 143 (BOE); dieta de 75 €: Ministerio del Interior\n#elecciones #29N #espana #politica #mesaelectoral #29N #votar"
   },
   {
@@ -2266,11 +2266,11 @@
    "tipo": "atemporal",
    "formato": "minuto",
    "estilo": "cine",
-   "estado": "sin_voz",
+   "estado": "programado",
    "fecha": "2026-11-26T23:00",
    "fecha_reels": "2026-11-26T23:00",
    "partidos": [],
-   "nota": "guion hecho 24-N; SIN VOZ (ordenador desconectado). LOREG 51, 53, 69.7",
+   "nota": "guion hecho 24-N; SIN VOZ (ordenador desconectado). LOREG 51, 53, 69.7 · voz Andrew y render 25-N",
    "copy": "El sábado, silencio 👀\n\nDesde el viernes a medianoche, los partidos ya no pueden pedirte el voto. Ni uno. Se acaba la campaña: ni mítines, ni actos, ni propaganda electoral. El sábado es la jornada de reflexión. Un día entero sin campaña. Y las encuestas ya no se pueden publicar desde este martes. Hasta que cierren los colegios el domingo. La prohibición es para la campaña. Tú puedes seguir hablando de política con quien quieras.\n\n👇 ¿Sirve de algo la jornada de reflexión? Comenta sí o no.\n⏳ Quedan tres días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: LOREG, arts. 51, 53 y 69.7 (BOE)\n#elecciones #29N #espana #politica #jornadadereflexion #29N #votar"
   },
   {
@@ -2316,6 +2316,78 @@
    "fecha_reels": "2026-11-25T17:00",
    "nota": "v4: tema caliente + CTA compartir",
    "copy": "La guerra de TikTok 👀\n\nSánchez tiene en TikTok cuatro veces más seguidores que su propio partido. Él: un millón trescientos mil. El PSOE: trescientos veinticinco mil. En Vox pasa al revés. La cuenta del partido suma casi cincuenta y cinco millones de visualizaciones. La de Abascal, la mitad. ¿Y la reina de las visualizaciones? Irene Montero. Veinticuatro veces más que Podemos. Y el PP ha ido más lejos: un vídeo con IA que pone voces de Begoña Gómez, Ábalos y Zapatero diciendo cosas que nunca dijeron. Begoña Gómez lo ha denunciado. Esta campaña no se juega solo en los mítines. Se juega en tu móvil. Y eso que estás viendo ahora… también cuenta.\n\n👇 ¿Qué cuenta de político sigues tú?\n⏳ Quedan cuatro días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Euronews (25-11-2026)\n#elecciones #29N #espana #politica #tiktok #sanchez #vox #montero"
+  },
+  {
+   "id": "slp_200_sueldo_diputado",
+   "tipo": "atemporal",
+   "formato": "minuto",
+   "estilo": "cine",
+   "serie": "29-N",
+   "tema": "Sueldo de un diputado 2026: 3.366,99 € + indemnización 2.162,85/1.032,38 €, complementos, paga por cese",
+   "partidos": [],
+   "fuentes": [
+    "https://www.congreso.es/es/cem/regecodip",
+    "https://www.esdiario.com/nacional/261005/199461/adelanto-sanchez-cierra-nomina-congreso-sueldos-complementos-e-indemnizaciones.html"
+   ],
+   "estado": "programado",
+   "fecha": "2026-11-27T09:00",
+   "fecha_reels": "2026-11-27T09:00",
+   "copy": "¿Cuánto cobra? 👀\n\n¿Cuánto va a cobrar cada uno de los 350 diputados que elijas el domingo? Sueldo base: 3.366 euros brutos al mes. Lo llaman asignación constitucional. Pero hay más. Si no es de Madrid, suma 2.162 euros al mes para gastos. Y sin pagar impuestos por ellos. Los elegidos por Madrid, 1.032. ¿Portavoz de grupo? Unos 3.200 euros más. ¿Presidente del Congreso? Casi 11.000 extra. Y al irse pueden pedir una paga: un mes por año de mandato, hasta veinticuatro.\n\n👇 ¿Cobran demasiado? Comenta sí o no.\n⏳ Quedan dos días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Congreso de los Diputados (régimen económico 2026) y ESdiario (5-10-2026)\n#elecciones #29N #espana #politica #congreso #diputados #sueldos",
+   "nota": "voz Andrew y render 25-N"
+  },
+  {
+   "id": "slp_201_dhondt",
+   "tipo": "atemporal",
+   "formato": "minuto",
+   "estilo": "cine",
+   "serie": "29-N",
+   "tema": "D'Hondt con ejemplo de 5 escaños (40/30/20/10 mil → 2/2/1/0) y barrera del 3 % por provincia",
+   "partidos": [],
+   "fuentes": [
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1985-11672",
+    "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/interior/paginas/guia-dudas-elecciones-generales-29n.aspx"
+   ],
+   "estado": "programado",
+   "fecha": "2026-11-27T14:00",
+   "fecha_reels": "2026-11-27T14:00",
+   "copy": "Tu voto vale 0 👀\n\nTu partido saca el diez por ciento de los votos en tu provincia. ¿Cuántos escaños gana? Puede que ninguno. Es la ley D'Hondt. Imagina una provincia que reparte cinco escaños. Cuatro partidos: cuarenta, treinta, veinte y diez mil votos. Se dividen entre uno, entre dos, entre tres… Y los cinco números más altos se llevan escaño. Resultado: dos, dos, uno… y cero para el que sacó el diez por ciento. Y por debajo del tres por ciento en tu provincia, ni entras en el reparto.\n\n👇 ¿Cambiarías la ley D'Hondt? Comenta sí o no.\n⏳ Quedan dos días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: LOREG (arts. 162 y 163) y La Moncloa, guía del 29-N\n#elecciones #29N #espana #politica #dhondt #leyelectoral #escaños",
+   "nota": "voz Andrew y render 25-N"
+  },
+  {
+   "id": "slp_202_recuento",
+   "tipo": "atemporal",
+   "formato": "minuto",
+   "estilo": "cine",
+   "serie": "29-N",
+   "tema": "Cómo se cuentan los votos en la mesa y escrutinio general 4-7 dic",
+   "partidos": [],
+   "fuentes": [
+    "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/interior/paginas/guia-dudas-elecciones-generales-29n.aspx",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1985-11672"
+   ],
+   "estado": "programado",
+   "fecha": "2026-11-27T20:00",
+   "fecha_reels": "2026-11-27T20:00",
+   "copy": "¿Se puede hacer trampa? 👀\n\n¿Se puede hacer trampa al contar los votos el domingo? Mira cómo se cuentan. A las ocho se cierra la votación. Y se cuenta allí mismo, en la mesa. El presidente saca los sobres uno a uno y lee cada papeleta en voz alta. Y la enseña a vocales, interventores y apoderados de los partidos. Si alguien protesta, la mesa decide por mayoría. Y todo va a un acta, con copia para los partidos. Lo de esa noche es provisional. El oficial lo hacen las Juntas Electorales Provinciales, del cuatro al siete de diciembre.\n\n👇 ¿Has visto alguna vez un recuento? Comenta sí o no.\n⏳ Quedan dos días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: La Moncloa, guía básica del 29-N (6-11-2026) y LOREG (arts. 95-97 y 103)\n#elecciones #29N #espana #politica #recuento #mesaelectoral #votar",
+   "nota": "voz Andrew y render 25-N"
+  },
+  {
+   "id": "slp_203_cuando_gobierno",
+   "tipo": "atemporal",
+   "formato": "minuto",
+   "estilo": "cine",
+   "serie": "29-N",
+   "tema": "Calendario tras el 29-N: escrutinio 4-7 dic, Cortes 23-D 10:00, consultas, investidura, Gobierno en funciones",
+   "partidos": [],
+   "fuentes": [
+    "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/interior/paginas/guia-dudas-elecciones-generales-29n.aspx",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+   ],
+   "estado": "programado",
+   "fecha": "2026-11-27T23:00",
+   "fecha_reels": "2026-11-27T23:00",
+   "copy": "¿Cuándo hay Gobierno? 👀\n\nVotas el domingo. ¿Cuándo hay nuevo presidente? Spoiler: el lunes no. Domingo: se vota de nueve de la mañana a ocho de la tarde. Esa noche, recuento provisional. Del cuatro al siete de diciembre, las Juntas Electorales hacen el recuento oficial. El veintitrés de diciembre, a las diez, se constituyen el Congreso y el Senado. Después, el Rey consulta a los partidos y propone un candidato. Y solo entonces, la investidura. Y mientras tanto, desde el lunes, el Gobierno de Sánchez sigue, pero en funciones.\n\n👇 ¿Habrá Gobierno antes de Reyes? Comenta sí o no.\n⏳ Quedan dos días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: La Moncloa, guía básica del 29-N (6-11-2026) y Constitución (arts. 99 y 101)\n#elecciones #29N #espana #politica #investidura #gobierno #calendario",
+   "nota": "voz Andrew y render 25-N"
   }
  ]
 }

@@ -1,0 +1,380 @@
+{
+ "id": "slp_200_sueldo_diputado",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: Congreso de los Diputados (régimen económico 2026) y ESdiario (5-10-2026)"
+ },
+ "caption": "¿Cuánto cobra? 👀\n\n¿Cuánto va a cobrar cada uno de los 350 diputados que elijas el domingo? Sueldo base: 3.366 euros brutos al mes. Lo llaman asignación constitucional. Pero hay más. Si no es de Madrid, suma 2.162 euros al mes para gastos. Y sin pagar impuestos por ellos. Los elegidos por Madrid, 1.032. ¿Portavoz de grupo? Unos 3.200 euros más. ¿Presidente del Congreso? Casi 11.000 extra. Y al irse pueden pedir una paga: un mes por año de mandato, hasta veinticuatro.\n\n👇 ¿Cobran demasiado? Comenta sí o no.\n⏳ Quedan dos días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Congreso de los Diputados (régimen económico 2026) y ESdiario (5-10-2026)\n#elecciones #29N #espana #politica #congreso #diputados #sueldos",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "¿Cuánto *cobra*?",
+  "mini": {
+   "rojo": "SUELDO"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Cuánto va a cobrar cada uno de los 350 diputados que elijas el domingo?",
+     "show": [
+      {
+       "id": "b0",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 34,
+       "w": 1000,
+       "at": 0,
+       "n": "350",
+       "text": "DIPUTADOS",
+       "color": "gold",
+       "fs": 190,
+       "in": "zoom"
+      },
+      {
+       "id": "e0",
+       "type": "prop",
+       "kind": "edificio",
+       "x": 50,
+       "y": 64,
+       "w": 640,
+       "at": 3,
+       "luz": true,
+       "in": "left"
+      },
+      {
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "chip",
+       "x": 15,
+       "y": 25,
+       "w": 360,
+       "at": 8,
+       "in": "left",
+       "text": "350",
+       "c": "",
+       "rot": -6
+      }
+     ],
+     "hide": [],
+     "bg": "noche"
+    },
+    {
+     "text": "Sueldo base: 3.366 euros brutos al mes. Lo llaman asignación constitucional.",
+     "show": [
+      {
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 44,
+       "w": 1000,
+       "at": 0,
+       "n": "3.366 €",
+       "text": "AL MES, BRUTO",
+       "color": "gold",
+       "fs": 160,
+       "in": "left"
+      },
+      {
+       "id": "m1",
+       "type": "mono",
+       "who": "tu",
+       "x": 24,
+       "y": 80,
+       "w": 220,
+       "at": 3,
+       "habla": false,
+       "cara": "sorpresa",
+       "gesto": "manos",
+       "from": "left"
+      }
+     ],
+     "hide": [
+      "b0",
+      "e0",
+      "k0_0"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Pero hay más. Si no es de Madrid, suma 2.162 euros al mes para gastos. Y sin pagar impuestos por ellos.",
+     "show": [
+      {
+       "id": "b2",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "+2.162 €",
+       "text": "GASTOS",
+       "color": "",
+       "fs": 150,
+       "in": "right"
+      },
+      {
+       "id": "s2",
+       "type": "stamp",
+       "text": "SIN IRPF",
+       "color": "red",
+       "x": 50,
+       "y": 66,
+       "rot": -8,
+       "at": 3,
+       "in": "zoom"
+      },
+      {
+       "id": "k2_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 7,
+       "text": "📍",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k2_1",
+       "type": "prop",
+       "kind": "chip",
+       "x": 85,
+       "y": 26,
+       "w": 360,
+       "at": 9,
+       "in": "right",
+       "text": "2.162 EUROS",
+       "c": "w",
+       "rot": 5
+      },
+      {
+       "id": "k2_2",
+       "type": "prop",
+       "kind": "emo",
+       "x": 14,
+       "y": 89,
+       "w": 160,
+       "at": 10,
+       "text": "💶",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "b1",
+      "m1"
+     ]
+    },
+    {
+     "text": "Los elegidos por Madrid, 1.032.",
+     "show": [
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 46,
+       "w": 1000,
+       "at": 0,
+       "n": "+1.032 €",
+       "text": "SI ES DE MADRID",
+       "color": "",
+       "fs": 150,
+       "in": "zoom"
+      },
+      {
+       "id": "k3_0",
+       "type": "prop",
+       "kind": "chip",
+       "x": 15,
+       "y": 25,
+       "w": 360,
+       "at": 4,
+       "in": "left",
+       "text": "1.032",
+       "c": "",
+       "rot": -6
+      }
+     ],
+     "hide": [
+      "b2",
+      "s2",
+      "k2_0",
+      "k2_1",
+      "k2_2"
+     ]
+    },
+    {
+     "text": "¿Portavoz de grupo? Unos 3.200 euros más. ¿Presidente del Congreso? Casi 11.000 extra.",
+     "show": [
+      {
+       "id": "br4",
+       "type": "prop",
+       "kind": "barras",
+       "x": 50,
+       "y": 52,
+       "w": 940,
+       "at": 0,
+       "bars": [
+        {
+         "l": "BASE",
+         "v": 3.4,
+         "c": "#C8F53C"
+        },
+        {
+         "l": "PORTAVOZ",
+         "v": 6.6,
+         "c": "#1D84CE"
+        },
+        {
+         "l": "PRESID.",
+         "v": 14.3,
+         "c": "#D7263D"
+        }
+       ],
+       "t0": 0,
+       "t1": 0,
+       "lab": "",
+       "in": "left"
+      },
+      {
+       "id": "k4_0",
+       "type": "prop",
+       "kind": "chip",
+       "x": 15,
+       "y": 25,
+       "w": 360,
+       "at": 4,
+       "in": "left",
+       "text": "3.200 EUROS",
+       "c": "",
+       "rot": -6
+      },
+      {
+       "id": "k4_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 85,
+       "y": 26,
+       "w": 160,
+       "at": 5,
+       "text": "💶",
+       "fs": 110,
+       "in": "right"
+      },
+      {
+       "id": "k4_2",
+       "type": "prop",
+       "kind": "emo",
+       "x": 14,
+       "y": 89,
+       "w": 160,
+       "at": 7,
+       "text": "👑",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k4_3",
+       "type": "prop",
+       "kind": "emo",
+       "x": 86,
+       "y": 88,
+       "w": 160,
+       "at": 9,
+       "text": "🏛️",
+       "fs": 110,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "b3",
+      "k3_0"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Y al irse pueden pedir una paga: un mes por año de mandato, hasta veinticuatro.",
+     "show": [
+      {
+       "id": "b5",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 44,
+       "w": 1000,
+       "at": 0,
+       "n": "24",
+       "text": "MESES MÁXIMO",
+       "color": "red",
+       "fs": 190,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "br4",
+      "k4_0",
+      "k4_1",
+      "k4_2",
+      "k4_3"
+     ],
+     "bg": "duelo"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "noche",
+     "text": "¿Cobran demasiado? Comenta sí o no. Síguenos: quedan dos días.",
+     "show": [
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿DEMASIADO?",
+       "text": "",
+       "color": "gold",
+       "fs": 120
+      },
+      {
+       "id": "eF",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 70,
+       "w": 220,
+       "at": 0,
+       "text": "💰"
+      }
+     ],
+     "hide": [
+      "b5"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-27T09:00:00+01:00",
+ "estilo": "cine"
+}

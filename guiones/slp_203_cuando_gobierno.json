@@ -1,0 +1,315 @@
+{
+ "id": "slp_203_cuando_gobierno",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: La Moncloa, guía básica del 29-N (6-11-2026) y Constitución (arts. 99 y 101)"
+ },
+ "caption": "¿Cuándo hay Gobierno? 👀\n\nVotas el domingo. ¿Cuándo hay nuevo presidente? Spoiler: el lunes no. Domingo: se vota de nueve de la mañana a ocho de la tarde. Esa noche, recuento provisional. Del cuatro al siete de diciembre, las Juntas Electorales hacen el recuento oficial. El veintitrés de diciembre, a las diez, se constituyen el Congreso y el Senado. Después, el Rey consulta a los partidos y propone un candidato. Y solo entonces, la investidura. Y mientras tanto, desde el lunes, el Gobierno de Sánchez sigue, pero en funciones.\n\n👇 ¿Habrá Gobierno antes de Reyes? Comenta sí o no.\n⏳ Quedan dos días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: La Moncloa, guía básica del 29-N (6-11-2026) y Constitución (arts. 99 y 101)\n#elecciones #29N #espana #politica #investidura #gobierno #calendario",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "¿Cuándo hay *Gobierno*?",
+  "mini": {
+   "rojo": "CALENDARIO"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Votas el domingo. ¿Cuándo hay nuevo presidente? Spoiler: el lunes no.",
+     "show": [
+      {
+       "id": "b0",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 38,
+       "w": 1000,
+       "at": 0,
+       "n": "¿CUÁNDO?",
+       "text": "",
+       "color": "gold",
+       "fs": 150,
+       "in": "zoom"
+      },
+      {
+       "id": "x0",
+       "type": "prop",
+       "kind": "xmark",
+       "x": 50,
+       "y": 66,
+       "w": 260,
+       "at": 3,
+       "in": "left"
+      },
+      {
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 6,
+       "text": "👑",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [],
+     "bg": "noche"
+    },
+    {
+     "text": "Domingo: se vota de nueve de la mañana a ocho de la tarde. Esa noche, recuento provisional.",
+     "show": [
+      {
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 42,
+       "w": 1000,
+       "at": 0,
+       "n": "9:00–20:00",
+       "text": "DOMINGO 29",
+       "color": "",
+       "fs": 120,
+       "in": "left"
+      },
+      {
+       "id": "u1",
+       "type": "prop",
+       "kind": "urna",
+       "x": 50,
+       "y": 70,
+       "w": 280,
+       "at": 3,
+       "in": "down"
+      },
+      {
+       "id": "k1_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 7,
+       "text": "⏰",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "b0",
+      "x0",
+      "k0_0"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Del cuatro al siete de diciembre, las Juntas Electorales hacen el recuento oficial.",
+     "show": [
+      {
+       "id": "b2",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 44,
+       "w": 1000,
+       "at": 0,
+       "n": "4–7 DIC",
+       "text": "RECUENTO OFICIAL",
+       "color": "gold",
+       "fs": 160,
+       "in": "right"
+      },
+      {
+       "id": "k2_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 7,
+       "text": "⚖️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "b1",
+      "u1",
+      "k1_0"
+     ]
+    },
+    {
+     "text": "El veintitrés de diciembre, a las diez, se constituyen el Congreso y el Senado.",
+     "show": [
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 32,
+       "w": 1000,
+       "at": 0,
+       "n": "23 DIC",
+       "text": "10:00",
+       "color": "gold",
+       "fs": 150,
+       "in": "up"
+      },
+      {
+       "id": "e3",
+       "type": "prop",
+       "kind": "edificio",
+       "x": 50,
+       "y": 62,
+       "w": 600,
+       "at": 3,
+       "luz": true,
+       "in": "left"
+      },
+      {
+       "id": "k3_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 10,
+       "text": "🏛️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "b2",
+      "k2_0"
+     ],
+     "bg": "noche"
+    },
+    {
+     "text": "Después, el Rey consulta a los partidos y propone un candidato. Y solo entonces, la investidura.",
+     "show": [
+      {
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "👑",
+       "text": "RONDA DE CONSULTAS",
+       "color": "",
+       "fs": 200,
+       "in": "left"
+      },
+      {
+       "id": "k4_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 6,
+       "text": "🎯",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "b3",
+      "e3",
+      "k3_0"
+     ]
+    },
+    {
+     "text": "Y mientras tanto, desde el lunes, el Gobierno de Sánchez sigue, pero en funciones.",
+     "show": [
+      {
+       "id": "m5",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 72,
+       "w": 340,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "s5",
+       "type": "stamp",
+       "text": "EN FUNCIONES",
+       "color": "red",
+       "x": 50,
+       "y": 34,
+       "rot": -8,
+       "at": 3,
+       "in": "zoom"
+      }
+     ],
+     "hide": [
+      "b4",
+      "k4_0"
+     ],
+     "bg": "duelo"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "noche",
+     "text": "¿Habrá Gobierno antes de Reyes? Comenta sí o no. Síguenos: quedan dos días.",
+     "show": [
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿ANTES",
+       "text": "DE REYES?",
+       "color": "gold",
+       "fs": 170
+      },
+      {
+       "id": "eF",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 70,
+       "w": 220,
+       "at": 0,
+       "text": "👑"
+      }
+     ],
+     "hide": [
+      "m5",
+      "s5"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-27T23:00:00+01:00",
+ "estilo": "cine"
+}
