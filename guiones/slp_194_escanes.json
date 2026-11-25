@@ -1,0 +1,401 @@
+{
+ "id": "slp_194_escanes",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: Bilbao Hiria (25-11-2026)"
+ },
+ "caption": "Le amenazan por su voto 👀\n\nUna influencer dice a quién va a votar. Y después abre los mensajes. Laura Escanes anunció en TikTok que votará al PSOE. Con un baile y una canción hecha con IA. Sánchez lo comentó: «¡Vamos, chicos!». Y luego llegaron los mensajes privados. Ella los ha publicado: deseos de muerte, y hasta uno contra su hija. A quienes la criticaban ya les había dicho: «Se me lincha por decir que apoyo a un partido progresista». Y no ha sido la única famosa en mojarse. María Pombo apoyó un post que llamaba a los votantes del PSOE «un par de escalones por debajo de la mayoría de edad intelectual y ética». Opinar, criticar, discrepar: vale. Pero amenazar a alguien por decir a quién vota…\n\n👇 Mándaselo a alguien que diga que «la política no le afecta».\n⏳ Quedan cuatro días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Bilbao Hiria (25-11-2026)\n#elecciones #29N #espana #politica #lauraescanes #29N #redes",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "Le *amenazan* por su voto",
+  "mini": {
+   "rojo": "AMENAZAS"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Una influencer dice a quién va a votar. Y después abre los mensajes.",
+     "show": [
+      {
+       "id": "e0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 46,
+       "w": 300,
+       "at": 0,
+       "text": "📱",
+       "fs": 330,
+       "in": "zoom"
+      },
+      {
+       "id": "b0",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 74,
+       "w": 1000,
+       "at": 3,
+       "n": "«BUENOS DÍAS, SUPONGO»",
+       "text": "",
+       "color": "gold",
+       "fs": 90,
+       "in": "down"
+      },
+      {
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 7,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [],
+     "bg": "noche"
+    },
+    {
+     "text": "Laura Escanes anunció en TikTok que votará al PSOE. Con un baile y una canción hecha con IA.",
+     "show": [
+      {
+       "id": "e1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 30,
+       "y": 40,
+       "w": 240,
+       "at": 0,
+       "text": "🎵",
+       "fs": 264,
+       "in": "left"
+      },
+      {
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 62,
+       "w": 1000,
+       "at": 3,
+       "n": "PSOE",
+       "text": "SU VOTO",
+       "color": "",
+       "fs": 170,
+       "in": "right"
+      },
+      {
+       "id": "k1_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 4,
+       "text": "📱",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k1_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 85,
+       "y": 26,
+       "w": 160,
+       "at": 6,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "right"
+      },
+      {
+       "id": "k1_2",
+       "type": "prop",
+       "kind": "emo",
+       "x": 14,
+       "y": 89,
+       "w": 160,
+       "at": 14,
+       "text": "🎵",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k1_3",
+       "type": "prop",
+       "kind": "emo",
+       "x": 86,
+       "y": 88,
+       "w": 160,
+       "at": 17,
+       "text": "🤖",
+       "fs": 110,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "e0",
+      "b0",
+      "k0_0"
+     ]
+    },
+    {
+     "text": "Sánchez lo comentó: «¡Vamos, chicos!».",
+     "show": [
+      {
+       "id": "s2",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "risa",
+       "say": "«¡Vamos, chicos!»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "e1",
+      "b1",
+      "k1_0",
+      "k1_1",
+      "k1_2",
+      "k1_3"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Y luego llegaron los mensajes privados. Ella los ha publicado: deseos de muerte, y hasta uno contra su hija.",
+     "show": [
+      {
+       "id": "e3",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 40,
+       "w": 280,
+       "at": 0,
+       "text": "⚠️",
+       "fs": 308,
+       "in": "zoom"
+      },
+      {
+       "id": "s3",
+       "type": "stamp",
+       "text": "AMENAZAS",
+       "color": "red",
+       "x": 50,
+       "y": 70,
+       "rot": -8,
+       "at": 3,
+       "in": "down"
+      }
+     ],
+     "hide": [
+      "s2"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "A quienes la criticaban ya les había dicho: «Se me lincha por decir que apoyo a un partido progresista».",
+     "show": [
+      {
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 46,
+       "w": 1000,
+       "at": 0,
+       "n": "«SE ME LINCHA»",
+       "text": "",
+       "color": "gold",
+       "fs": 130,
+       "in": "left"
+      },
+      {
+       "id": "k4_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 17,
+       "text": "🎯",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "e3",
+      "s3"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Y no ha sido la única famosa en mojarse. María Pombo apoyó un post que llamaba a los votantes del PSOE «un par de escalones por debajo de la mayoría de edad intelectual y ética».",
+     "show": [
+      {
+       "id": "e5",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 44,
+       "w": 260,
+       "at": 0,
+       "text": "🔥",
+       "fs": 286,
+       "in": "right"
+      },
+      {
+       "id": "b5",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 70,
+       "w": 1000,
+       "at": 3,
+       "n": "INFLUENCERS",
+       "text": "EN CAMPAÑA",
+       "color": "",
+       "fs": 140,
+       "in": "down"
+      },
+      {
+       "id": "k5_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 18,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "b4",
+      "k4_0"
+     ],
+     "bg": "duelo"
+    },
+    {
+     "text": "Opinar, criticar, discrepar: vale. Pero amenazar a alguien por decir a quién vota…",
+     "show": [
+      {
+       "id": "x6",
+       "type": "prop",
+       "kind": "xmark",
+       "x": 50,
+       "y": 46,
+       "w": 420,
+       "at": 0,
+       "in": "zoom"
+      },
+      {
+       "id": "b6",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 76,
+       "w": 1000,
+       "at": 3,
+       "n": "¿HASTA AQUÍ?",
+       "text": "",
+       "color": "gold",
+       "fs": 130,
+       "in": "down"
+      },
+      {
+       "id": "k6_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 12,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "e5",
+      "b5",
+      "k5_0"
+     ],
+     "bg": "noche"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "noche",
+     "text": "Mándaselo a quien diga que la política no va con él. Y síguenos: el jueves, debate a cuatro en directo.",
+     "show": [
+      {
+       "id": "eF",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 40,
+       "w": 300,
+       "at": 0,
+       "text": "📤",
+       "fs": 330
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 66,
+       "w": 1000,
+       "at": 0,
+       "n": "MÁNDASELO",
+       "text": "A QUIEN LO NECESITE",
+       "color": "gold",
+       "fs": 140
+      }
+     ],
+     "hide": [
+      "x6",
+      "b6",
+      "k6_0"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-25T14:00:00+01:00",
+ "estilo": "cine"
+}

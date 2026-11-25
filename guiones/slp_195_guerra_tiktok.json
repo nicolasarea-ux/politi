@@ -1,0 +1,330 @@
+{
+ "id": "slp_195_guerra_tiktok",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: Euronews (25-11-2026)"
+ },
+ "caption": "La guerra de TikTok 👀\n\nSánchez tiene en TikTok cuatro veces más seguidores que su propio partido. Él: un millón trescientos mil. El PSOE: trescientos veinticinco mil. En Vox pasa al revés. La cuenta del partido suma casi cincuenta y cinco millones de visualizaciones. La de Abascal, la mitad. ¿Y la reina de las visualizaciones? Irene Montero. Veinticuatro veces más que Podemos. Y el PP ha ido más lejos: un vídeo con IA que pone voces de Begoña Gómez, Ábalos y Zapatero diciendo cosas que nunca dijeron. Begoña Gómez lo ha denunciado. Esta campaña no se juega solo en los mítines. Se juega en tu móvil. Y eso que estás viendo ahora… también cuenta.\n\n👇 ¿Qué cuenta de político sigues tú?\n⏳ Quedan cuatro días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Euronews (25-11-2026)\n#elecciones #29N #espana #politica #tiktok #sanchez #vox #montero",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "La guerra de *TikTok*",
+  "mini": {
+   "rojo": "×24"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Sánchez tiene en TikTok cuatro veces más seguidores que su propio partido.",
+     "show": [
+      {
+       "id": "b0",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 46,
+       "w": 1000,
+       "at": 0,
+       "n": "×4",
+       "text": "SÁNCHEZ VS PSOE EN TIKTOK",
+       "color": "gold",
+       "fs": 220,
+       "in": "zoom"
+      },
+      {
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 11,
+       "text": "🎯",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [],
+     "bg": "noche"
+    },
+    {
+     "text": "Él: un millón trescientos mil. El PSOE: trescientos veinticinco mil.",
+     "show": [
+      {
+       "id": "s1",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 30,
+       "y": 72,
+       "w": 280,
+       "at": 0,
+       "habla": false,
+       "cara": "risa",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 34,
+       "w": 1000,
+       "at": 3,
+       "n": "1,3 M",
+       "text": "",
+       "color": "",
+       "fs": 150,
+       "in": "right"
+      },
+      {
+       "id": "b1b",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 56,
+       "w": 1000,
+       "at": 3,
+       "n": "325.000",
+       "text": "PSOE",
+       "color": "",
+       "fs": 110,
+       "in": "zoom"
+      }
+     ],
+     "hide": [
+      "b0",
+      "k0_0"
+     ]
+    },
+    {
+     "text": "En Vox pasa al revés. La cuenta del partido suma casi cincuenta y cinco millones de visualizaciones. La de Abascal, la mitad.",
+     "show": [
+      {
+       "id": "a2",
+       "type": "mono",
+       "who": "abascal",
+       "x": 70,
+       "y": 72,
+       "w": 280,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "b2",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 34,
+       "w": 1000,
+       "at": 3,
+       "n": "54,8 M",
+       "text": "VOX",
+       "color": "gold",
+       "fs": 140,
+       "in": "zoom"
+      },
+      {
+       "id": "k2_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 8,
+       "text": "🎯",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "s1",
+      "b1",
+      "b1b"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "¿Y la reina de las visualizaciones? Irene Montero. Veinticuatro veces más que Podemos.",
+     "show": [
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 46,
+       "w": 1000,
+       "at": 0,
+       "n": "×24",
+       "text": "MONTERO VS PODEMOS",
+       "color": "gold",
+       "fs": 220,
+       "in": "zoom"
+      }
+     ],
+     "hide": [
+      "a2",
+      "b2",
+      "k2_0"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Y el PP ha ido más lejos: un vídeo con IA que pone voces de Begoña Gómez, Ábalos y Zapatero diciendo cosas que nunca dijeron.",
+     "show": [
+      {
+       "id": "e4",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 40,
+       "w": 300,
+       "at": 0,
+       "text": "🤖",
+       "fs": 330,
+       "in": "left"
+      },
+      {
+       "id": "s4",
+       "type": "stamp",
+       "text": "IA",
+       "color": "red",
+       "x": 50,
+       "y": 68,
+       "rot": -8,
+       "at": 3,
+       "in": "right"
+      },
+      {
+       "id": "k4_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 10,
+       "text": "🤖",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "b3"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Begoña Gómez lo ha denunciado.",
+     "show": [
+      {
+       "id": "s5",
+       "type": "stamp",
+       "text": "DENUNCIA",
+       "color": "red",
+       "x": 50,
+       "y": 50,
+       "rot": -8,
+       "at": 0,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "e4",
+      "s4",
+      "k4_0"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Esta campaña no se juega solo en los mítines. Se juega en tu móvil. Y eso que estás viendo ahora… también cuenta.",
+     "show": [
+      {
+       "id": "e6",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 46,
+       "w": 320,
+       "at": 0,
+       "text": "📱",
+       "fs": 352,
+       "in": "zoom"
+      },
+      {
+       "id": "k6_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 13,
+       "text": "📱",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "s5"
+     ],
+     "bg": "noche"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "duelo",
+     "text": "Si te ha sorprendido, compártelo. Y mañana, debate a cuatro en directo aquí.",
+     "show": [
+      {
+       "id": "eF",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 40,
+       "w": 300,
+       "at": 0,
+       "text": "📤",
+       "fs": 330
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 64,
+       "w": 1000,
+       "at": 0,
+       "n": "COMPÁRTELO",
+       "text": "",
+       "color": "gold",
+       "fs": 150
+      }
+     ],
+     "hide": [
+      "e6",
+      "k6_0"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-25T17:00:00+01:00",
+ "estilo": "cine"
+}

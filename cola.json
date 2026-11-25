@@ -2104,7 +2104,7 @@
    "id": "slp_181_quien_colau",
    "tipo": "actualidad",
    "formato": "monigotes",
-   "estado": "programado",
+   "estado": "reserva",
    "fecha": "2026-11-25T14:00",
    "fecha_reels": "2026-11-25T14:00",
    "nota": "Entrevistas Wild 13-N; citas transcritas de YouTube; voz ElevenLabs",
@@ -2294,6 +2294,28 @@
    "fecha_reels": "2026-11-24T20:00",
    "nota": "Guion v4 hablado, intro/final variables",
    "copy": "¿Y si no aceptan? 👀\n\nFaltan cinco días para votar. Y ya se está hablando de lo que pasará… después. Sánchez, hoy en RNE: «No van a aceptar el resultado electoral y eso es muy grave». Se refiere al PP y a Vox. Por eso pide una victoria «contundente y amplia». Y Abascal, en Palencia: «Necesitamos vigilar, estar atentos para que no haya ninguna trampa». Vox está en alerta con el voto desde el extranjero. O sea: uno avisa de que el otro no aceptará el resultado. El otro pide vigilar el voto. Y todavía no ha votado nadie.\n\n👇 ¿Te fías del recuento?\n⏳ Quedan cinco días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Moncloa.com (24-11, entrevista RNE), Estrella Digital (24-11)\n#elecciones #29N #espana #politica #sanchez #abascal #29N"
+  },
+  {
+   "id": "slp_194_escanes",
+   "tipo": "actualidad",
+   "formato": "cine",
+   "estilo": "cine",
+   "estado": "programado",
+   "fecha": "2026-11-25T14:00",
+   "fecha_reels": "2026-11-25T14:00",
+   "nota": "v4: tema caliente + CTA compartir",
+   "copy": "Le amenazan por su voto 👀\n\nUna influencer dice a quién va a votar. Y después abre los mensajes. Laura Escanes anunció en TikTok que votará al PSOE. Con un baile y una canción hecha con IA. Sánchez lo comentó: «¡Vamos, chicos!». Y luego llegaron los mensajes privados. Ella los ha publicado: deseos de muerte, y hasta uno contra su hija. A quienes la criticaban ya les había dicho: «Se me lincha por decir que apoyo a un partido progresista». Y no ha sido la única famosa en mojarse. María Pombo apoyó un post que llamaba a los votantes del PSOE «un par de escalones por debajo de la mayoría de edad intelectual y ética». Opinar, criticar, discrepar: vale. Pero amenazar a alguien por decir a quién vota…\n\n👇 Mándaselo a alguien que diga que «la política no le afecta».\n⏳ Quedan cuatro días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Bilbao Hiria (25-11-2026)\n#elecciones #29N #espana #politica #lauraescanes #29N #redes"
+  },
+  {
+   "id": "slp_195_guerra_tiktok",
+   "tipo": "actualidad",
+   "formato": "cine",
+   "estilo": "cine",
+   "estado": "programado",
+   "fecha": "2026-11-25T17:00",
+   "fecha_reels": "2026-11-25T17:00",
+   "nota": "v4: tema caliente + CTA compartir",
+   "copy": "La guerra de TikTok 👀\n\nSánchez tiene en TikTok cuatro veces más seguidores que su propio partido. Él: un millón trescientos mil. El PSOE: trescientos veinticinco mil. En Vox pasa al revés. La cuenta del partido suma casi cincuenta y cinco millones de visualizaciones. La de Abascal, la mitad. ¿Y la reina de las visualizaciones? Irene Montero. Veinticuatro veces más que Podemos. Y el PP ha ido más lejos: un vídeo con IA que pone voces de Begoña Gómez, Ábalos y Zapatero diciendo cosas que nunca dijeron. Begoña Gómez lo ha denunciado. Esta campaña no se juega solo en los mítines. Se juega en tu móvil. Y eso que estás viendo ahora… también cuenta.\n\n👇 ¿Qué cuenta de político sigues tú?\n⏳ Quedan cuatro días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Euronews (25-11-2026)\n#elecciones #29N #espana #politica #tiktok #sanchez #vox #montero"
   }
  ]
 }
