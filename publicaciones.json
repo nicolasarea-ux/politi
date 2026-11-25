@@ -1387,8 +1387,10 @@
   {
    "id": "slp_180_correo_hoy",
    "fecha": "2026-11-25T09:00",
-   "estado": "pendiente",
-   "copy": "Voto por correo: es hoy 👀\n\nSi pediste el voto por correo y todavía no lo has mandado: es hoy. Hoy, miércoles 25, es el último día para entregarlo en Correos. Lo llevas tú en persona a una oficina, con tu DNI. Y ojo: si lo pediste, el domingo ya no puedes votar en tu colegio. Si no lo mandas hoy, tu voto se pierde.\n\n👇 ¿Ya lo has mandado? Comenta sí o no.\n⏳ Quedan cuatro días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: LOREG art. 73; Correos\n#elecciones #29N #espana #politica #votoporcorreo #29N"
+   "estado": "publicado",
+   "copy": "Voto por correo: es hoy 👀\n\nSi pediste el voto por correo y todavía no lo has mandado: es hoy. Hoy, miércoles 25, es el último día para entregarlo en Correos. Lo llevas tú en persona a una oficina, con tu DNI. Y ojo: si lo pediste, el domingo ya no puedes votar en tu colegio. Si no lo mandas hoy, tu voto se pierde.\n\n👇 ¿Ya lo has mandado? Comenta sí o no.\n⏳ Quedan cuatro días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: LOREG art. 73; Correos\n#elecciones #29N #espana #politica #votoporcorreo #29N",
+   "ig_media_id": "18124108720995159",
+   "publicado_en": "2026-11-25T09:00"
   },
   {
    "id": "slp_181_quien_colau",
