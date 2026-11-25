@@ -2,10 +2,58 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 45,
-  "media_count": 181,
+  "media_count": 184,
   "id": "29046307255021601"
  },
  "reels": [
+  {
+   "id": "slp_182_abascal_sanchez",
+   "ig": "18104625749419997",
+   "fecha": "2026-11-25T19:00:32+0000",
+   "likes": 1,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DgLOxoDOfGL/",
+   "titulo": "Abascal vs Sánchez 👀\n\nMañana Abascal y Sánchez estarán a uno",
+   "views": 122,
+   "reach": 96,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 1,
+   "ig_reels_avg_watch_time": 8512,
+   "ig_reels_video_view_total_time": 808719
+  },
+  {
+   "id": "slp_195_guerra_tiktok",
+   "ig": "18122017025518143",
+   "fecha": "2026-11-25T16:00:47+0000",
+   "likes": 2,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DgK6LWqhw-z/",
+   "titulo": "La guerra de TikTok 👀\n\nSánchez tiene en TikTok cuatro veces ",
+   "views": 131,
+   "reach": 118,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 2,
+   "ig_reels_avg_watch_time": 14959,
+   "ig_reels_video_view_total_time": 1780168
+  },
+  {
+   "id": "slp_194_escanes",
+   "ig": "18143991097714377",
+   "fecha": "2026-11-25T13:01:17+0000",
+   "likes": 3,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DgKlq_nSCa8/",
+   "titulo": "Le amenazan por su voto 👀\n\nUna influencer dice a quién va a ",
+   "views": 247,
+   "reach": 220,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 3,
+   "ig_reels_avg_watch_time": 14943,
+   "ig_reels_video_view_total_time": 3287554
+  },
   {
    "id": "slp_180_correo_hoy",
    "ig": "18124108720995159",
@@ -14,13 +62,13 @@
    "comentarios": 1,
    "url": "https://www.instagram.com/reel/DgKDPw9BxYq/",
    "titulo": "Voto por correo: es hoy 👀\n\nSi pediste el voto por correo y t",
-   "views": 62,
-   "reach": 58,
+   "views": 108,
+   "reach": 103,
    "saved": 0,
    "shares": 1,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 4809,
-   "ig_reels_video_view_total_time": 274119
+   "ig_reels_avg_watch_time": 4566,
+   "ig_reels_video_view_total_time": 465804
   },
   {
    "id": "slp_179_voto_soria",
@@ -30,13 +78,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgI-lWqFdwQ/",
    "titulo": "Tu voto no vale igual 👀\n\nTu voto no vale lo mismo en Soria q",
-   "views": 134,
-   "reach": 124,
+   "views": 136,
+   "reach": 126,
    "saved": 1,
    "shares": 0,
    "total_interactions": 3,
-   "ig_reels_avg_watch_time": 9193,
-   "ig_reels_video_view_total_time": 1130782
+   "ig_reels_avg_watch_time": 9008,
+   "ig_reels_video_view_total_time": 1135041
   },
   {
    "id": "slp_193_no_aceptaran",
@@ -46,13 +94,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgIp--MCIQ4/",
    "titulo": "¿Y si no aceptan? 👀\n\nFaltan cinco días para votar. Y ya se e",
-   "views": 150,
-   "reach": 119,
+   "views": 154,
+   "reach": 122,
    "saved": 0,
    "shares": 0,
    "total_interactions": 3,
-   "ig_reels_avg_watch_time": 13600,
-   "ig_reels_video_view_total_time": 1618428
+   "ig_reels_avg_watch_time": 13488,
+   "ig_reels_video_view_total_time": 1659123
   },
   {
    "id": "slp_192_intxaurrondo",
@@ -62,13 +110,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgIVdyCDKFH/",
    "titulo": "Expediente por preguntar 👀\n\n«No voy a renunciar a mis pregun",
-   "views": 133,
-   "reach": 124,
+   "views": 135,
+   "reach": 126,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 9849,
-   "ig_reels_video_view_total_time": 1201633
+   "ig_reels_avg_watch_time": 9931,
+   "ig_reels_video_view_total_time": 1241463
   },
   {
    "id": "slp_025_donde_voto",
@@ -83,8 +131,8 @@
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 4651,
-   "ig_reels_video_view_total_time": 576751
+   "ig_reels_avg_watch_time": 4623,
+   "ig_reels_video_view_total_time": 577993
   },
   {
    "id": "slp_030_veda_encuestas",
@@ -99,8 +147,8 @@
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 6981,
-   "ig_reels_video_view_total_time": 879658
+   "ig_reels_avg_watch_time": 6932,
+   "ig_reels_video_view_total_time": 880408
   },
   {
    "id": "slp_187_wild_mil_fallos",
@@ -115,8 +163,8 @@
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 7799,
-   "ig_reels_video_view_total_time": 912592
+   "ig_reels_avg_watch_time": 7743,
+   "ig_reels_video_view_total_time": 913714
   },
   {
    "id": "?",
@@ -126,13 +174,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgHQt1mjNbP/",
    "titulo": "«Llegué agotado» 👀\n\nJordi Wild dice que, si hubiera entrevis",
-   "views": 1375,
-   "reach": 1221,
+   "views": 1376,
+   "reach": 1222,
    "saved": 0,
    "shares": 1,
    "total_interactions": 13,
-   "ig_reels_avg_watch_time": 15098,
-   "ig_reels_video_view_total_time": 18299675
+   "ig_reels_avg_watch_time": 15076,
+   "ig_reels_video_view_total_time": 18302938
   },
   {
    "id": "slp_191_wild_feijoo",
@@ -142,13 +190,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgHQtyLDgqd/",
    "titulo": "«Llegué agotado» 👀\n\nJordi Wild dice que, si hubiera entrevis",
-   "views": 1388,
+   "views": 1389,
    "reach": 1193,
    "saved": 1,
    "shares": 0,
    "total_interactions": 8,
-   "ig_reels_avg_watch_time": 17275,
-   "ig_reels_video_view_total_time": 20938377
+   "ig_reels_avg_watch_time": 17268,
+   "ig_reels_video_view_total_time": 20946649
   },
   {
    "id": "slp_190_wild_sanchez",
@@ -159,7 +207,7 @@
    "url": "https://www.instagram.com/reel/DgGwGbEEY0k/",
    "titulo": "«Hasta los perros» 👀\n\nAntes de entrevistar a Sánchez, su equ",
    "views": 168,
-   "reach": 150,
+   "reach": 151,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
@@ -494,13 +542,13 @@
    "comentarios": 4,
    "url": "https://www.instagram.com/reel/DgAEIcZkYKW/",
    "titulo": "La canción de la campaña 👀\n\nUna frase del PP contra Sánchez ",
-   "views": 378,
-   "reach": 317,
+   "views": 385,
+   "reach": 324,
    "saved": 0,
    "shares": 0,
    "total_interactions": 7,
-   "ig_reels_avg_watch_time": 36284,
-   "ig_reels_video_view_total_time": 11719950
+   "ig_reels_avg_watch_time": 35611,
+   "ig_reels_video_view_total_time": 11751852
   },
   {
    "id": "slp_166_paradoja_encuesta",
@@ -1557,54 +1605,6 @@
    "total_interactions": 6,
    "ig_reels_avg_watch_time": 7341,
    "ig_reels_video_view_total_time": 1930840
-  },
-  {
-   "id": "slp_109_sanchez_abascal_sastre",
-   "ig": "17936561703408601",
-   "fecha": "2026-11-13T13:45:32+0000",
-   "likes": 25,
-   "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfrxMDvDMy0/",
-   "titulo": "¿Qué te parece? 👇\n\nAl final de la entrevista, Jordi Wild pid",
-   "views": 1686,
-   "reach": 1292,
-   "saved": 0,
-   "shares": 1,
-   "total_interactions": 26,
-   "ig_reels_avg_watch_time": 11352,
-   "ig_reels_video_view_total_time": 14666958
-  },
-  {
-   "id": "slp_100_feijoo_wild_foto",
-   "ig": "18220570087359061",
-   "fecha": "2026-11-13T12:45:32+0000",
-   "likes": 23,
-   "comentarios": 3,
-   "url": "https://www.instagram.com/reel/DfrqU0dCKz_/",
-   "titulo": "¿Te convence su respuesta? 👇\n\nJordi Wild pregunta a Feijóo (",
-   "views": 1874,
-   "reach": 1428,
-   "saved": 2,
-   "shares": 0,
-   "total_interactions": 28,
-   "ig_reels_avg_watch_time": 16910,
-   "ig_reels_video_view_total_time": 23876924
-  },
-  {
-   "id": "slp_099_colau_wild",
-   "ig": "17966433165231227",
-   "fecha": "2026-11-13T11:27:39+0000",
-   "likes": 21,
-   "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DfrhZ3_Ca7J/",
-   "titulo": "¿Te convence su respuesta? 👇\n\nAda Colau (Frente Amplio) abre",
-   "views": 1413,
-   "reach": 1175,
-   "saved": 0,
-   "shares": 1,
-   "total_interactions": 22,
-   "ig_reels_avg_watch_time": 13409,
-   "ig_reels_video_view_total_time": 15676120
   }
  ]
 }
