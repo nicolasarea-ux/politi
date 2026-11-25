@@ -1,0 +1,294 @@
+{
+ "id": "slp_202_plex_247",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: Libertad Digital y Público (25-11-2026), canal de Plex"
+ },
+ "caption": "Feijóo a 247 km/h 👀\n\nDoscientos cuarenta y siete kilómetros por hora. Y de copiloto, el candidato del PP. Plex conduce su Porsche por el Jarama. Feijóo va al lado. Hay trompos. Y Feijóo suelta: «Esta es la prueba más difícil de la campaña». Al ver el marcador: «Ya no lo seguí mirando». Y luego, medio en broma: «Bueno, yo no sabía que ibas a ir a 247». Plex le pincha: a ti también te van las emociones fuertes, «si no, no estarías aquí». ¿Su veredicto? «No he pasado miedo, pero cuidado». Y dice que ha sido el momento más intenso de toda la campaña. Más que el cara a cara con Sánchez.\n\n👇 \n⏳ Quedan cuatro días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Libertad Digital y Público (25-11-2026), canal de Plex\n#elecciones #29N #espana #politica #plex #feijoo #porsche",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "Feijóo a *247 km/h*",
+  "mini": {
+   "rojo": "FEIJÓO x PLEX"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Doscientos cuarenta y siete kilómetros por hora. Y de copiloto, el candidato del PP.",
+     "show": [
+      {
+       "id": "b0",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 42,
+       "w": 1000,
+       "at": 0,
+       "n": "247",
+       "text": "KM/H",
+       "color": "gold",
+       "fs": 240,
+       "in": "zoom"
+      },
+      {
+       "id": "e0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 72,
+       "w": 240,
+       "at": 3,
+       "text": "🏎️",
+       "fs": 264,
+       "in": "down"
+      }
+     ],
+     "hide": [],
+     "bg": "rojo"
+    },
+    {
+     "text": "Plex conduce su Porsche por el Jarama. Feijóo va al lado. Hay trompos. Y Feijóo suelta: «Esta es la prueba más difícil de la campaña».",
+     "show": [
+      {
+       "id": "f1",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "sorpresa",
+       "say": "«La prueba más difícil»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "b0",
+      "e0"
+     ],
+     "bg": "noche"
+    },
+    {
+     "text": "Al ver el marcador: «Ya no lo seguí mirando».",
+     "show": [
+      {
+       "id": "b2",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "👀",
+       "text": "",
+       "color": "",
+       "fs": 200,
+       "in": "right"
+      },
+      {
+       "id": "b2b",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 70,
+       "w": 1000,
+       "at": 3,
+       "n": "«YA NO LO SEGUÍ MIRANDO»",
+       "text": "",
+       "color": "gold",
+       "fs": 80,
+       "in": "down"
+      }
+     ],
+     "hide": [
+      "f1"
+     ]
+    },
+    {
+     "text": "Y luego, medio en broma: «Bueno, yo no sabía que ibas a ir a 247».",
+     "show": [
+      {
+       "id": "f3",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 30,
+       "y": 74,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 36,
+       "w": 1000,
+       "at": 3,
+       "n": "¿247?",
+       "text": "",
+       "color": "",
+       "fs": 170,
+       "in": "left"
+      },
+      {
+       "id": "k3_0",
+       "type": "prop",
+       "kind": "chip",
+       "x": 15,
+       "y": 25,
+       "w": 360,
+       "at": 14,
+       "in": "left",
+       "text": "247",
+       "c": "",
+       "rot": -6
+      }
+     ],
+     "hide": [
+      "b2",
+      "b2b"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Plex le pincha: a ti también te van las emociones fuertes, «si no, no estarías aquí».",
+     "show": [
+      {
+       "id": "e4",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 44,
+       "w": 280,
+       "at": 0,
+       "text": "😏",
+       "fs": 308,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "f3",
+      "b3",
+      "k3_0"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "¿Su veredicto? «No he pasado miedo, pero cuidado». Y dice que ha sido el momento más intenso de toda la campaña. Más que el cara a cara con Sánchez.",
+     "show": [
+      {
+       "id": "f5",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "risa",
+       "say": "«No he pasado miedo»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l",
+       "from": "right"
+      },
+      {
+       "id": "b5",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 30,
+       "w": 1000,
+       "at": 3,
+       "n": "💓",
+       "text": "",
+       "color": "",
+       "fs": 160,
+       "in": "up"
+      }
+     ],
+     "hide": [
+      "e4"
+     ],
+     "bg": "duelo"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "noche",
+     "text": "Mándaselo a quien conduzca como Plex. Y esta noche, debate a cuatro en directo.",
+     "show": [
+      {
+       "id": "eF",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 40,
+       "w": 300,
+       "at": 0,
+       "text": "📤",
+       "fs": 330
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 64,
+       "w": 1000,
+       "at": 0,
+       "n": "MÁNDASELO",
+       "text": "",
+       "color": "gold",
+       "fs": 130
+      }
+     ],
+     "hide": [
+      "f5",
+      "b5"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-26T08:30:00+01:00",
+ "estilo": "cine"
+}
