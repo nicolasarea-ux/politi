@@ -2064,7 +2064,7 @@
    "id": "slp_177_coste_elecciones",
    "tipo": "atemporal",
    "formato": "monigotes",
-   "estado": "programado",
+   "estado": "reserva",
    "fecha": "2026-11-26T09:00",
    "fecha_reels": "2026-11-26T09:00",
    "nota": "estilo cine; a reserva el 23-N (sustituido por slp_184). Re-renderizar con fechaPub nuevo antes de reutilizar; 24-N: guion actualizado a «quedan tres días» y fechaPub 26-N 09:00, pero falta voz nueva: el mp3/mp4 actuales dicen «seis días» · voz Andrew y render 25-N",
@@ -2266,7 +2266,7 @@
    "tipo": "atemporal",
    "formato": "minuto",
    "estilo": "cine",
-   "estado": "programado",
+   "estado": "reserva",
    "fecha": "2026-11-26T23:00",
    "fecha_reels": "2026-11-26T23:00",
    "partidos": [],
@@ -2388,6 +2388,72 @@
    "fecha_reels": "2026-11-27T23:00",
    "copy": "¿Cuándo hay Gobierno? 👀\n\nVotas el domingo. ¿Cuándo hay nuevo presidente? Spoiler: el lunes no. Domingo: se vota de nueve de la mañana a ocho de la tarde. Esa noche, recuento provisional. Del cuatro al siete de diciembre, las Juntas Electorales hacen el recuento oficial. El veintitrés de diciembre, a las diez, se constituyen el Congreso y el Senado. Después, el Rey consulta a los partidos y propone un candidato. Y solo entonces, la investidura. Y mientras tanto, desde el lunes, el Gobierno de Sánchez sigue, pero en funciones.\n\n👇 ¿Habrá Gobierno antes de Reyes? Comenta sí o no.\n⏳ Quedan dos días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: La Moncloa, guía básica del 29-N (6-11-2026) y Constitución (arts. 99 y 101)\n#elecciones #29N #espana #politica #investidura #gobierno #calendario",
    "nota": "voz Andrew y render 25-N"
+  },
+  {
+   "id": "slp_196_plex_lambo",
+   "tipo": "actualidad",
+   "formato": "cine",
+   "estilo": "cine",
+   "estado": "programado",
+   "fecha": "2026-11-25T23:30",
+   "fecha_reels": "2026-11-25T23:30",
+   "nota": "Plex x Sánchez/Feijóo, v4",
+   "copy": "«Pero si aquí hay un Lamborghini» 👀\n\nSánchez entra en casa de Plex. Ve el coche aparcado. Y suelta esto: «Coño, pero si aquí hay un Lamborghini». Plex, con retranca: «Los que te gustan». Porque Sánchez había dicho que hacían falta «más transporte público y menos Lamborghinis». Y a Plex eso le sentó mal. «¿Qué tiene que ver una cosa con la otra?», le pregunta. Y Sánchez recula: «No, y tienes razón». «Lo que quise decir fue que estupendo que la gente tenga su Lambo si quiere».\n\n👇 \n⏳ Quedan cuatro días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: elDiario.es, The Objective, Infobae, El Independiente (25-11-2026), canal de Plex\n#elecciones #29N #espana #politica #plex #sanchez #lamborghini"
+  },
+  {
+   "id": "slp_197_plex_farsante",
+   "tipo": "actualidad",
+   "formato": "cine",
+   "estilo": "cine",
+   "estado": "programado",
+   "fecha": "2026-11-26T00:05",
+   "fecha_reels": "2026-11-26T00:05",
+   "nota": "Plex x Sánchez/Feijóo, v4",
+   "copy": "«Anatomía de un farsante» 👀\n\n¿Te acuerdas de cuando a Feijóo le cortaron el micro en pleno Congreso? Ahora, por fin, ha explicado qué quería decir. Fue en noviembre del año pasado. Quiso soltar una frase preparada contra Sánchez, se trabó… y se quedó sin tiempo. Ahora, con Plex, lo cuenta: «No me fijé en el contador y yo quería decir Anatomía de un farsante». Sánchez aprovechó aquel día para decir que, entre sus virtudes, «no está el de ser un buen parlamentario». La entrevista la grabaron en el circuito del Jarama. Con Feijóo subido al Porsche de Plex. Un año después, el lapsus sigue persiguiéndole. Pero esta vez lo ha contado él.\n\n👇 \n⏳ Quedan cuatro días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: El Independiente (25-11-2026), Infobae (26-11-2025), canal de Plex\n#elecciones #29N #espana #politica #plex #feijoo #farsante"
+  },
+  {
+   "id": "slp_198_plex_andorra",
+   "tipo": "actualidad",
+   "formato": "cine",
+   "estilo": "cine",
+   "estado": "programado",
+   "fecha": "2026-11-26T00:40",
+   "fecha_reels": "2026-11-26T00:40",
+   "nota": "Plex x Sánchez/Feijóo, v4",
+   "copy": "«Andorra, de vacaciones» 👀\n\nPlex tiene quince millones de suscriptores. Podría irse a Andorra. Y no lo ha hecho. Y Sánchez se lo agradece: «Soy muy fan de Andorra, pero de vacaciones, no para vivir». Su argumento: «Si el triunfo y el éxito lo logran en España principalmente, pues es bueno quedarse aquí y pagar impuestos». Y le echa un piropo: «Dice mucho de ti el que digas: no solamente pago impuestos, sino que los quiero pagar aquí en España». Pero Plex no se lo compra del todo: cree que «los impuestos a veces no están bien utilizados». O sea: los dos de acuerdo en pagar aquí. En qué se hace con ese dinero… ya no tanto.\n\n👇 \n⏳ Quedan cuatro días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: elDiario.es, The Objective, Infobae, El Independiente (25-11-2026), canal de Plex\n#elecciones #29N #espana #politica #plex #sanchez #andorra #impuestos"
+  },
+  {
+   "id": "slp_199_plex_lambo_porsche",
+   "tipo": "actualidad",
+   "formato": "cine",
+   "estilo": "cine",
+   "estado": "programado",
+   "fecha": "2026-11-26T07:00",
+   "fecha_reels": "2026-11-26T07:00",
+   "nota": "Plex x Sánchez/Feijóo, v4",
+   "copy": "Lambo vs Porsche 👀\n\nUn Lamborghini. Un Porsche. Y los dos candidatos a presidente, en casa del mismo youtuber. Plex: veinticuatro años, quince millones de suscriptores. Y la noche antes del debate, sus dos entrevistas, una detrás de otra. Sánchez fue a su casa de la sierra. Y empezó con el Lamborghini aparcado en la puerta. Feijóo fue al circuito del Jarama. Casco puesto, y vueltas en el Porsche de Plex. Ni mitin, ni atril, ni debate. Lo que buscan los dos es lo mismo: tu voto, si tienes menos de treinta. Y Plex dice que no quiere decirte a quién votar. Solo enseñarte cómo son cuando se apagan las cámaras de la tele.\n\n👇 \n⏳ Quedan cuatro días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: El Independiente, Demócrata, Hola (24/25-11-2026)\n#elecciones #29N #espana #politica #plex #sanchez #feijoo"
+  },
+  {
+   "id": "slp_200_plex_sanchez_personal",
+   "tipo": "actualidad",
+   "formato": "cine",
+   "estilo": "cine",
+   "estado": "programado",
+   "fecha": "2026-11-26T07:45",
+   "fecha_reels": "2026-11-26T07:45",
+   "nota": "Plex x Sánchez/Feijóo, v4",
+   "copy": "Sánchez, sin corbata 👀\n\nEn 2011 Pedro Sánchez se quedó fuera del Congreso. Y con Plex ha contado quién sostuvo a su familia. «Ella fue la que sostuvo la familia entonces». Habla de Begoña Gómez. Más cosas que no sabías: hace ciclismo de enduro. Y con el casco puesto, dice, nadie le reconoce. Plex le explica el GTA seis. Y Sánchez pregunta: «¿No da un poco de miedo que no haya reglas, que puedas ser lo que quieras y hacer lo que quieras?». Y sobre la política, una confesión: le da pena que los jóvenes piensen que sus políticos «lo único que hacen es discutir». Curioso, dicho por alguien que esta noche se sube a un debate a cuatro.\n\n👇 \n⏳ Quedan cuatro días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: elDiario.es, The Objective, Infobae, El Independiente (25-11-2026), canal de Plex\n#elecciones #29N #espana #politica #plex #sanchez #gta"
+  },
+  {
+   "id": "slp_201_plex_desafeccion",
+   "tipo": "actualidad",
+   "formato": "cine",
+   "estilo": "cine",
+   "estado": "programado",
+   "fecha": "2026-11-26T09:15",
+   "fecha_reels": "2026-11-26T09:15",
+   "nota": "Plex x Sánchez/Feijóo, v4",
+   "copy": "Plex, sin filtro 👀\n\nUn youtuber de veinticuatro años le dice al presidente lo que muchos jóvenes piensan. Y no se corta. Sobre la DANA, Plex le reprocha que los partidos «se echaran las culpas unos a otros». Sánchez, sobre las broncas políticas, dice que la democracia «también es el contraste de posiciones». «Es sano que haya unos que defiendan una cosa, otros que defiendan otra». Pero admite: «Lo malo es que después de esa discusión no se pueda llegar a un acuerdo». Y Plex lo remata: hay que contribuir, sí, pero «los impuestos a veces no están bien utilizados». Quince millones de suscriptores escuchando a uno de los suyos decirle eso al presidente. Eso también es campaña.\n\n👇 \n⏳ Quedan cuatro días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: elDiario.es, The Objective, Infobae, El Independiente (25-11-2026), canal de Plex\n#elecciones #29N #espana #politica #plex #sanchez #dana"
   }
  ]
 }

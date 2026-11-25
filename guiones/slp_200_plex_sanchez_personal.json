@@ -1,0 +1,277 @@
+{
+ "id": "slp_200_plex_sanchez_personal",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: elDiario.es, The Objective, Infobae, El Independiente (25-11-2026), canal de Plex"
+ },
+ "caption": "Sánchez, sin corbata 👀\n\nEn 2011 Pedro Sánchez se quedó fuera del Congreso. Y con Plex ha contado quién sostuvo a su familia. «Ella fue la que sostuvo la familia entonces». Habla de Begoña Gómez. Más cosas que no sabías: hace ciclismo de enduro. Y con el casco puesto, dice, nadie le reconoce. Plex le explica el GTA seis. Y Sánchez pregunta: «¿No da un poco de miedo que no haya reglas, que puedas ser lo que quieras y hacer lo que quieras?». Y sobre la política, una confesión: le da pena que los jóvenes piensen que sus políticos «lo único que hacen es discutir». Curioso, dicho por alguien que esta noche se sube a un debate a cuatro.\n\n👇 \n⏳ Quedan cuatro días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: elDiario.es, The Objective, Infobae, El Independiente (25-11-2026), canal de Plex\n#elecciones #29N #espana #politica #plex #sanchez #gta",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "Sánchez, sin *corbata*",
+  "mini": {
+   "rojo": "SÁNCHEZ x PLEX"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "En 2011 Pedro Sánchez se quedó fuera del Congreso. Y con Plex ha contado quién sostuvo a su familia.",
+     "show": [
+      {
+       "id": "b0",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 44,
+       "w": 1000,
+       "at": 0,
+       "n": "2011",
+       "text": "FUERA DEL CONGRESO",
+       "color": "gold",
+       "fs": 190,
+       "in": "zoom"
+      },
+      {
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 8,
+       "text": "🏛️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [],
+     "bg": "noche"
+    },
+    {
+     "text": "«Ella fue la que sostuvo la familia entonces». Habla de Begoña Gómez.",
+     "show": [
+      {
+       "id": "s1",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "neutral",
+       "say": "«Ella sostuvo la familia»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "b0",
+      "k0_0"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Más cosas que no sabías: hace ciclismo de enduro. Y con el casco puesto, dice, nadie le reconoce.",
+     "show": [
+      {
+       "id": "e2",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 44,
+       "w": 320,
+       "at": 0,
+       "text": "🚵",
+       "fs": 352,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "s1"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Plex le explica el GTA seis. Y Sánchez pregunta: «¿No da un poco de miedo que no haya reglas, que puedas ser lo que quieras y hacer lo que quieras?».",
+     "show": [
+      {
+       "id": "e3",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 40,
+       "w": 280,
+       "at": 0,
+       "text": "🎮",
+       "fs": 308,
+       "in": "zoom"
+      },
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 70,
+       "w": 1000,
+       "at": 3,
+       "n": "¿SIN REGLAS?",
+       "text": "",
+       "color": "red",
+       "fs": 130,
+       "in": "down"
+      }
+     ],
+     "hide": [
+      "e2"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Y sobre la política, una confesión: le da pena que los jóvenes piensen que sus políticos «lo único que hacen es discutir».",
+     "show": [
+      {
+       "id": "s4",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 72,
+       "w": 340,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 34,
+       "w": 1000,
+       "at": 3,
+       "n": "DISCUTIR",
+       "text": "",
+       "color": "",
+       "fs": 150,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "e3",
+      "b3"
+     ]
+    },
+    {
+     "text": "Curioso, dicho por alguien que esta noche se sube a un debate a cuatro.",
+     "show": [
+      {
+       "id": "s5",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 72,
+       "w": 340,
+       "at": 0,
+       "habla": false,
+       "cara": "risa",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "e5",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 32,
+       "w": 220,
+       "at": 3,
+       "text": "🥊",
+       "fs": 242,
+       "in": "up"
+      },
+      {
+       "id": "k5_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 11,
+       "text": "🎙️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "s4",
+      "b4"
+     ],
+     "bg": "duelo"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "noche",
+     "text": "¿Te ha sorprendido algo? Compártelo. Y esta noche, debate a cuatro en directo.",
+     "show": [
+      {
+       "id": "eF",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 40,
+       "w": 300,
+       "at": 0,
+       "text": "📤",
+       "fs": 330
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 64,
+       "w": 1000,
+       "at": 0,
+       "n": "COMPÁRTELO",
+       "text": "",
+       "color": "gold",
+       "fs": 130
+      }
+     ],
+     "hide": [
+      "s5",
+      "e5",
+      "k5_0"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-26T07:45:00+01:00",
+ "estilo": "cine"
+}

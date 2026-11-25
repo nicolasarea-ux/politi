@@ -1,0 +1,401 @@
+{
+ "id": "slp_199_plex_lambo_porsche",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: El Independiente, Demócrata, Hola (24/25-11-2026)"
+ },
+ "caption": "Lambo vs Porsche 👀\n\nUn Lamborghini. Un Porsche. Y los dos candidatos a presidente, en casa del mismo youtuber. Plex: veinticuatro años, quince millones de suscriptores. Y la noche antes del debate, sus dos entrevistas, una detrás de otra. Sánchez fue a su casa de la sierra. Y empezó con el Lamborghini aparcado en la puerta. Feijóo fue al circuito del Jarama. Casco puesto, y vueltas en el Porsche de Plex. Ni mitin, ni atril, ni debate. Lo que buscan los dos es lo mismo: tu voto, si tienes menos de treinta. Y Plex dice que no quiere decirte a quién votar. Solo enseñarte cómo son cuando se apagan las cámaras de la tele.\n\n👇 \n⏳ Quedan cuatro días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: El Independiente, Demócrata, Hola (24/25-11-2026)\n#elecciones #29N #espana #politica #plex #sanchez #feijoo",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "*Lambo* vs Porsche",
+  "mini": {
+   "rojo": "PLEX"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Un Lamborghini. Un Porsche. Y los dos candidatos a presidente, en casa del mismo youtuber.",
+     "show": [
+      {
+       "id": "e0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 30,
+       "y": 40,
+       "w": 260,
+       "at": 0,
+       "text": "🏎️",
+       "fs": 286,
+       "in": "left"
+      },
+      {
+       "id": "e0b",
+       "type": "prop",
+       "kind": "emo",
+       "x": 70,
+       "y": 40,
+       "w": 260,
+       "at": 3,
+       "text": "🏁",
+       "fs": 286,
+       "in": "right"
+      },
+      {
+       "id": "b0",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 70,
+       "w": 1000,
+       "at": 3,
+       "n": "LAMBO",
+       "text": "VS PORSCHE",
+       "color": "gold",
+       "fs": 150,
+       "in": "down"
+      },
+      {
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 9,
+       "text": "👑",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k0_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 85,
+       "y": 26,
+       "w": 160,
+       "at": 11,
+       "text": "🏠",
+       "fs": 110,
+       "in": "right"
+      }
+     ],
+     "hide": [],
+     "bg": "noche"
+    },
+    {
+     "text": "Plex: veinticuatro años, quince millones de suscriptores. Y la noche antes del debate, sus dos entrevistas, una detrás de otra.",
+     "show": [
+      {
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 36,
+       "w": 1000,
+       "at": 0,
+       "n": "20:00",
+       "text": "SÁNCHEZ",
+       "color": "",
+       "fs": 150,
+       "in": "left"
+      },
+      {
+       "id": "b1b",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 60,
+       "w": 1000,
+       "at": 3,
+       "n": "21:00",
+       "text": "FEIJÓO",
+       "color": "gold",
+       "fs": 150,
+       "in": "right"
+      },
+      {
+       "id": "k1_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 12,
+       "text": "🎙️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "e0",
+      "e0b",
+      "b0",
+      "k0_0",
+      "k0_1"
+     ]
+    },
+    {
+     "text": "Sánchez fue a su casa de la sierra. Y empezó con el Lamborghini aparcado en la puerta.",
+     "show": [
+      {
+       "id": "s2",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "risa",
+       "say": "«Si aquí hay un Lamborghini»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "k2_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 4,
+       "text": "🏠",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "b1",
+      "b1b",
+      "k1_0"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Feijóo fue al circuito del Jarama. Casco puesto, y vueltas en el Porsche de Plex.",
+     "show": [
+      {
+       "id": "f3",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": false,
+       "cara": "risa",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l",
+       "from": "right"
+      },
+      {
+       "id": "e3",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 32,
+       "w": 220,
+       "at": 3,
+       "text": "🪖",
+       "fs": 242,
+       "in": "up"
+      }
+     ],
+     "hide": [
+      "s2",
+      "k2_0"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Ni mitin, ni atril, ni debate. Lo que buscan los dos es lo mismo: tu voto, si tienes menos de treinta.",
+     "show": [
+      {
+       "id": "e4",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 44,
+       "w": 300,
+       "at": 0,
+       "text": "📱",
+       "fs": 330,
+       "in": "left"
+      },
+      {
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 72,
+       "w": 1000,
+       "at": 3,
+       "n": "VOTO JOVEN",
+       "text": "",
+       "color": "gold",
+       "fs": 130,
+       "in": "down"
+      },
+      {
+       "id": "k4_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 5,
+       "text": "🎙️",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k4_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 85,
+       "y": 26,
+       "w": 160,
+       "at": 15,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "f3",
+      "e3"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Y Plex dice que no quiere decirte a quién votar. Solo enseñarte cómo son cuando se apagan las cámaras de la tele.",
+     "show": [
+      {
+       "id": "s5",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 26,
+       "y": 72,
+       "w": 280,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "f5",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 74,
+       "y": 72,
+       "w": 280,
+       "at": 3,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l",
+       "from": "right"
+      },
+      {
+       "id": "k5_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 9,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "e4",
+      "b4",
+      "k4_0",
+      "k4_1"
+     ],
+     "bg": "duelo"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "noche",
+     "text": "¿Quién salió mejor con Plex? Dímelo abajo. Y esta noche, debate a cuatro en directo.",
+     "show": [
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 34,
+       "w": 1000,
+       "at": 0,
+       "n": "¿QUIÉN SALIÓ",
+       "text": "",
+       "color": "gold",
+       "fs": 130
+      },
+      {
+       "id": "bG",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 48,
+       "w": 1000,
+       "at": 0,
+       "n": "MEJOR?",
+       "text": "",
+       "color": "",
+       "fs": 150
+      },
+      {
+       "id": "eF",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 72,
+       "w": 220,
+       "at": 0,
+       "text": "🤔",
+       "fs": 242
+      }
+     ],
+     "hide": [
+      "s5",
+      "f5",
+      "k5_0"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-26T07:00:00+01:00",
+ "estilo": "cine"
+}

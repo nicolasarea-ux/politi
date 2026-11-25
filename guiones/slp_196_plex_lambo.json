@@ -1,0 +1,275 @@
+{
+ "id": "slp_196_plex_lambo",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: elDiario.es, The Objective, Infobae, El Independiente (25-11-2026), canal de Plex"
+ },
+ "caption": "«Pero si aquí hay un Lamborghini» 👀\n\nSánchez entra en casa de Plex. Ve el coche aparcado. Y suelta esto: «Coño, pero si aquí hay un Lamborghini». Plex, con retranca: «Los que te gustan». Porque Sánchez había dicho que hacían falta «más transporte público y menos Lamborghinis». Y a Plex eso le sentó mal. «¿Qué tiene que ver una cosa con la otra?», le pregunta. Y Sánchez recula: «No, y tienes razón». «Lo que quise decir fue que estupendo que la gente tenga su Lambo si quiere».\n\n👇 \n⏳ Quedan cuatro días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: elDiario.es, The Objective, Infobae, El Independiente (25-11-2026), canal de Plex\n#elecciones #29N #espana #politica #plex #sanchez #lamborghini",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "«Pero si aquí hay un *Lamborghini*»",
+  "mini": {
+   "rojo": "SÁNCHEZ x PLEX"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Sánchez entra en casa de Plex. Ve el coche aparcado. Y suelta esto: «Coño, pero si aquí hay un Lamborghini».",
+     "show": [
+      {
+       "id": "e0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 40,
+       "w": 340,
+       "at": 0,
+       "text": "🏎️",
+       "fs": 374,
+       "in": "zoom"
+      },
+      {
+       "id": "b0",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 70,
+       "w": 1000,
+       "at": 3,
+       "n": "«PERO SI AQUÍ HAY UN LAMBORGHINI»",
+       "text": "",
+       "color": "gold",
+       "fs": 72,
+       "in": "down"
+      }
+     ],
+     "hide": [],
+     "bg": "noche"
+    },
+    {
+     "text": "Plex, con retranca: «Los que te gustan».",
+     "show": [
+      {
+       "id": "s1",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 30,
+       "y": 74,
+       "w": 280,
+       "at": 0,
+       "habla": false,
+       "cara": "risa",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 36,
+       "w": 1000,
+       "at": 3,
+       "n": "«LOS QUE TE GUSTAN»",
+       "text": "PLEX",
+       "color": "",
+       "fs": 100,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "e0",
+      "b0"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Porque Sánchez había dicho que hacían falta «más transporte público y menos Lamborghinis». Y a Plex eso le sentó mal.",
+     "show": [
+      {
+       "id": "e2",
+       "type": "prop",
+       "kind": "emo",
+       "x": 30,
+       "y": 40,
+       "w": 220,
+       "at": 0,
+       "text": "🚌",
+       "fs": 242,
+       "in": "left"
+      },
+      {
+       "id": "e2b",
+       "type": "prop",
+       "kind": "emo",
+       "x": 70,
+       "y": 40,
+       "w": 220,
+       "at": 3,
+       "text": "🏎️",
+       "fs": 242,
+       "in": "right"
+      },
+      {
+       "id": "x2",
+       "type": "prop",
+       "kind": "xmark",
+       "x": 50,
+       "y": 40,
+       "w": 420,
+       "at": 3,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "s1",
+      "b1"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "«¿Qué tiene que ver una cosa con la otra?», le pregunta.",
+     "show": [
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 46,
+       "w": 1000,
+       "at": 0,
+       "n": "¿QUÉ TIENE QUE VER?",
+       "text": "",
+       "color": "gold",
+       "fs": 120,
+       "in": "zoom"
+      }
+     ],
+     "hide": [
+      "e2",
+      "e2b",
+      "x2"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Y Sánchez recula: «No, y tienes razón».",
+     "show": [
+      {
+       "id": "s4",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "duda",
+       "say": "«Tienes razón»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "b3"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "«Lo que quise decir fue que estupendo que la gente tenga su Lambo si quiere».",
+     "show": [
+      {
+       "id": "s5",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 72,
+       "y": 74,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "risa",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "e5",
+       "type": "prop",
+       "kind": "emo",
+       "x": 28,
+       "y": 40,
+       "w": 240,
+       "at": 3,
+       "text": "✅",
+       "fs": 264,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "s4"
+     ]
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "noche",
+     "text": "Mándaselo a alguien que tenga un Lambo… o que lo sueñe. Y síguenos: mañana, debate a cuatro en directo.",
+     "show": [
+      {
+       "id": "eF",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 40,
+       "w": 300,
+       "at": 0,
+       "text": "📤",
+       "fs": 330
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 64,
+       "w": 1000,
+       "at": 0,
+       "n": "MÁNDASELO",
+       "text": "",
+       "color": "gold",
+       "fs": 130
+      }
+     ],
+     "hide": [
+      "s5",
+      "e5"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-25T23:40:00+01:00",
+ "estilo": "cine"
+}

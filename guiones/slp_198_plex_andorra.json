@@ -1,0 +1,290 @@
+{
+ "id": "slp_198_plex_andorra",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: elDiario.es, The Objective, Infobae, El Independiente (25-11-2026), canal de Plex"
+ },
+ "caption": "«Andorra, de vacaciones» 👀\n\nPlex tiene quince millones de suscriptores. Podría irse a Andorra. Y no lo ha hecho. Y Sánchez se lo agradece: «Soy muy fan de Andorra, pero de vacaciones, no para vivir». Su argumento: «Si el triunfo y el éxito lo logran en España principalmente, pues es bueno quedarse aquí y pagar impuestos». Y le echa un piropo: «Dice mucho de ti el que digas: no solamente pago impuestos, sino que los quiero pagar aquí en España». Pero Plex no se lo compra del todo: cree que «los impuestos a veces no están bien utilizados». O sea: los dos de acuerdo en pagar aquí. En qué se hace con ese dinero… ya no tanto.\n\n👇 \n⏳ Quedan cuatro días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: elDiario.es, The Objective, Infobae, El Independiente (25-11-2026), canal de Plex\n#elecciones #29N #espana #politica #plex #sanchez #andorra #impuestos",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "«Andorra, de *vacaciones*»",
+  "mini": {
+   "rojo": "SÁNCHEZ x PLEX"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Plex tiene quince millones de suscriptores. Podría irse a Andorra. Y no lo ha hecho.",
+     "show": [
+      {
+       "id": "b0",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "15 M",
+       "text": "SUSCRIPTORES",
+       "color": "gold",
+       "fs": 180,
+       "in": "zoom"
+      },
+      {
+       "id": "e0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 70,
+       "w": 200,
+       "at": 3,
+       "text": "🇦🇩",
+       "fs": 220,
+       "in": "down"
+      },
+      {
+       "id": "x0",
+       "type": "prop",
+       "kind": "xmark",
+       "x": 50,
+       "y": 70,
+       "w": 420,
+       "at": 3,
+       "in": "down"
+      }
+     ],
+     "hide": [],
+     "bg": "noche"
+    },
+    {
+     "text": "Y Sánchez se lo agradece: «Soy muy fan de Andorra, pero de vacaciones, no para vivir».",
+     "show": [
+      {
+       "id": "s1",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "risa",
+       "say": "«De vacaciones, no para vivir»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "b0",
+      "e0",
+      "x0"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Su argumento: «Si el triunfo y el éxito lo logran en España principalmente, pues es bueno quedarse aquí y pagar impuestos».",
+     "show": [
+      {
+       "id": "s2",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 28,
+       "y": 74,
+       "w": 300,
+       "at": 0,
+       "habla": false,
+       "cara": "neutral",
+       "gesto": "manos",
+       "from": "left"
+      },
+      {
+       "id": "b2",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 38,
+       "w": 1000,
+       "at": 3,
+       "n": "QUEDARSE",
+       "text": "Y PAGAR AQUÍ",
+       "color": "",
+       "fs": 140,
+       "in": "zoom"
+      }
+     ],
+     "hide": [
+      "s1"
+     ]
+    },
+    {
+     "text": "Y le echa un piropo: «Dice mucho de ti el que digas: no solamente pago impuestos, sino que los quiero pagar aquí en España».",
+     "show": [
+      {
+       "id": "e3",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 40,
+       "w": 260,
+       "at": 0,
+       "text": "💶",
+       "fs": 286,
+       "in": "zoom"
+      },
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 68,
+       "w": 1000,
+       "at": 3,
+       "n": "«DICE MUCHO DE TI»",
+       "text": "",
+       "color": "gold",
+       "fs": 100,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "s2",
+      "b2"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Pero Plex no se lo compra del todo: cree que «los impuestos a veces no están bien utilizados».",
+     "show": [
+      {
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 46,
+       "w": 1000,
+       "at": 0,
+       "n": "«NO ESTÁN BIEN UTILIZADOS»",
+       "text": "PLEX",
+       "color": "red",
+       "fs": 86,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "e3",
+      "b3"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "O sea: los dos de acuerdo en pagar aquí. En qué se hace con ese dinero… ya no tanto.",
+     "show": [
+      {
+       "id": "s5",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 72,
+       "w": 340,
+       "at": 0,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "e5",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 32,
+       "w": 220,
+       "at": 3,
+       "text": "🤷",
+       "fs": 242,
+       "in": "up"
+      },
+      {
+       "id": "k5_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 15,
+       "text": "💶",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "b4"
+     ],
+     "bg": "duelo"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "noche",
+     "text": "Mándaselo al colega que siempre dice que se va a Andorra. Y síguenos.",
+     "show": [
+      {
+       "id": "eF",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 40,
+       "w": 300,
+       "at": 0,
+       "text": "📤",
+       "fs": 330
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 64,
+       "w": 1000,
+       "at": 0,
+       "n": "MÁNDASELO",
+       "text": "",
+       "color": "gold",
+       "fs": 130
+      }
+     ],
+     "hide": [
+      "s5",
+      "e5",
+      "k5_0"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-26T01:00:00+01:00",
+ "estilo": "cine"
+}

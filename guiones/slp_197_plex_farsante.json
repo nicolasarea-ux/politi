@@ -1,0 +1,295 @@
+{
+ "id": "slp_197_plex_farsante",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: El Independiente (25-11-2026), Infobae (26-11-2025), canal de Plex"
+ },
+ "caption": "«Anatomía de un farsante» 👀\n\n¿Te acuerdas de cuando a Feijóo le cortaron el micro en pleno Congreso? Ahora, por fin, ha explicado qué quería decir. Fue en noviembre del año pasado. Quiso soltar una frase preparada contra Sánchez, se trabó… y se quedó sin tiempo. Ahora, con Plex, lo cuenta: «No me fijé en el contador y yo quería decir Anatomía de un farsante». Sánchez aprovechó aquel día para decir que, entre sus virtudes, «no está el de ser un buen parlamentario». La entrevista la grabaron en el circuito del Jarama. Con Feijóo subido al Porsche de Plex. Un año después, el lapsus sigue persiguiéndole. Pero esta vez lo ha contado él.\n\n👇 \n⏳ Quedan cuatro días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: El Independiente (25-11-2026), Infobae (26-11-2025), canal de Plex\n#elecciones #29N #espana #politica #plex #feijoo #farsante",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "«Anatomía de un *farsante*»",
+  "mini": {
+   "rojo": "FEIJÓO x PLEX"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Te acuerdas de cuando a Feijóo le cortaron el micro en pleno Congreso? Ahora, por fin, ha explicado qué quería decir.",
+     "show": [
+      {
+       "id": "f0",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 72,
+       "w": 340,
+       "at": 0,
+       "habla": false,
+       "cara": "sorpresa",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l",
+       "from": "right"
+      },
+      {
+       "id": "e0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 32,
+       "w": 240,
+       "at": 3,
+       "text": "🎙️",
+       "fs": 264,
+       "in": "up"
+      },
+      {
+       "id": "x0",
+       "type": "prop",
+       "kind": "xmark",
+       "x": 50,
+       "y": 32,
+       "w": 420,
+       "at": 3,
+       "in": "up"
+      },
+      {
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 12,
+       "text": "🏛️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [],
+     "bg": "noche"
+    },
+    {
+     "text": "Fue en noviembre del año pasado. Quiso soltar una frase preparada contra Sánchez, se trabó… y se quedó sin tiempo.",
+     "show": [
+      {
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 44,
+       "w": 1000,
+       "at": 0,
+       "n": "⏱️ 0:00",
+       "text": "",
+       "color": "red",
+       "fs": 150,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "f0",
+      "e0",
+      "x0",
+      "k0_0"
+     ],
+     "bg": "rojo"
+    },
+    {
+     "text": "Ahora, con Plex, lo cuenta: «No me fijé en el contador y yo quería decir Anatomía de un farsante».",
+     "show": [
+      {
+       "id": "f2",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": true,
+       "cara": "risa",
+       "say": "«Anatomía de un farsante»",
+       "tf": [
+        0.15,
+        1
+       ],
+       "bub": "up",
+       "bw": 600,
+       "bfs": 40,
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "b1"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Sánchez aprovechó aquel día para decir que, entre sus virtudes, «no está el de ser un buen parlamentario».",
+     "show": [
+      {
+       "id": "s3",
+       "type": "mono",
+       "who": "sanchez",
+       "x": 50,
+       "y": 72,
+       "w": 340,
+       "at": 0,
+       "habla": false,
+       "cara": "risa",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 34,
+       "w": 1000,
+       "at": 3,
+       "n": "ZASCA",
+       "text": "",
+       "color": "gold",
+       "fs": 150,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "f2"
+     ]
+    },
+    {
+     "text": "La entrevista la grabaron en el circuito del Jarama. Con Feijóo subido al Porsche de Plex.",
+     "show": [
+      {
+       "id": "e4",
+       "type": "prop",
+       "kind": "emo",
+       "x": 30,
+       "y": 40,
+       "w": 240,
+       "at": 0,
+       "text": "🏁",
+       "fs": 264,
+       "in": "left"
+      },
+      {
+       "id": "e4b",
+       "type": "prop",
+       "kind": "emo",
+       "x": 70,
+       "y": 44,
+       "w": 260,
+       "at": 3,
+       "text": "🏎️",
+       "fs": 286,
+       "in": "right"
+      },
+      {
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 70,
+       "w": 1000,
+       "at": 3,
+       "n": "JARAMA",
+       "text": "",
+       "color": "",
+       "fs": 150,
+       "in": "down"
+      }
+     ],
+     "hide": [
+      "s3",
+      "b3"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Un año después, el lapsus sigue persiguiéndole. Pero esta vez lo ha contado él.",
+     "show": [
+      {
+       "id": "f5",
+       "type": "mono",
+       "who": "feijoo",
+       "x": 50,
+       "y": 72,
+       "w": 360,
+       "at": 0,
+       "habla": false,
+       "cara": "risa",
+       "gesto": "manos",
+       "flip": true,
+       "mira": "l",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "e4",
+      "e4b",
+      "b4"
+     ],
+     "bg": "duelo"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "noche",
+     "text": "Si te acordabas del micro cortado, compártelo. Y mañana, debate a cuatro en directo aquí.",
+     "show": [
+      {
+       "id": "eF",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 40,
+       "w": 300,
+       "at": 0,
+       "text": "📤",
+       "fs": 330
+      },
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 64,
+       "w": 1000,
+       "at": 0,
+       "n": "COMPÁRTELO",
+       "text": "",
+       "color": "gold",
+       "fs": 130
+      }
+     ],
+     "hide": [
+      "f5"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-26T00:20:00+01:00",
+ "estilo": "cine"
+}
