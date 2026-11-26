@@ -1,0 +1,366 @@
+{
+ "id": "slp_207_f6_vox_alvise",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 0,
+ "clauseLabels": [
+  ""
+ ],
+ "header": {
+  "tag": "",
+  "source": "Comparador Tu Papeleta (tupapeleta.es). Fotos: Wikimedia Commons (Gage Skidmore, CC BY-SA 2.0; Parlamento Europeo)"
+ },
+ "caption": "¿Vox o Alvise? En qué se parecen y en qué no 👀\n\n¿Vox o Alvise? Te lo explico en un minuto. Se parecen mucho… pero no en todo. Según el comparador de Tu Papeleta, coinciden en veintisiete de treinta y dos temas. Los dos quieren expulsar a quien entró de forma irregular. Los dos: desalojar okupas en veinticuatro o cuarenta y ocho horas. Los dos: bajar el IRPF y eliminar el impuesto de sucesiones. Y los dos, contra la amnistía. ¿Diferencias? Pisos turísticos: Vox quiere restringirlos con fuerza. Alvise, no. Pensiones ligadas al IPC: según ese comparador, Alvise muy a favor y Vox en contra. Muy parecidos. Pero no iguales. ¿Y tú, con cuál te quedas? Te leo.\n\nFuente: Comparador Tu Papeleta (tupapeleta.es). Fotos: Wikimedia Commons (Gage Skidmore, CC BY-SA 2.0; Parlamento Europeo)\n#elecciones #29N #espana #politica #vox #alvise #salf #29N",
+ "portada": {
+  "titulo": "¿Vox o *Alvise*?",
+  "who": [
+   "abascal",
+   "alvise"
+  ]
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Vox o Alvise? Te lo explico en un minuto. Se parecen mucho… pero no en todo.",
+     "show": [
+      {
+       "tx": "¿VOX O ALVISE?",
+       "x": 50,
+       "y": 17,
+       "fs": 86,
+       "k": "tape",
+       "at": 0
+      },
+      {
+       "who": "abascal",
+       "x": 30,
+       "y": 38,
+       "w": 400,
+       "h": 460,
+       "label": "ABASCAL",
+       "rot": -5,
+       "k": "por",
+       "at": 0
+      },
+      {
+       "who": "alvise",
+       "x": 70,
+       "y": 38,
+       "w": 400,
+       "h": 460,
+       "label": "ALVISE",
+       "rot": 4,
+       "k": "por",
+       "at": 0
+      },
+      {
+       "e": "🥊",
+       "x": 50,
+       "y": 27,
+       "fs": 180,
+       "k": "emo",
+       "at": 0
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Según el comparador de Tu Papeleta, coinciden en veintisiete de treinta y dos temas.",
+     "show": [
+      {
+       "tx": "COINCIDEN EN",
+       "x": 50,
+       "y": 17,
+       "fs": 70,
+       "k": "big",
+       "at": 0
+      },
+      {
+       "tx": "27 DE 32",
+       "x": 50,
+       "y": 24,
+       "fs": 110,
+       "k": "tape",
+       "at": 0
+      },
+      {
+       "e": "🤝",
+       "x": 50,
+       "y": 45,
+       "fs": 320,
+       "k": "emo",
+       "at": 0
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Los dos quieren expulsar a quien entró de forma irregular.",
+     "show": [
+      {
+       "tx": "LOS DOS:",
+       "x": 50,
+       "y": 16,
+       "fs": 70,
+       "k": "big",
+       "at": 0
+      },
+      {
+       "tx": "INMIGRACIÓN",
+       "x": 50,
+       "y": 23,
+       "fs": 100,
+       "k": "tape",
+       "at": 0
+      },
+      {
+       "e": "🚧",
+       "x": 50,
+       "y": 45,
+       "fs": 320,
+       "k": "emo",
+       "at": 0
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Los dos: desalojar okupas en veinticuatro o cuarenta y ocho horas.",
+     "show": [
+      {
+       "tx": "LOS DOS:",
+       "x": 50,
+       "y": 16,
+       "fs": 70,
+       "k": "big",
+       "at": 0
+      },
+      {
+       "tx": "VIVIENDA",
+       "x": 50,
+       "y": 23,
+       "fs": 100,
+       "k": "tape",
+       "at": 0
+      },
+      {
+       "e": "🏠",
+       "x": 40,
+       "y": 44,
+       "fs": 280,
+       "k": "emo",
+       "at": 0
+      },
+      {
+       "e": "🔒",
+       "x": 66,
+       "y": 50,
+       "fs": 160,
+       "at": 2,
+       "k": "emo"
+      },
+      {
+       "tx": "OKUPAS: FUERA EN 24-48 H",
+       "x": 50,
+       "y": 63,
+       "fs": 56,
+       "rot": 2,
+       "k": "tape",
+       "at": 0
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Los dos: bajar el IRPF y eliminar el impuesto de sucesiones.",
+     "show": [
+      {
+       "tx": "LOS DOS:",
+       "x": 50,
+       "y": 16,
+       "fs": 70,
+       "k": "big",
+       "at": 0
+      },
+      {
+       "tx": "IMPUESTOS",
+       "x": 50,
+       "y": 23,
+       "fs": 100,
+       "k": "tape",
+       "at": 0
+      },
+      {
+       "e": "🐷",
+       "x": 38,
+       "y": 44,
+       "fs": 260,
+       "k": "emo",
+       "at": 0
+      },
+      {
+       "e": "💶",
+       "x": 66,
+       "y": 46,
+       "fs": 200,
+       "at": 3,
+       "k": "emo"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Y los dos, contra la amnistía.",
+     "show": [
+      {
+       "tx": "LOS DOS:",
+       "x": 50,
+       "y": 16,
+       "fs": 70,
+       "k": "big",
+       "at": 0
+      },
+      {
+       "tx": "AMNISTÍA",
+       "x": 50,
+       "y": 23,
+       "fs": 100,
+       "k": "tape",
+       "at": 0
+      },
+      {
+       "e": "❌",
+       "x": 50,
+       "y": 45,
+       "fs": 320,
+       "k": "emo",
+       "at": 0
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "¿Diferencias? Pisos turísticos: Vox quiere restringirlos con fuerza. Alvise, no.",
+     "show": [
+      {
+       "tx": "DIFERENCIAS",
+       "x": 50,
+       "y": 16,
+       "fs": 96,
+       "k": "tape",
+       "at": 0
+      },
+      {
+       "e": "🧳",
+       "x": 50,
+       "y": 36,
+       "fs": 240,
+       "k": "emo",
+       "at": 0
+      },
+      {
+       "tx": "VOX: RESTRINGIR",
+       "x": 50,
+       "y": 52,
+       "fs": 64,
+       "rot": -2,
+       "at": 4,
+       "k": "tape"
+      },
+      {
+       "tx": "ALVISE: NO",
+       "x": 50,
+       "y": 60,
+       "fs": 64,
+       "rot": 2,
+       "at": 8,
+       "k": "tape"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Pensiones ligadas al IPC: según ese comparador, Alvise muy a favor y Vox en contra.",
+     "show": [
+      {
+       "tx": "PENSIONES",
+       "x": 50,
+       "y": 16,
+       "fs": 96,
+       "k": "tape",
+       "at": 0
+      },
+      {
+       "e": "👵",
+       "x": 50,
+       "y": 36,
+       "fs": 240,
+       "k": "emo",
+       "at": 0
+      },
+      {
+       "tx": "ALVISE: SÍ",
+       "x": 50,
+       "y": 52,
+       "fs": 64,
+       "rot": -2,
+       "at": 6,
+       "k": "tape"
+      },
+      {
+       "tx": "VOX: NO",
+       "x": 50,
+       "y": 60,
+       "fs": 64,
+       "rot": 2,
+       "at": 9,
+       "k": "tape"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Muy parecidos. Pero no iguales. ¿Y tú, con cuál te quedas? Te leo.",
+     "show": [
+      {
+       "tx": "¿Y A TI?",
+       "x": 50,
+       "y": 17,
+       "fs": 100,
+       "k": "tape",
+       "at": 0
+      },
+      {
+       "who": "abascal",
+       "x": 30,
+       "y": 40,
+       "w": 380,
+       "h": 440,
+       "label": "ABASCAL",
+       "rot": -5,
+       "k": "por",
+       "at": 0
+      },
+      {
+       "who": "alvise",
+       "x": 70,
+       "y": 40,
+       "w": 380,
+       "h": 440,
+       "label": "ALVISE",
+       "rot": 4,
+       "k": "por",
+       "at": 0
+      }
+     ],
+     "hide": []
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-26T16:00:00+01:00",
+ "estilo": "f6"
+}

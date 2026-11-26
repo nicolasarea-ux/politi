@@ -95,7 +95,7 @@ def main(vdir):
         for g in s["segments"]:
             for e in g["show"]:
                 i = int(e["t"] * SR)
-                ty = e["type"]
+                ty = e.get("type", e.get("k"))
                 if ty == "cap":
                     w = whoosh(); w = np.concatenate([w, w[::-1]]); fx[i:i + len(w)] += 0.9 * w[:len(fx) - i]
                     th = thump(); j = i + int(0.2 * SR); fx[j:j + len(th)] += 0.6 * th[:len(fx) - j]; continue

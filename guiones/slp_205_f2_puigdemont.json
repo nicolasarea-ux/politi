@@ -1,0 +1,218 @@
+{
+ "id": "slp_205_f2_puigdemont",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 0,
+ "clauseLabels": [
+  ""
+ ],
+ "header": {
+  "tag": "",
+  "source": "Al Jazeera (6-10-2026), Demócrata (12-11-2026). Fotos: Wikimedia Commons (Parlament de Catalunya; Kent Wang, CC BY-SA 4.0)"
+ },
+ "caption": "Puigdemont vuelve tras nueve años 👀\n\nPuigdemont vuelve a España después de nueve años. ¿Por qué se fue, por qué ahora y cuándo vuelve? Uno: por qué se fue. En octubre de 2017, tras la declaración de independencia en el Parlament, se marchó a Bélgica para evitar que lo detuvieran. Y allí ha vivido estos años, en Waterloo. Dos: por qué ahora. Con la ley de amnistía, el juez Llarena levantó en octubre la orden de detención en España. Tres: cuándo vuelve. No hay fecha confirmada. Él ha dicho que no será en campaña, y se habla del doce de diciembre. Cuatro: qué pasará. El presidente del Parlament, Josep Rull, quiere darle una bienvenida oficial. ¿Y tú? ¿Crees que su vuelta cambiará algo después del 29N? Te leo en comentarios.\n\nFuente: Al Jazeera (6-10-2026), Demócrata (12-11-2026). Fotos: Wikimedia Commons (Parlament de Catalunya; Kent Wang, CC BY-SA 4.0)\n#elecciones #29N #espana #politica #puigdemont #amnistia #29N",
+ "portada": {
+  "titulo": "Puigdemont *vuelve*",
+  "who": [
+   "puigdemont"
+  ]
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Puigdemont vuelve a España después de nueve años. ¿Por qué se fue, por qué ahora y cuándo vuelve?",
+     "show": [
+      {
+       "n": 0,
+       "k": "step",
+       "at": 0
+      },
+      {
+       "who": "puigdemont",
+       "x": 50,
+       "y": 34,
+       "w": 760,
+       "h": 760,
+       "k": "por",
+       "at": 0
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Uno: por qué se fue. En octubre de 2017, tras la declaración de independencia en el Parlament,",
+     "show": [
+      {
+       "n": 1,
+       "k": "step",
+       "at": 0
+      },
+      {
+       "who": "parlament",
+       "x": 50,
+       "y": 30,
+       "w": 900,
+       "h": 560,
+       "at": 4,
+       "k": "por"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "se marchó a Bélgica para evitar que lo detuvieran. Y allí ha vivido estos años, en Waterloo.",
+     "show": [
+      {
+       "n": 1,
+       "k": "step",
+       "at": 0
+      },
+      {
+       "e": "🇧🇪",
+       "x": 30,
+       "y": 32,
+       "fs": 260,
+       "k": "emo",
+       "at": 0
+      },
+      {
+       "e": "🧳",
+       "x": 70,
+       "y": 34,
+       "fs": 240,
+       "at": 5,
+       "k": "emo"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Dos: por qué ahora. Con la ley de amnistía, el juez Llarena levantó en octubre la orden de detención en España.",
+     "show": [
+      {
+       "n": 2,
+       "k": "step",
+       "at": 0
+      },
+      {
+       "e": "📜",
+       "x": 28,
+       "y": 32,
+       "fs": 260,
+       "k": "emo",
+       "at": 0
+      },
+      {
+       "tx": "ORDEN DE DETENCIÓN",
+       "sub": "LEVANTADA · OCTUBRE 2026",
+       "x": 66,
+       "y": 34,
+       "w": 560,
+       "h": 230,
+       "fs": 66,
+       "at": 8,
+       "k": "stat"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Tres: cuándo vuelve. No hay fecha confirmada. Él ha dicho que no será en campaña, y se habla del doce de diciembre.",
+     "show": [
+      {
+       "n": 3,
+       "k": "step",
+       "at": 0
+      },
+      {
+       "title": "DICIEMBRE",
+       "lines": [
+        {
+         "a": "Fecha confirmada",
+         "b": "NO"
+        },
+        {
+         "a": "¿Durante la campaña?",
+         "b": "NO"
+        },
+        {
+         "a": "Fecha que se maneja",
+         "b": "12",
+         "hl": 1
+        }
+       ],
+       "x": 50,
+       "y": 34,
+       "w": 800,
+       "h": 420,
+       "k": "card",
+       "at": 0
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Cuatro: qué pasará. El presidente del Parlament, Josep Rull, quiere darle una bienvenida oficial.",
+     "show": [
+      {
+       "n": 4,
+       "k": "step",
+       "at": 0
+      },
+      {
+       "who": "parlament",
+       "x": 50,
+       "y": 30,
+       "w": 900,
+       "h": 560,
+       "k": "por",
+       "at": 0
+      },
+      {
+       "e": "🚪",
+       "x": 78,
+       "y": 40,
+       "fs": 220,
+       "at": 6,
+       "k": "emo"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "¿Y tú? ¿Crees que su vuelta cambiará algo después del 29N? Te leo en comentarios.",
+     "show": [
+      {
+       "n": 5,
+       "k": "step",
+       "at": 0
+      },
+      {
+       "who": "puigdemont",
+       "x": 50,
+       "y": 34,
+       "w": 620,
+       "h": 640,
+       "k": "por",
+       "at": 0
+      },
+      {
+       "tx": "¿Y TÚ?",
+       "x": 50,
+       "y": 58,
+       "fs": 130,
+       "k": "big",
+       "at": 0
+      }
+     ],
+     "hide": []
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-26T13:00:00+01:00",
+ "estilo": "f2"
+}

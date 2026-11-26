@@ -1,0 +1,411 @@
+{
+ "id": "slp_204_f1_vivienda",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 0,
+ "clauseLabels": [
+  ""
+ ],
+ "header": {
+  "tag": "",
+  "source": "Programas electorales PP, PSOE, Vox y Frente Amplio (El Cronista, Rankia, nov. 2026). Fotos: Wikimedia Commons"
+ },
+ "caption": "El domingo no eliges presidente 👀\n\nEl domingo no eliges presidente. Eliges trescientos cincuenta diputados. Hay más partidos, pero estos cuatro debaten esta noche a las diez. Y en lo que más te preocupa, la vivienda, esto es lo que promete cada uno. Feijóo, PP: construir un millón de viviendas. Y un IVA del cuatro por ciento en la primera vivienda para menores de cuarenta. Sánchez, PSOE: el uno por ciento del PIB cada año para vivienda. Abascal, Vox: IVA cero para familias españolas y prioridad nacional en vivienda y ayudas. Colau, Frente Amplio: un millón y medio de viviendas públicas en doce años. ¿Y tu nómina? El PP propone que, si tienes entre dieciocho y treinta y cinco años, no pagues IRPF. ¿Letra pequeña? Solo es el cien por cien el primer año. Luego, setenta y cinco, cincuenta y veinticinco. Esta noche, los cuatro, cara a cara. ¿Con quién te quedas? Te leo en comentarios.\n\nFuente: Programas electorales PP, PSOE, Vox y Frente Amplio (El Cronista, Rankia, nov. 2026). Fotos: Wikimedia Commons\n#elecciones #29N #espana #politica #vivienda #debate #29N",
+ "portada": {
+  "titulo": "No eliges *presidente*",
+  "who": [
+   "feijoo",
+   "sanchez",
+   "abascal",
+   "colau"
+  ],
+  "sello": "VIVIENDA"
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "El domingo no eliges presidente. Eliges trescientos cincuenta diputados.",
+     "show": [
+      {
+       "x": 50,
+       "y": 45,
+       "k": "hemi",
+       "at": 0
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Hay más partidos, pero estos cuatro debaten esta noche a las diez.",
+     "show": [
+      {
+       "tx": "DEBATE A CUATRO",
+       "sub": "JUEVES 26 · 22:00",
+       "x": 50,
+       "y": 36,
+       "fs": 120,
+       "subfs": 64,
+       "subc": "#F7D23E",
+       "k": "big",
+       "at": 0
+      },
+      {
+       "x": 50,
+       "y": 80,
+       "hl": null,
+       "k": "podios",
+       "at": 0
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Y en lo que más te preocupa, la vivienda, esto es lo que promete cada uno.",
+     "show": [
+      {
+       "x": 50,
+       "y": 80,
+       "hl": null,
+       "k": "podios",
+       "at": 0
+      },
+      {
+       "e": "🏠",
+       "x": 50,
+       "y": 38,
+       "fs": 300,
+       "k": "emo",
+       "at": 0
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Feijóo, PP: construir un millón de viviendas.",
+     "show": [
+      {
+       "who": "feijoo",
+       "x": 50,
+       "y": 40,
+       "w": 620,
+       "h": 760,
+       "label": "FEIJÓO",
+       "k": "por",
+       "at": 0
+      },
+      {
+       "tx": "PP",
+       "x": 50,
+       "y": 90,
+       "fs": 200,
+       "color": "#fff",
+       "k": "big",
+       "at": 0
+      },
+      {
+       "tx": "1.000.000",
+       "sub": "DE VIVIENDAS",
+       "x": 70,
+       "y": 50,
+       "w": 500,
+       "h": 230,
+       "fs": 80,
+       "at": 2,
+       "k": "stat"
+      },
+      {
+       "e": "🏗️",
+       "x": 20,
+       "y": 55,
+       "fs": 170,
+       "at": 2,
+       "k": "emo"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Y un IVA del cuatro por ciento en la primera vivienda para menores de cuarenta.",
+     "show": [
+      {
+       "who": "feijoo",
+       "x": 50,
+       "y": 40,
+       "w": 620,
+       "h": 760,
+       "label": "FEIJÓO",
+       "k": "por",
+       "at": 0
+      },
+      {
+       "tx": "PP",
+       "x": 50,
+       "y": 90,
+       "fs": 200,
+       "color": "#fff",
+       "k": "big",
+       "at": 0
+      },
+      {
+       "tx": "IVA 4 %",
+       "sub": "PRIMERA VIVIENDA · MENORES DE 40",
+       "x": 70,
+       "y": 50,
+       "w": 500,
+       "h": 230,
+       "fs": 100,
+       "at": 2,
+       "k": "stat"
+      },
+      {
+       "e": "🏠",
+       "x": 20,
+       "y": 55,
+       "fs": 170,
+       "at": 2,
+       "k": "emo"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Sánchez, PSOE: el uno por ciento del PIB cada año para vivienda.",
+     "show": [
+      {
+       "who": "sanchez",
+       "x": 50,
+       "y": 40,
+       "w": 620,
+       "h": 760,
+       "label": "SÁNCHEZ",
+       "k": "por",
+       "at": 0
+      },
+      {
+       "tx": "PSOE",
+       "x": 50,
+       "y": 90,
+       "fs": 200,
+       "color": "#fff",
+       "k": "big",
+       "at": 0
+      },
+      {
+       "tx": "1 % DEL PIB",
+       "sub": "CADA AÑO PARA VIVIENDA",
+       "x": 70,
+       "y": 50,
+       "w": 500,
+       "h": 230,
+       "fs": 90,
+       "at": 2,
+       "k": "stat"
+      },
+      {
+       "e": "💶",
+       "x": 20,
+       "y": 55,
+       "fs": 170,
+       "at": 2,
+       "k": "emo"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Abascal, Vox: IVA cero para familias españolas y prioridad nacional en vivienda y ayudas.",
+     "show": [
+      {
+       "who": "abascal",
+       "x": 50,
+       "y": 40,
+       "w": 620,
+       "h": 760,
+       "label": "ABASCAL",
+       "k": "por",
+       "at": 0
+      },
+      {
+       "tx": "VOX",
+       "x": 50,
+       "y": 90,
+       "fs": 200,
+       "color": "#fff",
+       "k": "big",
+       "at": 0
+      },
+      {
+       "tx": "PRIORIDAD NACIONAL",
+       "sub": "IVA 0 % · VIVIENDA Y AYUDAS",
+       "x": 70,
+       "y": 50,
+       "w": 500,
+       "h": 230,
+       "fs": 62,
+       "at": 2,
+       "k": "stat"
+      },
+      {
+       "e": "🇪🇸",
+       "x": 20,
+       "y": 55,
+       "fs": 170,
+       "at": 2,
+       "k": "emo"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Colau, Frente Amplio: un millón y medio de viviendas públicas en doce años.",
+     "show": [
+      {
+       "who": "colau",
+       "x": 50,
+       "y": 40,
+       "w": 620,
+       "h": 760,
+       "label": "COLAU",
+       "k": "por",
+       "at": 0
+      },
+      {
+       "tx": "FRENTE AMPLIO",
+       "x": 50,
+       "y": 90,
+       "fs": 120,
+       "color": "#fff",
+       "k": "big",
+       "at": 0
+      },
+      {
+       "tx": "1.500.000",
+       "sub": "VIVIENDAS PÚBLICAS EN 12 AÑOS",
+       "x": 70,
+       "y": 50,
+       "w": 500,
+       "h": 230,
+       "fs": 80,
+       "at": 2,
+       "k": "stat"
+      },
+      {
+       "e": "🏘️",
+       "x": 20,
+       "y": 55,
+       "fs": 170,
+       "at": 2,
+       "k": "emo"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "¿Y tu nómina? El PP propone que, si tienes entre dieciocho y treinta y cinco años, no pagues IRPF.",
+     "show": [
+      {
+       "title": "NÓMINA",
+       "lines": [
+        {
+         "a": "Salario bruto",
+         "b": "· · · ·"
+        },
+        {
+         "a": "Seguridad Social",
+         "b": "· · · ·"
+        },
+        {
+         "a": "IRPF 18-35 años",
+         "b": "0 €",
+         "hl": 1
+        }
+       ],
+       "x": 50,
+       "y": 45,
+       "w": 820,
+       "h": 420,
+       "at": 2,
+       "k": "card"
+      },
+      {
+       "x": 50,
+       "y": 80,
+       "hl": "pp",
+       "k": "podios",
+       "at": 0
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "¿Letra pequeña? Solo es el cien por cien el primer año. Luego, setenta y cinco, cincuenta y veinticinco.",
+     "show": [
+      {
+       "title": "REBAJA IRPF JÓVENES",
+       "lines": [
+        {
+         "a": "Año 1",
+         "b": "100 %",
+         "hl": 1
+        },
+        {
+         "a": "Año 2",
+         "b": "75 %"
+        },
+        {
+         "a": "Año 3",
+         "b": "50 %"
+        },
+        {
+         "a": "Año 4",
+         "b": "25 %"
+        }
+       ],
+       "x": 50,
+       "y": 45,
+       "w": 820,
+       "h": 480,
+       "k": "card",
+       "at": 0
+      },
+      {
+       "e": "🔍",
+       "x": 80,
+       "y": 58,
+       "fs": 200,
+       "at": 1,
+       "k": "emo"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Esta noche, los cuatro, cara a cara. ¿Con quién te quedas? Te leo en comentarios.",
+     "show": [
+      {
+       "tx": "¿CON QUIÉN TE QUEDAS?",
+       "x": 50,
+       "y": 36,
+       "fs": 110,
+       "k": "big",
+       "at": 0
+      },
+      {
+       "x": 50,
+       "y": 80,
+       "hl": null,
+       "k": "podios",
+       "at": 0
+      }
+     ],
+     "hide": []
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-26T11:30:00+01:00",
+ "estilo": "f1"
+}
