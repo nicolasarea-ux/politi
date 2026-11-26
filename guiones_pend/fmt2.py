@@ -11,9 +11,9 @@ V['slp_208_f4_pp_vox']=fmt('slp_208_f4_pp_vox','f4',[
  ("Vivienda. PP: IVA del cuatro por ciento en la primera casa para menores de cuarenta. Vox: IVA cero, para familias españolas.",[FULL('a_keys.jpg'),E('stat',tx='PP: 4 %',sub='VOX: 0 %',x=50,y=28,w=560,h=240,fs=110,subfs=70,at=3)]),
  ("Okupas. PP: recuperar la casa en cuarenta y ocho horas. Vox: desalojo en menos de veinticuatro.",[FULL('a_door.jpg'),E('stat',tx='PP: 48 H',sub='VOX: 24 H',x=50,y=28,w=560,h=240,fs=110,subfs=70,at=1)]),
  ("Y Vox pide prioridad nacional en vivienda protegida y ayudas.",[FULL('a_queue.jpg')]),
- ("En lo que coinciden: los dos quieren derogar la Ley de Vivienda.",[FULL('a_law.jpg')]),
+ ("En lo que coinciden: los dos quieren derogar la Ley de Vivienda.",[FULL('a_congreso.jpg')]),
  ("Parecidos, sí. Iguales, no. ¿Con cuál te quedas? Te leo en comentarios.",[E('pan',img='img/feijoo.jpg',pos='40% 10%',x=25,y=50,w=540,h=1920,nob=1),E('pan',img='img/abascal.jpg',pos='50% 10%',x=75,y=50,w=540,h=1920,nob=1)])],
- '2026-11-26T17:30:00+01:00','PP vs Vox: las diferencias que debes conocer','Programas electorales PP y Vox 29N (El Cronista; Rankia), proposición de ley de Vox sobre IRPF (2024). Fotos: Wikimedia Commons. Ilustraciones: IA','#pp #vox #29N',
+ '2026-11-26T18:00:00+01:00','PP vs Vox: las diferencias que debes conocer','Programas electorales PP y Vox 29N (El Cronista; Rankia), proposición de ley de Vox sobre IRPF (2024). Fotos: Wikimedia Commons. Ilustraciones: IA','#pp #vox #29N',
  portada={'titulo':'PP vs *Vox*','who':['feijoo','abascal'],'sello':'DIFERENCIAS'})
 L=lambda img,**k:E('pan',img='img/'+img,x=25,y=50,w=540,h=1920,nob=1,**k)
 R=lambda img,**k:E('pan',img='img/'+img,x=75,y=50,w=540,h=1920,nob=1,**k)

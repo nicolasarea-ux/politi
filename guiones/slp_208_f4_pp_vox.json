@@ -230,7 +230,7 @@
      "text": "En lo que coinciden: los dos quieren derogar la Ley de Vivienda.",
      "show": [
       {
-       "img": "img/a_law.jpg",
+       "img": "img/a_congreso.jpg",
        "x": 50,
        "y": 50,
        "w": 1080,
@@ -273,6 +273,6 @@
    ]
   }
  ],
- "fechaPub": "2026-11-26T17:30:00+01:00",
+ "fechaPub": "2026-11-26T18:00:00+01:00",
  "estilo": "f4"
 }
