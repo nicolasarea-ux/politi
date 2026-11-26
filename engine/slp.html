@@ -290,7 +290,7 @@ function init(d){D=d;if(d.estilo)document.body.classList.add(d.estilo);DATA_BRAN
 
  {const se=d.serie||null;const dias=Math.max(0,Math.round((new Date('2026-11-29T12:00:00')-new Date(d.fechaPub||Date.now()))/864e5));D.dias=dias;
   const ec=document.getElementById('endc');D.endOn=(d.follow!==false);
-  ec.innerHTML=`<div class="h">🔔 SÍGUENOS</div><div class="r">Cada día, lo más fuerte de la campaña.<br>Quedan <b>${dias} días</b> para el 29-N</div><div class="btn">Seguir</div>${se&&se.next?`<div class="nx">${se.next}</div>`:''}`;
+  ec.innerHTML=`<div class="h">🔔 SÍGUENOS</div><div class="r">Cada día, lo más fuerte de la campaña.<br>${dias>1?`Quedan <b>${dias} días</b> para el 29-N`:dias==1?`<b>Mañana</b> se vota: 29-N`:`<b>Hoy</b> se vota: 29-N`}</div><div class="btn">Seguir</div>${se&&se.next?`<div class="nx">${se.next}</div>`:''}`;
   const nu=document.getElementById('nudge');nu.innerHTML=se&&se.n?`🔔 Parte ${se.n}${se.de?'/'+se.de:''} · sigue para no perderte nada`:'🔔 Sigue @politizatehoy · campaña día a día';}
  const cb=document.getElementById('clauses');
  const L=d.clauseLabels||[];let h='';for(let i=1;i<=d.clauses;i++)h+=`<div class="cl" data-c="${i}"><i></i><b>${L[i-1]||'CLÁUSULA '+i}</b></div>`;

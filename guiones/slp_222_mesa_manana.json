@@ -1,0 +1,298 @@
+{
+ "id": "slp_222_mesa_manana",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: LOREG (arts. 27, 80 y 143) y BOE-A-2026-13948 (dieta de 75 €)"
+ },
+ "caption": "Mesa mañana 👀\n\n¿Te ha tocado mesa mañana y piensas no ir? Cuidado: no es como una multa de tráfico. Si no vas sin una causa justificada, la ley electoral lo castiga como delito. De tres meses a un año de prisión. O una multa de seis a veinticuatro meses. Tienes que estar a las ocho de la mañana. Presidente, dos vocales y sus suplentes. A cambio, cobras setenta y cinco euros. Y si te surge una causa de fuerza mayor, avisa y justifícalo ante la Junta Electoral de Zona.\n\n👇 ¿Te ha tocado alguna vez? Comenta sí o no.\n🗳️ Mañana, 29-N, se vota de 9:00 a 20:00. Síguenos: te lo contamos todo.\n\nFuente: LOREG (arts. 27, 80 y 143) y BOE-A-2026-13948 (dieta de 75 €)\n#elecciones #29N #espana #politica #mesaelectoral #votar",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "Mesa *mañana*",
+  "mini": {
+   "rojo": "MESA"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Te ha tocado mesa mañana y piensas no ir? Cuidado: no es como una multa de tráfico.",
+     "show": [
+      {
+       "id": "b0",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 38,
+       "w": 1000,
+       "at": 0,
+       "n": "¿NO VAS?",
+       "text": "",
+       "color": "red",
+       "fs": 160,
+       "in": "zoom"
+      },
+      {
+       "id": "x0",
+       "type": "prop",
+       "kind": "xmark",
+       "x": 50,
+       "y": 66,
+       "w": 280,
+       "at": 3,
+       "in": "left"
+      },
+      {
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 4,
+       "text": "⏰",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [],
+     "bg": "rojo"
+    },
+    {
+     "text": "Si no vas sin una causa justificada, la ley electoral lo castiga como delito.",
+     "show": [
+      {
+       "id": "s1",
+       "type": "stamp",
+       "text": "DELITO",
+       "color": "red",
+       "x": 50,
+       "y": 38,
+       "rot": -8,
+       "at": 0,
+       "in": "left"
+      },
+      {
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 66,
+       "w": 1000,
+       "at": 3,
+       "n": "⚖️",
+       "text": "",
+       "color": "",
+       "fs": 180,
+       "in": "right"
+      },
+      {
+       "id": "k1_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 8,
+       "text": "⚖️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "b0",
+      "x0",
+      "k0_0"
+     ],
+     "bg": "noche"
+    },
+    {
+     "text": "De tres meses a un año de prisión. O una multa de seis a veinticuatro meses.",
+     "show": [
+      {
+       "id": "b2",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 42,
+       "w": 1000,
+       "at": 0,
+       "n": "1 AÑO",
+       "text": "DE PRISIÓN, COMO MÁXIMO",
+       "color": "red",
+       "fs": 180,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "s1",
+      "b1",
+      "k1_0"
+     ]
+    },
+    {
+     "text": "Tienes que estar a las ocho de la mañana. Presidente, dos vocales y sus suplentes.",
+     "show": [
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "8:00",
+       "text": "DOMINGO 29",
+       "color": "gold",
+       "fs": 200,
+       "in": "zoom"
+      },
+      {
+       "id": "m3",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 78,
+       "w": 220,
+       "at": 3,
+       "habla": false,
+       "cara": "sorpresa",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "k3_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 8,
+       "text": "⏰",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k3_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 85,
+       "y": 26,
+       "w": 160,
+       "at": 9,
+       "text": "👑",
+       "fs": 110,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "b2"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "A cambio, cobras setenta y cinco euros. Y si te surge una causa de fuerza mayor, avisa y justifícalo ante la Junta Electoral de Zona.",
+     "show": [
+      {
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 42,
+       "w": 1000,
+       "at": 0,
+       "n": "75 €",
+       "text": "POR EL DÍA",
+       "color": "gold",
+       "fs": 200,
+       "in": "left"
+      },
+      {
+       "id": "k4_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 6,
+       "text": "💶",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k4_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 85,
+       "y": 26,
+       "w": 160,
+       "at": 21,
+       "text": "⚖️",
+       "fs": 110,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "b3",
+      "m3",
+      "k3_0",
+      "k3_1"
+     ],
+     "bg": "duelo"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "noche",
+     "text": "¿Te ha tocado alguna vez? Comenta sí o no. Síguenos: mañana se vota.",
+     "show": [
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿TE HA",
+       "text": "TOCADO?",
+       "color": "gold",
+       "fs": 150
+      },
+      {
+       "id": "eF",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 70,
+       "w": 220,
+       "at": 0,
+       "text": "🗳️"
+      }
+     ],
+     "hide": [
+      "b4",
+      "k4_0",
+      "k4_1"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-28T20:00:00+01:00",
+ "estilo": "cine"
+}

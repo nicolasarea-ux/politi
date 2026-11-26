@@ -1,0 +1,266 @@
+{
+ "id": "slp_220_reflexion_hoy",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: LOREG (arts. 51, 53 y 69.7)"
+ },
+ "caption": "Hoy nadie pide el voto 👀\n\nHoy ningún partido puede pedirte el voto. Ni uno. ¿Por qué? Es la jornada de reflexión. La campaña acabó anoche a las doce. Desde entonces, ni mítines, ni actos, ni propaganda electoral hasta que se vote. Y encuestas, tampoco: no se pueden publicar hasta que cierren los colegios mañana a las ocho. Pero la prohibición es para la campaña. Tú puedes seguir hablando de política con quien quieras.\n\n👇 ¿Sirve de algo la jornada de reflexión? Comenta sí o no.\n🗳️ Mañana, 29-N, se vota de 9:00 a 20:00. Síguenos: te lo contamos todo.\n\nFuente: LOREG (arts. 51, 53 y 69.7)\n#elecciones #29N #espana #politica #jornadadereflexion #votar",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "Hoy *nadie* pide el voto",
+  "mini": {
+   "rojo": "REFLEXIÓN"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Hoy ningún partido puede pedirte el voto. Ni uno. ¿Por qué?",
+     "show": [
+      {
+       "id": "b0",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 38,
+       "w": 1000,
+       "at": 0,
+       "n": "0",
+       "text": "MÍTINES HOY",
+       "color": "red",
+       "fs": 220,
+       "in": "zoom"
+      },
+      {
+       "id": "x0",
+       "type": "prop",
+       "kind": "xmark",
+       "x": 50,
+       "y": 68,
+       "w": 280,
+       "at": 3,
+       "in": "left"
+      },
+      {
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 6,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [],
+     "bg": "rojo"
+    },
+    {
+     "text": "Es la jornada de reflexión. La campaña acabó anoche a las doce.",
+     "show": [
+      {
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "00:00",
+       "text": "FIN DE LA CAMPAÑA",
+       "color": "gold",
+       "fs": 180,
+       "in": "left"
+      },
+      {
+       "id": "u1",
+       "type": "prop",
+       "kind": "urna",
+       "x": 50,
+       "y": 70,
+       "w": 280,
+       "at": 3,
+       "in": "down"
+      }
+     ],
+     "hide": [
+      "b0",
+      "x0",
+      "k0_0"
+     ],
+     "bg": "noche"
+    },
+    {
+     "text": "Desde entonces, ni mítines, ni actos, ni propaganda electoral hasta que se vote.",
+     "show": [
+      {
+       "id": "s2",
+       "type": "stamp",
+       "text": "PROHIBIDO",
+       "color": "red",
+       "x": 50,
+       "y": 40,
+       "rot": -8,
+       "at": 0,
+       "in": "right"
+      },
+      {
+       "id": "m2",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 76,
+       "w": 240,
+       "at": 3,
+       "habla": false,
+       "cara": "sorpresa",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "k2_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 12,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "b1",
+      "u1"
+     ]
+    },
+    {
+     "text": "Y encuestas, tampoco: no se pueden publicar hasta que cierren los colegios mañana a las ocho.",
+     "show": [
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 42,
+       "w": 1000,
+       "at": 0,
+       "n": "20:00",
+       "text": "SIN ENCUESTAS HASTA",
+       "color": "red",
+       "fs": 180,
+       "in": "zoom"
+      },
+      {
+       "id": "k3_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 12,
+       "text": "⏰",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "s2",
+      "m2",
+      "k2_0"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "Pero la prohibición es para la campaña. Tú puedes seguir hablando de política con quien quieras.",
+     "show": [
+      {
+       "id": "md4",
+       "type": "prop",
+       "kind": "medida",
+       "x": 50,
+       "y": 46,
+       "w": 960,
+       "at": 0,
+       "l1": "TÚ SÍ PUEDES",
+       "l2": "HABLAR DE POLÍTICA",
+       "f": 1,
+       "in": "left"
+      },
+      {
+       "id": "e4",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 72,
+       "w": 200,
+       "at": 3,
+       "text": "🗣️",
+       "in": "down"
+      }
+     ],
+     "hide": [
+      "b3",
+      "k3_0"
+     ],
+     "bg": "duelo"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "noche",
+     "text": "¿Sirve de algo la jornada de reflexión? Comenta sí o no. Síguenos: mañana se vota.",
+     "show": [
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿SIRVE",
+       "text": "DE ALGO?",
+       "color": "gold",
+       "fs": 150
+      },
+      {
+       "id": "eF",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 70,
+       "w": 220,
+       "at": 0,
+       "text": "🤔"
+      }
+     ],
+     "hide": [
+      "md4",
+      "e4"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-28T09:00:00+01:00",
+ "estilo": "cine"
+}

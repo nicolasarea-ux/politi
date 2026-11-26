@@ -1,0 +1,349 @@
+{
+ "id": "slp_223_blanco_nulo",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: LOREG (arts. 84, 96 y 163)"
+ },
+ "caption": "¿Blanco o nulo? 👀\n\nBlanco, nulo o quedarte en casa. Mañana no es lo mismo. Y casi nadie sabe por qué. Voto en blanco: el sobre del Congreso, vacío. Cuenta como voto válido. Y por eso sube el listón del tres por ciento que necesita cada partido en tu provincia. Voto nulo: papeleta tachada o con algo escrito, o dos de partidos distintos en el sobre. No cuenta para nada. ¿Y la abstención? Ni entra en el recuento. Mañana se vota de nueve de la mañana a ocho de la tarde.\n\n👇 ¿Has votado alguna vez en blanco? Comenta sí o no.\n🗳️ Mañana, 29-N, se vota de 9:00 a 20:00. Síguenos: te lo contamos todo.\n\nFuente: LOREG (arts. 84, 96 y 163)\n#elecciones #29N #espana #politica #votoenblanco #votonulo #votar",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "¿Blanco o *nulo*?",
+  "mini": {
+   "rojo": "BLANCO"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "Blanco, nulo o quedarte en casa. Mañana no es lo mismo. Y casi nadie sabe por qué.",
+     "show": [
+      {
+       "id": "b0",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "⬜ 🚫 🏠",
+       "text": "",
+       "color": "",
+       "fs": 170,
+       "in": "zoom"
+      },
+      {
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 5,
+       "text": "🏠",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k0_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 85,
+       "y": 26,
+       "w": 160,
+       "at": 6,
+       "text": "⏰",
+       "fs": 110,
+       "in": "right"
+      }
+     ],
+     "hide": [],
+     "bg": "rojo"
+    },
+    {
+     "text": "Voto en blanco: el sobre del Congreso, vacío. Cuenta como voto válido.",
+     "show": [
+      {
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "BLANCO",
+       "text": "= VOTO VÁLIDO",
+       "color": "gold",
+       "fs": 170,
+       "in": "left"
+      },
+      {
+       "id": "u1",
+       "type": "prop",
+       "kind": "urna",
+       "x": 50,
+       "y": 72,
+       "w": 260,
+       "at": 3,
+       "in": "down"
+      },
+      {
+       "id": "k1_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 6,
+       "text": "🏛️",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k1_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 85,
+       "y": 26,
+       "w": 160,
+       "at": 10,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "b0",
+      "k0_0",
+      "k0_1"
+     ],
+     "bg": "noche"
+    },
+    {
+     "text": "Y por eso sube el listón del tres por ciento que necesita cada partido en tu provincia.",
+     "show": [
+      {
+       "id": "b2",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 42,
+       "w": 1000,
+       "at": 0,
+       "n": "3 %",
+       "text": "EL LISTÓN SUBE",
+       "color": "red",
+       "fs": 200,
+       "in": "right"
+      },
+      {
+       "id": "k2_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 8,
+       "text": "📊",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k2_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 85,
+       "y": 26,
+       "w": 160,
+       "at": 13,
+       "text": "🎯",
+       "fs": 110,
+       "in": "right"
+      },
+      {
+       "id": "k2_2",
+       "type": "prop",
+       "kind": "emo",
+       "x": 14,
+       "y": 89,
+       "w": 160,
+       "at": 16,
+       "text": "📍",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "b1",
+      "u1",
+      "k1_0",
+      "k1_1"
+     ]
+    },
+    {
+     "text": "Voto nulo: papeleta tachada o con algo escrito, o dos de partidos distintos en el sobre. No cuenta para nada.",
+     "show": [
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "NULO",
+       "text": "NO CUENTA",
+       "color": "red",
+       "fs": 180,
+       "in": "zoom"
+      },
+      {
+       "id": "x3",
+       "type": "prop",
+       "kind": "xmark",
+       "x": 50,
+       "y": 70,
+       "w": 240,
+       "at": 3,
+       "in": "down"
+      },
+      {
+       "id": "k3_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 11,
+       "text": "🎯",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "b2",
+      "k2_0",
+      "k2_1",
+      "k2_2"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "¿Y la abstención? Ni entra en el recuento. Mañana se vota de nueve de la mañana a ocho de la tarde.",
+     "show": [
+      {
+       "id": "b4",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 42,
+       "w": 1000,
+       "at": 0,
+       "n": "9:00–20:00",
+       "text": "DOMINGO 29",
+       "color": "gold",
+       "fs": 120,
+       "in": "left"
+      },
+      {
+       "id": "m4",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 78,
+       "w": 220,
+       "at": 3,
+       "habla": false,
+       "cara": "duda",
+       "gesto": "manos",
+       "from": "right"
+      },
+      {
+       "id": "k4_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 8,
+       "text": "⏰",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k4_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 85,
+       "y": 26,
+       "w": 160,
+       "at": 10,
+       "text": "🗳️",
+       "fs": 110,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "b3",
+      "x3",
+      "k3_0"
+     ],
+     "bg": "duelo"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "noche",
+     "text": "¿Has votado alguna vez en blanco? Comenta sí o no. Síguenos: mañana se vota.",
+     "show": [
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿BLANCO",
+       "text": "O NULO?",
+       "color": "gold",
+       "fs": 150
+      },
+      {
+       "id": "eF",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 70,
+       "w": 220,
+       "at": 0,
+       "text": "🗳️"
+      }
+     ],
+     "hide": [
+      "b4",
+      "m4",
+      "k4_0",
+      "k4_1"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-28T23:00:00+01:00",
+ "estilo": "cine"
+}

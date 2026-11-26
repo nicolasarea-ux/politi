@@ -1,0 +1,291 @@
+{
+ "id": "slp_221_dni_movil",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 2,
+ "clauseLabels": [
+  "",
+  "",
+  ""
+ ],
+ "header": {
+  "tag": "CAMPAÑA 29-N",
+  "source": "Fuente: Ministerio del Interior; Maldita.es (11-11-2026); Público y elEconomista (24-11-2026, Supremo); LOREG art. 85"
+ },
+ "caption": "¿Votar con el móvil? 👀\n\n¿Puedes ir a votar mañana solo con el móvil? Sí. Pero ojo. La Junta Electoral Central aceptó el DNI digital de la app MiDNI el cinco de noviembre. Hubo un recurso. Y el Tribunal Supremo lo avaló el veinticuatro de noviembre. En la mesa enseñas un código QR temporal y lo comprueban con un lector. También valen el DNI físico, el pasaporte o el carné de conducir, con tu foto. Fotocopias, no. ¿Y si el móvil se queda sin batería? Llévate también el físico.\n\n👇 ¿Votarás con el móvil? Comenta sí o no.\n🗳️ Mañana, 29-N, se vota de 9:00 a 20:00. Síguenos: te lo contamos todo.\n\nFuente: Ministerio del Interior; Maldita.es (11-11-2026); Público y elEconomista (24-11-2026, Supremo); LOREG art. 85\n#elecciones #29N #espana #politica #dnidigital #midni #votar",
+ "portada": {
+  "serie": "29-N",
+  "titulo": "¿Votar con el *móvil*?",
+  "mini": {
+   "rojo": "MiDNI"
+  },
+  "cartel": true
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Puedes ir a votar mañana solo con el móvil? Sí. Pero ojo.",
+     "show": [
+      {
+       "id": "b0",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "📱",
+       "text": "¿SOLO CON EL MÓVIL?",
+       "color": "",
+       "fs": 230,
+       "in": "zoom"
+      },
+      {
+       "id": "k0_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 4,
+       "text": "⏰",
+       "fs": 110,
+       "in": "left"
+      },
+      {
+       "id": "k0_1",
+       "type": "prop",
+       "kind": "emo",
+       "x": 85,
+       "y": 26,
+       "w": 160,
+       "at": 8,
+       "text": "📱",
+       "fs": 110,
+       "in": "right"
+      }
+     ],
+     "hide": [],
+     "bg": "rojo"
+    },
+    {
+     "text": "La Junta Electoral Central aceptó el DNI digital de la app MiDNI el cinco de noviembre.",
+     "show": [
+      {
+       "id": "b1",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 42,
+       "w": 1000,
+       "at": 0,
+       "n": "5-N",
+       "text": "LA JUNTA ELECTORAL LO ACEPTA",
+       "color": "gold",
+       "fs": 190,
+       "in": "left"
+      },
+      {
+       "id": "s1",
+       "type": "stamp",
+       "text": "MiDNI",
+       "color": "red",
+       "x": 50,
+       "y": 70,
+       "rot": -8,
+       "at": 3,
+       "in": "down"
+      }
+     ],
+     "hide": [
+      "b0",
+      "k0_0",
+      "k0_1"
+     ],
+     "bg": "noche"
+    },
+    {
+     "text": "Hubo un recurso. Y el Tribunal Supremo lo avaló el veinticuatro de noviembre.",
+     "show": [
+      {
+       "id": "b2",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 42,
+       "w": 1000,
+       "at": 0,
+       "n": "24-N",
+       "text": "EL SUPREMO LO AVALA",
+       "color": "gold",
+       "fs": 190,
+       "in": "right"
+      }
+     ],
+     "hide": [
+      "b1",
+      "s1"
+     ]
+    },
+    {
+     "text": "En la mesa enseñas un código QR temporal y lo comprueban con un lector.",
+     "show": [
+      {
+       "id": "b3",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "QR",
+       "text": "LO ESCANEA LA MESA",
+       "color": "",
+       "fs": 230,
+       "in": "zoom"
+      },
+      {
+       "id": "u3",
+       "type": "prop",
+       "kind": "urna",
+       "x": 50,
+       "y": 72,
+       "w": 260,
+       "at": 3,
+       "in": "down"
+      }
+     ],
+     "hide": [
+      "b2"
+     ],
+     "bg": "dia"
+    },
+    {
+     "text": "También valen el DNI físico, el pasaporte o el carné de conducir, con tu foto.",
+     "show": [
+      {
+       "id": "md4",
+       "type": "prop",
+       "kind": "medida",
+       "x": 50,
+       "y": 44,
+       "w": 960,
+       "at": 0,
+       "l1": "DNI · PASAPORTE",
+       "l2": "CARNÉ DE CONDUCIR",
+       "f": 1,
+       "in": "left"
+      },
+      {
+       "id": "m4",
+       "type": "mono",
+       "who": "tu",
+       "x": 50,
+       "y": 78,
+       "w": 220,
+       "at": 3,
+       "habla": false,
+       "cara": "sonrie",
+       "gesto": "manos",
+       "from": "right"
+      }
+     ],
+     "hide": [
+      "b3",
+      "u3"
+     ]
+    },
+    {
+     "text": "Fotocopias, no. ¿Y si el móvil se queda sin batería? Llévate también el físico.",
+     "show": [
+      {
+       "id": "x5",
+       "type": "prop",
+       "kind": "xmark",
+       "x": 50,
+       "y": 40,
+       "w": 260,
+       "at": 0,
+       "in": "right"
+      },
+      {
+       "id": "b5",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 70,
+       "w": 1000,
+       "at": 3,
+       "n": "🔋",
+       "text": "",
+       "color": "",
+       "fs": 160,
+       "in": "down"
+      },
+      {
+       "id": "k5_0",
+       "type": "prop",
+       "kind": "emo",
+       "x": 15,
+       "y": 25,
+       "w": 160,
+       "at": 5,
+       "text": "📱",
+       "fs": 110,
+       "in": "left"
+      }
+     ],
+     "hide": [
+      "md4",
+      "m4"
+     ],
+     "bg": "duelo"
+    }
+   ]
+  },
+  {
+   "clause": -1,
+   "segments": [
+    {
+     "bg": "noche",
+     "text": "¿Votarás con el móvil? Comenta sí o no. Síguenos: mañana se vota.",
+     "show": [
+      {
+       "id": "bF",
+       "type": "prop",
+       "kind": "big",
+       "x": 50,
+       "y": 40,
+       "w": 1000,
+       "at": 0,
+       "n": "¿MÓVIL",
+       "text": "O FÍSICO?",
+       "color": "gold",
+       "fs": 150
+      },
+      {
+       "id": "eF",
+       "type": "prop",
+       "kind": "emo",
+       "x": 50,
+       "y": 70,
+       "w": 220,
+       "at": 0,
+       "text": "📱"
+      }
+     ],
+     "hide": [
+      "x5",
+      "b5",
+      "k5_0"
+     ]
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-28T14:00:00+01:00",
+ "estilo": "cine"
+}

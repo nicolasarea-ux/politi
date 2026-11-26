@@ -308,8 +308,8 @@
     "https://www.xatakamovil.com/movil-y-sociedad/marcha-atras-uso-midni-al-ir-a-votar-dni-digital-no-documento-valido-para-elecciones",
     "https://www.eldebate.com/espana/20260423/junta-electoral-ratifica-dni-digital-no-podra-usar-votar-elecciones-andaluzas_410429.html"
    ],
-   "estado": "programado",
-   "nota": "22-N relleno de seguridad (explicativos vuelven 22–28-N); la pasada del 22-N puede cambiarlo por actualidad | 22-N pasada: re-render con fechaPub, 24-N relleno de seguridad (el 22-N 13:00 salió «saltado»); la pasada del 24-N puede cambiarlo por actualidad",
+   "estado": "retirado",
+   "nota": "22-N relleno de seguridad (explicativos vuelven 22–28-N); la pasada del 22-N puede cambiarlo por actualidad | 22-N pasada: re-render con fechaPub, 24-N relleno de seguridad (el 22-N 13:00 salió «saltado»); la pasada del 24-N puede cambiarlo por actualidad | 26-N: retirado del 28-N: dice que la JEC suspendió MiDNI; desfasado (JEC lo reautorizó el 5-N y el Supremo lo avaló el 24-N). Sustituido por slp_221_dni_movil.",
    "fecha": "2026-11-28T10:30",
    "copy": "DNI caducado: ¿puedes votar? 👀\n\nTienes el DNI caducado y es el 29|veintinueve. ¿Puedes votar? Sí. Pero ojo con el móvil. Cláusula uno: qué documentos valen. DNI, pasaporte o carnet de conducir, siempre que lleven tu foto. Y el DNI caducado también sirve, si la mesa puede comprobar que eres tú. Cláusula dos: qué no vale. Fotocopias, no. Y una foto del DNI en el móvil, tampoco. Tiene que ser el original. Y la letra pequeña: este año la Junta Electoral suspendió el uso de las apps MiDNI y MiDGT para votar por dudas de seguridad. Lleva el documento físico. Guárdalo para el 29.|veintinueve. Síguenos para no perderte ninguno.\n\n👇 ¿Lo sabías? Comenta sí o no.\n⏳ Quedan cinco días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Junta Electoral Central y LOREG\n#elecciones #29N #espana #politica #dni #votar",
    "fecha_reels": "2026-11-28T10:30"
@@ -2542,6 +2542,77 @@
    "fecha_reels": "2026-11-26T19:00",
    "nota": "formatos nuevos",
    "copy": "¿Con Franco se vivía mejor? Solo datos 👀\n\n¿Con Franco se vivía mejor? Solo datos, sin opiniones. Mil novecientos setenta y cinco contra dos mil veintiséis. El salario mínimo en 1975: ocho mil cuatrocientas pesetas al mes. Hoy: mil doscientos veintiún euros al mes, en catorce pagas. Esperanza de vida: en 1975, unos setenta y tres años. Hoy, casi ochenta y cuatro. Hasta mayo de 1975, una mujer casada necesitaba el permiso de su marido para trabajar o abrir una cuenta. Votar: en 1975 no había elecciones libres. Las primeras llegaron en 1977. ¿Y algo que fuera mejor entonces? Mucha gente señala la vivienda. Hoy es el gran problema de los jóvenes. Datos sobre la mesa. ¿Tú qué opinas? Te leo en comentarios.\n\nFuente: BOE 24-3-1975 (SMI 1975); Real Decreto 126/2026 (SMI 2026); INE; Ley 14/1975 (licencia marital). Foto: Wikimedia Commons (CC0). Ilustraciones: IA\n#elecciones #29N #espana #politica #franco #datos #29N"
+  },
+  {
+   "id": "slp_220_reflexion_hoy",
+   "tipo": "atemporal",
+   "formato": "minuto",
+   "estilo": "cine",
+   "serie": "29-N",
+   "tema": "Jornada de reflexión: qué se prohíbe y qué no (LOREG 51, 53, 69.7)",
+   "partidos": [],
+   "fuentes": [
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1985-11672"
+   ],
+   "estado": "programado",
+   "fecha": "2026-11-28T09:00",
+   "fecha_reels": "2026-11-28T09:00",
+   "copy": "Hoy nadie pide el voto 👀\n\nHoy ningún partido puede pedirte el voto. Ni uno. ¿Por qué? Es la jornada de reflexión. La campaña acabó anoche a las doce. Desde entonces, ni mítines, ni actos, ni propaganda electoral hasta que se vote. Y encuestas, tampoco: no se pueden publicar hasta que cierren los colegios mañana a las ocho. Pero la prohibición es para la campaña. Tú puedes seguir hablando de política con quien quieras.\n\n👇 ¿Sirve de algo la jornada de reflexión? Comenta sí o no.\n🗳️ Mañana, 29-N, se vota de 9:00 a 20:00. Síguenos: te lo contamos todo.\n\nFuente: LOREG (arts. 51, 53 y 69.7)\n#elecciones #29N #espana #politica #jornadadereflexion #votar",
+   "nota": "pasada 26-N (17:18): 28-N jornada de reflexión, solo contenido práctico"
+  },
+  {
+   "id": "slp_221_dni_movil",
+   "tipo": "atemporal",
+   "formato": "minuto",
+   "estilo": "cine",
+   "serie": "29-N",
+   "tema": "MiDNI vale para votar: JEC 5-N (acta 334/2026), Supremo 24-N; LOREG art. 85",
+   "partidos": [],
+   "fuentes": [
+    "https://maldita.es/desinfo/20260316/uso-dni-digital-votar-preguntas-respuestas/",
+    "https://www.publico.es/politica/tribunales/supremo-permitira-votar-dni-electronico-elecciones-29n.html",
+    "https://www.eleconomista.es/actualidad/noticias/14030873/11/26/confirmado-por-el-supremo-todos-los-ciudadanos-podran-votar-en-las-elecciones-generales-del-29n-con-el-dni-digital.html"
+   ],
+   "estado": "programado",
+   "fecha": "2026-11-28T14:00",
+   "fecha_reels": "2026-11-28T14:00",
+   "copy": "¿Votar con el móvil? 👀\n\n¿Puedes ir a votar mañana solo con el móvil? Sí. Pero ojo. La Junta Electoral Central aceptó el DNI digital de la app MiDNI el cinco de noviembre. Hubo un recurso. Y el Tribunal Supremo lo avaló el veinticuatro de noviembre. En la mesa enseñas un código QR temporal y lo comprueban con un lector. También valen el DNI físico, el pasaporte o el carné de conducir, con tu foto. Fotocopias, no. ¿Y si el móvil se queda sin batería? Llévate también el físico.\n\n👇 ¿Votarás con el móvil? Comenta sí o no.\n🗳️ Mañana, 29-N, se vota de 9:00 a 20:00. Síguenos: te lo contamos todo.\n\nFuente: Ministerio del Interior; Maldita.es (11-11-2026); Público y elEconomista (24-11-2026, Supremo); LOREG art. 85\n#elecciones #29N #espana #politica #dnidigital #midni #votar",
+   "nota": "pasada 26-N (17:18): 28-N jornada de reflexión, solo contenido práctico"
+  },
+  {
+   "id": "slp_222_mesa_manana",
+   "tipo": "atemporal",
+   "formato": "minuto",
+   "estilo": "cine",
+   "serie": "29-N",
+   "tema": "Mesa electoral: obligación, delito (LOREG 143), 8:00, dieta 75 € (BOE-A-2026-13948)",
+   "partidos": [],
+   "fuentes": [
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1985-11672",
+    "https://www.boe.es/boe/dias/2026/06/27/pdfs/BOE-A-2026-13948.pdf"
+   ],
+   "estado": "programado",
+   "fecha": "2026-11-28T20:00",
+   "fecha_reels": "2026-11-28T20:00",
+   "copy": "Mesa mañana 👀\n\n¿Te ha tocado mesa mañana y piensas no ir? Cuidado: no es como una multa de tráfico. Si no vas sin una causa justificada, la ley electoral lo castiga como delito. De tres meses a un año de prisión. O una multa de seis a veinticuatro meses. Tienes que estar a las ocho de la mañana. Presidente, dos vocales y sus suplentes. A cambio, cobras setenta y cinco euros. Y si te surge una causa de fuerza mayor, avisa y justifícalo ante la Junta Electoral de Zona.\n\n👇 ¿Te ha tocado alguna vez? Comenta sí o no.\n🗳️ Mañana, 29-N, se vota de 9:00 a 20:00. Síguenos: te lo contamos todo.\n\nFuente: LOREG (arts. 27, 80 y 143) y BOE-A-2026-13948 (dieta de 75 €)\n#elecciones #29N #espana #politica #mesaelectoral #votar",
+   "nota": "pasada 26-N (17:18): 28-N jornada de reflexión, solo contenido práctico"
+  },
+  {
+   "id": "slp_223_blanco_nulo",
+   "tipo": "atemporal",
+   "formato": "minuto",
+   "estilo": "cine",
+   "serie": "29-N",
+   "tema": "Blanco, nulo y abstención (LOREG 96, 163); horario 9-20 (LOREG 84)",
+   "partidos": [],
+   "fuentes": [
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1985-11672"
+   ],
+   "estado": "programado",
+   "fecha": "2026-11-28T23:00",
+   "fecha_reels": "2026-11-28T23:00",
+   "copy": "¿Blanco o nulo? 👀\n\nBlanco, nulo o quedarte en casa. Mañana no es lo mismo. Y casi nadie sabe por qué. Voto en blanco: el sobre del Congreso, vacío. Cuenta como voto válido. Y por eso sube el listón del tres por ciento que necesita cada partido en tu provincia. Voto nulo: papeleta tachada o con algo escrito, o dos de partidos distintos en el sobre. No cuenta para nada. ¿Y la abstención? Ni entra en el recuento. Mañana se vota de nueve de la mañana a ocho de la tarde.\n\n👇 ¿Has votado alguna vez en blanco? Comenta sí o no.\n🗳️ Mañana, 29-N, se vota de 9:00 a 20:00. Síguenos: te lo contamos todo.\n\nFuente: LOREG (arts. 84, 96 y 163)\n#elecciones #29N #espana #politica #votoenblanco #votonulo #votar",
+   "nota": "pasada 26-N (17:18): 28-N jornada de reflexión, solo contenido práctico"
   }
  ]
 }
