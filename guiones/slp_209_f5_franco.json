@@ -1,0 +1,257 @@
+{
+ "id": "slp_209_f5_franco",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 0,
+ "clauseLabels": [
+  ""
+ ],
+ "header": {
+  "tag": "",
+  "source": "BOE 24-3-1975 (SMI 1975); Real Decreto 126/2026 (SMI 2026); INE; Ley 14/1975 (licencia marital). Foto: Wikimedia Commons (CC0). Ilustraciones: IA"
+ },
+ "caption": "¿Con Franco se vivía mejor? Solo datos 👀\n\n¿Con Franco se vivía mejor? Solo datos, sin opiniones. Mil novecientos setenta y cinco contra dos mil veintiséis. El salario mínimo en 1975: ocho mil cuatrocientas pesetas al mes. Hoy: mil doscientos veintiún euros al mes, en catorce pagas. Esperanza de vida: en 1975, unos setenta y tres años. Hoy, casi ochenta y cuatro. Hasta mayo de 1975, una mujer casada necesitaba el permiso de su marido para trabajar o abrir una cuenta. Votar: en 1975 no había elecciones libres. Las primeras llegaron en 1977. ¿Y algo que fuera mejor entonces? Mucha gente señala la vivienda. Hoy es el gran problema de los jóvenes. Datos sobre la mesa. ¿Tú qué opinas? Te leo en comentarios.\n\nFuente: BOE 24-3-1975 (SMI 1975); Real Decreto 126/2026 (SMI 2026); INE; Ley 14/1975 (licencia marital). Foto: Wikimedia Commons (CC0). Ilustraciones: IA\n#elecciones #29N #espana #politica #franco #datos #29N",
+ "portada": {
+  "titulo": "¿Con Franco se vivía *mejor*?",
+  "who": [
+   "franco"
+  ],
+  "sello": "SOLO DATOS"
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "¿Con Franco se vivía mejor? Solo datos, sin opiniones.",
+     "show": [
+      {
+       "img": "img/franco.jpg",
+       "pos": "50% 15%",
+       "x": 50,
+       "y": 50,
+       "w": 1080,
+       "h": 1920,
+       "nob": 1,
+       "k": "pan",
+       "at": 0
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Mil novecientos setenta y cinco contra dos mil veintiséis.",
+     "show": [
+      {
+       "img": "img/b_man.jpg",
+       "x": 25,
+       "y": 50,
+       "w": 540,
+       "h": 1920,
+       "nob": 1,
+       "keep": 1,
+       "k": "pan",
+       "at": 0
+      },
+      {
+       "img": "img/b_woman.jpg",
+       "x": 75,
+       "y": 50,
+       "w": 540,
+       "h": 1920,
+       "nob": 1,
+       "keep": 1,
+       "k": "pan",
+       "at": 0
+      },
+      {
+       "x": 50,
+       "y": 56,
+       "keep": 1,
+       "k": "vs",
+       "at": 0
+      },
+      {
+       "tx": "1975",
+       "x": 25,
+       "y": 24,
+       "keep": 1,
+       "k": "pill",
+       "at": 0
+      },
+      {
+       "tx": "2026",
+       "x": 75,
+       "y": 24,
+       "bg": "#5b5fe0",
+       "keep": 1,
+       "k": "pill",
+       "at": 0
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "El salario mínimo en 1975: ocho mil cuatrocientas pesetas al mes.",
+     "show": [
+      {
+       "img": "img/b_pesetas.jpg",
+       "x": 25,
+       "y": 40,
+       "w": 360,
+       "h": 360,
+       "round": 40,
+       "at": 0,
+       "k": "pan"
+      },
+      {
+       "tx": "8.400 pts",
+       "sub": "AL MES · 1975",
+       "x": 25,
+       "y": 62,
+       "w": 440,
+       "h": 200,
+       "fs": 76,
+       "k": "stat",
+       "at": 0
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Hoy: mil doscientos veintiún euros al mes, en catorce pagas.",
+     "show": [
+      {
+       "tx": "1.221 €",
+       "sub": "AL MES · 14 PAGAS",
+       "x": 75,
+       "y": 62,
+       "w": 440,
+       "h": 200,
+       "fs": 84,
+       "k": "stat",
+       "at": 0
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Esperanza de vida: en 1975, unos setenta y tres años. Hoy, casi ochenta y cuatro.",
+     "show": [
+      {
+       "tx": "73 años",
+       "x": 25,
+       "y": 40,
+       "w": 420,
+       "h": 170,
+       "fs": 84,
+       "k": "stat",
+       "at": 0
+      },
+      {
+       "tx": "84 años",
+       "x": 75,
+       "y": 40,
+       "w": 420,
+       "h": 170,
+       "fs": 84,
+       "at": 8,
+       "k": "stat"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Hasta mayo de 1975, una mujer casada necesitaba el permiso de su marido para trabajar o abrir una cuenta.",
+     "show": [
+      {
+       "img": "img/b_ring.jpg",
+       "x": 25,
+       "y": 40,
+       "w": 360,
+       "h": 360,
+       "round": 40,
+       "at": 0,
+       "k": "pan"
+      },
+      {
+       "e": "❌",
+       "x": 25,
+       "y": 62,
+       "fs": 170,
+       "at": 6,
+       "k": "emo"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Votar: en 1975 no había elecciones libres. Las primeras llegaron en 1977.",
+     "show": [
+      {
+       "img": "img/b_ballot.jpg",
+       "x": 75,
+       "y": 40,
+       "w": 360,
+       "h": 360,
+       "round": 40,
+       "at": 0,
+       "k": "pan"
+      },
+      {
+       "tx": "1977",
+       "x": 75,
+       "y": 62,
+       "bg": "#2a9d8f",
+       "at": 8,
+       "k": "pill"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "¿Y algo que fuera mejor entonces? Mucha gente señala la vivienda. Hoy es el gran problema de los jóvenes.",
+     "show": [
+      {
+       "img": "img/b_building.jpg",
+       "x": 75,
+       "y": 40,
+       "w": 360,
+       "h": 360,
+       "round": 40,
+       "at": 0,
+       "k": "pan"
+      },
+      {
+       "e": "😟",
+       "x": 75,
+       "y": 62,
+       "fs": 170,
+       "at": 8,
+       "k": "emo"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Datos sobre la mesa. ¿Tú qué opinas? Te leo en comentarios.",
+     "show": [
+      {
+       "tx": "¿TÚ QUÉ OPINAS?",
+       "x": 50,
+       "y": 38,
+       "fs": 110,
+       "clear": 1,
+       "k": "big",
+       "at": 0
+      }
+     ],
+     "hide": []
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-26T19:00:00+01:00",
+ "estilo": "f5"
+}

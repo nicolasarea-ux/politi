@@ -2242,7 +2242,7 @@
    "tipo": "atemporal",
    "formato": "minuto",
    "estilo": "cine",
-   "estado": "programado",
+   "estado": "reserva",
    "fecha": "2026-11-26T14:00",
    "fecha_reels": "2026-11-26T14:00",
    "partidos": [],
@@ -2254,7 +2254,7 @@
    "tipo": "atemporal",
    "formato": "minuto",
    "estilo": "cine",
-   "estado": "programado",
+   "estado": "reserva",
    "fecha": "2026-11-26T20:00",
    "fecha_reels": "2026-11-26T20:00",
    "partidos": [],
@@ -2476,6 +2476,50 @@
    "fecha_reels": "2026-11-26T10:00",
    "nota": "Plex x Feijóo, v4",
    "copy": "Feijóo y Vox 👀\n\nPlex le pregunta a Feijóo lo que todo el mundo quiere saber: ¿y Vox? Su respuesta: «Más del treinta por ciento de la población tiene un presidente del Partido Popular con algún miembro del Gobierno de Vox». Y añade: «Creo que no ha pasado nada grave». Sobre los votantes de Vox: «Yo no creo que los tres millones de ciudadanos que voten a Vox sean gente extrañísima». ¿Pactará con ellos? «El domingo vamos a votar. ¿Qué va a decidir la gente? Bueno, no lo sabemos». Ni sí, ni no. Y esta noche, en el debate, Abascal estará a un metro. ¿Saldrá el tema?\n\n👇 \n⏳ Quedan cuatro días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Público (25-11-2026), canal de Plex\n#elecciones #29N #espana #politica #plex #feijoo #vox"
+  },
+  {
+   "id": "slp_204_f1_vivienda",
+   "tipo": "actualidad",
+   "formato": "cine",
+   "estilo": "cine",
+   "estado": "programado",
+   "fecha": "2026-11-26T11:30",
+   "fecha_reels": "2026-11-26T11:30",
+   "nota": "formatos nuevos",
+   "copy": "El domingo no eliges presidente 👀\n\nEl domingo no eliges presidente. Eliges trescientos cincuenta diputados. Hay más partidos, pero estos cuatro debaten esta noche a las diez. Y en lo que más te preocupa, la vivienda, esto es lo que promete cada uno. Feijóo, PP: construir un millón de viviendas. Y un IVA del cuatro por ciento en la primera vivienda para menores de cuarenta. Sánchez, PSOE: el uno por ciento del PIB cada año para vivienda. Abascal, Vox: IVA cero para familias españolas y prioridad nacional en vivienda y ayudas. Colau, Frente Amplio: un millón y medio de viviendas públicas en doce años. ¿Y tu nómina? El PP propone que, si tienes entre dieciocho y treinta y cinco años, no pagues IRPF. ¿Letra pequeña? Solo es el cien por cien el primer año. Luego, setenta y cinco, cincuenta y veinticinco. Esta noche, los cuatro, cara a cara. ¿Con quién te quedas? Te leo en comentarios.\n\nFuente: Programas electorales PP, PSOE, Vox y Frente Amplio (El Cronista, Rankia, nov. 2026). Fotos: Wikimedia Commons\n#elecciones #29N #espana #politica #vivienda #debate #29N"
+  },
+  {
+   "id": "slp_205_f2_puigdemont",
+   "tipo": "actualidad",
+   "formato": "cine",
+   "estilo": "cine",
+   "estado": "programado",
+   "fecha": "2026-11-26T13:00",
+   "fecha_reels": "2026-11-26T13:00",
+   "nota": "formatos nuevos",
+   "copy": "Puigdemont vuelve tras nueve años 👀\n\nPuigdemont vuelve a España después de nueve años. ¿Por qué se fue, por qué ahora y cuándo vuelve? Uno: por qué se fue. En octubre de 2017, tras la declaración de independencia en el Parlament, se marchó a Bélgica para evitar que lo detuvieran. Y allí ha vivido estos años, en Waterloo. Dos: por qué ahora. Con la ley de amnistía, el juez Llarena levantó en octubre la orden de detención en España. Tres: cuándo vuelve. No hay fecha confirmada. Él ha dicho que no será en campaña, y se habla del doce de diciembre. Cuatro: qué pasará. El presidente del Parlament, Josep Rull, quiere darle una bienvenida oficial. ¿Y tú? ¿Crees que su vuelta cambiará algo después del 29N? Te leo en comentarios.\n\nFuente: Al Jazeera (6-10-2026), Demócrata (12-11-2026). Fotos: Wikimedia Commons (Parlament de Catalunya; Kent Wang, CC BY-SA 4.0)\n#elecciones #29N #espana #politica #puigdemont #amnistia #29N"
+  },
+  {
+   "id": "slp_206_f3_cartel",
+   "tipo": "actualidad",
+   "formato": "cine",
+   "estilo": "cine",
+   "estado": "programado",
+   "fecha": "2026-11-26T14:30",
+   "fecha_reels": "2026-11-26T14:30",
+   "nota": "formatos nuevos",
+   "copy": "Arrancar un cartel electoral puede costarte cárcel 👀\n\nArrancar este cartel electoral puede costarte muy caro. Porque no es un cartel cualquiera. Durante las elecciones, cada ayuntamiento reserva espacios gratuitos para los carteles de los partidos. Y la ley electoral los protege. Artículo ciento cuarenta y cuatro. Quien infrinja las normas sobre carteles y espacios reservados puede cometer un delito electoral. La pena: de tres meses a un año de cárcel. O una multa de seis a veinticuatro meses. ¿Y si no llega a delito? La Junta Electoral puede multarte igual. Entre cien y mil euros si eres un particular. Lo dice el artículo ciento cincuenta y tres. Y da igual de qué partido sea el cartel. La ley es la misma para todos. Así que ese papel que no te gusta… mejor déjalo donde está. Sígueme para más leyes que nadie te cuenta.\n\nFuente: Ley Orgánica 5/1985 del Régimen Electoral General (LOREG), arts. 144 y 153\n#elecciones #29N #espana #politica #leyelectoral #29N #carteles"
+  },
+  {
+   "id": "slp_207_f6_vox_alvise",
+   "tipo": "actualidad",
+   "formato": "cine",
+   "estilo": "cine",
+   "estado": "programado",
+   "fecha": "2026-11-26T16:00",
+   "fecha_reels": "2026-11-26T16:00",
+   "nota": "formatos nuevos",
+   "copy": "¿Vox o Alvise? En qué se parecen y en qué no 👀\n\n¿Vox o Alvise? Te lo explico en un minuto. Se parecen mucho… pero no en todo. Según el comparador de Tu Papeleta, coinciden en veintisiete de treinta y dos temas. Los dos quieren expulsar a quien entró de forma irregular. Los dos: desalojar okupas en veinticuatro o cuarenta y ocho horas. Los dos: bajar el IRPF y eliminar el impuesto de sucesiones. Y los dos, contra la amnistía. ¿Diferencias? Pisos turísticos: Vox quiere restringirlos con fuerza. Alvise, no. Pensiones ligadas al IPC: según ese comparador, Alvise muy a favor y Vox en contra. Muy parecidos. Pero no iguales. ¿Y tú, con cuál te quedas? Te leo.\n\nFuente: Comparador Tu Papeleta (tupapeleta.es). Fotos: Wikimedia Commons (Gage Skidmore, CC BY-SA 2.0; Parlamento Europeo)\n#elecciones #29N #espana #politica #vox #alvise #salf #29N"
   }
  ]
 }

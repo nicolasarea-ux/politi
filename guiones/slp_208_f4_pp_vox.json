@@ -1,0 +1,278 @@
+{
+ "id": "slp_208_f4_pp_vox",
+ "brand": "Politízate Hoy",
+ "formato": "minuto",
+ "tono": "normal",
+ "clauses": 0,
+ "clauseLabels": [
+  ""
+ ],
+ "header": {
+  "tag": "",
+  "source": "Programas electorales PP y Vox 29N (El Cronista; Rankia), proposición de ley de Vox sobre IRPF (2024). Fotos: Wikimedia Commons. Ilustraciones: IA"
+ },
+ "caption": "PP vs Vox: las diferencias que debes conocer 👀\n\nPP y Vox. Muchos los meten en el mismo saco. Pero sus programas no dicen lo mismo. Impuestos. El PP quiere ajustar los tramos del IRPF a la inflación cada año. Y para jóvenes de dieciocho a treinta y cinco, una rebaja que empieza en el cien por cien y va bajando. Vox propuso en el Congreso dejar exentos los primeros veintidós mil euros, y solo dos tipos: quince y veinticinco por ciento. Vivienda. PP: IVA del cuatro por ciento en la primera casa para menores de cuarenta. Vox: IVA cero, para familias españolas. Okupas. PP: recuperar la casa en cuarenta y ocho horas. Vox: desalojo en menos de veinticuatro. Y Vox pide prioridad nacional en vivienda protegida y ayudas. En lo que coinciden: los dos quieren derogar la Ley de Vivienda. Parecidos, sí. Iguales, no. ¿Con cuál te quedas? Te leo en comentarios.\n\nFuente: Programas electorales PP y Vox 29N (El Cronista; Rankia), proposición de ley de Vox sobre IRPF (2024). Fotos: Wikimedia Commons. Ilustraciones: IA\n#elecciones #29N #espana #politica #pp #vox #29N",
+ "portada": {
+  "titulo": "PP vs *Vox*",
+  "who": [
+   "feijoo",
+   "abascal"
+  ],
+  "sello": "DIFERENCIAS"
+ },
+ "scenes": [
+  {
+   "clause": 0,
+   "segments": [
+    {
+     "text": "PP y Vox. Muchos los meten en el mismo saco.",
+     "show": [
+      {
+       "img": "img/feijoo.jpg",
+       "pos": "40% 10%",
+       "x": 25,
+       "y": 50,
+       "w": 540,
+       "h": 1920,
+       "nob": 1,
+       "k": "pan",
+       "at": 0
+      },
+      {
+       "img": "img/abascal.jpg",
+       "pos": "50% 10%",
+       "x": 75,
+       "y": 50,
+       "w": 540,
+       "h": 1920,
+       "nob": 1,
+       "k": "pan",
+       "at": 0
+      },
+      {
+       "tx": "PP",
+       "x": 25,
+       "y": 72,
+       "fs": 170,
+       "k": "big",
+       "at": 0
+      },
+      {
+       "tx": "VOX",
+       "x": 75,
+       "y": 72,
+       "fs": 170,
+       "k": "big",
+       "at": 0
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Pero sus programas no dicen lo mismo.",
+     "show": [
+      {
+       "img": "img/a_congreso.jpg",
+       "x": 50,
+       "y": 50,
+       "w": 1080,
+       "h": 1920,
+       "nob": 1,
+       "k": "pan",
+       "at": 0
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Impuestos. El PP quiere ajustar los tramos del IRPF a la inflación cada año.",
+     "show": [
+      {
+       "img": "img/a_tax.jpg",
+       "x": 50,
+       "y": 50,
+       "w": 1080,
+       "h": 1920,
+       "nob": 1,
+       "k": "pan",
+       "at": 0
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Y para jóvenes de dieciocho a treinta y cinco, una rebaja que empieza en el cien por cien y va bajando.",
+     "show": [
+      {
+       "img": "img/a_young.jpg",
+       "x": 50,
+       "y": 50,
+       "w": 1080,
+       "h": 1920,
+       "nob": 1,
+       "k": "pan",
+       "at": 0
+      },
+      {
+       "tx": "18-35",
+       "sub": "100 % → 75 → 50 → 25",
+       "x": 50,
+       "y": 30,
+       "w": 640,
+       "h": 240,
+       "fs": 110,
+       "at": 3,
+       "k": "stat"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Vox propuso en el Congreso dejar exentos los primeros veintidós mil euros, y solo dos tipos: quince y veinticinco por ciento.",
+     "show": [
+      {
+       "img": "img/a_tax.jpg",
+       "x": 50,
+       "y": 50,
+       "w": 1080,
+       "h": 1920,
+       "nob": 1,
+       "k": "pan",
+       "at": 0
+      },
+      {
+       "tx": "22.000 €",
+       "sub": "EXENTOS · 15 % · 25 %",
+       "x": 50,
+       "y": 30,
+       "w": 640,
+       "h": 240,
+       "fs": 110,
+       "at": 5,
+       "k": "stat"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Vivienda. PP: IVA del cuatro por ciento en la primera casa para menores de cuarenta. Vox: IVA cero, para familias españolas.",
+     "show": [
+      {
+       "img": "img/a_keys.jpg",
+       "x": 50,
+       "y": 50,
+       "w": 1080,
+       "h": 1920,
+       "nob": 1,
+       "k": "pan",
+       "at": 0
+      },
+      {
+       "tx": "PP: 4 %",
+       "sub": "VOX: 0 %",
+       "x": 50,
+       "y": 28,
+       "w": 560,
+       "h": 240,
+       "fs": 110,
+       "subfs": 70,
+       "at": 3,
+       "k": "stat"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Okupas. PP: recuperar la casa en cuarenta y ocho horas. Vox: desalojo en menos de veinticuatro.",
+     "show": [
+      {
+       "img": "img/a_door.jpg",
+       "x": 50,
+       "y": 50,
+       "w": 1080,
+       "h": 1920,
+       "nob": 1,
+       "k": "pan",
+       "at": 0
+      },
+      {
+       "tx": "PP: 48 H",
+       "sub": "VOX: 24 H",
+       "x": 50,
+       "y": 28,
+       "w": 560,
+       "h": 240,
+       "fs": 110,
+       "subfs": 70,
+       "at": 1,
+       "k": "stat"
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Y Vox pide prioridad nacional en vivienda protegida y ayudas.",
+     "show": [
+      {
+       "img": "img/a_queue.jpg",
+       "x": 50,
+       "y": 50,
+       "w": 1080,
+       "h": 1920,
+       "nob": 1,
+       "k": "pan",
+       "at": 0
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "En lo que coinciden: los dos quieren derogar la Ley de Vivienda.",
+     "show": [
+      {
+       "img": "img/a_law.jpg",
+       "x": 50,
+       "y": 50,
+       "w": 1080,
+       "h": 1920,
+       "nob": 1,
+       "k": "pan",
+       "at": 0
+      }
+     ],
+     "hide": []
+    },
+    {
+     "text": "Parecidos, sí. Iguales, no. ¿Con cuál te quedas? Te leo en comentarios.",
+     "show": [
+      {
+       "img": "img/feijoo.jpg",
+       "pos": "40% 10%",
+       "x": 25,
+       "y": 50,
+       "w": 540,
+       "h": 1920,
+       "nob": 1,
+       "k": "pan",
+       "at": 0
+      },
+      {
+       "img": "img/abascal.jpg",
+       "pos": "50% 10%",
+       "x": 75,
+       "y": 50,
+       "w": 540,
+       "h": 1920,
+       "nob": 1,
+       "k": "pan",
+       "at": 0
+      }
+     ],
+     "hide": []
+    }
+   ]
+  }
+ ],
+ "fechaPub": "2026-11-26T17:30:00+01:00",
+ "estilo": "f4"
+}
