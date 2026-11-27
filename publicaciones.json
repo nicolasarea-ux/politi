@@ -1538,8 +1538,9 @@
   {
    "id": "slp_201_dhondt",
    "fecha": "2026-11-27T14:00",
-   "estado": "pendiente",
-   "copy": "Tu voto vale 0 👀\n\nTu partido saca el diez por ciento de los votos en tu provincia. ¿Cuántos escaños gana? Puede que ninguno. Es la ley D'Hondt. Imagina una provincia que reparte cinco escaños. Cuatro partidos: cuarenta, treinta, veinte y diez mil votos. Se dividen entre uno, entre dos, entre tres… Y los cinco números más altos se llevan escaño. Resultado: dos, dos, uno… y cero para el que sacó el diez por ciento. Y por debajo del tres por ciento en tu provincia, ni entras en el reparto.\n\n👇 ¿Cambiarías la ley D'Hondt? Comenta sí o no.\n⏳ Quedan dos días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: LOREG (arts. 162 y 163) y La Moncloa, guía del 29-N\n#elecciones #29N #espana #politica #dhondt #leyelectoral #escaños"
+   "estado": "saltado",
+   "copy": "Tu voto vale 0 👀\n\nTu partido saca el diez por ciento de los votos en tu provincia. ¿Cuántos escaños gana? Puede que ninguno. Es la ley D'Hondt. Imagina una provincia que reparte cinco escaños. Cuatro partidos: cuarenta, treinta, veinte y diez mil votos. Se dividen entre uno, entre dos, entre tres… Y los cinco números más altos se llevan escaño. Resultado: dos, dos, uno… y cero para el que sacó el diez por ciento. Y por debajo del tres por ciento en tu provincia, ni entras en el reparto.\n\n👇 ¿Cambiarías la ley D'Hondt? Comenta sí o no.\n⏳ Quedan dos días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: LOREG (arts. 162 y 163) y La Moncloa, guía del 29-N\n#elecciones #29N #espana #politica #dhondt #leyelectoral #escaños",
+   "nota": "más de 3 h de retraso; la rutina lo reprograma"
   },
   {
    "id": "slp_202_recuento",

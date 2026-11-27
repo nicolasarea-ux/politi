@@ -2,25 +2,57 @@
  "cuenta": {
   "username": "politizatehoy",
   "followers_count": 47,
-  "media_count": 217,
+  "media_count": 219,
   "id": "29046307255021601"
  },
  "reels": [
   {
    "id": "?",
-   "ig": "18122431562046342",
-   "fecha": "2026-11-27T12:30:58+0000",
+   "ig": "18351203896255580",
+   "fecha": "2026-11-27T14:00:58+0000",
+   "likes": 2,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DgP2GzUpcxw/",
+   "titulo": "Nadie lo esperaba, pero el Mundial 2030 y Marruecos acabaron",
+   "views": 162,
+   "reach": 131,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 2,
+   "ig_reels_avg_watch_time": 9426,
+   "ig_reels_video_view_total_time": 1253759
+  },
+  {
+   "id": "?",
+   "ig": "18658308862039777",
+   "fecha": "2026-11-27T13:15:58+0000",
    "likes": 0,
    "comentarios": 0,
-   "url": "https://www.instagram.com/reel/DgPrzCtTKS4/",
-   "titulo": "«Recortes» fue la palabra que más se lanzaron en el bloque d",
-   "views": 12,
-   "reach": 0,
+   "url": "https://www.instagram.com/reel/DgPw9GZt904/",
+   "titulo": "Feijóo y Abascal sacaron el informe PISA en el debate. ¿Tení",
+   "views": 149,
+   "reach": 115,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 0,
-   "ig_reels_video_view_total_time": 0
+   "ig_reels_avg_watch_time": 9675,
+   "ig_reels_video_view_total_time": 1083625
+  },
+  {
+   "id": "?",
+   "ig": "18122431562046342",
+   "fecha": "2026-11-27T12:30:58+0000",
+   "likes": 1,
+   "comentarios": 0,
+   "url": "https://www.instagram.com/reel/DgPrzCtTKS4/",
+   "titulo": "«Recortes» fue la palabra que más se lanzaron en el bloque d",
+   "views": 123,
+   "reach": 113,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 1,
+   "ig_reels_avg_watch_time": 5163,
+   "ig_reels_video_view_total_time": 578273
   },
   {
    "id": "?",
@@ -30,29 +62,29 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgPoYQJhUoC/",
    "titulo": "Empleo en el debate: Abascal avisó de los empleos del automó",
-   "views": 103,
-   "reach": 72,
+   "views": 124,
+   "reach": 107,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 6065,
-   "ig_reels_video_view_total_time": 430625
+   "ig_reels_avg_watch_time": 5185,
+   "ig_reels_video_view_total_time": 554897
   },
   {
    "id": "?",
    "ig": "17939654037422806",
    "fecha": "2026-11-27T11:31:07+0000",
-   "likes": 0,
+   "likes": 1,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgPk8Jdi1v6/",
    "titulo": "Feijóo promete bajar impuestos. Colau quiere un impuesto a l",
-   "views": 82,
-   "reach": 67,
+   "views": 116,
+   "reach": 108,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 0,
-   "ig_reels_avg_watch_time": 4253,
-   "ig_reels_video_view_total_time": 284983
+   "total_interactions": 1,
+   "ig_reels_avg_watch_time": 4837,
+   "ig_reels_video_view_total_time": 522446
   },
   {
    "id": "?",
@@ -62,13 +94,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgPhfktqE-G/",
    "titulo": "Uno de los cruces más inesperados: el bono social térmico de",
-   "views": 140,
-   "reach": 116,
+   "views": 154,
+   "reach": 129,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 8553,
-   "ig_reels_video_view_total_time": 1000791
+   "ig_reels_avg_watch_time": 8386,
+   "ig_reels_video_view_total_time": 1090184
   },
   {
    "id": "?",
@@ -78,13 +110,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgPeDwDqBgz/",
    "titulo": "Sánchez dio dos datos de pensiones en el debate. Uno cuadra ",
-   "views": 133,
-   "reach": 114,
+   "views": 135,
+   "reach": 118,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 6223,
-   "ig_reels_video_view_total_time": 709477
+   "ig_reels_avg_watch_time": 6433,
+   "ig_reels_video_view_total_time": 759144
   },
   {
    "id": "?",
@@ -94,13 +126,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgPanmAsVLZ/",
    "titulo": "Una sola palabra separó a Feijóo y Sánchez sobre Gaza en el ",
-   "views": 135,
-   "reach": 116,
+   "views": 136,
+   "reach": 117,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 11005,
-   "ig_reels_video_view_total_time": 1276660
+   "ig_reels_avg_watch_time": 10918,
+   "ig_reels_video_view_total_time": 1277426
   },
   {
    "id": "?",
@@ -110,13 +142,13 @@
    "comentarios": 1,
    "url": "https://www.instagram.com/reel/DgPXMJlMdtA/",
    "titulo": "Abascal quiere el ingreso mínimo vital solo para españoles. ",
-   "views": 172,
-   "reach": 138,
+   "views": 175,
+   "reach": 140,
    "saved": 0,
    "shares": 0,
    "total_interactions": 3,
-   "ig_reels_avg_watch_time": 10375,
-   "ig_reels_video_view_total_time": 1421379
+   "ig_reels_avg_watch_time": 10271,
+   "ig_reels_video_view_total_time": 1427783
   },
   {
    "id": "?",
@@ -126,13 +158,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgPTxUci9b0/",
    "titulo": "Abascal dijo en el debate que los sueldos están estancados. ",
-   "views": 146,
-   "reach": 122,
+   "views": 147,
+   "reach": 123,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 13466,
-   "ig_reels_video_view_total_time": 1616036
+   "ig_reels_avg_watch_time": 13400,
+   "ig_reels_video_view_total_time": 1621461
   },
   {
    "id": "?",
@@ -142,13 +174,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgPQT53nNjH/",
    "titulo": "Le preguntaron a Feijóo si aceptará el resultado del domingo",
-   "views": 135,
-   "reach": 115,
+   "views": 136,
+   "reach": 118,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 7128,
-   "ig_reels_video_view_total_time": 812692
+   "ig_reels_avg_watch_time": 7394,
+   "ig_reels_video_view_total_time": 857819
   },
   {
    "id": "?",
@@ -174,13 +206,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgPJgMbT7gh/",
    "titulo": "Inmigración fue uno de los bloques más tensos del debate. Es",
-   "views": 153,
-   "reach": 122,
+   "views": 155,
+   "reach": 123,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 15277,
-   "ig_reels_video_view_total_time": 1863842
+   "ig_reels_avg_watch_time": 15180,
+   "ig_reels_video_view_total_time": 1882406
   },
   {
    "id": "?",
@@ -190,13 +222,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgPGCMthoSQ/",
    "titulo": "Feijóo dio dos cifras de vivienda en el debate. Las hemos co",
-   "views": 136,
-   "reach": 116,
+   "views": 137,
+   "reach": 117,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 12325,
-   "ig_reels_video_view_total_time": 1442100
+   "ig_reels_avg_watch_time": 12331,
+   "ig_reels_video_view_total_time": 1455106
   },
   {
    "id": "?",
@@ -254,13 +286,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgOdYh3HCR5/",
    "titulo": "Primeros datos de quién ganó el debate a cuatro según la enc",
-   "views": 2081,
-   "reach": 1655,
+   "views": 2085,
+   "reach": 1657,
    "saved": 1,
    "shares": 0,
    "total_interactions": 7,
-   "ig_reels_avg_watch_time": 15231,
-   "ig_reels_video_view_total_time": 25954362
+   "ig_reels_avg_watch_time": 15206,
+   "ig_reels_video_view_total_time": 25973235
   },
   {
    "id": "?",
@@ -270,13 +302,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgObKbfQopY/",
    "titulo": "El último minuto de cada candidato, resumido. ¿Quién te conv",
-   "views": 141,
-   "reach": 123,
+   "views": 143,
+   "reach": 124,
    "saved": 1,
    "shares": 0,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 13337,
-   "ig_reels_video_view_total_time": 1667239
+   "ig_reels_avg_watch_time": 13512,
+   "ig_reels_video_view_total_time": 1702601
   },
   {
    "id": "?",
@@ -286,29 +318,29 @@
    "comentarios": 2,
    "url": "https://www.instagram.com/reel/DgOY2lxQB7m/",
    "titulo": "«Y usted, calladita». El momento más comentado del debate a ",
-   "views": 146,
-   "reach": 125,
+   "views": 148,
+   "reach": 127,
    "saved": 0,
    "shares": 0,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 19792,
-   "ig_reels_video_view_total_time": 2493851
+   "ig_reels_avg_watch_time": 19589,
+   "ig_reels_video_view_total_time": 2507504
   },
   {
    "id": "slp_209_f5_franco",
    "ig": "18099645548674332",
    "fecha": "2026-11-26T18:01:32+0000",
-   "likes": 11,
+   "likes": 13,
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgNsxIYha6L/",
    "titulo": "¿Con Franco se vivía mejor? Solo datos 👀\n\n¿Con Franco se viv",
-   "views": 709,
-   "reach": 607,
+   "views": 733,
+   "reach": 628,
    "saved": 4,
    "shares": 0,
-   "total_interactions": 15,
-   "ig_reels_avg_watch_time": 20748,
-   "ig_reels_video_view_total_time": 12656361
+   "total_interactions": 17,
+   "ig_reels_avg_watch_time": 20349,
+   "ig_reels_video_view_total_time": 12860583
   },
   {
    "id": "slp_208_f4_pp_vox",
@@ -318,13 +350,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgNl1qYAuv_/",
    "titulo": "PP vs Vox: las diferencias que debes conocer 👀\n\nPP y Vox. Mu",
-   "views": 160,
-   "reach": 148,
+   "views": 163,
+   "reach": 151,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 11031,
-   "ig_reels_video_view_total_time": 1643715
+   "ig_reels_avg_watch_time": 10936,
+   "ig_reels_video_view_total_time": 1662394
   },
   {
    "id": "slp_207_f6_vox_alvise",
@@ -334,13 +366,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgNYHFACGeW/",
    "titulo": "¿Vox o Alvise? En qué se parecen y en qué no 👀\n\n¿Vox o Alvis",
-   "views": 226,
-   "reach": 192,
+   "views": 231,
+   "reach": 198,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 14234,
-   "ig_reels_video_view_total_time": 2804161
+   "ig_reels_avg_watch_time": 14383,
+   "ig_reels_video_view_total_time": 2919841
   },
   {
    "id": "slp_206_f3_cartel",
@@ -382,13 +414,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgM5RqaB89k/",
    "titulo": "El domingo no eliges presidente 👀\n\nEl domingo no eliges pres",
-   "views": 1228,
-   "reach": 1038,
+   "views": 1236,
+   "reach": 1041,
    "saved": 1,
    "shares": 1,
    "total_interactions": 20,
-   "ig_reels_avg_watch_time": 17185,
-   "ig_reels_video_view_total_time": 18062468
+   "ig_reels_avg_watch_time": 17080,
+   "ig_reels_video_view_total_time": 18071040
   },
   {
    "id": "slp_203_plex_feijoo_vox",
@@ -430,13 +462,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgMknAdq7P9/",
    "titulo": "Feijóo a 247 km/h 👀\n\nDoscientos cuarenta y siete kilómetros ",
-   "views": 145,
-   "reach": 132,
+   "views": 146,
+   "reach": 133,
    "saved": 0,
    "shares": 0,
    "total_interactions": 5,
-   "ig_reels_avg_watch_time": 11536,
-   "ig_reels_video_view_total_time": 1534366
+   "ig_reels_avg_watch_time": 11470,
+   "ig_reels_video_view_total_time": 1537023
   },
   {
    "id": "slp_200_plex_sanchez_personal",
@@ -574,13 +606,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/DgKlq_nSCa8/",
    "titulo": "Le amenazan por su voto 👀\n\nUna influencer dice a quién va a ",
-   "views": 341,
-   "reach": 309,
+   "views": 342,
+   "reach": 310,
    "saved": 0,
    "shares": 0,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 15841,
-   "ig_reels_video_view_total_time": 4863313
+   "ig_reels_avg_watch_time": 15792,
+   "ig_reels_video_view_total_time": 4864127
   },
   {
    "id": "slp_180_correo_hoy",
@@ -1070,13 +1102,13 @@
    "comentarios": 4,
    "url": "https://www.instagram.com/reel/DgAEIcZkYKW/",
    "titulo": "La canción de la campaña 👀\n\nUna frase del PP contra Sánchez ",
-   "views": 397,
-   "reach": 335,
+   "views": 399,
+   "reach": 337,
    "saved": 0,
    "shares": 0,
    "total_interactions": 7,
-   "ig_reels_avg_watch_time": 34928,
-   "ig_reels_video_view_total_time": 11875612
+   "ig_reels_avg_watch_time": 34750,
+   "ig_reels_video_view_total_time": 11884599
   },
   {
    "id": "slp_166_paradoja_encuesta",
@@ -1134,13 +1166,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df-P7_wEvVT/",
    "titulo": "Vídeo con IA: ¿vale todo? 👀\n\nEl PP sacó un vídeo hecho con i",
-   "views": 122,
-   "reach": 105,
+   "views": 123,
+   "reach": 106,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 6514,
-   "ig_reels_video_view_total_time": 710045
+   "ig_reels_avg_watch_time": 6497,
+   "ig_reels_video_view_total_time": 714734
   },
   {
    "id": "?",
@@ -1294,13 +1326,13 @@
    "comentarios": 0,
    "url": "https://www.instagram.com/reel/Df8eoz6FNMD/",
    "titulo": "Las 5 frases del debate 👀 #CaraACara\n\nLas cinco frases más f",
-   "views": 1509,
+   "views": 1511,
    "reach": 1284,
    "saved": 1,
    "shares": 2,
    "total_interactions": 9,
-   "ig_reels_avg_watch_time": 16988,
-   "ig_reels_video_view_total_time": 21999642
+   "ig_reels_avg_watch_time": 16976,
+   "ig_reels_video_view_total_time": 22001438
   },
   {
    "id": "slp_156_vivienda_choque",
@@ -1573,38 +1605,6 @@
    "total_interactions": 1,
    "ig_reels_avg_watch_time": 9708,
    "ig_reels_video_view_total_time": 1165016
-  },
-  {
-   "id": "slp_139_encuestas_17n",
-   "ig": "18160471126510076",
-   "fecha": "2026-11-17T15:31:34+0000",
-   "likes": 10,
-   "comentarios": 0,
-   "url": "https://www.instagram.com/reel/Df2Qc4AggTa/",
-   "titulo": "¿Quién crees que gana el 29-N? 👇\n\nLas encuestas, a 12 días d",
-   "views": 727,
-   "reach": 631,
-   "saved": 0,
-   "shares": 0,
-   "total_interactions": 10,
-   "ig_reels_avg_watch_time": 14770,
-   "ig_reels_video_view_total_time": 9379277
-  },
-  {
-   "id": "slp_131_sanchez_vivienda_colau",
-   "ig": "18129504763859621",
-   "fecha": "2026-11-17T12:31:17+0000",
-   "likes": 0,
-   "comentarios": 0,
-   "url": "https://www.instagram.com/reel/Df173r2iChm/",
-   "titulo": "¿Quién tiene razón? 👇\n\nJordi Wild le traslada a Pedro Sánche",
-   "views": 138,
-   "reach": 116,
-   "saved": 0,
-   "shares": 0,
-   "total_interactions": 0,
-   "ig_reels_avg_watch_time": 10940,
-   "ig_reels_video_view_total_time": 1258179
   }
  ]
 }
