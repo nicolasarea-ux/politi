@@ -1531,8 +1531,9 @@
   {
    "id": "slp_200_sueldo_diputado",
    "fecha": "2026-11-27T09:00",
-   "estado": "pendiente",
-   "copy": "¿Cuánto cobra? 👀\n\n¿Cuánto va a cobrar cada uno de los 350 diputados que elijas el domingo? Sueldo base: 3.366 euros brutos al mes. Lo llaman asignación constitucional. Pero hay más. Si no es de Madrid, suma 2.162 euros al mes para gastos. Y sin pagar impuestos por ellos. Los elegidos por Madrid, 1.032. ¿Portavoz de grupo? Unos 3.200 euros más. ¿Presidente del Congreso? Casi 11.000 extra. Y al irse pueden pedir una paga: un mes por año de mandato, hasta veinticuatro.\n\n👇 ¿Cobran demasiado? Comenta sí o no.\n⏳ Quedan dos días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Congreso de los Diputados (régimen económico 2026) y ESdiario (5-10-2026)\n#elecciones #29N #espana #politica #congreso #diputados #sueldos"
+   "estado": "saltado",
+   "copy": "¿Cuánto cobra? 👀\n\n¿Cuánto va a cobrar cada uno de los 350 diputados que elijas el domingo? Sueldo base: 3.366 euros brutos al mes. Lo llaman asignación constitucional. Pero hay más. Si no es de Madrid, suma 2.162 euros al mes para gastos. Y sin pagar impuestos por ellos. Los elegidos por Madrid, 1.032. ¿Portavoz de grupo? Unos 3.200 euros más. ¿Presidente del Congreso? Casi 11.000 extra. Y al irse pueden pedir una paga: un mes por año de mandato, hasta veinticuatro.\n\n👇 ¿Cobran demasiado? Comenta sí o no.\n⏳ Quedan dos días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: Congreso de los Diputados (régimen económico 2026) y ESdiario (5-10-2026)\n#elecciones #29N #espana #politica #congreso #diputados #sueldos",
+   "nota": "más de 3 h de retraso; la rutina lo reprograma"
   },
   {
    "id": "slp_201_dhondt",
