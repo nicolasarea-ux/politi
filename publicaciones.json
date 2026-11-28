@@ -1545,8 +1545,9 @@
   {
    "id": "slp_202_recuento",
    "fecha": "2026-11-27T20:00",
-   "estado": "pendiente",
-   "copy": "¿Se puede hacer trampa? 👀\n\n¿Se puede hacer trampa al contar los votos el domingo? Mira cómo se cuentan. A las ocho se cierra la votación. Y se cuenta allí mismo, en la mesa. El presidente saca los sobres uno a uno y lee cada papeleta en voz alta. Y la enseña a vocales, interventores y apoderados de los partidos. Si alguien protesta, la mesa decide por mayoría. Y todo va a un acta, con copia para los partidos. Lo de esa noche es provisional. El oficial lo hacen las Juntas Electorales Provinciales, del cuatro al siete de diciembre.\n\n👇 ¿Has visto alguna vez un recuento? Comenta sí o no.\n⏳ Quedan dos días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: La Moncloa, guía básica del 29-N (6-11-2026) y LOREG (arts. 95-97 y 103)\n#elecciones #29N #espana #politica #recuento #mesaelectoral #votar"
+   "estado": "saltado",
+   "copy": "¿Se puede hacer trampa? 👀\n\n¿Se puede hacer trampa al contar los votos el domingo? Mira cómo se cuentan. A las ocho se cierra la votación. Y se cuenta allí mismo, en la mesa. El presidente saca los sobres uno a uno y lee cada papeleta en voz alta. Y la enseña a vocales, interventores y apoderados de los partidos. Si alguien protesta, la mesa decide por mayoría. Y todo va a un acta, con copia para los partidos. Lo de esa noche es provisional. El oficial lo hacen las Juntas Electorales Provinciales, del cuatro al siete de diciembre.\n\n👇 ¿Has visto alguna vez un recuento? Comenta sí o no.\n⏳ Quedan dos días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: La Moncloa, guía básica del 29-N (6-11-2026) y LOREG (arts. 95-97 y 103)\n#elecciones #29N #espana #politica #recuento #mesaelectoral #votar",
+   "nota": "más de 3 h de retraso; la rutina lo reprograma"
   },
   {
    "id": "slp_203_cuando_gobierno",
