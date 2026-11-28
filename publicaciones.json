@@ -1552,8 +1552,9 @@
   {
    "id": "slp_203_cuando_gobierno",
    "fecha": "2026-11-27T23:00",
-   "estado": "pendiente",
-   "copy": "¿Cuándo hay Gobierno? 👀\n\nVotas el domingo. ¿Cuándo hay nuevo presidente? Spoiler: el lunes no. Domingo: se vota de nueve de la mañana a ocho de la tarde. Esa noche, recuento provisional. Del cuatro al siete de diciembre, las Juntas Electorales hacen el recuento oficial. El veintitrés de diciembre, a las diez, se constituyen el Congreso y el Senado. Después, el Rey consulta a los partidos y propone un candidato. Y solo entonces, la investidura. Y mientras tanto, desde el lunes, el Gobierno de Sánchez sigue, pero en funciones.\n\n👇 ¿Habrá Gobierno antes de Reyes? Comenta sí o no.\n⏳ Quedan dos días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: La Moncloa, guía básica del 29-N (6-11-2026) y Constitución (arts. 99 y 101)\n#elecciones #29N #espana #politica #investidura #gobierno #calendario"
+   "estado": "saltado",
+   "copy": "¿Cuándo hay Gobierno? 👀\n\nVotas el domingo. ¿Cuándo hay nuevo presidente? Spoiler: el lunes no. Domingo: se vota de nueve de la mañana a ocho de la tarde. Esa noche, recuento provisional. Del cuatro al siete de diciembre, las Juntas Electorales hacen el recuento oficial. El veintitrés de diciembre, a las diez, se constituyen el Congreso y el Senado. Después, el Rey consulta a los partidos y propone un candidato. Y solo entonces, la investidura. Y mientras tanto, desde el lunes, el Gobierno de Sánchez sigue, pero en funciones.\n\n👇 ¿Habrá Gobierno antes de Reyes? Comenta sí o no.\n⏳ Quedan dos días para el 29-N. Síguenos: cada día, la campaña explicada.\n\nFuente: La Moncloa, guía básica del 29-N (6-11-2026) y Constitución (arts. 99 y 101)\n#elecciones #29N #espana #politica #investidura #gobierno #calendario",
+   "nota": "más de 3 h de retraso; la rutina lo reprograma"
   },
   {
    "id": "slp_196_plex_lambo",
